@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Token de autenticação do GitHub
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 GITHUB_API_URL = "https://api.github.com/graphql"
 
 # Cabeçalhos para a requisição GraphQL
