@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 
 # Token de autenticação do GitHub
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 GITHUB_API_URL = "https://api.github.com/graphql"
 
 # Cabeçalhos para a requisição GraphQL
@@ -13,35 +13,12 @@ headers = {
     "Content-Type": "application/json"
 }
 
-# Consulta GraphQL para obter repositórios populares (ordenados por estrelas)
-query_repos = """
-{
-  search(query: "stars:>50000", type: REPOSITORY, first: 10) {
-    edges {
-      node {
-        ... on Repository {
-          name
-          owner {
-            login
-          }
-          pullRequests(states: [MERGED, CLOSED]) {
-            totalCount
-          }
-          stargazerCount
-        }
-      }
-    }
-  }
-}
-"""
-
-# Função para realizar a requisição GraphQL
-def run_query(query, retries=3):
+# Função para realizar a requisição GraphQL com maior espera entre tentativas
+def run_query(query, retries=5, wait_time=10):
     for attempt in range(retries):
         try:
-            request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers)
+            request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers, timeout=30)
             
-            # Verifica se a requisição foi bem-sucedida
             if request.status_code == 200:
                 return request.json()
             
@@ -50,28 +27,63 @@ def run_query(query, retries=3):
                 rate_limit_remaining = int(request.headers["X-RateLimit-Remaining"])
                 rate_limit_reset = int(request.headers["X-RateLimit-Reset"])
                 if rate_limit_remaining == 0:
-                    # Calcula quanto tempo falta para o reset do rate limit
                     wait_time = rate_limit_reset - int(time.time())
                     print(f"Limite de requisições excedido. Aguardando {wait_time} segundos...")
-                    time.sleep(wait_time + 1)  # Espera até que o limite seja resetado
+                    time.sleep(wait_time + 1)
                 else:
                     print(f"Rate limit excedido, mas ainda há {rate_limit_remaining} requisições restantes.")
             
             else:
                 print(f"Tentativa {attempt + 1} falhou com status code {request.status_code}: {request.text}")
                 if attempt < retries - 1:
-                    time.sleep(2)  # Aguarda 2 segundos antes de tentar novamente
+                    time.sleep(wait_time)
 
         except requests.exceptions.RequestException as e:
             print(f"Erro na requisição (tentativa {attempt + 1}): {e}")
             if attempt < retries - 1:
-                time.sleep(2)  # Tenta novamente após uma breve pausa
-
-        except Exception as e:
-            print(f"Erro inesperado na tentativa {attempt + 1}: {e}")
-            break
+                time.sleep(wait_time)
 
     raise Exception(f"Falha ao executar a consulta após {retries} tentativas.")
+
+# Consulta GraphQL para obter repositórios populares (ordenados por estrelas), com paginação
+def get_repos_with_pagination(after_cursor=None):
+    after = f', after: "{after_cursor}"' if after_cursor else ""
+    query_repos = f"""
+    {{
+      search(query: "stars:>50000", type: REPOSITORY, first: 10{after}) {{
+        edges {{
+          node {{
+            ... on Repository {{
+              name
+              owner {{
+                login
+              }}
+              pullRequests(states: [MERGED, CLOSED]) {{
+                totalCount
+              }}
+              stargazerCount
+            }}
+          }}
+        }}
+        pageInfo {{
+          hasNextPage
+          endCursor
+        }}
+      }}
+    }}
+    """
+    return run_query(query_repos)
+
+# Função para calcular a diferença de tempo entre dois timestamps
+def calculate_review_time(pr):
+    try:
+        created_at = datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ')
+        closed_at = pr['mergedAt'] or pr['closedAt']
+        closed_at = datetime.strptime(closed_at, '%Y-%m-%dT%H:%M:%SZ')
+        return (closed_at - created_at).total_seconds() / 3600  # Retorna a diferença em horas
+    except Exception as e:
+        print(f"Erro ao calcular tempo de revisão: {e}")
+        return 0
 
 # Consulta GraphQL para obter PRs de um repositório
 def get_pull_requests(owner, name, cursor=None):
@@ -105,17 +117,6 @@ def get_pull_requests(owner, name, cursor=None):
     }}
     """
     return run_query(query_prs)
-
-# Função para calcular a diferença de tempo entre dois timestamps
-def calculate_review_time(pr):
-    try:
-        created_at = datetime.strptime(pr['createdAt'], '%Y-%m-%dT%H:%M:%SZ')
-        closed_at = pr['mergedAt'] or pr['closedAt']
-        closed_at = datetime.strptime(closed_at, '%Y-%m-%dT%H:%M:%SZ')
-        return (closed_at - created_at).total_seconds() / 3600  # Retorna a diferença em horas
-    except Exception as e:
-        print(f"Erro ao calcular tempo de revisão: {e}")
-        return 0  # Retorna 0 horas em caso de erro
 
 # Função para salvar PRs em arquivo CSV
 def save_to_csv(data, owner, name):
@@ -163,7 +164,7 @@ def collect_pull_requests(repo):
                             'reviewDecision': pr_node['reviewDecision'],
                             'reviewTimeHours': review_time,
                             'filesChanged': pr_node['files']['totalCount'],
-                            'description': len(pr_node['body']) if pr_node['body'] else 0,  # Número de caracteres da descrição
+                            'description': len(pr_node['body']) if pr_node['body'] else 0,
                             'result': 'Merged' if pr_node['mergedAt'] else 'Closed'
                         })
         except Exception as e:
@@ -174,21 +175,41 @@ def collect_pull_requests(repo):
         save_to_csv(all_prs, owner, name)
     print(f"Dados salvos em {owner}_{name}_pull_requests.csv")
 
-# Coleta os 100 primeiros repositórios populares
-repos_data = run_query(query_repos)
+# Função para coletar 200 repositórios em múltiplas chamadas e processar os PRs de cada lote
+def collect_repos_and_prs():
+    all_repos = []
+    has_next_page = True
+    cursor = None
+    total_repos = 0
+    batch_size = 10
+    total_target = 200
 
-# Verifica se o campo 'data' existe na resposta
-if 'data' not in repos_data:
-    print(f"Erro: A resposta não contém a chave 'data'. Resposta recebida: {repos_data}")
-else:
-    # Filtra repositórios que possuem mais de 100 PRs (MERGED + CLOSED)
-    filtered_repos = [repo['node'] for repo in repos_data['data']['search']['edges'] if repo['node']['pullRequests']['totalCount'] > 100]
+    while total_repos < total_target and has_next_page:
+        print(f"Coletando lote de repositórios, total até agora: {total_repos}")
+        repos_data = get_repos_with_pagination(cursor)
+        
+        if 'data' not in repos_data:
+            print(f"Erro: A resposta não contém a chave 'data'. Resposta recebida: {repos_data}")
+            break
 
-    # Executa a coleta de PRs para múltiplos repositórios de forma sequencial
-    for repo in filtered_repos:
-        try:
+        repos = repos_data['data']['search']['edges']
+        filtered_repos = [repo['node'] for repo in repos if repo['node']['pullRequests']['totalCount'] > 100]
+
+        # Processa PRs dos repositórios filtrados
+        for repo in filtered_repos:
             collect_pull_requests(repo)
-        except Exception as e:
-            owner = repo['owner']['login']
-            name = repo['name']
-            print(f"Erro no processamento do repositório {owner}/{name}: {e}")
+
+        all_repos.extend(filtered_repos)
+        total_repos += len(filtered_repos)
+
+        page_info = repos_data['data']['search']['pageInfo']
+        has_next_page = page_info['hasNextPage']
+        cursor = page_info['endCursor']
+
+        time.sleep(5)  # Espera 5 segundos entre as consultas
+
+    print(f"Total de repositórios processados: {total_repos}")
+    return all_repos
+
+# Executa a coleta de repositórios e PRs
+collect_repos_and_prs()
