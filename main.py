@@ -1,4 +1,4 @@
-import requests
+import requests 
 import pandas as pd
 from datetime import datetime, timedelta
 
@@ -11,6 +11,18 @@ headers = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
     "Content-Type": "application/json"
 }
+
+# Função para verificar o limite de requisições
+def check_rate_limit():
+    response = requests.get("https://api.github.com/rate_limit", headers=headers)
+    if response.status_code == 200:
+        rate_limit_data = response.json()
+        remaining = rate_limit_data['rate']['remaining']
+        reset_time = datetime.fromtimestamp(rate_limit_data['rate']['reset'])
+        print(f"Requisições restantes: {remaining}")
+        print(f"Reinicialização do limite em: {reset_time}")
+    else:
+        print(f"Falha ao verificar o limite da API. Status: {response.status_code}")
 
 # Consulta GraphQL para obter repositórios populares (ordenados por estrelas)
 query_repos = """
@@ -36,16 +48,14 @@ query_repos = """
 
 # Função para realizar a requisição GraphQL
 def run_query(query):
-    request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers)
-    
-    # Verifica se a requisição foi bem-sucedida
-    if request.status_code == 200:
-        try:
+    try:
+        request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers, timeout=10)
+        if request.status_code == 200:
             return request.json()
-        except Exception as e:
-            raise Exception(f"Erro ao analisar a resposta JSON: {e}")
-    else:
-        raise Exception(f"Query falhou com status code {request.status_code}: {request.text}")
+        else:
+            raise Exception(f"Query falhou com status code {request.status_code}: {request.text}")
+    except requests.Timeout:
+        raise Exception("A requisição ao GitHub expirou.")
 
 # Consulta GraphQL para obter PRs de um repositório
 def get_pull_requests(owner, name, cursor=None):
@@ -53,7 +63,7 @@ def get_pull_requests(owner, name, cursor=None):
     query_prs = f"""
     {{
       repository(owner: "{owner}", name: "{name}") {{
-        pullRequests(states: [MERGED, CLOSED], first: 50{after_cursor}) {{
+        pullRequests(states: [MERGED, CLOSED], first: 10{after_cursor}) {{  # Limitando a 10 PRs por página
           edges {{
             node {{
               title
@@ -64,6 +74,8 @@ def get_pull_requests(owner, name, cursor=None):
                 totalCount
               }}
               reviewDecision
+              bodyText  # Corpo do PR em formato Markdown
+              changedFiles  # Quantidade de arquivos alterados
             }}
           }}
           pageInfo {{
@@ -88,6 +100,9 @@ def save_to_csv(data, owner, name):
     df = pd.DataFrame(data)
     df.to_csv(f"{owner}_{name}_pull_requests.csv", index=False)
 
+# Checa o limite da API antes de começar
+check_rate_limit()
+
 # Coleta os 100 primeiros repositórios populares
 repos_data = run_query(query_repos)
 
@@ -109,18 +124,21 @@ else:
         cursor = None
 
         while has_next_page:
+            print(f"Buscando PRs a partir do cursor: {cursor}")
             pr_data = get_pull_requests(owner, name, cursor)
             prs = pr_data['data']['repository']['pullRequests']['edges']
             page_info = pr_data['data']['repository']['pullRequests']['pageInfo']
             has_next_page = page_info['hasNextPage']
             cursor = page_info['endCursor']
+            print(f"Próxima página: {has_next_page}, Cursor atual: {cursor}")
 
-            # Filtra PRs que tenham pelo menos uma revisão e cuja revisão levou mais de uma hora
+            # Modificação para capturar o resultado da PR
             for pr in prs:
                 pr_node = pr['node']
                 if pr_node['reviews']['totalCount'] > 0:
                     review_time = calculate_review_time(pr_node)
                     if review_time > 1:
+                        pr_result = "Merged" if pr_node['mergedAt'] else "Closed"
                         all_prs.append({
                             'title': pr_node['title'],
                             'createdAt': pr_node['createdAt'],
@@ -128,10 +146,14 @@ else:
                             'closedAt': pr_node['closedAt'],
                             'reviewsCount': pr_node['reviews']['totalCount'],
                             'reviewDecision': pr_node['reviewDecision'],
-                            'reviewTimeHours': review_time
+                            'reviewTimeHours': review_time,
+                            'descriptionLength': len(pr_node['bodyText']),  # Número de caracteres da descrição
+                            'changedFiles': pr_node['changedFiles'],  # Quantidade de arquivos alterados
+                            'prResult': pr_result  # Resultado da PR: "Merged" ou "Closed"
                         })
 
         # Salva os PRs filtrados em um arquivo CSV
         if all_prs:
             save_to_csv(all_prs, owner, name)
         print(f"Dados salvos em {owner}_{name}_pull_requests.csv")
+        check_rate_limit()  # Verifica o limite da API após cada repositório
