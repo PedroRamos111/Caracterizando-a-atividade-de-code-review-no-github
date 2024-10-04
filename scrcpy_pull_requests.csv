@@ -1,0 +1,89 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Document how to install on Fedora,2018-03-10T11:11:28Z,,2018-03-11T21:10:02Z,5,,33.97611111111111,1,195,Closed
+macOS specific README changes,2018-03-13T03:02:04Z,,2018-03-28T12:17:22Z,5,,369.255,1,235,Closed
+"Add support for CTRL+S to send hardware ""shake"" to device",2018-03-21T01:14:46Z,2018-03-23T09:15:10Z,2018-03-23T09:15:10Z,1,,56.00666666666667,3,255,Merged
+[Feature] Drag and drop to install apk files from your computer,2018-04-28T22:28:38Z,,2018-05-28T20:58:57Z,4,,718.5052777777778,6,164,Closed
+Added a useful guide link for the FAQ,2018-05-04T01:56:26Z,,2018-08-15T13:24:38Z,1,,2483.47,1,156,Closed
+support drag & drop file to device /sdcard,2018-08-11T13:59:58Z,,2018-08-15T15:25:45Z,9,,97.42972222222222,7,338,Closed
+check adb runnable before starting scrcpy,2018-08-21T13:34:33Z,,2018-09-04T06:50:12Z,12,,329.2608333333333,4,293,Closed
+Work around for multiple displays with respective scales,2018-08-26T11:52:13Z,,2019-10-31T20:29:39Z,12,,10352.62388888889,3,298,Closed
+Added new command line parameter to start in fullscreen,2018-09-04T13:57:59Z,,2018-09-04T16:49:56Z,1,,2.8658333333333332,3,164,Closed
+Return specific error for missing adb binary on Windows,2018-09-08T01:24:31Z,,2018-09-09T13:36:34Z,1,,36.200833333333335,2,628,Closed
+prevent closing console right after process error in windows,2018-09-14T12:37:43Z,2018-09-18T06:56:41Z,2018-09-18T06:56:41Z,1,APPROVED,90.31611111111111,1,46,Merged
+Record screen to file,2018-10-09T02:25:14Z,,2018-11-11T22:40:26Z,4,,812.2533333333333,5,100,Closed
+Desktop entry file for Linux app launchers (resolves #295),2018-10-14T08:57:43Z,,2022-09-09T17:13:53Z,6,,34232.26944444444,2,182,Closed
+app: add always_on_top,2019-01-27T11:10:58Z,2019-01-27T13:09:19Z,2019-01-27T13:09:19Z,2,,1.9725,6,201,Merged
+Added a new option : -n/--no-window,2019-02-01T22:22:54Z,,2019-03-02T17:42:37Z,5,,691.3286111111111,4,130,Closed
+add KeyCharacterMap.UnavailableException,2019-03-27T08:10:47Z,,2019-10-31T20:19:53Z,1,,5244.151666666667,1,51,Closed
+Return success count in injectText,2019-05-19T01:04:14Z,,2019-05-20T07:06:09Z,1,,30.031944444444445,1,144,Closed
+Turn screen off when closing scrcpy,2019-09-28T03:47:33Z,,2021-03-16T20:16:06Z,2,,12856.475833333334,15,9,Closed
+fix for resizing HIDPI MacOS windows,2019-10-07T21:36:15Z,,2020-05-23T12:22:21Z,6,,5486.768333333333,3,456,Closed
+fix typo and link,2019-11-15T08:49:21Z,,2019-11-18T16:46:59Z,10,,79.96055555555556,4,128,Closed
+translate README.md and FAQ.md into Korean,2019-11-18T06:53:23Z,,2019-11-24T10:10:43Z,3,,147.2888888888889,2,68,Closed
+Update BUILD.md to add ADB install,2019-11-29T22:36:41Z,,2019-12-03T15:08:07Z,2,,88.52388888888889,1,0,Closed
+Add some test,2019-11-30T04:35:46Z,,2019-12-04T20:23:48Z,1,,111.80055555555556,4,35,Closed
+Fix utf-8 char path in windows,2019-12-12T12:39:14Z,,2019-12-15T12:26:15Z,3,,71.78361111111111,4,412,Closed
+Update BUILD.md to make Prebuilt Server Meson configuration simpler for newer users,2019-12-20T05:23:28Z,,2019-12-21T20:07:11Z,1,,38.728611111111114,1,605,Closed
+Client orientation (resolves #218),2020-02-16T12:11:02Z,,2020-02-27T20:29:42Z,7,,272.31111111111113,17,281,Closed
+Add feature: select display to mirror,2020-02-25T08:35:50Z,,2020-03-23T09:50:22Z,1,,649.2422222222223,14,293,Closed
+Handle events on NumPad when NumLock is disabled,2020-02-29T17:46:25Z,,2020-03-15T16:08:46Z,3,,358.3725,1,471,Closed
+Added display-id option to mirror displays that are not displayId=0,2020-03-19T02:04:34Z,,2020-04-02T21:18:37Z,1,,355.2341666666667,12,74,Closed
+Encoding profile option,2020-03-19T18:33:57Z,,2020-05-24T12:56:29Z,5,,1578.3755555555556,9,295,Closed
+Update build dependencies,2020-04-03T15:03:47Z,,2020-04-03T17:15:09Z,4,,2.1894444444444443,6,102,Closed
+Encoding options,2020-04-17T17:35:08Z,,2020-04-26T12:15:23Z,9,,210.67083333333332,11,323,Closed
+Readme Portuguese-Brazil,2020-04-23T23:03:02Z,,2020-05-09T18:14:22Z,7,,379.18888888888887,1,43,Closed
+Codec options,2020-04-26T12:29:33Z,,2020-05-24T12:56:05Z,1,,672.4422222222222,9,347,Closed
+Fix build_without_gradle.sh,2020-06-06T22:06:27Z,,2020-06-07T20:06:27Z,1,,22.0,1,67,Closed
+Traditional Chinese translation for README,2020-07-27T14:16:23Z,,2020-08-10T18:54:24Z,14,,340.6336111111111,2,53,Closed
+Send wakeup keycode alongside trying to turn screen on when restoring,2020-08-13T06:34:08Z,,2020-08-29T22:40:10Z,1,,400.10055555555556,1,0,Closed
+Fix server build script by using more portable and safer bash and rely on PATH when no ANDROID_HOME,2020-08-27T17:14:38Z,,2022-06-06T10:51:58Z,4,,15545.622222222222,1,24,Closed
+Add Simplified Chinese translation for README.md.,2020-08-30T16:38:35Z,,2020-09-17T11:11:36Z,8,,426.55027777777775,1,0,Closed
+Changed output to be give clearer instructions,2020-09-22T22:06:25Z,,2020-10-01T12:53:19Z,1,,206.78166666666667,1,91,Closed
+Use win64 ffmpeg built from BtbN,2020-10-18T03:16:10Z,,2022-02-22T14:06:06Z,1,,11818.832222222221,5,426,Closed
+Document Windows command line usage,2020-12-14T09:17:22Z,,2020-12-22T00:47:16Z,1,,183.49833333333333,1,204,Closed
+Update Chinese Simplified translation for README,2021-01-12T05:59:22Z,,2021-01-15T15:22:32Z,4,,81.3861111111111,1,0,Closed
+Update README's Brazilian Portuguese translation to 1.17 version,2021-01-14T04:06:27Z,,2021-01-15T09:19:31Z,1,,29.217777777777776,2,0,Closed
+Pass arguments through to scrcpy.exe,2021-01-20T19:14:02Z,,2021-03-16T20:05:26Z,1,,1320.8566666666666,1,0,Closed
+Remove unnecessary escape characters in manpage,2021-02-15T16:54:58Z,,2021-02-27T16:54:58Z,1,,288.0,1,0,Closed
+Support game controllers,2021-02-18T21:19:41Z,,2024-05-05T17:18:41Z,3,,28123.983333333334,21,3977,Closed
+Create README.jp.md,2021-03-13T15:30:05Z,,2021-03-28T19:39:29Z,10,,364.1566666666667,2,41,Closed
+Actions for 4th and 5th mouse buttons,2021-04-16T15:21:33Z,,2021-04-17T16:06:29Z,2,,24.74888888888889,8,903,Closed
+Ctrl+n+n for settings panel,2021-04-17T16:10:35Z,,2021-04-25T13:02:57Z,6,,188.87277777777777,13,218,Closed
+Intents on start & exit,2021-04-18T18:52:46Z,,2022-04-16T13:58:01Z,2,,8707.0875,11,396,Closed
+Serialize clean-up configuration,2021-04-30T22:23:12Z,,2021-06-11T07:36:43Z,3,,993.2252777777778,2,116,Closed
+Spanish README.md translation,2021-05-15T07:14:49Z,,2021-05-28T08:22:20Z,2,,313.1252777777778,2,96,Closed
+Log input event details to verbose log,2021-06-08T16:19:09Z,,2021-06-20T14:45:53Z,16,,286.44555555555553,14,178,Closed
+Initial work done on making it work natively on all platforms/buildsystems ,2021-06-17T06:21:16Z,,2021-06-17T19:08:55Z,1,,12.794166666666667,27,524,Closed
+Vla/static buffer removal,2021-06-19T15:01:03Z,,2021-06-20T19:59:20Z,1,,28.97138888888889,3,0,Closed
+add plugin system,2021-07-26T12:17:04Z,,2024-10-01T13:25:34Z,1,,27913.141666666666,5,503,Closed
+Fix typo,2021-09-02T15:12:31Z,,2021-09-07T19:42:25Z,1,,124.49833333333333,1,0,Closed
+Add HID keyboard simulation via USB HID over AoAv2,2021-09-15T09:53:29Z,,2024-02-08T18:43:56Z,7,,21032.840833333332,18,569,Closed
+Update Readme.pt-br.md,2021-10-06T16:27:32Z,,2021-10-08T19:49:57Z,1,,51.37361111111111,2,0,Closed
+Update Japanese translation from v1.17 to v1.19.,2021-10-30T09:36:05Z,,2021-10-31T12:04:44Z,1,,26.4775,2,47,Closed
+Add --raw-key-events,2021-11-26T21:17:13Z,2021-11-29T20:19:43Z,2021-11-29T20:19:43Z,1,,71.04166666666667,12,1203,Merged
+Upgrade FFmpeg (5.0) for Windows 64-bit ,2022-01-17T18:13:44Z,2022-01-18T09:15:24Z,2022-01-18T09:15:24Z,1,,15.027777777777779,6,465,Merged
+Update README.zh-Hans.md to 1.21,2022-01-28T08:10:50Z,,2022-01-29T14:11:53Z,1,,30.0175,2,33,Closed
+Update README & Ln.java comment,2022-02-25T22:10:48Z,,2022-08-29T22:24:52Z,4,,4440.234444444444,3,49,Closed
+Update README.zh-Hans.md,2022-03-18T03:54:08Z,,2022-03-25T07:40:25Z,22,,171.77138888888888,1,83,Closed
+Update README.it.md,2022-03-26T05:20:00Z,,2022-04-14T08:12:38Z,2,,458.8772222222222,1,84,Closed
+Fix a few minor README issues,2022-04-09T14:46:18Z,,2022-04-14T08:19:29Z,4,,113.55305555555556,1,114,Closed
+Many improvements to documentation,2022-04-10T15:45:54Z,,2022-04-22T07:30:43Z,12,,279.74694444444447,1,101,Closed
+Desktop entry file for Linux app launchers #295,2022-06-27T03:45:20Z,,2022-09-09T17:09:46Z,1,,1789.4072222222221,3,254,Closed
+Support smooth scrolling on notebook touchpads.,2022-07-06T05:36:21Z,,2022-08-28T13:46:45Z,11,,1280.1733333333334,10,290,Closed
+Add -s auto-complete option,2022-10-07T14:27:17Z,,2022-10-15T12:35:40Z,2,,190.13972222222222,2,114,Closed
+Support wchar_t in argv in windows,2022-10-23T06:21:04Z,,2022-10-25T20:05:58Z,2,,61.748333333333335,1,254,Closed
+Use current adb port (if any) for --tcpip,2022-11-24T08:13:19Z,,2022-12-02T18:13:10Z,1,,201.9975,0,480,Closed
+Fix chrome when --forward-all-clicks is enabled,2023-01-29T22:20:00Z,2023-01-30T19:59:36Z,2023-01-30T19:59:36Z,2,,21.66,10,907,Merged
+Add GitHub actions for scrcpy server,2023-02-05T14:52:23Z,,2024-09-19T12:53:57Z,4,,14206.02611111111,2,290,Closed
+Get better OpenGL version than 2.1 on macOS,2023-04-05T14:34:06Z,,2023-04-12T19:29:12Z,3,,172.91833333333332,2,712,Closed
+Notify ScreenEncoder when a folding event occurs,2023-05-07T20:17:03Z,,2023-06-01T07:20:48Z,1,,587.0625,4,534,Closed
+Installing on Windows with winget,2023-05-16T10:54:07Z,,2023-05-17T17:37:29Z,4,,30.72277777777778,1,0,Closed
+Add --pause-on-exit to simplify launchers,2023-06-29T19:47:01Z,2023-10-11T07:45:04Z,2023-10-11T07:45:04Z,1,,2483.9675,8,846,Merged
+Add option to mirror camera,2023-08-03T06:39:56Z,,2023-11-01T17:57:18Z,4,,2171.2894444444446,15,264,Closed
+Some more small fixes,2023-10-24T13:25:15Z,,2023-10-24T21:28:16Z,2,,8.050277777777778,5,132,Closed
+[WIP] UHID mouse/keyboard input,2023-11-28T09:26:26Z,,2024-02-29T23:56:27Z,8,,2246.5002777777777,38,2106,Closed
+Build all dependencies for Windows releases,2024-03-01T19:03:23Z,2024-03-02T21:53:50Z,2024-03-02T21:53:50Z,3,,26.840833333333332,15,700,Merged
+feat: boss key,2024-04-09T11:51:26Z,,2024-04-10T13:16:06Z,1,,25.41111111111111,6,227,Closed
+Fix: the server stopped when requesting the maximum integer value(2147483647) for 'videoBitRate',2024-05-16T07:04:22Z,,2024-05-28T02:39:52Z,3,,283.59166666666664,2,593,Closed
+Add --root option to bypass AID_SHELL secure display restriction starting in A12,2024-06-23T00:21:08Z,,2024-07-11T00:29:04Z,15,,432.1322222222222,16,1289,Closed
+Add gamepad support,2024-09-06T21:18:15Z,2024-09-15T19:17:54Z,2024-09-15T19:17:54Z,5,,213.99416666666667,58,1596,Merged

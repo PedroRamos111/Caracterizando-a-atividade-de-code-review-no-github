@@ -17691,3 +17691,359 @@ fix(curriculum): updated description for step 51 of RPG project as expected.,202
 fix(curriculum): updated description of step 40 of music player,2024-02-18T05:29:19Z,2024-02-19T10:31:21Z,2024-02-19T10:31:21Z,4,APPROVED,29.03388888888889,1,751,Merged
 fix(curriculum): enhanced grammer and flexibility in tests to accommodate any valid response,2024-02-18T06:25:11Z,,2024-05-08T04:57:22Z,24,APPROVED,1918.536388888889,1,751,Closed
 "feat(curriculum): add initial pages to blocks 2.1, 2.2 and 2.3 of the english curriculum",2024-02-18T12:38:14Z,2024-02-18T18:13:09Z,2024-02-18T18:13:09Z,2,APPROVED,5.581944444444445,4,550,Merged
+fix(curriculum): fixed typo in task 61 in conversation starters,2024-02-18T19:09:53Z,2024-02-19T17:59:56Z,2024-02-19T17:59:56Z,2,APPROVED,22.83416666666667,1,784,Merged
+fix(curriculum): missing contraction,2024-02-18T22:04:21Z,2024-02-20T05:26:59Z,2024-02-20T05:26:59Z,3,APPROVED,31.377222222222223,2,755,Merged
+"chore(i18n,client): processed translations",2024-02-19T12:26:08Z,2024-02-19T13:29:21Z,2024-02-19T13:29:21Z,2,APPROVED,1.053611111111111,22,45,Merged
+feat(client): allow empty source code testing,2024-02-19T15:36:16Z,2024-06-25T11:27:44Z,2024-06-25T11:27:44Z,8,APPROVED,3043.8577777777778,5,667,Merged
+fix(curriculum): description of music player step 61,2024-02-19T17:09:35Z,2024-02-20T15:11:51Z,2024-02-20T15:11:51Z,3,APPROVED,22.037777777777777,1,411,Merged
+fix(curriculum) updated text and added new conditions to tests,2024-02-19T18:34:30Z,2024-02-21T07:45:42Z,2024-02-21T07:45:42Z,2,APPROVED,37.18666666666667,1,470,Merged
+fix: remove test case in execute-brain,2024-02-19T22:26:06Z,2024-02-20T05:09:45Z,2024-02-20T05:09:45Z,2,APPROVED,6.7275,1,1033,Merged
+refactor(curriculum): rewrite for RPG project,2024-02-20T06:41:37Z,,2024-03-29T20:13:20Z,22,CHANGES_REQUESTED,925.5286111111111,200,1703,Closed
+"fix(curriculum): update description in task 41,42 in conversation starters",2024-02-20T09:28:36Z,2024-02-20T13:40:04Z,2024-02-20T13:40:04Z,2,APPROVED,4.191111111111111,2,752,Merged
+add ads.txt,2024-02-20T09:56:21Z,2024-02-20T13:23:46Z,2024-02-20T13:23:46Z,2,APPROVED,3.4569444444444444,1,887,Merged
+chore(storybook): Upgrade Storybook from 6 to 8,2024-02-20T14:49:27Z,2024-02-28T08:52:34Z,2024-02-28T08:52:34Z,5,APPROVED,186.05194444444444,24,1292,Merged
+chore(deps): update dependency @testing-library/user-event to v14,2024-02-21T10:30:01Z,2024-02-21T15:36:43Z,2024-02-21T15:36:43Z,1,REVIEW_REQUIRED,5.111666666666666,7,30156,Merged
+"chore(i18n,client): processed translations",2024-02-21T12:26:03Z,2024-02-21T13:31:42Z,2024-02-21T13:31:42Z,2,APPROVED,1.0941666666666667,22,45,Merged
+"chore(i18n,learn): processed translations",2024-02-21T13:28:04Z,2024-03-12T16:59:52Z,2024-03-12T16:59:52Z,2,APPROVED,483.53,3000,45,Merged
+chore: delete auth0 PKCE routes,2024-02-21T14:09:31Z,2024-02-22T17:14:13Z,2024-02-22T17:14:13Z,2,APPROVED,27.078333333333333,6,1085,Merged
+fix(tools): update i18n sync,2024-02-21T15:01:48Z,2024-02-22T09:01:01Z,2024-02-22T09:01:01Z,2,APPROVED,17.986944444444443,1,794,Merged
+feature(UI): Help modal form,2024-02-22T00:10:13Z,2024-03-25T07:27:49Z,2024-03-25T07:27:49Z,28,APPROVED,775.2933333333333,6,2436,Merged
+fix(sentry): handle invalid authorization code,2024-02-23T09:35:46Z,,2024-02-23T16:13:28Z,1,CHANGES_REQUESTED,6.628333333333333,1,737,Closed
+chore(deps): update dependency @types/chai to v4.3.12,2024-02-23T13:15:55Z,2024-02-23T14:38:42Z,2024-02-23T14:38:42Z,2,APPROVED,1.3797222222222223,2,1839,Merged
+chore(deps): update dependency @types/node to v18.19.18,2024-02-23T13:27:57Z,2024-02-23T14:45:15Z,2024-02-23T14:45:15Z,2,APPROVED,1.2883333333333333,2,1859,Merged
+chore(deps): update dependency dotenv to v16.4.5,2024-02-23T15:16:21Z,2024-02-23T17:45:41Z,2024-02-23T17:45:41Z,2,APPROVED,2.488888888888889,7,2195,Merged
+chore(deps): update dependency joi to v17.12.2,2024-02-23T15:17:16Z,2024-02-23T20:08:12Z,2024-02-23T20:08:12Z,2,APPROVED,4.848888888888889,6,1936,Merged
+fix(deps): update dependency nodemailer to v6.9.10,2024-02-23T18:07:16Z,2024-02-23T20:18:48Z,2024-02-23T20:18:48Z,2,APPROVED,2.192222222222222,2,2414,Merged
+fix(UI): Play button isn't a square,2024-02-24T00:26:15Z,2024-02-27T16:39:22Z,2024-02-27T16:39:22Z,3,APPROVED,88.21861111111112,1,411,Merged
+fix(deps): update dependency @fastify/cookie to v9.3.1,2024-02-24T07:43:50Z,2024-02-24T10:40:34Z,2024-02-24T10:40:34Z,2,APPROVED,2.9455555555555555,2,5635,Merged
+fix(curriculum): Replaced all instances of Macaroon's to Macaron's,2024-02-24T18:41:15Z,2024-02-26T07:12:22Z,2024-02-26T07:12:22Z,2,APPROVED,36.51861111111111,54,752,Merged
+fix(deps): update dependency fastify to v4.26.1,2024-02-24T21:07:32Z,2024-02-25T14:13:17Z,2024-02-25T14:13:17Z,2,APPROVED,17.095833333333335,2,27824,Merged
+feat(curiculum): add animations to block 3.1,2024-02-25T02:10:22Z,2024-03-08T15:51:38Z,2024-03-08T15:51:39Z,2,APPROVED,301.6877777777778,84,548,Merged
+feat(curriculum): add English curriculum block 3.3 roles and responsibilities,2024-02-25T06:19:30Z,2024-03-11T18:26:24Z,2024-03-11T18:26:24Z,2,APPROVED,372.115,112,727,Merged
+fix(curriculum): Step 25 football team cards - too strict regex,2024-02-25T06:46:23Z,2024-02-26T06:18:08Z,2024-02-26T06:18:08Z,2,APPROVED,23.529166666666665,1,411,Merged
+chore(deps): update babel monorepo - autoclosed,2024-02-25T13:44:52Z,,2024-02-26T05:42:40Z,2,APPROVED,15.963333333333333,6,8671,Closed
+fix(curriculum): optional spaces inside parenthesis,2024-02-25T18:06:07Z,2024-02-26T05:59:44Z,2024-02-26T05:59:44Z,2,APPROVED,11.893611111111111,9,469,Merged
+fix(curriculum): replace any character with literal dot in regex,2024-02-25T18:09:27Z,2024-02-26T09:21:40Z,2024-02-26T09:21:40Z,2,APPROVED,15.203611111111112,2,457,Merged
+chore: move docs to its own project,2024-02-26T07:08:17Z,2024-02-26T15:02:28Z,2024-02-26T15:02:28Z,1,REVIEW_REQUIRED,7.9030555555555555,383,84,Merged
+chore: reorganise playwright config,2024-02-26T10:50:58Z,2024-02-26T14:26:54Z,2024-02-26T14:26:54Z,2,APPROVED,3.598888888888889,9,971,Merged
+"chore(i18n,client): processed translations",2024-02-26T12:25:40Z,2024-02-26T17:10:17Z,2024-02-26T17:10:17Z,2,APPROVED,4.743611111111111,22,45,Merged
+fix: add missing return to example in rpg project step 146,2024-02-26T16:27:57Z,2024-02-27T04:24:44Z,2024-02-27T04:24:44Z,2,APPROVED,11.946388888888889,1,751,Merged
+fix(curriculum): add quotes to string values (Football Team Cards),2024-02-26T18:02:17Z,2024-02-27T04:24:13Z,2024-02-27T04:24:13Z,2,APPROVED,10.365555555555556,16,908,Merged
+"fix(curriculum,i18n): use code tag in a hint text",2024-02-27T18:30:54Z,2024-02-28T03:49:30Z,2024-02-28T03:49:30Z,2,APPROVED,9.31,1,1145,Merged
+feat(i18n): enable auditing for Project Euler in Ukrainian,2024-02-27T19:31:36Z,2024-02-28T04:51:12Z,2024-02-28T04:51:12Z,2,APPROVED,9.326666666666666,1,681,Merged
+fix: playwright installation command,2024-02-28T07:08:47Z,2024-02-28T08:19:02Z,2024-02-28T08:19:02Z,6,APPROVED,1.1708333333333334,2,1143,Merged
+fix(ui): fixed upper jaw inline code string spacing,2024-02-28T08:21:21Z,,2024-04-18T08:44:59Z,1,REVIEW_REQUIRED,1200.3938888888888,1,1068,Closed
+chore: remove unused install script,2024-02-28T10:00:01Z,2024-02-28T15:05:43Z,2024-02-28T15:05:43Z,2,APPROVED,5.095,2,821,Merged
+feat: add university alert,2024-02-28T11:56:28Z,2024-02-28T14:32:29Z,2024-02-28T14:32:29Z,4,APPROVED,2.600277777777778,3,889,Merged
+fix: throw error when unable to create challenge,2024-02-28T12:18:10Z,2024-02-29T11:47:50Z,2024-02-29T11:47:50Z,2,APPROVED,23.494444444444444,3,1030,Merged
+"chore(i18n,client): processed translations",2024-02-28T12:31:17Z,2024-02-28T13:38:37Z,2024-02-28T13:38:37Z,2,APPROVED,1.1222222222222222,13,45,Merged
+fix(curriculum): updated wordings in a course step ,2024-02-28T13:17:24Z,2024-02-29T06:23:38Z,2024-02-29T06:23:38Z,2,APPROVED,17.10388888888889,1,752,Merged
+feat: add example of how to use python helpers,2024-02-28T14:22:09Z,2024-02-29T11:48:35Z,2024-02-29T11:48:35Z,2,APPROVED,21.440555555555555,2,941,Merged
+fix(curriculum): grammar issues and updated test in step 29 of music player project,2024-02-28T23:25:15Z,,2024-04-17T22:40:10Z,4,REVIEW_REQUIRED,1175.2486111111111,1,738,Closed
+chore(curriculum): wrap strings in quotes in Build a Roman Numeral Converter project ,2024-02-29T00:13:47Z,2024-02-29T21:27:11Z,2024-02-29T21:27:11Z,6,APPROVED,21.223333333333333,1,813,Merged
+fix(curriculum): typo in step 18 of music player project,2024-02-29T00:57:45Z,2024-02-29T02:54:40Z,2024-02-29T02:54:40Z,2,APPROVED,1.948611111111111,1,751,Merged
+chore(curriculum): add quotes around strings/text in build a telephone number validator project,2024-02-29T01:07:25Z,,2024-02-29T12:39:05Z,2,CHANGES_REQUESTED,11.527777777777779,2,770,Closed
+fix(curriculum): correct pronoun gender,2024-02-29T12:18:44Z,2024-02-29T14:35:53Z,2024-02-29T14:35:53Z,2,APPROVED,2.285833333333333,1,1010,Merged
+chore(curriculum): add quotes to string/text in Build a Telephone Number Validator Project,2024-02-29T13:17:27Z,2024-02-29T21:25:54Z,2024-02-29T21:25:54Z,4,APPROVED,8.140833333333333,1,770,Merged
+chore(curriculum): add quotes to string/texts in Build a Cash Register Project,2024-02-29T13:42:18Z,2024-02-29T14:52:54Z,2024-02-29T14:52:54Z,2,APPROVED,1.1766666666666667,1,772,Merged
+"fixed typo in English for developers - 4th course, Dialog 1, Task2 - …",2024-02-29T13:43:33Z,,2024-02-29T16:13:45Z,2,CHANGES_REQUESTED,2.5033333333333334,1,772,Closed
+chore(ui-components): minor tailwind config update,2024-02-29T15:16:56Z,2024-02-29T17:22:02Z,2024-02-29T17:22:02Z,3,APPROVED,2.085,1,770,Merged
+feat(api): add multifile python projects to new api,2024-02-29T16:36:30Z,2024-03-11T14:58:09Z,2024-03-11T14:58:09Z,7,APPROVED,262.36083333333335,3,1198,Merged
+feat(api): submit survey endpoint,2024-02-29T17:08:09Z,2024-03-11T09:56:35Z,2024-03-11T09:56:35Z,2,APPROVED,256.8072222222222,5,748,Merged
+fix(curriculum): Cafe Menu Step 58 font casing,2024-02-29T17:16:38Z,,2024-02-29T22:39:32Z,1,REVIEW_REQUIRED,5.381666666666667,1,406,Closed
+chore(curriculum): add quotes to text / strings in Build a Pokémon Search App Project,2024-02-29T22:18:16Z,2024-03-02T00:15:07Z,2024-03-02T00:15:07Z,7,APPROVED,25.9475,1,770,Merged
+chore(curriculum): add quotes to strings in the Build a Palindrome Checker Project,2024-02-29T22:47:24Z,2024-03-01T07:15:51Z,2024-03-01T07:15:51Z,2,APPROVED,8.474166666666667,1,772,Merged
+fix(curriculum): Updated Cafe Menu Step 58 font casing,2024-03-01T00:14:05Z,2024-03-01T06:52:11Z,2024-03-01T06:52:11Z,2,APPROVED,6.635,1,402,Merged
+feat: The Odin Project Learn Operators and Variables,2024-03-01T08:14:06Z,2024-03-04T19:39:35Z,2024-03-04T19:39:35Z,7,APPROVED,83.42472222222223,11,0,Merged
+fix(curriculum): provide stress mark (é) in tasks,2024-03-01T09:37:38Z,2024-03-01T15:07:21Z,2024-03-01T15:07:21Z,2,APPROVED,5.495277777777778,2,411,Merged
+refactor(test): improve build error message,2024-03-01T10:23:38Z,2024-03-01T12:09:24Z,2024-03-01T12:09:24Z,2,APPROVED,1.7627777777777778,1,949,Merged
+chore(curriculum):add quote to text and string in Building a Date Formatter project,2024-03-01T12:30:03Z,2024-03-05T08:49:00Z,2024-03-05T08:49:00Z,3,APPROVED,92.31583333333333,3,768,Merged
+fix: update tests of Table component to use getByRole,2024-03-01T17:14:39Z,2024-03-04T06:52:20Z,2024-03-04T06:52:20Z,2,APPROVED,61.628055555555555,1,751,Merged
+fix(curriculum): use python syntax for >= & <=,2024-03-02T02:31:30Z,2024-03-04T07:56:52Z,2024-03-04T07:56:52Z,3,APPROVED,53.422777777777775,1,1149,Merged
+chore(curriculum): add quotes to strings in building a music player project,2024-03-02T14:20:46Z,2024-03-06T15:57:18Z,2024-03-06T15:57:18Z,4,APPROVED,97.60888888888888,17,768,Merged
+Chore(curriculum)(new javascript course): add quotes to strings in building football team cards,2024-03-02T15:16:31Z,2024-03-04T13:10:15Z,2024-03-04T13:10:15Z,2,APPROVED,45.89555555555555,3,768,Merged
+chore(curriculum): add quotes to strings in SciCo with Python Arithmetic Formatter project,2024-03-02T16:00:27Z,2024-03-04T12:22:15Z,2024-03-04T12:22:15Z,6,APPROVED,44.36333333333334,1,770,Merged
+chore(curriculum): add quotes to strings in SciCo with Python - time calculator project,2024-03-02T16:17:41Z,2024-03-04T18:14:43Z,2024-03-04T18:14:43Z,4,APPROVED,49.95055555555555,1,770,Merged
+fix(curriculum): block pages still have replit instructions,2024-03-02T23:05:52Z,2024-03-06T13:07:37Z,2024-03-06T13:07:37Z,2,APPROVED,86.02916666666667,2,967,Merged
+feat(learn): create a progress indicator map,2024-03-03T01:45:38Z,2024-04-29T16:55:24Z,2024-04-29T16:55:24Z,4,APPROVED,1383.1627777777778,4,885,Merged
+feat(api): add rate-limiting to new API with Redis,2024-03-04T11:16:56Z,,2024-03-04T17:41:03Z,1,REVIEW_REQUIRED,6.401944444444444,6,62,Closed
+"chore(i18n,client): processed translations",2024-03-04T12:26:23Z,2024-03-04T18:32:12Z,2024-03-04T18:32:12Z,2,APPROVED,6.0969444444444445,13,45,Merged
+test: speed up api tests,2024-03-04T14:08:12Z,2024-03-09T05:06:19Z,2024-03-09T05:06:19Z,3,APPROVED,110.96861111111112,2,937,Merged
+fix(curriculum): hint in step 46 of platformer game,2024-03-04T16:02:06Z,2024-03-05T06:57:37Z,2024-03-05T06:57:37Z,4,APPROVED,14.925277777777778,1,752,Merged
+fix(curriculum): Clarify instructions for step 81 of spreadsheet project,2024-03-04T18:24:36Z,2024-03-06T16:20:45Z,2024-03-06T16:20:45Z,3,APPROVED,45.935833333333335,1,837,Merged
+fix(ui-components): apply theme classes to Storybook preview body,2024-03-04T19:43:30Z,2024-03-05T07:45:33Z,2024-03-05T07:45:33Z,2,APPROVED,12.034166666666666,1,4993,Merged
+fix(curriculum): update description for step 5 of spam filter project,2024-03-04T20:25:44Z,2024-03-05T08:44:22Z,2024-03-05T08:44:23Z,2,APPROVED,12.310555555555556,1,751,Merged
+fix(curriculum): test for step 48 of dice game project,2024-03-05T07:37:28Z,2024-03-05T09:49:50Z,2024-03-05T09:49:50Z,2,APPROVED,2.206111111111111,1,875,Merged
+fix(api): ms validation new api,2024-03-05T10:07:53Z,2024-03-06T08:05:59Z,2024-03-06T08:05:59Z,2,APPROVED,21.968333333333334,4,1045,Merged
+test: stop mocking env vars in jest.utils,2024-03-05T14:23:59Z,2024-03-07T07:36:06Z,2024-03-07T07:36:06Z,2,APPROVED,41.20194444444444,3,1221,Merged
+fix(client): show message if indentation error,2024-03-05T17:01:40Z,2024-03-06T10:49:24Z,2024-03-06T10:49:24Z,2,APPROVED,17.795555555555556,1,907,Merged
+fix(curriculum): Learn Lambda functions by building an expense tracker step 11 & 16 insturctions unclear,2024-03-06T00:03:21Z,,2024-05-23T08:17:20Z,1,REVIEW_REQUIRED,1880.2330555555557,2,751,Closed
+fix(ui-components): replace ?? with the || operator in CloseButton,2024-03-06T05:03:44Z,2024-03-06T20:21:02Z,2024-03-06T20:21:02Z,2,APPROVED,15.288333333333334,2,752,Merged
+fix(curriculum): description missing part of expected result,2024-03-06T07:30:49Z,2024-03-06T08:50:51Z,2024-03-06T08:50:51Z,3,APPROVED,1.333888888888889,1,549,Merged
+fix: test not passing with semicolon,2024-03-06T10:53:12Z,2024-03-06T15:11:08Z,2024-03-06T15:11:08Z,2,APPROVED,4.2988888888888885,1,802,Merged
+feat: use jwt_access_token for new api (in development),2024-03-06T10:53:57Z,2024-03-20T11:47:13Z,2024-03-20T11:47:13Z,6,APPROVED,336.8877777777778,25,2103,Merged
+chore: copy redirect + tests to new api,2024-03-06T16:18:55Z,2024-03-15T13:21:06Z,2024-03-15T13:21:06Z,9,APPROVED,213.0363888888889,5,909,Merged
+feat(api): add email subscription endpoints to new API,2024-03-06T17:13:32Z,2024-05-07T11:31:40Z,2024-05-07T11:31:40Z,20,APPROVED,1482.3022222222223,9,1773,Merged
+chore(curriculum): put Python certification projects in separate folders,2024-03-06T21:52:11Z,2024-03-08T18:51:58Z,2024-03-08T18:51:58Z,2,,44.99638888888889,19,753,Merged
+fix: test fail if # placed in beginning of line comment,2024-03-06T22:23:23Z,2024-03-07T12:11:17Z,2024-03-07T12:11:17Z,2,APPROVED,13.798333333333334,1,919,Merged
+fix(curriculum): add note to clarify instructions,2024-03-07T00:18:11Z,2024-03-07T22:46:02Z,2024-03-07T22:46:02Z,9,APPROVED,22.464166666666667,1,751,Merged
+fix(curriculum): fixed typo for clarity,2024-03-07T00:32:01Z,2024-03-07T11:44:37Z,2024-03-07T11:44:37Z,4,APPROVED,11.21,27,523,Merged
+chore(curriculum): add quotes to strings in todo app,2024-03-07T03:27:55Z,2024-03-08T03:08:13Z,2024-03-08T03:08:13Z,4,APPROVED,23.671666666666667,5,1052,Merged
+feat(api): update my classroom mode,2024-03-07T06:48:54Z,2024-03-19T13:42:29Z,2024-03-19T13:42:29Z,6,APPROVED,294.8930555555556,5,751,Merged
+fix(curriculum): The Odin Project Learn Variables and Operators set image link to own CDN,2024-03-07T07:41:06Z,2024-03-08T15:36:49Z,2024-03-08T15:36:49Z,2,APPROVED,31.92861111111111,1,737,Merged
+feat: The Odin Project Learn Data Types and Conditionals,2024-03-07T08:23:48Z,2024-03-26T13:57:35Z,2024-03-26T13:57:35Z,4,APPROVED,461.56305555555554,14,737,Merged
+feat(curriculum): add English curriculum block 7.1 document code,2024-03-07T13:13:11Z,2024-05-06T20:59:42Z,2024-05-06T20:59:42Z,4,APPROVED,1447.7752777777778,52,651,Merged
+chore(deps): update @freecodecamp/curriculum-helpers to v3,2024-03-07T15:24:26Z,2024-03-08T10:30:24Z,2024-03-08T10:30:24Z,2,APPROVED,19.099444444444444,2,918,Merged
+test(playwright): added tests for delete-modal component,2024-03-07T17:58:17Z,2024-03-12T07:16:45Z,2024-03-12T07:16:45Z,3,APPROVED,109.30777777777777,1,820,Merged
+fix(client): typo in python worker handler,2024-03-08T02:57:53Z,2024-03-08T06:38:43Z,2024-03-08T06:38:43Z,2,APPROVED,3.6805555555555554,1,751,Merged
+chore(curriculum): add quotes to strings in OOP shopping cart,2024-03-08T04:41:40Z,2024-03-13T02:45:28Z,2024-03-13T02:45:28Z,2,APPROVED,118.06333333333333,6,1807,Merged
+chore: update node base images,2024-03-08T09:48:47Z,2024-03-11T09:51:03Z,2024-03-11T09:51:03Z,2,APPROVED,72.03777777777778,3,736,Merged
+chore: upgrade husky to v9,2024-03-08T10:18:34Z,2024-03-12T13:42:38Z,2024-03-12T13:42:38Z,3,APPROVED,99.4011111111111,3,751,Merged
+fix(ui): update CloseButton styles to match /learn,2024-03-08T14:45:38Z,2024-03-12T10:04:40Z,2024-03-12T10:04:40Z,2,APPROVED,91.31722222222223,2,1930,Merged
+fix(client): i18n c# exam prerequisite challenges alert,2024-03-08T19:24:46Z,2024-04-26T06:16:05Z,2024-04-26T06:16:05Z,2,APPROVED,1162.8552777777777,2,1094,Merged
+fix: sign-out-modal playwright test,2024-03-09T14:37:26Z,2024-03-15T06:55:44Z,2024-03-15T06:55:44Z,2,APPROVED,136.305,1,858,Merged
+feat(curriculum): add animations to block 3.2 of the English Curriculum,2024-03-09T17:44:02Z,2024-03-12T15:03:01Z,2024-03-12T15:03:02Z,6,APPROVED,69.3163888888889,104,548,Merged
+"fix(curriculum): add information about npm init, shorten text",2024-03-09T19:07:38Z,2024-03-11T09:49:08Z,2024-03-11T09:49:08Z,2,APPROVED,38.69166666666667,1,835,Merged
+fix(curriculum): add information about server restart,2024-03-09T19:22:50Z,2024-03-11T07:17:14Z,2024-03-11T07:17:14Z,2,APPROVED,35.906666666666666,1,945,Merged
+fix(curriculum): hint label discrepancy,2024-03-09T22:17:50Z,2024-03-11T12:34:42Z,2024-03-11T12:34:42Z,2,APPROVED,38.28111111111111,1,751,Merged
+fix(client): allow ipv6 urls for localhost,2024-03-10T16:16:55Z,2024-04-03T14:53:49Z,2024-04-03T14:53:49Z,10,APPROVED,574.615,3,751,Merged
+feat(ui-components): implement Modal component with headlessui,2024-03-11T07:45:06Z,2024-03-14T09:45:39Z,2024-03-14T09:45:39Z,6,APPROVED,74.00916666666667,6,3560,Merged
+fix(curriculum): forum leaderboard project step 61 - added test cases for test method solution,2024-03-11T13:19:55Z,2024-03-12T11:49:43Z,2024-03-12T11:49:43Z,4,APPROVED,22.496666666666666,1,757,Merged
+fix(api): send msUsername in get session user endpoint,2024-03-11T18:59:37Z,2024-03-28T16:14:31Z,2024-03-28T16:14:31Z,3,APPROVED,405.24833333333333,3,752,Merged
+fix(curriculum): description improvement case converter program,2024-03-11T21:10:01Z,2024-06-14T11:43:46Z,2024-06-14T11:43:46Z,35,APPROVED,2270.5625,172,589,Merged
+fix(client): Missing space between certifications sections on Settings page,2024-03-12T05:33:35Z,2024-03-12T06:43:53Z,2024-03-12T06:43:53Z,2,APPROVED,1.1716666666666666,1,752,Merged
+fix: remove extra attribute on avatar renderer,2024-03-12T11:07:38Z,2024-03-12T15:10:07Z,2024-03-12T15:10:07Z,2,APPROVED,4.041388888888889,1,737,Merged
+chore: update start-server-and-test to v2,2024-03-12T14:21:24Z,2024-03-15T08:16:00Z,2024-03-15T08:16:00Z,3,APPROVED,65.91,2,737,Merged
+chore: remove Execa,2024-03-12T14:31:27Z,,2024-03-15T09:14:35Z,3,CHANGES_REQUESTED,66.71888888888888,3,737,Closed
+chore(deps): upgrade Storybook to stable v8 release,2024-03-12T18:22:46Z,,2024-03-14T13:57:04Z,1,REVIEW_REQUIRED,43.571666666666665,2,815,Closed
+fix(curriculum): All tests for the for...of loop in the Dice game should allow campers to use let or const,2024-03-13T03:34:47Z,2024-03-13T07:36:34Z,2024-03-13T07:36:34Z,2,APPROVED,4.029722222222222,1,855,Merged
+test(playwright): minor improvements to reset-modal.spec.ts,2024-03-13T07:57:11Z,,2024-03-26T13:34:56Z,2,REVIEW_REQUIRED,317.62916666666666,4,1548,Closed
+feat: update multiple donation modals logic,2024-03-13T08:25:10Z,2024-03-13T12:16:56Z,2024-03-13T12:16:56Z,5,APPROVED,3.8627777777777776,2,701,Merged
+test: replace getByText by getByRole query,2024-03-13T08:45:50Z,2024-03-19T17:09:27Z,2024-03-19T17:09:27Z,5,APPROVED,152.3936111111111,1,753,Merged
+feat: use English code in i18n challenges,2024-03-13T09:10:36Z,,2024-04-16T08:22:39Z,1,REVIEW_REQUIRED,815.2008333333333,4,1186,Closed
+feat: create sign_in and user_data GA events,2024-03-13T09:46:06Z,2024-03-13T14:08:24Z,2024-03-13T14:08:24Z,5,APPROVED,4.371666666666667,5,701,Merged
+"chore(i18n,client): processed translations",2024-03-13T12:25:12Z,2024-03-14T07:46:57Z,2024-03-14T07:46:57Z,2,APPROVED,19.3625,2,45,Merged
+"chore(i18n,learn): processed translations",2024-03-13T13:22:38Z,2024-03-25T16:31:40Z,2024-03-25T16:31:40Z,2,APPROVED,291.15055555555557,3000,45,Merged
+Fix(Client): Clarify Progress Reset Modal,2024-03-13T17:32:55Z,,2024-04-26T09:01:27Z,1,REVIEW_REQUIRED,1047.4755555555555,5,1848,Closed
+"fix(curriculum): fixed the spelling of the word ""grid""",2024-03-14T00:05:32Z,2024-03-14T06:38:17Z,2024-03-14T06:38:17Z,2,APPROVED,6.545833333333333,1,783,Merged
+fix(playwright): video-modal test,2024-03-14T06:53:13Z,2024-03-21T08:18:47Z,2024-03-21T08:18:47Z,2,APPROVED,169.4261111111111,1,868,Merged
+fix(client): show source code link when localhost exists,2024-03-14T08:01:51Z,2024-04-01T16:28:28Z,2024-04-01T16:28:28Z,2,APPROVED,440.4436111111111,1,1028,Merged
+test(playwright): add exam-results-modal tests,2024-03-14T09:19:05Z,2024-04-03T00:58:57Z,2024-04-03T00:58:57Z,4,APPROVED,471.6644444444444,1,824,Merged
+chore: update multiple linting packages,2024-03-14T09:57:44Z,2024-03-21T14:54:33Z,2024-03-21T14:54:33Z,9,APPROVED,172.94694444444445,7,581,Merged
+chore(deps): update curriculum-helpers to v3.0.1,2024-03-14T11:27:35Z,2024-03-15T16:03:55Z,2024-03-15T16:03:55Z,2,APPROVED,28.605555555555554,2,724,Merged
+feat: export modal component,2024-03-14T13:18:44Z,2024-03-15T14:29:20Z,2024-03-15T14:29:20Z,4,APPROVED,25.176666666666666,5,737,Merged
+fix(curriculum): Improving rpg 17 with example markup,2024-03-14T15:30:28Z,2024-03-14T19:15:22Z,2024-03-14T19:15:22Z,2,APPROVED,3.7483333333333335,1,780,Merged
+fix(curriculum): clarify pronoun confusion in cafe project step 40,2024-03-14T16:02:05Z,2024-03-14T19:14:37Z,2024-03-14T19:14:37Z,2,APPROVED,3.2088888888888887,1,751,Merged
+fix(curriculum): update instructions in Cat Photo App step1,2024-03-14T23:11:33Z,2024-03-22T12:52:04Z,2024-03-22T12:52:04Z,3,APPROVED,181.67527777777778,1,748,Merged
+test(playwright): shortcuts-modal improvements,2024-03-15T07:35:45Z,2024-03-21T08:19:35Z,2024-03-21T08:19:35Z,2,APPROVED,144.73055555555555,1,880,Merged
+feat(curriculum): add more semantic elements to JavaScript certificate projects,2024-03-15T08:37:34Z,2024-06-10T12:55:36Z,2024-06-10T12:55:36Z,4,APPROVED,2092.3005555555555,4,841,Merged
+chore: upgrade react testing library extensions,2024-03-15T08:50:10Z,2024-03-15T14:39:36Z,2024-03-15T14:39:36Z,2,APPROVED,5.823888888888889,3,737,Merged
+fix: add quotes around attribute value,2024-03-15T13:15:20Z,2024-03-15T18:19:48Z,2024-03-15T18:19:48Z,2,APPROVED,5.0744444444444445,31,827,Merged
+fix(curriculum): remove replit reference,2024-03-15T13:45:16Z,2024-03-19T17:06:05Z,2024-03-19T17:06:05Z,5,APPROVED,99.34694444444445,4,755,Merged
+feat(curriculum): add bisection method project to Python,2024-03-15T15:18:58Z,2024-04-29T15:54:36Z,2024-04-29T15:54:36Z,17,APPROVED,1080.5938888888888,24,797,Merged
+feat(challenge-editor): add english/task helper scripts,2024-03-15T15:36:38Z,2024-03-19T15:06:23Z,2024-03-19T15:06:23Z,3,APPROVED,95.49583333333334,11,1603,Merged
+feat: migrate setting modals,2024-03-15T16:21:38Z,2024-03-29T12:50:34Z,2024-03-29T12:50:34Z,6,APPROVED,332.4822222222222,19,1912,Merged
+feat(curriculum): add animations to block 3.3 of the English Curriculum,2024-03-16T01:24:38Z,2024-03-20T02:04:56Z,2024-03-20T02:04:56Z,5,APPROVED,96.67166666666667,111,550,Merged
+fix(curriculum): Dice Game - Missing some small straights,2024-03-16T07:02:53Z,,2024-04-02T14:09:03Z,7,CHANGES_REQUESTED,415.10277777777776,5,752,Closed
+fix(curriculum): Added a note on how the players are numbered for team cards,2024-03-17T09:49:07Z,2024-03-18T17:17:27Z,2024-03-18T17:17:27Z,3,APPROVED,31.47222222222222,2,751,Merged
+fix(client): use sans-serif font for titles instead of monospace,2024-03-17T13:03:48Z,2024-04-05T01:38:04Z,2024-04-05T01:38:04Z,5,APPROVED,444.5711111111111,5,808,Merged
+feat(curriculum): add English curriculum block 6.3 clarification on code understanding,2024-03-17T15:07:11Z,2024-05-08T03:38:25Z,2024-05-08T03:38:25Z,5,APPROVED,1236.5205555555556,49,734,Merged
+fix(curriculum): update directions for step 66 of platformer game project,2024-03-17T19:14:28Z,2024-03-18T18:51:02Z,2024-03-18T18:51:02Z,3,APPROVED,23.609444444444446,1,411,Merged
+fix(client): put /update-email behind authentication,2024-03-18T07:07:47Z,2024-07-02T15:08:53Z,2024-07-02T15:08:53Z,7,APPROVED,2552.0183333333334,5,1349,Merged
+fix: errors if challenge file needs renaming,2024-03-18T09:42:11Z,2024-03-18T15:29:11Z,2024-03-18T15:29:11Z,2,APPROVED,5.783333333333333,2,906,Merged
+"chore(i18n,client): processed translations",2024-03-18T12:25:06Z,2024-03-18T15:44:58Z,2024-03-18T15:44:58Z,2,APPROVED,3.331111111111111,14,45,Merged
+Fix(curriculum): Reordered tasks block 3.1 and small corrections 3.2 English curriculum ,2024-03-18T12:33:35Z,2024-03-18T15:24:10Z,2024-03-18T15:24:10Z,2,APPROVED,2.8430555555555554,53,1636,Merged
+feat(curriculum) - set all the tests for step 47 to use matches,2024-03-18T18:43:42Z,2024-04-09T06:02:31Z,2024-04-09T06:02:31Z,4,APPROVED,515.3136111111111,1,953,Merged
+fix(curriculum): fix wording for music player project step - 66,2024-03-18T21:05:36Z,2024-03-21T15:09:48Z,2024-03-21T15:09:48Z,7,APPROVED,66.07,2,751,Merged
+fix(curriculum) : dice game 84 and 85 restore small straights,2024-03-18T22:12:41Z,2024-04-02T13:30:41Z,2024-04-02T13:30:41Z,16,APPROVED,351.3,5,859,Merged
+"fix(client, ui-components): modal and close button discrepancies",2024-03-19T05:42:54Z,2024-03-22T03:27:51Z,2024-03-22T03:27:51Z,7,APPROVED,69.74916666666667,4,813,Merged
+feat(curriculum/python): add vector space project to python curriculum,2024-03-19T07:32:58Z,2024-06-13T15:46:07Z,2024-06-13T15:46:07Z,64,APPROVED,2072.2191666666668,83,751,Merged
+fix(curriculum): Learn localStorage by Building a Todo App Step 12 - Ambiguous Description of Template String,2024-03-19T08:54:26Z,2024-03-19T13:31:00Z,2024-03-19T13:31:01Z,2,APPROVED,4.609444444444445,1,752,Merged
+fix(curriculum): Fix english curriculum courses challenge titles,2024-03-19T13:37:34Z,2024-04-03T01:12:46Z,2024-04-03T01:12:46Z,2,APPROVED,347.58666666666664,1,1262,Merged
+fix: frontmatter for english challenge,2024-03-19T16:34:24Z,2024-03-26T03:31:33Z,2024-03-26T03:31:33Z,2,APPROVED,154.9525,1,737,Merged
+fix(curriculum): use get computed styles in step 46 of the access quiz,2024-03-19T17:31:19Z,2024-03-26T04:58:47Z,2024-03-26T04:58:47Z,12,APPROVED,155.45777777777778,1,755,Merged
+"chore(i18n,client): processed translations",2024-03-20T12:26:15Z,2024-03-21T19:37:55Z,2024-03-21T19:37:55Z,2,APPROVED,31.194444444444443,1,45,Merged
+fix(curriculum) : remove typo in test code Technical Documentation Project ,2024-03-20T15:23:05Z,2024-03-20T18:04:44Z,2024-03-20T18:04:44Z,2,APPROVED,2.694166666666667,1,851,Merged
+fix: email authenication link messages,2024-03-20T15:25:20Z,2024-04-02T07:23:50Z,2024-04-02T07:23:50Z,2,APPROVED,303.975,2,1129,Merged
+fix(cypress): rollback firefox,2024-03-20T16:44:30Z,2024-03-20T19:06:52Z,2024-03-20T19:06:52Z,2,APPROVED,2.372777777777778,1,945,Merged
+feat(curriculum): add Part 3 of the English Curriculum,2024-03-21T00:28:15Z,2024-03-21T17:54:30Z,2024-03-21T17:54:30Z,2,APPROVED,17.4375,77,548,Merged
+fix(ui-components): modal body alignment,2024-03-21T05:15:04Z,2024-03-22T07:39:55Z,2024-03-22T07:39:56Z,3,APPROVED,26.414166666666667,3,1432,Merged
+feat(client): point claim cert links to corresponding sections on /settings,2024-03-21T08:53:09Z,2024-04-03T05:56:34Z,2024-04-03T05:56:34Z,3,APPROVED,309.05694444444447,3,1227,Merged
+chore: upgrade deprecated Redux middleware,2024-03-21T09:28:14Z,2024-04-04T06:36:24Z,2024-04-04T06:36:24Z,2,APPROVED,333.1361111111111,3,848,Merged
+fix(curriculum): nutrition label matches FDA guidelines,2024-03-21T11:27:49Z,2024-04-12T18:09:52Z,2024-04-12T18:09:52Z,4,APPROVED,534.7008333333333,7,752,Merged
+fix(ui-components): remove border width override from Tabs,2024-03-21T12:08:06Z,2024-03-28T06:09:51Z,2024-03-28T06:09:51Z,2,APPROVED,162.02916666666667,1,751,Merged
+test(e2e): migrate tags test to playwright,2024-03-21T13:57:04Z,2024-04-05T15:50:46Z,2024-04-05T15:50:46Z,2,APPROVED,361.895,2,749,Merged
+fix(curriculum): test for strict order in step 25 oop project,2024-03-21T17:04:44Z,2024-04-01T15:38:19Z,2024-04-01T15:38:19Z,2,APPROVED,262.5597222222222,1,751,Merged
+fix(api): double signing test,2024-03-21T17:24:30Z,2024-03-26T09:11:34Z,2024-03-26T09:11:34Z,2,APPROVED,111.78444444444445,1,1091,Merged
+fix(curriculum): set isUpcomingChange to false in meta.json files for Part 3 of the English Curriculum,2024-03-22T00:07:34Z,2024-03-22T19:38:15Z,2024-03-22T19:38:15Z,2,APPROVED,19.511388888888888,4,548,Merged
+chore(curriculum) add quotes to strings in Build a Platformer Game,2024-03-22T02:56:49Z,2024-04-02T13:40:10Z,2024-04-02T13:40:10Z,4,APPROVED,274.7225,14,2663,Merged
+refactor(client): migrate C# modals,2024-03-22T06:35:50Z,2024-04-03T13:01:50Z,2024-04-03T13:01:50Z,3,APPROVED,294.43333333333334,11,1251,Merged
+feat: migrate challenge modals,2024-03-22T08:17:22Z,2024-04-03T12:28:13Z,2024-04-03T12:28:13Z,4,APPROVED,292.18083333333334,22,748,Merged
+Add Projectile trajectory to curriculum,2024-03-22T09:28:55Z,,2024-05-16T15:21:51Z,10,,1325.8822222222223,20,829,Closed
+chore: update curriculum-helpers to v3.1.0,2024-03-22T09:40:36Z,2024-03-22T11:05:03Z,2024-03-22T11:05:03Z,2,APPROVED,1.4075,2,737,Merged
+fix(api-server): fallback to username for cert,2024-03-22T09:58:49Z,2024-04-03T01:21:04Z,2024-04-03T01:21:04Z,3,APPROVED,279.37083333333334,1,917,Merged
+changed short name to dashed name,2024-03-22T12:18:38Z,2024-03-22T13:46:24Z,2024-03-22T13:46:24Z,2,APPROVED,1.4627777777777777,2,945,Merged
+feat: python error formatting,2024-03-22T12:18:47Z,2024-04-29T18:47:00Z,2024-04-29T18:47:00Z,2,APPROVED,918.4702777777778,2,1181,Merged
+feat: change ad.txt to admanager,2024-03-22T12:41:33Z,2024-03-28T08:29:21Z,2024-03-28T08:29:21Z,3,APPROVED,139.79666666666665,1,749,Merged
+fix(api): add msUsername index to prisma,2024-03-22T14:08:20Z,2024-04-02T16:15:01Z,2024-04-02T16:15:01Z,2,APPROVED,266.1113888888889,1,879,Merged
+feat(curriculum): Add play scene keyboard shortcut,2024-03-24T10:11:13Z,2024-04-04T13:38:43Z,2024-04-04T13:38:43Z,4,APPROVED,267.4583333333333,7,1225,Merged
+"fix(curriculum): merge sort algorithm tests steps - 12,13,29",2024-03-24T11:14:03Z,2024-04-08T10:04:55Z,2024-04-08T10:04:55Z,6,APPROVED,358.84777777777776,3,933,Merged
+feat(curriculum): add English curriculum block 7.2 Reading and understanding code documentation,2024-03-24T12:57:42Z,2024-05-14T19:14:43Z,2024-05-14T19:14:43Z,5,APPROVED,1230.2836111111112,40,734,Merged
+fix(curriculum): Typo in Step 8,2024-03-24T18:41:06Z,,2024-03-25T08:30:35Z,1,REVIEW_REQUIRED,13.824722222222222,1,1101,Closed
+fix: make it easier to show and focus shortcuts modal,2024-03-25T06:47:18Z,2024-04-12T18:14:16Z,2024-04-12T18:14:17Z,3,APPROVED,443.44944444444445,1,1005,Merged
+"chore(i18n,client): processed translations",2024-03-25T12:25:29Z,2024-03-25T13:25:53Z,2024-03-25T13:25:53Z,3,APPROVED,1.0066666666666666,22,45,Merged
+fix: a href to an href,2024-03-25T14:08:25Z,2024-03-26T10:02:35Z,2024-03-26T10:02:35Z,3,APPROVED,19.90277777777778,8,409,Merged
+fix: manually overwrite execute-brain.md,2024-03-25T16:09:33Z,2024-03-25T17:55:25Z,2024-03-25T17:55:25Z,2,APPROVED,1.7644444444444445,2,751,Merged
+feat: make c# chinese live,2024-03-25T17:27:43Z,2024-03-26T04:10:16Z,2024-03-26T04:10:16Z,2,APPROVED,10.709166666666667,1,751,Merged
+fix(UI): skip button outline visibility,2024-03-25T20:44:50Z,2024-03-26T10:04:34Z,2024-03-26T10:04:34Z,3,APPROVED,13.328888888888889,1,1012,Merged
+fix(curriculum): clarify random property,2024-03-26T00:52:56Z,2024-03-26T22:40:07Z,2024-03-26T22:40:07Z,4,APPROVED,21.78638888888889,1,751,Merged
+chore(curriculum): add quotes to strings in JS number sorter,2024-03-26T03:15:48Z,2024-03-27T10:35:09Z,2024-03-27T10:35:09Z,2,APPROVED,31.3225,6,1442,Merged
+fix(curriculum): Typo in Links and Images lessons,2024-03-26T08:33:18Z,2024-03-26T18:04:23Z,2024-03-26T18:04:23Z,2,APPROVED,9.518055555555556,2,751,Merged
+fix(client): skip to content button overlapping the nav,2024-03-26T09:12:32Z,2024-03-29T13:13:33Z,2024-03-29T13:13:33Z,7,APPROVED,76.01694444444445,1,922,Merged
+fix(api): update backend project validation,2024-03-26T09:15:42Z,2024-03-28T09:54:30Z,2024-03-28T09:54:30Z,4,APPROVED,48.64666666666667,3,717,Merged
+fix(api): use port 27017,2024-03-26T10:17:39Z,2024-04-03T00:07:02Z,2024-04-03T00:07:02Z,3,APPROVED,181.82305555555556,2,856,Merged
+feat: make it easier to make changes to profile,2024-03-26T10:41:59Z,,2024-04-18T19:46:15Z,1,REVIEW_REQUIRED,561.0711111111111,1,1019,Closed
+fix(curriculum) : clarify description on step 47 of password generator project,2024-03-26T20:30:03Z,2024-03-28T09:14:21Z,2024-03-28T09:14:21Z,3,APPROVED,36.73833333333334,1,751,Merged
+fix(UI): remove flash from update email flow,2024-03-26T20:57:30Z,2024-04-23T09:06:36Z,2024-04-23T09:06:36Z,3,APPROVED,660.1516666666666,2,749,Merged
+fix(curriculum): improved instructions for better understanding of function call,2024-03-27T07:56:50Z,2024-03-27T14:39:31Z,2024-03-27T14:39:31Z,2,APPROVED,6.711388888888889,1,1502,Merged
+"chore(i18n,client): processed translations",2024-03-27T12:25:42Z,2024-03-27T15:52:17Z,2024-03-27T15:52:18Z,2,APPROVED,3.4430555555555555,13,45,Merged
+refactor(curriculum): update calorie counter project steps 1 - 37,2024-03-27T12:49:26Z,2024-04-08T15:11:19Z,2024-04-08T15:11:19Z,6,APPROVED,290.3647222222222,85,1705,Merged
+chore: update curriculum-helpers to v3.2.0,2024-03-27T17:09:19Z,2024-04-01T10:10:48Z,2024-04-01T10:10:48Z,2,APPROVED,113.02472222222222,2,737,Merged
+fix(curriculum): clarify registration-form name instructions,2024-03-27T19:12:05Z,2024-03-28T04:00:22Z,2024-03-28T04:00:22Z,2,APPROVED,8.804722222222223,1,774,Merged
+fix(a11y): hide GreenPass icon of donation modal from a11y tree,2024-03-28T05:41:39Z,2024-03-28T07:26:29Z,2024-03-28T07:26:29Z,2,APPROVED,1.7472222222222222,1,1186,Merged
+refactor: move joinArray & parseDate to utils,2024-03-28T10:42:17Z,2024-04-12T19:07:32Z,2024-04-12T19:07:32Z,4,APPROVED,368.42083333333335,3,945,Merged
+chore(e2e): delete Cypress tests that are already covered by Playwright,2024-03-28T12:15:07Z,2024-04-11T06:49:41Z,2024-04-11T06:49:42Z,2,APPROVED,330.5761111111111,12,587,Merged
+feat(curriculum): add English curriculum block 7.3 analyzing code documentation,2024-03-29T11:27:11Z,2024-04-12T19:41:12Z,2024-04-12T19:41:12Z,4,APPROVED,344.2336111111111,30,738,Merged
+fix(a11y): disabled button color contrast,2024-03-29T16:16:39Z,2024-06-03T08:46:18Z,2024-06-03T08:46:18Z,3,APPROVED,1576.4941666666666,1,864,Merged
+fix(curriculum): grammatical error correction,2024-03-29T19:25:29Z,2024-03-29T20:27:52Z,2024-03-29T20:27:52Z,2,APPROVED,1.0397222222222222,1,600,Merged
+fix(curriculum): typo on step 61,2024-03-29T20:35:42Z,2024-03-29T23:30:18Z,2024-03-29T23:30:18Z,2,APPROVED,2.91,1,795,Merged
+"refactor(curriculum): expand split, reverse and join method lessons for date formatter project",2024-03-30T19:11:01Z,2024-04-05T16:18:32Z,2024-04-05T16:18:32Z,6,APPROVED,141.12527777777777,13,1031,Merged
+feat(curriculum): prepended test numbers to each test,2024-03-31T14:28:35Z,,2024-07-02T07:53:34Z,3,CHANGES_REQUESTED,2225.416388888889,1,795,Closed
+refactor(curriculum): flesh out object lessons in RPG game,2024-03-31T18:34:51Z,2024-04-05T14:25:21Z,2024-04-05T14:25:21Z,2,APPROVED,115.84166666666667,129,896,Merged
+fix: removed view project buttons from Python cert projects,2024-04-01T05:14:11Z,2024-04-03T16:16:08Z,2024-04-03T16:16:08Z,2,APPROVED,59.0325,2,1152,Merged
+feat(client): fallback image for portfolio page,2024-04-01T05:21:55Z,2024-04-09T08:40:11Z,2024-04-09T08:40:11Z,3,APPROVED,195.30444444444444,1,741,Merged
+refactor(client): migrate donation modal,2024-04-01T08:45:10Z,2024-04-03T04:24:07Z,2024-04-03T04:24:07Z,3,APPROVED,43.649166666666666,6,1427,Merged
+"chore(i18n,client): processed translations",2024-04-01T12:25:51Z,2024-04-01T14:59:46Z,2024-04-01T14:59:46Z,2,APPROVED,2.5652777777777778,4,45,Merged
+"chore(i18n,learn): processed translations",2024-04-01T16:43:22Z,2024-04-02T06:19:24Z,2024-04-02T06:19:24Z,2,APPROVED,13.600555555555555,2248,45,Merged
+fix(curriculum): clarify instructions with implicit return,2024-04-02T04:55:15Z,2024-04-25T23:26:11Z,2024-04-25T23:26:11Z,3,APPROVED,570.5155555555556,1,737,Merged
+test(e2e): migrate image picture check tests to playwright,2024-04-02T09:13:27Z,2024-04-17T04:52:59Z,2024-04-17T04:53:00Z,3,APPROVED,355.6588888888889,2,749,Merged
+fix(curriculum): clarify instructions with implicit return on JS spreadsheet step34,2024-04-02T09:23:52Z,2024-05-02T08:20:22Z,2024-05-02T08:20:22Z,11,APPROVED,718.9416666666667,1,898,Merged
+"feat(ui): added text for MacOS users ""Check Your Code (⌘+ Enter)"" in challenges lower-jaw.tsx component",2024-04-02T10:19:53Z,,2024-04-04T17:20:36Z,1,CHANGES_REQUESTED,55.011944444444445,3,753,Closed
+feat(UI): added specific label for MacOS check-code button,2024-04-02T10:24:59Z,2024-04-05T06:49:33Z,2024-04-05T06:49:33Z,6,APPROVED,68.40944444444445,4,634,Merged
+fix(client): improve help modal verbiage and styles,2024-04-02T13:00:12Z,2024-04-11T08:03:08Z,2024-04-11T08:03:08Z,8,APPROVED,211.04888888888888,3,117,Merged
+fix(curriculum): Reordered lessons as per issue #54168,2024-04-02T19:41:52Z,2024-04-03T05:01:38Z,2024-04-03T05:01:38Z,2,APPROVED,9.329444444444444,4,752,Merged
+fix: clean wallet amount on prop change,2024-04-03T01:50:56Z,2024-04-04T05:40:30Z,2024-04-04T05:40:30Z,2,APPROVED,27.82611111111111,1,701,Merged
+feat: accept donation animation ab test,2024-04-03T03:50:52Z,2024-04-04T07:37:02Z,2024-04-04T07:37:02Z,2,APPROVED,27.769444444444446,4,701,Merged
+fix: update tests for new modal,2024-04-03T03:57:26Z,2024-04-03T07:13:07Z,2024-04-03T07:13:07Z,2,APPROVED,3.261388888888889,1,701,Merged
+feat: add bio component to profile page,2024-04-03T08:36:08Z,2024-05-03T07:34:08Z,2024-05-03T07:34:08Z,3,APPROVED,718.9666666666667,7,859,Merged
+"chore(i18n,client): processed translations",2024-04-03T12:25:43Z,2024-04-03T13:48:17Z,2024-04-03T13:48:17Z,2,APPROVED,1.376111111111111,2,45,Merged
+"chore(i18n,learn): processed translations",2024-04-03T13:15:38Z,2024-04-04T12:57:25Z,2024-04-04T12:57:25Z,5,APPROVED,23.69638888888889,281,45,Merged
+refactor(curriculum): update lessons for arrow function music player project,2024-04-03T14:34:34Z,2024-04-05T14:24:33Z,2024-04-05T14:24:33Z,7,APPROVED,47.83305555555555,90,786,Merged
+chore: remove react-bootstrap,2024-04-03T14:56:50Z,2024-04-03T17:39:03Z,2024-04-03T17:39:03Z,4,APPROVED,2.703611111111111,9,872,Merged
+refactor(curriculum): breaking down steps 12 and 13 of TODO app for simplicity ,2024-04-04T00:56:01Z,2024-04-05T18:25:30Z,2024-04-05T18:25:30Z,3,APPROVED,41.49138888888889,55,859,Merged
+fix(curriculum): removed hyphens searching for topic from coding pages,2024-04-04T10:04:25Z,2024-04-14T20:19:45Z,2024-04-14T20:19:45Z,2,APPROVED,250.25555555555556,1,666,Merged
+"test: check for navigation, not text",2024-04-04T11:52:31Z,2024-04-04T13:32:06Z,2024-04-04T13:32:06Z,2,APPROVED,1.6597222222222223,1,919,Merged
+feat: accept multiple modals ab test,2024-04-04T12:43:39Z,2024-04-11T08:10:03Z,2024-04-11T08:10:03Z,2,APPROVED,163.44,1,886,Merged
+fix(curriculum): fix navigate-previous and navigate-next english strings,2024-04-04T14:10:41Z,2024-04-04T15:13:54Z,2024-04-04T15:13:55Z,2,APPROVED,1.053611111111111,1,930,Merged
+feat: added stats component to profile page,2024-04-04T16:36:08Z,2024-04-27T20:20:27Z,2024-04-27T20:20:27Z,7,APPROVED,555.7386111111111,9,1216,Merged
+refactor(curriculum): restructure sudoku solver python project,2024-04-04T17:25:40Z,2024-05-07T15:26:10Z,2024-05-07T15:26:10Z,13,APPROVED,790.0083333333333,157,751,Merged
+feat: new introductory javascript project,2024-04-05T01:39:25Z,2024-04-17T16:29:14Z,2024-04-17T16:29:14Z,40,APPROVED,302.8302777777778,135,751,Merged
+fix(curriculum): update description and tests for step - 29 football card project,2024-04-05T14:25:21Z,2024-04-09T05:51:48Z,2024-04-09T05:51:48Z,4,APPROVED,87.44083333333333,19,753,Merged
+fix(tools): make the editing steps tool keep the challenge type,2024-04-05T14:53:27Z,2024-04-08T18:27:42Z,2024-04-08T18:27:42Z,2,APPROVED,75.57083333333334,6,1002,Merged
+"chore(e2e,playwright): remove unused test IDs",2024-04-05T16:16:24Z,2024-04-05T18:26:30Z,2024-04-05T18:26:30Z,2,APPROVED,2.1683333333333334,1,877,Merged
+refactor(curriculum): updating step 22 of stats calculator project,2024-04-05T21:05:01Z,2024-04-18T07:31:46Z,2024-04-18T07:31:46Z,5,APPROVED,298.4458333333333,38,1222,Merged
+fix(curriculum): update logic and tests for step 29 football team,2024-04-06T02:31:51Z,,2024-04-09T03:05:47Z,1,REVIEW_REQUIRED,72.56555555555556,20,755,Closed
+updated-step-29-of-football-team-cards-project,2024-04-06T23:09:47Z,,2024-04-08T06:43:27Z,1,CHANGES_REQUESTED,31.56111111111111,1,702,Closed
+feat(curriculum): add English curriculum block 8.1 sharing progress and accomplishments,2024-04-07T11:43:59Z,2024-05-23T15:01:44Z,2024-05-23T15:01:44Z,5,APPROVED,1107.2958333333333,45,738,Merged
+DO NOT MERGE - refactor(curriculum): refactoring RPG project to prepare for the addition of the intro JS project,2024-04-07T21:14:58Z,,2024-04-18T02:09:22Z,3,REVIEW_REQUIRED,244.90666666666667,3000,765,Closed
+refactor: remove component library as internal dependency,2024-04-08T09:44:06Z,2024-04-08T17:35:30Z,2024-04-08T17:35:30Z,2,APPROVED,7.8566666666666665,129,831,Merged
+"chore(i18n,client): processed translations",2024-04-08T12:25:15Z,2024-04-08T15:57:23Z,2024-04-08T15:57:23Z,3,APPROVED,3.5355555555555553,12,45,Merged
+"chore(i18n,learn): processed translations",2024-04-08T13:26:20Z,2024-04-09T05:52:09Z,2024-04-09T05:52:09Z,2,APPROVED,16.43027777777778,3000,45,Merged
+fix(curriculum): update instructions for step 24 of football team cards project ,2024-04-08T15:17:59Z,2024-04-08T18:21:26Z,2024-04-08T18:21:27Z,2,APPROVED,3.0575,1,752,Merged
+feat(curriculum): add English curriculum block 8.2 updates and plans on tasks or projects,2024-04-09T05:36:03Z,2024-05-07T18:52:55Z,2024-05-07T18:52:55Z,4,APPROVED,685.2811111111112,36,736,Merged
+chore: remove unused /docs code,2024-04-09T14:46:21Z,2024-04-09T16:31:40Z,2024-04-09T16:31:40Z,2,APPROVED,1.7552777777777777,3,836,Merged
+refactor: simplify get challenges,2024-04-09T16:25:51Z,2024-04-14T20:08:57Z,2024-04-14T20:08:57Z,2,APPROVED,123.71833333333333,4,839,Merged
+"fix(curriculum): fixed grammar of ""stay is in the order""",2024-04-09T17:51:23Z,2024-04-11T02:00:19Z,2024-04-11T02:00:19Z,2,APPROVED,32.14888888888889,1,751,Merged
+"chore(i18n,learn): processed translations",2024-04-10T13:14:56Z,2024-04-10T15:29:12Z,2024-04-10T15:29:12Z,2,APPROVED,2.2377777777777776,1529,45,Merged
+fix: never flush logs after executing tests,2024-04-10T15:14:45Z,2024-04-10T16:30:06Z,2024-04-10T16:30:06Z,2,APPROVED,1.2558333333333334,1,1494,Merged
+fix(curriculum): use contraction in fill the blank text,2024-04-11T02:27:46Z,2024-04-11T15:57:55Z,2024-04-11T15:57:55Z,2,APPROVED,13.5025,3,1178,Merged
+feat(client): add linkedIn credential id to share btn,2024-04-11T03:42:37Z,2024-04-12T08:15:14Z,2024-04-12T08:15:14Z,14,APPROVED,28.54361111111111,4,751,Merged
+feat(curriculum): add animations to block 4.1 of the English Curriculum,2024-04-11T08:00:43Z,2024-05-16T15:14:53Z,2024-05-16T15:14:53Z,4,APPROVED,847.2361111111111,144,548,Merged
+feat: The Odin Project function basics,2024-04-11T08:41:34Z,2024-04-15T07:47:28Z,2024-04-15T07:47:28Z,4,APPROVED,95.09833333333333,8,737,Merged
+chore(api): refactor schemas into individual files,2024-04-11T09:17:16Z,2024-04-11T12:45:56Z,2024-04-11T12:45:56Z,2,APPROVED,3.477777777777778,34,847,Merged
+refactor(api): clean up route code,2024-04-11T09:56:10Z,2024-04-15T07:19:45Z,2024-04-15T07:19:45Z,2,APPROVED,93.39305555555555,2,898,Merged
+feat(curriculum): add English curriculum block 8.3 expressing agreement or disagreement,2024-04-11T11:59:43Z,2024-05-07T13:30:07Z,2024-05-07T13:30:07Z,3,APPROVED,625.5066666666667,39,734,Merged
+fix(curriculum): update step 65 description for TODO project,2024-04-11T17:50:00Z,2024-04-12T06:56:15Z,2024-04-12T06:56:15Z,3,APPROVED,13.104166666666666,1,407,Merged
+fix(curriculum): update step 6 of TODO app to allow for multiple correct answers,2024-04-11T18:35:43Z,,2024-04-18T08:32:33Z,1,REVIEW_REQUIRED,157.94722222222222,1,407,Closed
+fix(curriculum): spacing issue for step 17 of rpg project,2024-04-11T20:55:28Z,2024-04-15T04:52:28Z,2024-04-15T04:52:28Z,3,APPROVED,79.95,1,1117,Merged
+fix: modified tests for step 10 of building a spam filter,2024-04-11T22:22:47Z,2024-04-15T17:32:10Z,2024-04-15T17:32:10Z,3,APPROVED,91.15638888888888,1,1047,Merged
+fix(curriculum): Update TODO step 65 to show code example of expected answer,2024-04-12T00:06:10Z,,2024-04-12T06:07:58Z,1,REVIEW_REQUIRED,6.03,2,751,Closed
+fix(curriculum): make the description of step 1 cafe menu easier to understand,2024-04-12T05:14:30Z,2024-04-12T15:01:42Z,2024-04-12T15:01:42Z,2,APPROVED,9.786666666666667,1,751,Merged
+fix(curriculum): update tests for step 28 of Authors page,2024-04-12T07:51:21Z,2024-04-12T14:59:39Z,2024-04-12T14:59:39Z,2,APPROVED,7.138333333333334,1,1454,Merged
+fix(curriculum): update test of TODO step 6 to allow for multiple function answers,2024-04-12T09:58:57Z,2024-04-18T07:15:06Z,2024-04-18T07:15:06Z,2,APPROVED,141.26916666666668,1,1021,Merged
+feat: only remove comments when specified in the test,2024-04-12T10:07:34Z,2024-04-26T01:03:43Z,2024-04-26T01:03:43Z,2,APPROVED,326.93583333333333,187,869,Merged
+"Revert ""feat(client): add linkedIn credential id to share btn (#54346)""",2024-04-12T10:20:47Z,2024-04-12T13:11:56Z,2024-04-12T13:11:56Z,2,APPROVED,2.8525,4,1107,Merged
+fix(curriculum): update example description in accessibility quiz step 8,2024-04-12T10:49:00Z,2024-04-16T14:29:28Z,2024-04-16T14:29:28Z,5,APPROVED,99.67444444444445,1,861,Merged
+feat: add project block for basic functions The Odin Project,2024-04-12T12:48:28Z,2024-05-02T19:28:44Z,2024-05-02T19:28:44Z,5,APPROVED,486.6711111111111,6,737,Merged
+feat(client): add linkedIn credential id to share btn,2024-04-12T13:46:18Z,2024-04-12T15:32:34Z,2024-04-12T15:32:34Z,2,APPROVED,1.771111111111111,4,857,Merged
+fix: updated donation progress with heading,2024-04-12T14:57:13Z,2024-05-03T13:23:07Z,2024-05-03T13:23:07Z,4,APPROVED,502.4316666666667,3,902,Merged
+fix: prevent false matches in step 10 spam,2024-04-12T16:13:28Z,,2024-04-15T18:56:35Z,1,CHANGES_REQUESTED,74.71861111111112,1,1115,Closed
+fix(curriculum): update tests for Football Teams step 25 to accept both types of functions,2024-04-13T05:15:49Z,2024-04-15T11:53:27Z,2024-04-15T11:53:27Z,2,APPROVED,54.62722222222222,1,1430,Merged
+fix(tools): better alert messaging,2024-04-13T19:27:24Z,2024-04-15T06:00:25Z,2024-04-15T06:00:25Z,2,APPROVED,34.55027777777778,1,1253,Merged
+fix(curriculum): update steps 18 and 19 for date formatter project,2024-04-13T21:47:53Z,2024-04-15T06:35:53Z,2024-04-15T06:35:53Z,3,APPROVED,32.8,2,516,Merged
+fix(curriculum): typo in step 47 of binary converter project,2024-04-14T14:41:49Z,,2024-04-15T04:46:37Z,1,REVIEW_REQUIRED,14.08,1,1018,Closed
+fix: restore missing reset button,2024-04-14T16:05:06Z,2024-04-19T08:00:56Z,2024-04-19T08:00:56Z,4,APPROVED,111.93055555555556,3,842,Merged
+fix(curriculum): typo in step 47 binary project,2024-04-14T16:06:35Z,2024-04-15T04:45:21Z,2024-04-15T04:45:21Z,2,APPROVED,12.64611111111111,1,752,Merged
+fix(client): forum search link for English challenges missing block name,2024-04-15T05:39:29Z,2024-04-15T16:57:30Z,2024-04-15T16:57:31Z,2,APPROVED,11.300277777777778,2,1220,Merged
+feat: remove paypal webhook listener,2024-04-15T11:30:01Z,2024-04-29T05:49:21Z,2024-04-29T05:49:21Z,2,APPROVED,330.3222222222222,13,787,Merged
+"chore(i18n,client): processed translations",2024-04-15T12:25:35Z,2024-04-15T16:38:02Z,2024-04-15T16:38:02Z,2,APPROVED,4.2075,22,45,Merged
+"chore(i18n,learn): processed translations",2024-04-15T17:00:04Z,2024-04-15T21:55:52Z,2024-04-15T21:55:52Z,2,APPROVED,4.93,685,45,Merged
+fix(i18n): use translated text for play button,2024-04-15T19:11:40Z,2024-04-16T15:35:34Z,2024-04-16T15:35:34Z,3,APPROVED,20.398333333333333,2,753,Merged
+fix(curriculum): clarify instructions,2024-04-15T20:30:22Z,2024-04-16T04:45:34Z,2024-04-16T04:45:34Z,2,APPROVED,8.253333333333334,1,640,Merged
+"fix(curriculum): correct instructions, add quotes around value",2024-04-15T21:09:20Z,2024-04-16T04:51:04Z,2024-04-16T04:51:04Z,2,APPROVED,7.695555555555556,1,966,Merged
+fix(curriculum): updated step 27 of music player to accept let declaration,2024-04-15T23:22:25Z,2024-04-16T06:18:54Z,2024-04-16T06:18:54Z,2,APPROVED,6.941388888888889,1,976,Merged
+fix(curriculum): updated tests of calorie counter,2024-04-16T01:35:13Z,,2024-04-17T15:09:49Z,1,REVIEW_REQUIRED,37.57666666666667,1,931,Closed
+feat: Arrays and Loops The Odin Project,2024-04-16T07:52:43Z,2024-06-06T17:18:30Z,2024-06-06T17:18:30Z,5,APPROVED,1233.4297222222222,10,833,Merged
+chore(deps): update playwright,2024-04-16T09:16:52Z,2024-04-16T14:25:15Z,2024-04-16T14:25:15Z,2,APPROVED,5.139722222222222,2,737,Merged
+chore(client): remove execute-challenge-saga log,2024-04-16T10:25:57Z,2024-04-16T11:43:34Z,2024-04-16T11:43:35Z,2,APPROVED,1.293611111111111,1,718,Merged
+refactor: simplify logic in get-challenges,2024-04-16T12:18:21Z,2024-04-23T11:11:55Z,2024-04-23T11:11:55Z,6,APPROVED,166.89277777777778,2,876,Merged
+fix(curriculum): use security as said in the clip,2024-04-16T20:44:34Z,2024-04-17T05:55:00Z,2024-04-17T05:55:00Z,2,APPROVED,9.17388888888889,1,751,Merged
+feat(curriculum): add animations to block 4.2 of the English Curriculum,2024-04-16T23:17:00Z,2024-05-20T22:06:04Z,2024-05-20T22:06:04Z,4,APPROVED,814.8177777777778,112,548,Merged
+feat(client): conditionally hide preview for new js project,2024-04-16T23:51:59Z,2024-04-18T09:05:32Z,2024-04-18T09:05:32Z,5,APPROVED,33.225833333333334,5,722,Merged
+fix(curriculum): Updated step 74 of spreadsheet project and added step 75 and step 76,2024-04-17T04:17:51Z,2024-05-02T06:34:43Z,2024-05-02T06:34:43Z,10,APPROVED,362.2811111111111,33,751,Merged
+fix(curriculum): Update hint text for step 6 of todo app project,2024-04-17T07:52:38Z,2024-04-18T04:39:38Z,2024-04-18T04:39:38Z,3,APPROVED,20.783333333333335,1,751,Merged
+fix(curriculum): update description and hint text of Date Formatter - Step 28,2024-04-17T11:58:34Z,2024-04-17T20:08:18Z,2024-04-17T20:08:18Z,2,APPROVED,8.162222222222223,1,802,Merged
+"chore(i18n,client): processed translations",2024-04-17T12:26:01Z,2024-04-17T14:03:55Z,2024-04-17T14:03:55Z,2,APPROVED,1.6316666666666666,13,45,Merged
+fix(client): prevent dispatches during render,2024-04-17T12:38:59Z,2024-04-18T08:27:05Z,2024-04-18T08:27:05Z,4,APPROVED,19.801666666666666,2,1174,Merged
+fix(curriculum): update editable regions for step 47 of calorie counter,2024-04-17T13:11:23Z,2024-04-17T15:19:48Z,2024-04-17T15:19:48Z,2,APPROVED,2.140277777777778,1,1048,Merged
+"chore(i18n,learn): processed translations",2024-04-17T13:41:37Z,2024-04-17T16:28:42Z,2024-04-17T16:28:42Z,2,APPROVED,2.7847222222222223,222,45,Merged
+fix(api): consistent responses from certificate/showCert,2024-04-17T13:59:24Z,2024-04-25T12:02:59Z,2024-04-25T12:02:59Z,2,APPROVED,190.05972222222223,4,1447,Merged
+chore(deps): update curriculum-helpers to v3.3.0,2024-04-17T17:16:41Z,2024-04-18T08:31:11Z,2024-04-18T08:31:11Z,2,APPROVED,15.241666666666667,2,751,Merged
+fix(curriculum) : allow a and b to be cast as numbers in step 41 of num sort,2024-04-17T20:08:52Z,2024-04-25T23:53:16Z,2024-04-25T23:53:16Z,3,APPROVED,195.74,2,1453,Merged
+fix(curriculum): feedback heading in english challenge,2024-04-18T01:04:13Z,2024-04-18T06:49:08Z,2024-04-18T06:49:08Z,2,APPROVED,5.748611111111111,1,1152,Merged
+refactor(curriculum): update RPG project to accommodate new intro pyramid project,2024-04-18T03:52:36Z,2024-04-22T17:10:58Z,2024-04-22T17:10:58Z,3,APPROVED,109.30611111111111,178,556,Merged
+fix(client): full width border for console tab,2024-04-18T09:49:02Z,2024-04-18T19:19:54Z,2024-04-18T19:19:54Z,2,APPROVED,9.514444444444445,1,857,Merged
+fix(client): handle pure js challenges in multifile editor,2024-04-18T10:46:18Z,2024-04-24T18:46:11Z,2024-04-24T18:46:11Z,4,APPROVED,151.99805555555557,111,1539,Merged
+fix: show console on load for new js project,2024-04-18T11:17:28Z,2024-04-18T16:35:31Z,2024-04-18T16:35:31Z,2,APPROVED,5.300833333333333,2,817,Merged
+fix(curriculum): unclear messages in step 54 of statistic calculator,2024-04-18T13:17:36Z,2024-04-18T17:07:08Z,2024-04-18T17:07:09Z,3,APPROVED,3.8255555555555554,1,1064,Merged
+fix(learn) : update the quiz cert footer,2024-04-18T14:34:35Z,2024-04-25T21:37:13Z,2024-04-25T21:37:14Z,4,APPROVED,175.0438888888889,3,900,Merged
+chore(curriculum): remove unused solution and fix solution headings,2024-04-18T18:00:43Z,2024-04-29T06:41:04Z,2024-04-29T06:41:04Z,2,APPROVED,252.6725,11,793,Merged
+fix(curriculum): change editable region for step 24 of cat painting,2024-04-19T09:19:37Z,2024-04-22T14:15:26Z,2024-04-22T14:15:26Z,2,APPROVED,76.93027777777777,1,903,Merged
+fix(curriculum):Updated lessons in Number sorter project to better show how ``inputValues`` works,2024-04-19T10:15:13Z,2024-04-24T20:12:55Z,2024-04-24T20:12:55Z,9,APPROVED,129.96166666666667,40,751,Merged
+fix: use dummy data in forum leaderboard project,2024-04-19T14:20:33Z,2024-04-20T18:40:17Z,2024-04-20T18:40:17Z,2,APPROVED,28.32888888888889,67,881,Merged
+fix(curriculum): add missing word to instructions,2024-04-19T20:54:27Z,2024-04-22T04:41:51Z,2024-04-22T04:41:51Z,2,APPROVED,55.79,1,690,Merged
+fix: defined ValueError in step 64 of Learn String Manipulation by Building a Cipher,2024-04-20T06:10:19Z,2024-04-21T17:53:41Z,2024-04-21T17:53:42Z,2,APPROVED,35.72277777777778,1,755,Merged
+feat(curriculum): add English curriculum block 9.1 offering technical support and guidance,2024-04-20T07:13:45Z,2024-05-25T20:20:58Z,2024-05-25T20:20:58Z,6,APPROVED,853.1202777777778,71,736,Merged
+fix(Curriculum): Removed the incorrect comma in the instruction set.,2024-04-20T07:24:09Z,,2024-04-22T04:40:49Z,2,REVIEW_REQUIRED,45.27777777777778,1,751,Closed
+fix(curriculum): change of not indicated a elements fail tests,2024-04-20T16:12:18Z,2024-04-26T17:55:22Z,2024-04-26T17:55:22Z,9,APPROVED,145.71777777777777,1,1054,Merged
+fix(curriculum): update description for step 16 of pyramid project,2024-04-20T19:33:12Z,2024-04-22T04:40:02Z,2024-04-22T04:40:02Z,4,APPROVED,33.11388888888889,1,993,Merged
+fix(curriculum): clarify cipher instruction step 17,2024-04-21T00:42:33Z,2024-04-21T17:52:24Z,2024-04-21T17:52:24Z,2,APPROVED,17.164166666666667,1,869,Merged
+fix(curriculum): include example of return statement cipher step 66,2024-04-21T01:13:07Z,2024-04-21T17:51:18Z,2024-04-21T17:51:18Z,2,APPROVED,16.636388888888888,1,869,Merged
+fix(curriculum): add reminder to include final colon for if and else statements,2024-04-21T03:28:31Z,2024-04-22T07:14:33Z,2024-04-22T07:14:33Z,3,APPROVED,27.767222222222223,2,995,Merged
+fix(curriculum): Updated editable regions for step 44 of pyramid project,2024-04-21T07:14:31Z,2024-04-22T14:09:54Z,2024-04-22T14:09:54Z,2,APPROVED,30.923055555555557,1,751,Merged
+fix(curriculum): Updated the tests to accpet the answer irrespective of the order of concatenation,2024-04-21T07:52:37Z,2024-04-23T09:30:11Z,2024-04-23T09:30:12Z,3,APPROVED,49.62611111111111,1,751,Merged
+fix(curriculum): Divided step 13 into 2 steps; updated step 13 and added step 14,2024-04-21T10:11:52Z,2024-04-24T18:13:14Z,2024-04-24T18:13:14Z,7,APPROVED,80.02277777777778,998,755,Merged
+fix(curriculum): update description for step 19 of pyramid project,2024-04-21T11:47:40Z,2024-04-22T14:10:15Z,2024-04-22T14:10:15Z,4,APPROVED,26.37638888888889,1,634,Merged
+fix(curriculum): Learn Introductory JavaScript by Building a Pyramid Generator Step 30,2024-04-22T00:03:29Z,2024-04-22T14:11:18Z,2024-04-22T14:11:18Z,2,APPROVED,14.130277777777778,1,751,Merged
+fix(a11y): make the focus outline not be cut off,2024-04-22T06:22:22Z,2024-04-26T05:39:22Z,2024-04-26T05:39:22Z,7,APPROVED,95.28333333333333,1,1671,Merged
+ci: create playwright report artifacts,2024-04-22T08:24:18Z,2024-04-22T18:29:31Z,2024-04-22T18:29:31Z,2,APPROVED,10.086944444444445,1,723,Merged

@@ -1,0 +1,6 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Pull it all,2015-01-17T22:48:56Z,,2023-08-02T18:48:13Z,3,,74851.98805555556,26,7,Closed
+Sun8i H3: i2c2 uses regs for i2c1,2016-11-01T03:56:58Z,,2017-04-14T16:52:50Z,1,,3948.931111111111,1,76,Closed
+Improve README formatting,2016-11-11T08:20:07Z,,2017-07-07T15:32:41Z,1,,5719.209444444445,1,92,Closed
+Update rt2800usb.c,2016-12-30T02:17:35Z,,2017-01-05T23:51:20Z,1,,165.5625,1,40,Closed
+dell-wmi: Found location of 'auto brightness' key in Dell dmi table,2017-01-18T17:54:38Z,,2020-06-25T14:39:36Z,1,,30092.749444444446,0,89,Closed

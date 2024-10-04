@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 import time
+import os  # Import necessário para verificar a existência do arquivo
 
 # Token de autenticação do GitHub
 GITHUB_TOKEN = ""
@@ -127,6 +128,13 @@ def save_to_csv(data, owner, name):
 def collect_pull_requests(repo):
     owner = repo['owner']['login']
     name = repo['name']
+    
+    # Verifica se o arquivo já existe
+    file_name = f"{name}_pull_requests.csv"
+    if os.path.exists(file_name):
+        print(f"Arquivo {file_name} já existe. Pulando coleta para {owner}/{name}.")
+        return  # Pula a coleta se o arquivo já existir
+
     print(f"Coletando PRs do repositório {owner}/{name}...")
 
     all_prs = []
@@ -173,7 +181,7 @@ def collect_pull_requests(repo):
 
     if all_prs:
         save_to_csv(all_prs, owner, name)
-    print(f"Dados salvos em {owner}_{name}_pull_requests.csv")
+    print(f"Dados salvos em {file_name}")
 
 # Função para coletar 200 repositórios em múltiplas chamadas e processar os PRs de cada lote
 def collect_repos_and_prs():
@@ -212,4 +220,6 @@ def collect_repos_and_prs():
     return all_repos
 
 # Executa a coleta de repositórios e PRs
+
 collect_repos_and_prs()
+
