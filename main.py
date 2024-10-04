@@ -220,4 +220,6 @@ def collect_repos_and_prs():
     return all_repos
 
 # Executa a coleta de repositórios e PRs
+
 collect_repos_and_prs()
+
