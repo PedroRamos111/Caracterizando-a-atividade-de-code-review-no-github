@@ -1,0 +1,142 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+add function for bool in math/rand,2018-02-13T04:36:22Z,,2021-11-09T15:20:05Z,2,,32770.72861111111,1,48,Closed
+runtime: fix typo in comment,2018-02-13T09:48:08Z,,2018-02-13T15:15:32Z,1,,5.456666666666667,1,29,Closed
+doc: adds missing log package,2018-03-28T23:22:58Z,,2018-10-04T17:30:39Z,1,,4554.128055555556,1,2,Closed
+encoding/json: include property name for marshal errors,2018-04-29T04:00:26Z,,2021-12-15T19:03:38Z,1,,31839.053333333333,2,365,Closed
+net/http: add Post example,2018-10-02T17:24:09Z,,2020-11-10T19:18:07Z,3,,18481.899444444443,1,90,Closed
+doc/code.html: update code.html to use go modules,2018-10-15T19:54:50Z,,2020-02-26T22:01:06Z,23,,11978.104444444445,1,89,Closed
+runtime: remove no-op pointer writes in treap rotations,2018-10-26T15:11:14Z,,2019-10-10T19:25:36Z,2,,8380.239444444445,1,1,Closed
+go/ast: break out after first variable in ExampleCommentMap,2018-11-04T09:56:39Z,,2019-02-27T00:00:57Z,1,,2750.0716666666667,1,106,Closed
+encoding/json: add simple example,2018-11-06T19:53:20Z,,2021-12-15T19:03:59Z,2,,27239.1775,1,62,Closed
+cmd/go: don't panic when go run is passed ... under nonexistent dir,2018-11-10T00:36:04Z,,2018-11-14T20:00:32Z,2,,115.40777777777778,2,195,Closed
+doc: add missing import of the log package,2018-11-11T20:19:36Z,,2021-12-15T19:03:59Z,1,,27118.73972222222,1,137,Closed
+encoding/json: document the unmarshalling of missing json fields,2018-11-12T10:23:06Z,,2021-12-15T19:04:00Z,1,,27104.681666666667,1,249,Closed
+crypto/x509: remove redundant slice index in domainToReverseLabels,2019-01-10T04:00:06Z,,2019-06-11T00:38:33Z,1,,3644.6408333333334,1,1,Closed
+crypto/x509: remove the redundant type declaration,2019-01-10T08:21:21Z,,2019-02-27T20:56:07Z,1,,1164.5794444444443,1,0,Closed
+bytes: check Write error before written length,2019-01-30T17:30:48Z,,2019-02-03T16:08:23Z,1,APPROVED,94.62638888888888,1,0,Closed
+bytes: add missing Write error check,2019-01-30T17:30:57Z,,2019-02-04T12:39:51Z,1,APPROVED,115.14833333333333,1,0,Closed
+bytes: clean up a test,2019-01-30T17:31:05Z,,2019-02-26T23:18:18Z,1,APPROVED,653.7869444444444,1,0,Closed
+cmd/compile/internal/ssa: ignore error from second call to MatchString in test,2019-01-30T17:31:21Z,,2019-03-02T17:37:33Z,1,,744.1033333333334,1,0,Closed
+cmd/internal/obj/mips: use r instead of p.Reg in call to OP_IRR,2019-01-30T17:32:06Z,,2019-03-03T17:05:29Z,1,,767.5563888888889,1,0,Closed
+cmd/internal/obj: stay consistent by defining loop variable outside loop header,2019-01-30T17:32:18Z,,2019-03-02T05:50:20Z,1,APPROVED,732.3005555555555,1,0,Closed
+os: simplify check whether to run subtest of TestRemoveAll,2019-01-30T17:34:36Z,,2019-03-05T02:48:48Z,1,,801.2366666666667,1,0,Closed
+misc: fix typos in various docs,2019-02-10T15:59:07Z,,2019-03-07T07:36:53Z,1,,591.6294444444444,4,0,Closed
+net: add IP.IsLocal,2019-02-17T08:44:22Z,,2020-03-27T20:25:15Z,6,,9707.681388888888,2,12,Closed
+cmd/compile: fix mips64 instruction UNPREDICTABLE bug,2019-02-28T06:45:02Z,,2019-03-05T03:55:37Z,1,,117.1763888888889,1,222,Closed
+syscall: avoid zeroing unused syscall arguments,2019-04-21T12:37:28Z,,2019-09-16T14:20:52Z,1,,3553.7233333333334,3,0,Closed
+encoding/binary : add float support to fast path,2019-05-02T14:54:14Z,,2019-11-08T18:45:22Z,1,,4563.852222222222,2,1971,Closed
+doc/go1.13: mention faster sync.Mutex/RWMutex/Once,2019-08-01T07:40:31Z,,2019-08-10T20:14:58Z,1,,228.57416666666666,1,65,Closed
+"log: modify `Logger` struct, make it supports multi output",2019-08-03T17:05:09Z,,2019-08-07T03:09:14Z,4,,82.06805555555556,1,261,Closed
+net/http: modify variables style,2019-08-07T10:15:40Z,,2019-08-21T08:44:46Z,1,,334.485,1,21,Closed
+cmd/go: make env -w and -u validate GOOS and GOARCH values,2019-09-10T20:57:57Z,,2019-11-10T13:43:04Z,1,,1456.7519444444445,3,117,Closed
+testing/iotest: add ErrReader,2019-10-07T18:18:43Z,,2020-08-17T16:40:59Z,1,,7558.3711111111115,3,76,Closed
+fmt: do not remove trailing zeros for %g and %G with #(sharp) flag,2020-01-15T23:55:11Z,,2020-02-26T08:46:49Z,2,,992.8605555555556,2,12,Closed
+os: do not use procfs for os.Executable in dragonfly,2020-01-28T11:17:04Z,,2020-10-28T17:10:26Z,2,,6581.889444444444,4,473,Closed
+cmd/go/internal/vet: print line numbers appropriately on list errors,2020-02-02T22:44:19Z,,2020-02-24T22:16:21Z,1,,527.5338888888889,8,334,Closed
+update .gitignore,2020-03-16T06:21:35Z,,2020-03-16T20:04:09Z,1,,13.709444444444445,1,1298,Closed
+container/list: check the list state before mutation,2020-05-12T08:16:09Z,,2021-12-15T19:07:12Z,1,,13978.850833333334,2,330,Closed
+encoding/asn1: respect omitempty when marshaling nil values,2020-05-14T16:40:46Z,,2021-12-15T19:07:13Z,1,,13922.440833333334,2,260,Closed
+math: add more examples,2020-05-16T14:57:11Z,,2021-12-15T19:07:13Z,1,,13876.167222222222,1,35,Closed
+cmd/cgo: close file,2020-05-17T16:02:44Z,,2020-08-18T04:14:18Z,1,,2220.192777777778,1,0,Closed
+syscall: support O_SYNC flag for os.OpenFile on windows,2020-05-25T17:35:28Z,,2021-11-16T06:01:34Z,2,,12948.435,1,302,Closed
+path/path: Avoid removing wildcard in front of /..,2020-05-31T09:52:08Z,,2020-12-05T09:47:42Z,2,,4511.926111111111,4,15,Closed
+encoding/csv: allow for interpretation of empty lines,2020-06-12T13:32:57Z,,2021-12-15T19:09:24Z,2,,13229.6075,2,295,Closed
+io: add ErrBadWriteCount,2020-07-02T01:40:44Z,,2020-10-13T17:46:52Z,1,,2488.1022222222223,2,14,Closed
+crypto/ecdsa: fix dead reference link,2020-07-11T14:18:53Z,,2021-03-13T11:28:49Z,1,,5877.165555555555,1,84,Closed
+strings: improve performance of ToUpper and ToLower,2020-07-27T13:10:12Z,,2021-12-15T19:09:30Z,1,,12149.988333333333,2,279,Closed
+cmd/go: support non .go named files in go build,2020-08-16T18:08:05Z,,2021-12-15T19:10:12Z,1,,11665.035277777777,4,14,Closed
+cmd/compile/internal/gc: use plural nouns in comments,2020-10-19T11:58:42Z,,2020-10-19T21:42:41Z,1,,9.733055555555556,1,0,Closed
+refractor,2020-11-11T15:29:29Z,,2021-10-30T00:04:05Z,1,,8456.576666666666,2,35,Closed
+runtime/pprof: method StartCPUProfile adds a parameter to allow custom cpu rate.,2020-11-12T14:23:07Z,,2021-12-15T19:10:46Z,1,,9556.794166666667,1,12,Closed
+net/http: allow sending 1xx responses,2020-11-13T18:57:32Z,,2022-05-17T16:14:07Z,2,,13197.27638888889,4,956,Closed
+database/sql: remove unnecessary types in composite literals,2020-11-15T11:53:32Z,,2021-03-25T14:54:59Z,2,,3123.0241666666666,1,0,Closed
+internal/fmtsort: sort the unsafe pointers in map,2020-11-16T04:02:27Z,,2020-11-19T02:19:41Z,1,,70.28722222222223,2,188,Closed
+net: pass MSG_CMSG_CLOEXEC flag in ReadMsgUnix ,2020-11-22T10:23:41Z,,2021-04-19T21:30:42Z,18,,3563.1169444444445,12,362,Closed
+net: add IP.IsPrivate,2020-11-24T01:06:36Z,,2021-03-22T21:39:06Z,3,,2852.5416666666665,2,107,Closed
+encoding/xml: prevent multiple XMLNS attributes,2020-11-24T15:30:44Z,,2023-08-29T13:03:26Z,1,,24189.545,2,347,Closed
+cmd/go: support go go gadget syntax,2020-12-20T02:45:31Z,,2024-03-16T13:29:11Z,1,,28378.727777777778,1,81,Closed
+misc/trace: fix typo in message,2020-12-22T14:34:50Z,,2021-12-15T19:10:53Z,2,,8596.600833333334,1,17,Closed
+[dev.boringcrypto] crypto/boring: Introduce OpenSSL port,2021-01-25T17:59:57Z,,2021-07-06T22:06:50Z,1,,3892.114722222222,44,1945,Closed
+fix: io/copy document. fix #44411,2021-02-21T02:56:42Z,,2021-02-21T23:18:00Z,1,,20.355,1,79,Closed
+all: fix spelling,2021-03-05T03:09:22Z,,2021-05-14T01:00:09Z,1,,1677.846388888889,5,4,Closed
+cmd/link: bring back R_ARM_V4BX for Annapurna AL-212 and possibly others,2021-03-14T17:26:32Z,,2023-06-13T22:30:51Z,1,,19709.071944444444,1,1387,Closed
+doc: change <a/> to </a> in spec,2021-04-26T10:38:58Z,,2021-04-27T04:46:55Z,1,,18.1325,1,0,Closed
+doc/go1.17: document testing changes for Go 1.17,2021-05-22T21:11:36Z,,2021-06-04T14:34:58Z,1,,305.38944444444445,1,26,Closed
+"runtime,cmd/link/internal/ld: fix typos",2021-05-26T09:48:50Z,,2021-05-26T16:16:18Z,2,,6.457777777777777,2,9,Closed
+test/bench/go1: fix size for RegexpMatchMedium_32,2021-07-16T20:39:16Z,,2021-07-18T21:06:06Z,1,,48.44722222222222,1,0,Closed
+go/printer: secure margin for testing on slowly device,2021-07-22T04:52:06Z,,2022-04-18T06:20:37Z,1,,6481.475277777778,1,12,Closed
+"doc/asm: update pseudo SP desc, SP points to the bottom of the local stack",2021-07-27T12:13:58Z,,2021-08-16T16:34:35Z,1,,484.3436111111111,1,169,Closed
+cmd/go: go clean should list all deleted files,2021-08-04T14:59:29Z,,2021-11-09T03:06:20Z,1,,2316.1141666666667,1,155,Closed
+math/big: Support precision of -1 in Rat.FloatString,2021-08-24T15:33:19Z,,2021-08-26T02:59:41Z,1,,35.43944444444445,1,12,Closed
+net/http: add MaxBytesHandler,2021-08-31T20:32:38Z,,2021-11-09T18:29:18Z,3,,1677.9444444444443,2,12,Closed
+Links for installer in readme,2021-10-04T12:09:47Z,,2021-10-20T05:08:57Z,1,,376.9861111111111,1,1298,Closed
+modify the test case,2021-10-09T06:36:10Z,,2021-10-11T19:13:17Z,1,,60.618611111111115,1,44,Closed
+doc: go1.18 release notes for CLs 323318/332771,2021-11-15T07:51:32Z,,2021-11-27T19:53:38Z,1,,300.035,1,16,Closed
+syscall/js: allocate makeArgs slices on stack,2021-11-25T18:39:44Z,,2024-04-04T19:44:21Z,4,,20665.076944444445,1,879,Closed
+debug/dwarf: remove unnecessary conditional in typeUnitReader.Seek,2021-11-28T07:42:19Z,,2022-05-07T00:31:36Z,1,,3832.821388888889,1,143,Closed
+cmd/go: cache coverage profile with tests,2022-01-06T23:10:15Z,,2023-07-25T21:50:49Z,1,,13558.676111111112,4,328,Closed
+strings/clone: pretty comments,2022-01-21T14:17:52Z,,2022-05-27T09:00:17Z,1,,3018.7069444444446,1,30,Closed
+io: add WriterTo support to MultiReader,2022-01-27T02:42:32Z,,2022-01-28T09:35:58Z,1,,30.890555555555554,2,18,Closed
+net/http: remove Content-Encoding in writeNotModified,2022-01-29T14:34:27Z,,2022-07-11T08:26:42Z,1,,3905.8708333333334,2,310,Closed
+"net/http: expose ""http: server gave HTTP response to HTTPS client"" error",2022-01-31T23:54:41Z,,2023-04-07T19:53:36Z,1,,10339.981944444444,2,150,Closed
+cmd/compile: edit README,2022-02-02T17:55:35Z,,2022-02-02T19:33:45Z,1,,1.636111111111111,1,62,Closed
+net/http: trim cookie names,2022-04-03T00:40:20Z,,2022-08-12T16:28:04Z,1,,3159.7955555555554,2,449,Closed
+test/typeparam: fix copyright message,2022-04-17T15:12:23Z,,2022-04-21T23:45:43Z,1,,104.55555555555556,1,0,Closed
+reflect: support Len and Cap on pointer-to-array Value,2022-04-19T10:06:57Z,,2022-04-25T23:23:09Z,4,,157.27,2,16,Closed
+database/sql: add SetMaxBadConnRetries,2022-05-08T06:35:34Z,,2022-07-25T12:01:03Z,2,,1877.4247222222223,2,197,Closed
+time: adjust time zone offset if desired location differs mere seconds when parsing string,2022-07-16T17:16:51Z,,2023-01-31T17:35:45Z,1,,4776.315,2,287,Closed
+cmd/go: add space after comma in 'go help test',2022-07-18T09:25:50Z,,2022-07-25T18:18:08Z,1,,176.87166666666667,2,107,Closed
+cmd/cgo: panic when length too large,2022-07-20T08:35:08Z,,2022-07-20T23:54:11Z,1,,15.3175,1,14,Closed
+cmd/go: fix data race in TestScript,2022-08-13T05:16:22Z,,2022-08-24T00:17:26Z,1,,259.0177777777778,1,14,Closed
+runtime: fix printlock/printunlock deadlock,2022-09-01T07:55:18Z,,2022-09-08T07:51:08Z,1,,167.93055555555554,4,12,Closed
+cmd/go/internal/load: improve comments,2022-10-10T14:50:05Z,,2024-01-29T17:30:19Z,1,,11426.670555555556,1,138,Closed
+net: The Go DNS resolver on Windows should filter disabled interfaces,2022-10-11T20:13:56Z,,2023-06-02T17:04:25Z,2,,5612.841388888889,1,187,Closed
+debug/elf: use saferio.SliceCap when decoding ELF sections,2022-10-24T23:32:05Z,,2022-10-25T16:56:57Z,1,,17.414444444444445,1,190,Closed
+debug/elf: guard access to File.gnuVersym,2022-10-26T11:35:31Z,,2022-10-26T22:30:55Z,1,,10.923333333333334,1,490,Closed
+live objects metric,2022-11-20T03:23:02Z,,2023-05-23T07:35:22Z,3,,4420.205555555555,4,65,Closed
+all: upgrade Unicode from 13.0.0 to 15.0.0,2022-12-12T18:58:27Z,,2023-02-06T04:38:57Z,1,,1329.675,6,776,Closed
+encoding/asn1: use errors.New to replace fmt.Errorf,2022-12-19T04:00:09Z,,2023-12-30T04:52:54Z,1,,9024.879166666668,1,0,Closed
+cmd api NewWalker Reducing the code makes the code more concise,2022-12-22T03:15:33Z,,2023-04-10T03:48:53Z,1,,2616.5555555555557,1,114,Closed
+"net/http: check for nil, nil return from DialContext as well as Dial",2022-12-22T17:18:41Z,,2023-05-24T21:35:15Z,1,,3676.2761111111113,1,0,Closed
+cmd/link: remove objIdx structure,2022-12-25T23:15:56Z,,2024-03-23T04:35:53Z,2,,10877.3325,1,351,Closed
+invalid parameters were omitted mode,2023-01-10T06:59:17Z,,2023-02-15T03:01:03Z,1,,860.0294444444445,1,36,Closed
+net/http: add ResponseController http2 request without body read deadline test,2023-02-02T22:09:01Z,,2024-03-06T19:26:41Z,1,,9549.294444444444,1,34,Closed
+crypto: support errors.Unwrap() for more crypto errors,2023-02-03T17:17:24Z,,2023-10-04T14:04:08Z,1,,5828.778888888889,11,201,Closed
+net/http: delete blank lines,2023-02-14T06:55:03Z,,2023-07-15T16:03:21Z,7,,3633.1383333333333,10,0,Closed
+strconv: add Atoi test cases with characters less than '0',2023-02-17T05:37:27Z,,2023-02-21T05:16:46Z,1,,95.65527777777778,1,0,Closed
+errors: correct spelling,2023-03-15T11:15:21Z,,2023-03-16T16:11:53Z,2,,28.942222222222224,1,0,Closed
+cmd: fix typo in webhtml.go,2023-03-15T14:55:27Z,,2023-03-15T22:54:57Z,2,,7.991666666666666,1,21,Closed
+os: avoid creating a new file in Truncate on Windows,2023-03-17T05:45:21Z,,2023-03-22T07:11:48Z,2,,121.44083333333333,2,401,Closed
+"all: replace fmt.Sprintf(""%d"") with strconv.Itoa",2023-03-20T10:01:26Z,,2023-03-31T18:46:08Z,3,,272.745,7,300,Closed
+sync: fix TestCondSignalStealing flake,2023-03-20T23:21:16Z,,2023-03-22T18:59:32Z,1,,43.63777777777778,1,16,Closed
+errors: improve the godoc for Join and Unwrap,2023-03-28T23:23:28Z,,2023-03-30T23:55:36Z,1,,48.535555555555554,2,159,Closed
+sort: clarify that sort/slice uses reflection in doc,2023-04-05T05:24:02Z,,2023-04-06T23:45:24Z,1,,42.35611111111111,1,70,Closed
+errors: optimize *joinError's Error method for less allocation and faster execution,2023-05-06T18:24:51Z,,2023-07-31T18:43:32Z,4,,2064.311388888889,1,130,Closed
+net/http/httptest: remove unnecessary creation of http.Transport,2023-05-11T03:28:10Z,,2023-11-06T21:28:24Z,1,,4314.0038888888885,1,150,Closed
+cmd/go/internal/generate: error if failed to find a package,2023-05-13T18:45:05Z,,2023-09-09T01:56:19Z,1,,2839.1872222222223,2,121,Closed
+internal/trace: reduce if statement,2023-06-14T04:36:22Z,,2023-06-23T17:49:56Z,1,,229.22611111111112,1,163,Closed
+all: fix typos,2023-06-23T05:44:42Z,,2023-07-18T20:03:19Z,2,,614.3102777777777,16,0,Closed
+encoding/json: prevent duplicate slicebytetostring,2023-07-09T07:30:35Z,,2024-04-02T15:04:33Z,1,,6439.566111111111,2,1252,Closed
+reflect: deprecate PtrTo,2023-07-19T12:16:02Z,,2023-07-27T23:34:47Z,1,,203.3125,4,119,Closed
+cmd/go: missing name in failed command error,2023-07-27T07:39:07Z,,2023-08-02T15:22:01Z,1,,151.715,2,121,Closed
+slices: add Concat,2023-08-07T17:06:33Z,,2023-08-08T15:46:14Z,1,,22.66138888888889,3,12,Closed
+database/sql: wrap errors with %w in driverArgsConnLocked,2023-12-15T02:15:00Z,,2024-02-27T16:35:59Z,1,,1790.3497222222222,3,284,Closed
+runtime: crash asap and extend total sleep time for slow machine in test,2024-01-08T14:56:34Z,,2024-05-10T16:08:44Z,2,,2953.2027777777776,1,210,Closed
+errors: unwrap joinError to avoid deeply-nested joins,2024-01-30T02:17:52Z,,2024-02-16T03:19:02Z,1,,409.01944444444445,2,1203,Closed
+Update and rename SECURITY.md to Nytonecombek,2024-02-01T05:52:24Z,,2024-02-01T07:52:32Z,2,,2.002222222222222,1,1300,Closed
+cmd/internal/bio: query /proc/sys/vm/max_map_count on linux if possible,2024-02-04T12:44:40Z,,2024-02-06T11:35:52Z,1,,46.85333333333333,1,82,Closed
+crypto/subtle: remove unused code,2024-02-16T09:44:37Z,,2024-02-16T16:01:49Z,1,,6.286666666666667,1,0,Closed
+reflect: make Value.Comparable return true for nil interface value,2024-02-16T12:59:14Z,,2024-02-17T00:19:07Z,1,,11.331388888888888,2,12,Closed
+crypto/x509: fix typo,2024-02-21T02:14:12Z,,2024-02-26T21:04:54Z,1,,138.845,1,0,Closed
+runtime/coverage: remove refs to deprecated io/ioutil,2024-02-23T08:50:25Z,,2024-02-26T14:46:05Z,1,,77.92777777777778,1,0,Closed
+crypto/md5: modify md5block_arm64.s optimization md5,2024-03-19T03:24:49Z,,2024-09-06T02:21:49Z,1,,4102.95,1,2510,Closed
+runtime: add ERMS-based memmove support for modern CPU platforms,2024-04-22T09:11:54Z,,2024-07-22T21:29:55Z,1,,2196.300277777778,4,1362,Closed
+crypto/x509: include OID in duplicate extension error message,2024-05-03T14:54:10Z,,2024-05-06T17:43:30Z,1,,74.82222222222222,1,363,Closed
+fmt: replace sort with slices to reduce dependency tree,2024-05-18T16:18:11Z,,2024-08-01T06:08:05Z,1,,1789.8316666666667,1,236,Closed
+internal/concurrent: introduce noescape wrapper function,2024-07-18T17:19:16Z,,2024-07-22T01:48:00Z,1,,80.47888888888889,2,45,Closed
+"bytes,slices,strings: optimize Repeat a bit",2024-08-01T16:09:19Z,,2024-08-01T21:43:16Z,1,,5.565833333333333,3,157,Closed
+"archive/zip,cmd/compile: simplify the split function",2024-08-02T11:28:02Z,,2024-08-03T01:11:24Z,1,,13.722777777777777,2,75,Closed
+src: fix typos,2024-08-20T08:24:27Z,,2024-08-20T21:08:39Z,3,,12.736666666666666,23,22,Closed
+archive/tar: make use of maps.Clone,2024-09-12T16:24:34Z,,2024-09-13T21:10:07Z,1,,28.759166666666665,1,0,Closed
+encoding/gob: make use of maps.Clone,2024-09-12T16:29:45Z,,2024-09-13T21:10:09Z,1,,28.673333333333332,1,0,Closed
+encoding/json: add omitzero option,2024-09-25T12:17:17Z,,2024-10-02T14:31:38Z,2,,170.23916666666668,3,12,Closed

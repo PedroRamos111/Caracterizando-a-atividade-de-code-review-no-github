@@ -1,0 +1,947 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Don't assume the project is hosted at the root,2016-07-22T19:17:34Z,2016-07-24T23:07:33Z,2016-07-24T23:07:33Z,1,,51.83305555555555,3,104,Merged
+server-side render POC,2016-07-25T13:41:06Z,,2016-07-25T19:50:28Z,1,,6.1561111111111115,16,379,Closed
+Add support for a static folder,2016-07-26T18:50:36Z,,2016-09-22T19:14:26Z,1,,1392.3972222222221,4,161,Closed
+Creating a new app in the current directory,2016-08-05T01:24:22Z,2016-08-08T04:05:58Z,2016-08-08T04:05:58Z,4,,74.69333333333333,4,17,Merged
+Add new github docs folder hosting option,2016-08-31T04:13:46Z,,2016-09-17T22:09:20Z,2,,425.9261111111111,2,515,Closed
+Added instructions for using local images,2016-09-05T19:00:26Z,,2016-09-21T14:52:48Z,1,,379.8727777777778,1,16,Closed
+fix: Use css sourceMaps in development,2016-09-05T20:11:00Z,,2016-09-27T14:21:52Z,1,,522.1811111111111,1,129,Closed
+Proxy: add websocket support,2016-09-07T01:35:07Z,,2016-09-30T12:49:09Z,2,,563.2338888888889,1,0,Closed
+Check the app name before proceeding.,2016-09-11T15:41:22Z,2016-09-11T22:53:56Z,2016-09-11T22:53:57Z,5,,7.209444444444444,1,12,Merged
+Make --scripts-version work with forked react-scripts,2016-09-12T11:18:43Z,2016-09-18T08:03:05Z,2016-09-18T08:03:05Z,2,,140.73944444444444,1,21,Merged
+"Crash the app if does not find index.html, index.js or favico.ico",2016-09-15T15:49:30Z,,2016-09-18T08:27:31Z,1,,64.63361111111111,4,275,Closed
+Reload app when `paths.appHtml` changes #656,2016-09-15T21:27:56Z,,2016-09-30T12:28:45Z,1,,351.0136111111111,1,0,Closed
+Add audio support in url loader,2016-09-17T13:51:15Z,2016-09-17T19:20:49Z,2016-09-17T19:20:49Z,2,,5.4927777777777775,4,0,Merged
+Add notes on enabling Travis CI for created repo,2016-09-18T21:10:21Z,2016-09-23T11:00:46Z,2016-09-23T11:00:46Z,2,,109.84027777777777,1,1467,Merged
+Add test for special scripts versions,2016-09-19T05:44:11Z,2016-09-19T07:51:25Z,2016-09-19T07:51:25Z,3,,2.1205555555555557,1,63,Merged
+Create a shareable ESLint configuration package,2016-09-20T21:26:51Z,2016-09-21T14:08:02Z,2016-09-21T14:08:02Z,15,,16.68638888888889,12,918,Merged
+Document existing work-around for absolute imports.,2016-09-21T14:29:45Z,,2016-11-20T19:11:38Z,3,,1444.6980555555556,1,440,Closed
+Reads CDN_URL to populate webpack publicPath,2016-09-21T16:05:10Z,,2016-09-30T12:58:15Z,6,,212.88472222222222,2,210,Closed
+Load environment file in development,2016-09-21T20:24:36Z,2016-09-23T10:59:38Z,2016-09-23T10:59:38Z,9,,38.583888888888886,6,541,Merged
+Add JSX source transform for better warnings,2016-09-23T13:31:20Z,2016-09-23T15:53:22Z,2016-09-23T15:53:22Z,7,,2.3672222222222223,2,557,Merged
+Extract some utilities into a separate package,2016-09-23T17:20:41Z,2016-09-23T19:53:09Z,2016-09-23T19:53:09Z,3,,2.5411111111111113,21,44,Merged
+Include some advice on using styles,2016-09-24T11:44:46Z,,2016-11-20T19:18:23Z,4,,1375.5602777777779,2,303,Closed
+Warns when the user is using special webpack syntax,2016-09-24T11:54:15Z,,2016-09-30T12:42:41Z,1,,144.8072222222222,3,310,Closed
+Add Storybook to the user guide,2016-09-24T13:46:39Z,2016-11-20T19:15:59Z,2016-11-20T19:16:00Z,14,,1373.4888888888888,1,234,Merged
+Add syntax error overlay in development,2016-09-25T00:28:42Z,2016-09-25T10:31:11Z,2016-09-25T10:31:11Z,5,,10.04138888888889,6,396,Merged
+Forked react-scripts should retain the binary name,2016-09-25T18:50:51Z,2016-09-25T22:31:53Z,2016-09-25T22:31:54Z,3,,3.6838888888888888,2,12,Merged
+Beaufity output of eject.js script,2016-09-26T18:59:00Z,2016-09-30T17:39:24Z,2016-09-30T17:39:24Z,8,,94.67333333333333,1,732,Merged
+Document forking react-scripts instead of ejecting,2016-09-27T11:10:02Z,,2018-01-08T14:17:15Z,22,,11235.120277777778,1,884,Closed
+explicitly mention that app reloads via full page reloads,2016-09-30T12:37:32Z,,2016-10-23T13:49:58Z,2,,553.2072222222222,1,246,Closed
+Define process.env as object,2016-09-30T15:40:25Z,2016-09-30T17:06:26Z,2016-09-30T17:06:26Z,2,,1.4336111111111112,2,72,Merged
+Fix some typos,2016-10-01T03:06:54Z,2016-10-01T09:13:43Z,2016-10-01T09:13:43Z,3,,6.113611111111111,7,76,Merged
+add logging of existing default port process on start,2016-10-01T18:31:46Z,2016-11-22T20:44:22Z,2016-11-22T20:44:22Z,11,,1250.21,4,1005,Merged
+"Promote ""React must be in scope"" to be an error",2016-10-02T18:07:51Z,2016-10-03T11:37:35Z,2016-10-03T11:37:35Z,1,,17.495555555555555,1,494,Merged
+Support passing scoped package names to --scripts-version arg,2016-10-03T03:25:23Z,2016-10-11T11:38:45Z,2016-10-11T11:38:45Z,5,,200.22277777777776,1,206,Merged
+Update instructions on publishing to GitHub pages,2016-10-04T11:26:35Z,2016-10-04T12:34:41Z,2016-10-04T12:34:41Z,3,,1.135,2,137,Merged
+favicon.ico spelled incorrectly in index.html,2016-10-04T20:51:18Z,2016-10-04T21:54:35Z,2016-10-04T21:54:35Z,1,,1.0547222222222221,1,0,Merged
+Dispose error overlay when linting errors have been corrected,2016-10-05T19:47:05Z,2016-10-11T11:44:58Z,2016-10-11T11:44:58Z,2,,135.96472222222224,1,131,Merged
+Exit production build if any errors are in build stats,2016-10-06T01:34:19Z,2016-10-07T14:12:53Z,2016-10-07T14:12:53Z,2,,36.64277777777778,1,427,Merged
+Fix using pre-release tags with a tarball url in `--scripts-version`,2016-10-09T02:05:47Z,2016-10-12T12:46:14Z,2016-10-12T12:46:14Z,8,,82.67416666666666,1,1350,Merged
+Disable ES2015 transforms based on node version using babel-preset-env,2016-10-09T11:54:22Z,2016-10-11T11:25:43Z,2016-10-11T11:25:43Z,3,,47.5225,2,12,Merged
+Adds recipe for adding React Router (v4) to README template,2016-10-11T00:37:44Z,,2017-04-23T19:23:24Z,1,,4674.761111111111,2,87,Closed
+Create asset filenames mapping on the build output,2016-10-11T13:18:54Z,2016-10-11T14:19:52Z,2016-10-11T14:19:52Z,3,,1.0161111111111112,2,738,Merged
+Enable useBuiltIns option on object-rest-spread,2016-10-13T22:54:59Z,2016-11-21T22:08:58Z,2016-11-21T22:08:58Z,2,,935.2330555555556,3,75,Merged
+Added Rails link to User Guide,2016-10-17T14:12:28Z,,2017-01-23T19:04:23Z,1,,2356.865277777778,43,84,Closed
+add information about React-styleguidist,2016-10-17T22:27:46Z,,2017-02-24T19:55:18Z,2,,3117.458888888889,1,1403,Closed
+Lerna update README hack,2016-10-18T21:33:34Z,,2017-02-11T23:01:45Z,2,,2785.469722222222,2,98,Closed
+Document what npm build does and pushState,2016-10-19T22:18:15Z,2016-12-05T21:57:54Z,2016-12-05T21:57:54Z,4,,1127.6608333333334,1,399,Merged
+Add support for `PUBLIC_URL` env variable,2016-10-20T15:39:55Z,,2017-02-10T04:16:44Z,14,,2700.613611111111,13,544,Closed
+Crash the build during CI whenever linter warnings are encountered,2016-10-22T14:26:10Z,2016-12-03T12:39:30Z,2016-12-03T12:39:30Z,3,,1006.2222222222222,2,833,Merged
+Always build before deploying to gh-pages,2016-10-25T11:23:14Z,2016-10-28T12:51:06Z,2016-10-28T12:51:06Z,3,,73.46444444444444,1,618,Merged
+Added info on using global variables.,2016-10-28T13:00:54Z,2016-11-20T19:29:45Z,2016-11-20T19:29:45Z,3,,558.4808333333333,1,16,Merged
+Explain the usage of react-jsx-source & react-jsx-self,2016-10-30T16:48:53Z,2016-11-17T12:54:12Z,2016-11-17T12:54:12Z,1,,428.0886111111111,1,133,Merged
+Add SASS support documentation #1007,2016-11-04T11:27:22Z,2017-02-12T00:38:59Z,2017-02-12T00:38:59Z,14,,2389.1936111111113,1,286,Merged
+Add BuildProgressPlugin,2016-11-05T01:44:49Z,,2018-01-09T12:58:16Z,9,,10331.224166666667,3,93,Closed
+add webpack-env-define-plugin package,2016-11-09T23:48:02Z,,2017-02-24T18:56:00Z,8,,2563.132777777778,6,260,Closed
+Add support for non-interactive terminal,2016-11-10T11:34:20Z,2016-11-23T21:36:01Z,2016-11-23T21:36:01Z,9,,322.02805555555557,1,20,Merged
+Use url-loader with limit 10k as a default loader.,2016-11-18T09:46:53Z,2016-11-20T22:00:10Z,2016-11-20T22:00:10Z,17,,60.22138888888889,3,138,Merged
+Add instructions to use flow-typed,2016-11-20T20:25:29Z,,2016-12-13T16:02:27Z,1,,547.6161111111111,1,0,Closed
+Remove bundledDependencies,2016-11-20T22:18:09Z,2016-11-21T11:26:07Z,2016-11-21T11:26:07Z,5,,13.132777777777777,6,137,Merged
+exclude html from default loader.,2016-11-21T10:18:35Z,2016-11-21T11:57:21Z,2016-11-21T11:57:21Z,1,,1.646111111111111,2,6,Merged
+Fix wp loaders,2016-11-21T11:33:41Z,2016-11-21T22:03:40Z,2016-11-21T22:03:40Z,5,,10.499722222222223,4,15,Merged
+Add a note for OSX users about watchman and jest,2016-11-21T20:38:27Z,2016-11-23T13:17:03Z,2016-11-23T13:17:03Z,2,,40.64333333333333,1,89,Merged
+Enable src/node_modules,2016-11-21T20:46:43Z,,2018-01-08T23:14:44Z,1,,9914.466944444444,2,1192,Closed
+babel-plugin-lodash,2016-11-22T20:20:02Z,,2017-02-24T17:41:12Z,3,,2253.3527777777776,4,360,Closed
+Add runtime error overlay,2016-11-26T06:08:31Z,2017-03-07T02:59:58Z,2017-03-07T02:59:58Z,19,,2420.8575,5,1265,Merged
+Add documentation for customizing Bootstrap theme,2016-11-30T14:04:13Z,2017-02-24T17:48:17Z,2017-02-24T17:48:17Z,3,,2067.7344444444443,1,74,Merged
+add support for installing react-scripts using npm link,2016-11-30T23:22:56Z,,2017-02-23T04:03:36Z,2,,2020.6777777777777,1,1183,Closed
+Add a note about vscode-jest,2016-12-01T13:22:26Z,2016-12-01T16:09:43Z,2016-12-01T16:09:43Z,3,,2.7880555555555557,1,433,Merged
+Add an explicit root to webpack.resolve so it searchs there first,2016-12-01T21:26:59Z,,2016-12-07T17:10:39Z,3,,139.7277777777778,2,107,Closed
+add es6 syntax to webpackHotDevClient.js,2016-12-04T18:25:33Z,,2017-02-12T01:10:43Z,1,,1662.7527777777777,3,51,Closed
+Add flow typechecking as a webpack plugin,2016-12-04T18:26:46Z,,2018-01-09T12:07:35Z,82,,9617.680277777778,8,1268,Closed
+Make build fail on ESLint warnings if running CI,2016-12-05T18:14:20Z,,2016-12-06T21:06:41Z,1,,26.8725,2,308,Closed
+Use a more sophisticated template for end-to-end testing.,2016-12-07T11:32:06Z,2017-01-23T19:43:17Z,2017-01-23T19:43:17Z,21,,1136.1863888888888,78,934,Merged
+NPM version check for tip,2016-12-07T15:38:02Z,2017-02-24T20:25:19Z,2017-02-24T20:25:19Z,8,,1900.7880555555555,2,82,Merged
+"Use ""commander"" for  cli argv handling",2016-12-07T15:50:46Z,2016-12-11T09:01:20Z,2016-12-11T09:01:20Z,1,,89.17611111111111,4,217,Merged
+Let Jest handle all file types,2016-12-07T16:52:43Z,2016-12-07T20:28:03Z,2016-12-07T20:28:03Z,4,,3.588888888888889,5,834,Merged
+Add stylelint,2016-12-09T17:11:43Z,,2018-11-01T16:13:57Z,10,,16607.03722222222,51,917,Closed
+Update CONTRIBUTING.md,2016-12-10T01:52:12Z,2016-12-10T14:01:50Z,2016-12-10T14:01:50Z,2,,12.160555555555556,1,0,Merged
+Fix weird lint output ,2016-12-10T08:24:44Z,2016-12-10T14:48:27Z,2016-12-10T14:48:27Z,3,,6.395277777777777,1,797,Merged
+Remove code duplication,2016-12-11T13:43:03Z,,2018-01-09T14:30:30Z,4,,9456.790833333333,1,80,Closed
+Make target browsers configurable,2016-12-12T01:33:59Z,,2018-09-21T12:13:01Z,1,,15562.650555555556,6,725,Closed
+"Install React, ReactDOM and React-Scripts at the same time",2016-12-12T10:48:50Z,2017-02-23T03:55:41Z,2017-02-23T03:55:41Z,7,,1745.1141666666667,2,1818,Merged
+gh-1269: Enabling nested folder paths for project name,2016-12-14T12:17:31Z,2016-12-18T17:51:05Z,2016-12-18T17:51:05Z,10,,101.55944444444444,3,17,Merged
+Use NODE_PATH env var in jest config,2016-12-14T16:39:22Z,,2017-06-26T15:17:50Z,5,,4654.641111111111,1,12,Closed
+Create git repository with initial commit,2016-12-18T16:59:13Z,2018-01-19T13:12:34Z,2018-01-19T13:12:34Z,13,,9524.2225,3,849,Merged
+Upgrade to webpack v2,2016-12-18T20:22:42Z,2017-02-11T19:11:01Z,2017-02-11T19:11:01Z,24,,1318.8052777777777,8,957,Merged
+Whitelist files that can be embedded through url-loader,2016-12-21T12:51:41Z,2017-03-07T06:24:56Z,2017-03-07T06:24:56Z,13,,1817.5541666666666,7,1151,Merged
+List features beyond ES6 supported by create-react-app,2016-12-22T17:45:36Z,2017-02-12T01:57:42Z,2017-02-12T01:57:42Z,1,,1232.2016666666666,1,0,Merged
+Feature/different env config files #1343,2017-01-03T11:24:03Z,2017-05-12T10:30:59Z,2017-05-12T10:30:59Z,6,,3095.1155555555556,13,5,Merged
+Fix workflow if react-scripts package is linked via npm-link,2017-01-06T16:37:29Z,2017-02-24T16:51:16Z,2017-02-24T16:51:16Z,8,,1176.2297222222223,2,330,Merged
+Fix importing npm linked libraries,2017-01-07T00:25:20Z,2017-03-23T00:29:53Z,2017-03-23T00:29:53Z,1,,1800.0758333333333,2,1300,Merged
+feature/add-first-class-debugging-support-for-tests,2017-01-07T01:11:26Z,,2017-04-28T08:47:58Z,8,,2671.608888888889,10,585,Closed
+Material UI instructions for the User Guide,2017-01-19T07:34:20Z,,2017-03-14T03:02:37Z,4,,1291.471388888889,1,73,Closed
+Use offline cached version with yarn when it's possible,2017-01-21T01:30:52Z,2017-02-28T15:27:54Z,2017-02-28T15:27:54Z,13,,925.9505555555555,1,352,Merged
+Modularise scripts,2017-01-23T23:38:40Z,2017-03-04T03:05:07Z,2017-03-04T03:05:07Z,4,,939.4408333333333,9,785,Merged
+Make all vars accessiable in index.html,2017-01-24T15:22:44Z,2017-02-10T03:41:04Z,2017-02-10T03:41:04Z,7,,396.30555555555554,3,115,Merged
+Add links to good basic example apps.,2017-01-24T21:23:03Z,,2018-01-08T16:10:30Z,2,,8370.790833333333,4,133,Closed
+eject: Additionally remove `react-scripts` from dependencies,2017-01-27T11:46:41Z,2017-01-27T16:26:36Z,2017-01-27T16:26:36Z,2,,4.665277777777778,1,247,Merged
+E2e jsdom fix,2017-01-30T13:42:48Z,2017-01-30T19:24:13Z,2017-01-30T19:24:13Z,3,,5.690277777777778,20,629,Merged
+Superficial markup and style changes to App template,2017-01-30T17:52:45Z,,2017-10-03T20:36:50Z,8,,5906.734722222222,0,845,Closed
+Improve e2e-kitchensink and Jest coverage,2017-02-04T18:28:33Z,,2017-02-08T04:07:54Z,31,,81.65583333333333,37,115,Closed
+"Support setting ""homepage"" to ""."" to generate relative asset paths",2017-02-06T15:44:31Z,2017-02-10T05:44:01Z,2017-02-10T05:44:01Z,8,,85.99166666666666,2,603,Merged
+Make build exit with error code when interrupted,2017-02-07T15:29:52Z,2017-02-11T00:12:37Z,2017-02-11T00:12:37Z,4,,80.7125,1,235,Merged
+Update comments for loaders webpack to clarify excluding file extensions,2017-02-08T14:22:49Z,2017-02-08T22:25:03Z,2017-02-08T22:25:03Z,3,,8.037222222222223,2,526,Merged
+Add `PUBLIC_URL` env variable for advanced use (#937),2017-02-08T22:54:14Z,2017-02-10T04:15:16Z,2017-02-10T04:15:16Z,18,,29.350555555555555,11,225,Merged
+Gracefully handle initial installation error (#1505),2017-02-09T15:24:18Z,2017-02-25T16:48:53Z,2017-02-25T16:48:53Z,16,,385.40972222222223,2,371,Merged
+readme: Advanced Configuration,2017-02-10T06:49:50Z,2017-02-10T21:20:54Z,2017-02-10T21:20:54Z,9,,14.517777777777777,2,124,Merged
+[Not for merge] Dogfood Prettier,2017-02-11T18:52:14Z,,2017-03-07T14:50:40Z,19,,571.9738888888888,58,449,Closed
+Disallow event global variable with no-restricted-globals rule (#1530),2017-02-12T00:19:55Z,2017-02-24T19:29:05Z,2017-02-24T19:29:05Z,3,,307.15277777777777,1,11,Merged
+Add lint rule to disallow require.ensure and System.import,2017-02-12T11:29:00Z,2017-02-24T17:29:45Z,2017-02-24T17:29:45Z,11,,294.0125,1,85,Merged
+Handle scoped forks in install & e2e tests,2017-02-12T18:36:32Z,,2017-03-05T15:44:33Z,1,,501.1336111111111,2,20,Closed
+Add support for dynamic import & disable require.ensure,2017-02-12T19:19:22Z,2017-02-15T01:51:23Z,2017-02-15T01:51:23Z,4,,54.533611111111114,6,151,Merged
+Update top-level lint deps,2017-02-12T22:20:27Z,,2017-03-05T22:28:37Z,18,,504.1361111111111,18,0,Closed
+Enable page reloading for files in `public/`,2017-02-13T10:20:50Z,2017-02-15T02:41:31Z,2017-02-15T02:41:31Z,1,,40.344722222222224,2,323,Merged
+Make sure prod babel plugins are actually included,2017-02-15T20:22:36Z,,2017-02-20T15:07:34Z,2,,114.74944444444445,1,41,Closed
+Added a how-to on react-snapshot,2017-02-16T23:31:53Z,2017-02-24T19:44:48Z,2017-02-24T19:44:48Z,11,,188.21527777777777,2,184,Merged
+Enable eslint caching in development,2017-02-17T06:40:31Z,2017-02-24T20:29:26Z,2017-02-24T20:29:26Z,5,,181.81527777777777,2,157,Merged
+Adds HOST and PORT env variables to react app so websocket,2017-02-18T10:06:20Z,,2019-10-21T12:04:30Z,2,,23401.969444444443,2,483,Closed
+Support node scripts in BROWSER,2017-02-20T02:56:26Z,2017-05-15T23:25:05Z,2017-05-15T23:25:05Z,5,,2036.4775,3,1453,Merged
+Add note for using CHOKIDAR_USEPOLLING in virtual machines to enable HMR,2017-02-21T18:06:27Z,2017-02-22T18:37:19Z,2017-02-22T18:37:19Z,9,,24.514444444444443,10,51,Merged
+Support & test import() for non-bundled code,2017-02-22T18:20:24Z,2017-02-25T05:03:12Z,2017-02-25T05:03:12Z,1,,58.71333333333333,3,0,Merged
+POC of providing a watching build mode that writes to the disk in development,2017-02-22T18:57:06Z,,2018-11-02T23:27:44Z,3,,14836.510555555555,5,682,Closed
+Add note about when to import bootstrap CSS.,2017-02-22T21:26:42Z,2017-02-24T16:32:30Z,2017-02-24T16:32:30Z,4,,43.096666666666664,1,74,Merged
+Ship a yarn.lock - WIP,2017-02-24T01:41:21Z,,2017-04-08T22:16:29Z,5,,1052.5855555555556,2,255,Closed
+Retain posix paths in Jest config,2017-02-24T18:39:04Z,2017-02-24T22:06:55Z,2017-02-24T22:06:55Z,8,,3.464166666666667,2,32,Merged
+This should make it clearer and more accurate in the case that PUBLIC_URL is blank.,2017-02-24T19:10:52Z,,2018-01-09T14:34:33Z,4,,7651.394722222222,1,54,Closed
+Add instructions to use source-map-explorer,2017-02-25T15:31:47Z,2017-06-27T21:40:34Z,2017-06-27T21:40:34Z,3,,2934.146388888889,2,173,Merged
+Add appveyor.yml,2017-02-26T15:09:08Z,2017-02-27T23:41:50Z,2017-02-27T23:41:50Z,9,,32.545,3,140,Merged
+add project name validation,2017-02-27T11:55:51Z,2017-02-28T13:58:16Z,2017-02-28T13:58:16Z,2,,26.040277777777778,2,1172,Merged
+fix react dependency versions during initial install,2017-02-27T20:16:58Z,2017-02-28T13:45:42Z,2017-02-28T13:45:42Z,2,,17.47888888888889,1,240,Merged
+fixing things for people with the username `cwd`,2017-03-02T01:56:58Z,2017-03-03T18:03:07Z,2017-03-03T18:03:07Z,4,,40.1025,1,12,Merged
+Add support for ignoreRestSiblings in no-unused-vars,2017-03-03T00:43:49Z,2017-03-05T14:54:33Z,2017-03-05T14:54:34Z,2,,62.17888888888889,5,12,Merged
+add double quotes to escape spaces in paths in e2e,2017-03-03T03:59:01Z,2017-03-05T15:42:11Z,2017-03-05T15:42:11Z,3,,59.71944444444444,5,276,Merged
+Absolute path guide,2017-03-04T05:54:46Z,,2018-01-09T14:37:12Z,7,,7472.707222222222,1,82,Closed
+Added Integration with Electron tutorial,2017-03-05T07:21:26Z,,2018-01-09T01:49:46Z,9,,7434.472222222223,1,68,Closed
+extract generic build functions to react-dev-utils,2017-03-05T20:45:45Z,2017-03-06T01:49:54Z,2017-03-06T01:49:54Z,22,,5.069166666666667,5,90,Merged
+"PWA-ification, via SWPrecacheWebpackPlugin + manifest.json",2017-03-05T22:01:28Z,2017-05-17T18:28:28Z,2017-05-17T18:28:28Z,5,,1748.45,8,1063,Merged
+Fix eject for linked react-scripts,2017-03-06T10:39:46Z,2017-03-06T17:44:18Z,2017-03-06T17:44:18Z,2,,7.075555555555556,2,5,Merged
+update to modern code style,2017-03-06T11:51:33Z,2017-03-07T19:46:10Z,2017-03-07T19:46:10Z,10,,31.91027777777778,66,5,Merged
+Switch to preset-env,2017-03-06T15:51:38Z,2017-03-07T01:21:29Z,2017-03-07T01:21:29Z,14,,9.4975,3,65,Merged
+Display yarn instead of yarnpkg when creating a new app,2017-03-07T03:36:36Z,2017-03-07T14:29:40Z,2017-03-07T14:29:40Z,5,,10.884444444444444,1,127,Merged
+Stop watch process when process.stdin ends closes #1753,2017-03-07T20:15:41Z,,2018-01-09T14:42:22Z,5,,7386.4447222222225,2,284,Closed
+Suggest `serve` for running in production,2017-03-08T07:49:29Z,2017-03-08T22:34:32Z,2017-03-08T22:34:32Z,5,,14.750833333333333,2,640,Merged
+Adding plugin postcss-flexbugs-fixes and flexbox: 'no-2009' to Autoprefixer,2017-03-09T01:28:34Z,2017-05-16T00:02:38Z,2017-05-16T00:02:38Z,1,,1630.5677777777778,3,995,Merged
+Change proxy handling to allow multiple proxies in development,2017-03-11T03:31:11Z,2017-05-15T01:12:55Z,2017-05-15T01:12:55Z,5,,1557.6955555555555,5,1417,Merged
+Suggest `yarn build` over `yarn run build`,2017-03-12T03:12:10Z,2017-03-12T15:13:41Z,2017-03-12T15:13:41Z,3,,12.025277777777777,1,715,Merged
+Update now instructions to support html5 history,2017-03-12T15:39:52Z,,2017-08-02T01:34:41Z,2,,3417.913611111111,1,261,Closed
+Makes end-to-end testing crash on unhandled rejections,2017-03-14T14:25:51Z,2017-03-14T19:32:48Z,2017-03-14T19:32:48Z,2,,5.115833333333334,5,961,Merged
+Make coverage and snapshot Jest options overridable in package.json,2017-03-15T13:42:36Z,2017-05-16T04:13:19Z,2017-05-16T04:13:19Z,2,,1478.5119444444445,2,414,Merged
+Forbid using window properties as global variables,2017-03-17T10:41:53Z,2017-05-05T22:59:50Z,2017-05-05T22:59:50Z,4,,1188.2991666666667,4,1144,Merged
+serve bundles and app under homepage path,2017-03-23T14:24:09Z,,2018-03-15T15:26:36Z,6,,8569.040833333333,14,632,Closed
+Bump minimal Node version to 6,2017-03-27T04:34:37Z,2017-05-09T10:11:32Z,2017-05-09T10:11:32Z,11,,1037.6152777777777,9,76,Merged
+Updated README,2017-04-04T11:28:51Z,2017-06-27T17:21:17Z,2017-06-27T17:21:17Z,2,,2021.8738888888888,1,179,Merged
+Suggest `node-sass` alternative,2017-04-17T03:21:30Z,2017-04-22T19:33:50Z,2017-04-22T19:33:50Z,1,,136.20555555555555,1,708,Merged
+Update doc server example to work from any directory,2017-04-17T17:03:02Z,2017-04-19T01:38:07Z,2017-04-19T01:38:07Z,1,,32.584722222222226,1,374,Merged
+Added instruction on how to install Prettier,2017-04-21T08:36:03Z,2017-06-27T16:51:59Z,2017-06-27T16:51:59Z,2,,1616.2655555555555,2,238,Merged
+Warn about duplicate dependencies,2017-04-21T21:08:12Z,,2018-11-01T16:13:58Z,2,,13411.096111111112,4,533,Closed
+"Use configured yarn registry and HTTP to check whether it is available, NOT DNS.",2017-04-24T12:51:41Z,,2018-12-08T15:34:37Z,2,,14234.715555555556,1,238,Closed
+Added details how to use setupTests.js after eject,2017-04-24T20:07:54Z,,2018-01-09T01:46:28Z,3,,6221.642777777778,1,367,Closed
+:art: add first class debugging support,2017-04-28T08:46:52Z,,2017-09-29T01:17:45Z,7,,3688.514722222222,6,649,Closed
+Add React Styleguidist,2017-04-28T18:12:46Z,2017-06-27T20:52:31Z,2017-06-27T20:52:31Z,10,,1442.6625,2,239,Merged
+Adds how to deploy to heroku with SSL & nginx guide,2017-05-01T21:54:28Z,,2018-11-08T00:18:56Z,1,,13322.407777777778,2,99,Closed
+Ignore the yarn cache directory,2017-05-01T23:26:26Z,2017-05-08T14:05:50Z,2017-05-08T14:05:50Z,2,,158.65666666666667,1,647,Merged
+Ejecting should ensure you have clean git status,2017-05-05T20:02:44Z,,2017-07-02T19:39:21Z,11,,1391.6102777777778,2,245,Closed
+Minor tweaks for crash overlay,2017-05-08T18:53:27Z,2017-05-09T10:09:14Z,2017-05-09T10:09:14Z,4,,15.263055555555555,1,90,Merged
+༼ つ ◕_◕ ༽つ stack-frame-overlay,2017-05-10T16:14:15Z,2017-05-10T23:56:30Z,2017-05-10T23:56:30Z,2,,7.704166666666667,42,238,Merged
+update readme with fix from #1939,2017-05-10T18:59:39Z,2017-05-12T04:00:46Z,2017-05-12T04:00:46Z,25,,33.01861111111111,1,86,Merged
+Do not respect eslintignore,2017-05-10T19:46:30Z,2017-05-10T23:24:52Z,2017-05-10T23:24:52Z,1,,3.6394444444444445,1,403,Merged
+Add Roast.io to deploy instructions,2017-05-10T21:19:25Z,,2018-09-21T12:17:12Z,1,,11966.963055555556,1,238,Closed
+Adds tests for the overlay,2017-05-11T00:39:24Z,2017-05-11T13:00:20Z,2017-05-11T13:00:20Z,1,,12.348888888888888,32,321,Merged
+"Improve unmapper file heuristic, add limited warning support, and ignore internal errors",2017-05-11T18:05:10Z,2017-05-13T13:39:33Z,2017-05-13T13:39:33Z,16,,43.573055555555555,8,177,Merged
+Add custom eslint formatter,2017-05-12T16:56:06Z,2017-05-14T23:42:13Z,2017-05-14T23:42:13Z,4,,54.76861111111111,7,276,Merged
+Temporarily fork detect-port,2017-05-14T18:49:21Z,2017-05-14T22:10:44Z,2017-05-14T22:10:44Z,3,,3.356388888888889,3,238,Merged
+[Internal] Warn for missing brackets,2017-05-14T23:05:55Z,2017-05-15T00:59:21Z,2017-05-15T00:59:21Z,1,,1.8905555555555555,5,0,Merged
+ESLint Config: Upgrade eslint-plugin-jsx-a11y and activate more rules.,2017-05-15T19:32:05Z,2017-05-15T22:25:41Z,2017-05-15T22:25:41Z,1,,2.8933333333333335,5,1873,Merged
+Add module scope plugin,2017-05-17T03:26:39Z,2017-05-17T11:19:52Z,2017-05-17T11:19:52Z,1,,7.8869444444444445,5,49,Merged
+Enable 1.0 docs,2017-05-19T00:25:53Z,2017-05-19T03:58:38Z,2017-05-19T03:58:38Z,2,,3.5458333333333334,2,88,Merged
+Ejecting should ensure you have clean git status,2017-05-19T04:06:01Z,2017-05-20T17:55:16Z,2017-05-20T17:55:16Z,5,,37.82083333333333,1,203,Merged
+Fix shortcut handling in react-error-overlay,2017-05-19T11:01:33Z,2017-05-19T12:04:10Z,2017-05-19T12:04:10Z,2,,1.043611111111111,1,335,Merged
+Fix missing dependency on npm 2,2017-05-19T20:43:31Z,2017-05-19T21:57:12Z,2017-05-19T21:57:12Z,2,,1.2280555555555555,1,141,Merged
+Provide a no-op SW that will be served by the dev environment.,2017-05-20T00:36:43Z,2017-05-20T18:07:43Z,2017-05-20T18:07:43Z,1,,17.516666666666666,4,1052,Merged
+Remove unnecessary dependencies(#751),2017-05-20T09:44:55Z,2017-05-20T18:08:58Z,2017-05-20T18:08:58Z,1,,8.400833333333333,4,513,Merged
+Add support for CSS Modules with explicit filename - [name].module.css,2017-05-20T10:29:59Z,2018-01-17T15:20:58Z,2018-01-17T15:20:58Z,37,,5812.849722222222,10,2828,Merged
+Add restricted globals package,2017-05-20T11:44:35Z,2018-01-14T02:02:33Z,2018-01-14T02:02:33Z,11,,5726.299444444445,7,45,Merged
+"Only enable host check if you use proxy, and add a way to opt out of it",2017-05-20T16:24:43Z,2017-05-20T17:34:16Z,2017-05-20T17:34:16Z,1,,1.1591666666666667,2,1383,Merged
+Ensure address is private,2017-05-20T20:10:25Z,2017-05-21T19:44:28Z,2017-05-21T19:44:29Z,2,,23.5675,1,256,Merged
+Proof of concept: simple hot reloading,2017-05-21T01:15:36Z,,2019-07-24T17:40:13Z,1,,19072.410277777777,10,1470,Closed
+[WIP] Split vendor bundle,2017-05-21T15:33:23Z,,2018-01-20T18:44:16Z,6,,5859.181388888889,3,219,Closed
+Converting mocha tests to jest,2017-05-22T01:29:54Z,,2018-09-21T12:19:41Z,1,,11698.829722222223,5,286,Closed
+Files in public/ folder should not be requested through proxy,2017-05-22T15:03:13Z,2017-05-22T16:04:17Z,2017-05-22T16:04:18Z,1,,1.0177777777777777,3,164,Merged
+Add css modules,2017-05-23T14:42:11Z,,2017-05-24T05:06:32Z,1,,14.405833333333334,7,127,Closed
+Make browsers list configurable,2017-05-25T04:25:53Z,,2018-01-14T02:06:35Z,2,,5613.678333333333,5,306,Closed
+Disable comparisons feature in uglify compression in production,2017-05-27T03:04:54Z,2017-05-27T11:36:42Z,2017-05-27T11:36:42Z,1,,8.53,1,246,Merged
+Fix Jest crashing on projects with large node_modules folders,2017-05-28T08:46:22Z,,2017-06-27T16:16:22Z,10,,727.5,1,719,Closed
+Fix detection of parent directory in ModuleScopePlugin,2017-05-29T12:03:19Z,2017-05-29T18:49:57Z,2017-05-29T18:49:57Z,4,,6.777222222222222,1,93,Merged
+E2E testing enhancements,2017-05-29T20:32:37Z,2017-06-26T16:34:03Z,2017-06-26T16:34:03Z,2,,668.0238888888889,4,203,Merged
+Order lint warnings by most recently edited file (#2378),2017-05-29T21:46:34Z,,2023-06-25T20:29:36Z,4,,53230.71722222222,1,1003,Closed
+Toast for Service Worker,2017-05-31T16:05:12Z,,2018-09-26T04:41:25Z,18,,11580.603611111112,4,690,Closed
+Add cache invalidation based on service work url,2017-06-01T02:56:11Z,,2017-06-17T10:49:24Z,1,,391.88694444444445,4,2087,Closed
+Allow importing package.json,2017-06-04T15:09:27Z,2017-08-02T02:50:58Z,2017-08-02T02:50:58Z,10,,1403.6919444444445,4,442,Merged
+Unscope detect-port,2017-06-06T16:50:23Z,2017-06-06T18:02:28Z,2017-06-06T18:02:28Z,1,,1.2013888888888888,2,87,Merged
+Fix incorrect check if CI variable is set to true,2017-06-08T09:32:41Z,2017-06-19T16:36:29Z,2017-06-19T16:36:29Z,4,,271.06333333333333,1,728,Merged
+Convert react-error-overlay to React,2017-06-11T03:36:08Z,2017-08-28T01:45:56Z,2017-08-28T01:45:56Z,12,,1870.1633333333334,48,447,Merged
+Show warning when trying to run on port below 1024 without admin permissions under Linux/macOS,2017-06-11T16:34:46Z,2017-06-19T16:00:11Z,2017-06-19T16:00:11Z,1,,191.42361111111111,2,466,Merged
+Flow init to run as command not flag,2017-06-12T03:02:16Z,2017-06-12T17:19:13Z,2017-06-12T17:19:13Z,3,,14.2825,1,336,Merged
+Update README.md,2017-06-15T10:56:37Z,2017-06-18T16:50:20Z,2017-06-18T16:50:20Z,2,,77.89527777777778,1,287,Merged
+Set the public path to the asset manifest entries,2017-06-16T09:43:17Z,2018-01-20T19:31:28Z,2018-01-20T19:31:28Z,1,,5241.803055555555,1,256,Merged
+Add simplified service worker invalidation,2017-06-17T08:11:01Z,2017-06-27T16:07:39Z,2017-06-27T16:07:39Z,4,,247.9438888888889,1,791,Merged
+Auto-detect running editor on Windows for error overlay,2017-06-17T10:27:27Z,2017-06-27T15:16:03Z,2017-06-27T15:16:03Z,5,,244.81,1,1756,Merged
+Feature/webpack3,2017-06-20T07:56:00Z,2017-07-25T19:28:46Z,2017-07-25T19:28:46Z,2,,851.5461111111111,1,68,Merged
+docs(test): add instruction on how to integrate test in pre-commit hook,2017-06-23T01:07:42Z,,2018-11-07T23:19:20Z,9,,12070.193888888889,1,269,Closed
+Fix sourcemap directory organizing on Windows (#2456),2017-06-24T19:58:28Z,2017-06-27T15:55:28Z,2017-06-27T15:55:29Z,1,,67.95,2,494,Merged
+eslint command added to package.json,2017-06-26T18:09:09Z,,2017-08-02T01:41:28Z,3,,871.5386111111111,1,158,Closed
+format UglifyJs error,2017-06-27T22:44:07Z,2017-08-02T01:57:51Z,2017-08-02T01:57:51Z,11,,843.2288888888888,5,200,Merged
+Bump dependencies,2017-06-28T12:55:41Z,2017-06-28T14:05:31Z,2017-06-28T14:05:31Z,3,,1.163888888888889,3,16,Merged
+Add more info about apache client side routing,2017-06-28T17:36:09Z,2017-06-29T04:14:16Z,2017-06-29T04:14:16Z,1,,10.635277777777778,1,318,Merged
+Bootstrap with Yarn,2017-06-28T21:56:57Z,2017-06-29T04:45:46Z,2017-06-29T04:45:46Z,1,,6.813611111111111,6,260,Merged
+Bump eslint-plugin-jsx-a11y version,2017-06-29T15:21:40Z,2018-01-12T22:43:40Z,2018-01-12T22:43:40Z,2,,4735.366666666667,6,209,Merged
+update prettier precommit hook docs,2017-06-30T08:19:32Z,,2017-06-30T14:26:38Z,1,,6.118333333333333,1,292,Closed
+Add DLL support to CRA,2017-07-01T20:31:18Z,,2018-04-04T08:35:01Z,2,,6636.061944444445,2,93,Closed
+Speed up editor detection on Windows,2017-07-02T15:49:34Z,,2018-01-15T20:34:28Z,18,,4732.748333333333,2,778,Closed
+Import scripts in Service Worker,2017-07-03T10:41:03Z,,2018-09-26T04:36:16Z,6,,10793.920277777777,2,567,Closed
+added react-scripts lint,2017-07-06T08:17:02Z,,2019-02-07T02:31:54Z,3,,13938.247777777779,2,68,Closed
+ESLint 4,2017-07-06T19:02:16Z,2017-07-07T10:40:30Z,2017-07-07T10:40:30Z,2,,15.637222222222222,4,1026,Merged
+Use Rule.oneOf to resolve correct loader,2017-07-08T14:09:33Z,2017-07-09T20:59:20Z,2017-07-09T20:59:20Z,2,,30.829722222222223,2,1018,Merged
+Explicit window vars in registerServiceWorker.js,2017-07-09T15:52:47Z,,2018-01-09T17:41:51Z,5,,4417.817777777777,1,405,Closed
+Use Babel for react-dev-utils,2017-07-09T22:29:05Z,,2018-01-13T13:26:19Z,7,,4502.953888888889,26,103,Closed
+Plugin system,2017-07-10T03:24:26Z,,2017-07-13T18:31:55Z,2,,87.12472222222222,12,1106,Closed
+Allow the dev server to watch for changes in src/node_modules,2017-07-10T19:01:58Z,,2017-10-03T02:57:30Z,3,,2023.9255555555555,1,712,Closed
+Plugin system,2017-07-13T18:31:47Z,,2018-08-09T18:48:07Z,4,,9408.272222222222,5,564,Closed
+Change error wording and list conflicting files when initializing app,2017-07-13T22:11:36Z,2017-07-14T03:19:44Z,2017-07-14T03:19:44Z,2,,5.135555555555555,1,289,Merged
+TypeScript support,2017-07-19T01:53:43Z,,2018-10-18T18:43:49Z,9,,10960.835,9,265,Closed
+Prefer the default browser in openBrowser 🔥🦊 ,2017-07-28T18:02:34Z,,2018-03-09T22:50:16Z,1,,5380.795,3,1388,Closed
+Adjust the `checkIfOnline` check if in a corporate proxy environment,2017-08-01T18:21:20Z,2017-08-09T01:36:32Z,2017-08-09T01:36:32Z,8,,175.25333333333333,1,1155,Merged
+Add Yarn global installation instructions,2017-08-01T21:49:29Z,,2018-11-07T23:19:23Z,6,,11113.498333333333,1,204,Closed
+Fix the order of arguments in spawned child proc,2017-08-07T04:35:21Z,2017-08-09T01:35:27Z,2017-08-09T01:35:27Z,1,,45.001666666666665,1,117,Merged
+Fix docs for `printFileSizesAfterBuild`,2017-08-11T13:43:58Z,2017-08-16T00:17:37Z,2017-08-16T00:17:37Z,5,,106.56083333333333,1,74,Merged
+Remove 'shortcut' from favicon link,2017-08-14T18:59:07Z,,2017-09-29T03:02:43Z,1,,1088.06,1,288,Closed
+Resolved issue #2971,2017-08-21T19:51:22Z,2017-09-13T02:32:58Z,2017-09-13T02:32:58Z,2,,534.6933333333334,2,453,Merged
+update babel-runtime dependency in react-error-overlay and react-scripts,2017-08-22T09:50:25Z,2017-08-28T02:12:12Z,2017-08-28T02:12:12Z,2,,136.36305555555555,2,588,Merged
+Docs: How to Debug Unit Tests,2017-08-22T13:06:34Z,2017-11-14T13:05:35Z,2017-11-14T13:05:35Z,7,,2015.983611111111,1,397,Merged
+Disable service workers until issues fixed,2017-08-23T04:36:37Z,,2018-05-30T21:26:38Z,1,,6736.833611111111,1,431,Closed
+Disable sw-precache plugin's navigateFallback,2017-08-28T23:35:27Z,,2017-11-06T21:56:52Z,13,,1678.3569444444445,1,12,Closed
+Make error overlay filename configurable,2017-08-29T18:57:29Z,2017-09-02T20:42:05Z,2017-09-02T20:42:05Z,3,,97.74333333333334,3,159,Merged
+Cleaning up printHostingInstructions a bit,2017-08-31T06:50:44Z,2018-01-09T17:41:11Z,2018-01-09T17:41:11Z,1,,3154.840833333333,1,526,Merged
+Fix error overlay 'Object.assign' issue in IE,2017-09-01T15:24:05Z,,2017-09-01T17:14:47Z,2,,1.845,5,373,Closed
+Updated react-error-overlay to latest Flow (0.54.0),2017-09-04T11:53:51Z,2017-09-11T16:20:50Z,2017-09-11T16:20:50Z,22,,172.44972222222222,11,400,Merged
+Auto-detect running editor on Linux for error overlay,2017-09-06T12:12:37Z,2017-09-11T12:31:29Z,2017-09-11T12:31:29Z,7,,120.31444444444445,1,437,Merged
+Switch to unix path separators before normalizing path for Windows compatibility,2017-09-06T14:18:18Z,2017-09-06T18:42:40Z,2017-09-06T18:42:40Z,2,,4.4061111111111115,1,693,Merged
+Reload the page when an error has occurred,2017-09-08T19:31:45Z,2017-09-09T02:52:19Z,2017-09-09T02:52:19Z,4,,7.342777777777778,1,219,Merged
+Add click-to-open support for build errors,2017-09-10T01:48:44Z,2017-10-06T00:21:17Z,2017-10-06T00:21:17Z,7,,622.5425,9,512,Merged
+Clean target directory before compiling overlay,2017-09-10T15:29:27Z,2017-09-11T11:37:37Z,2017-09-11T11:37:37Z,2,,20.136111111111113,1,155,Merged
+"Revert ""run npm 5.4.0 in CI (#3026)""",2017-09-11T17:53:51Z,2017-09-12T01:40:12Z,2017-09-12T01:40:12Z,1,,7.7725,3,582,Merged
+Feature/es6 module build,2017-09-15T12:02:13Z,,2018-12-12T07:41:01Z,4,,10867.646666666667,4,1532,Closed
+Link local react-error-overlay package in kitchensink test,2017-09-16T08:39:54Z,2017-09-16T15:45:07Z,2017-09-16T15:45:07Z,1,,7.086944444444445,1,625,Merged
+Make error overlay to run in the context of the iframe,2017-09-17T09:38:15Z,2017-10-03T16:15:15Z,2017-10-03T16:15:15Z,9,,390.6166666666667,7,755,Merged
+Long term caching and split app into main.js and vendors.js,2017-09-17T19:01:15Z,,2018-01-20T18:39:26Z,58,,2999.636388888889,9,26,Closed
+feature: Support specific env configs.,2017-09-23T03:38:14Z,,2018-02-12T23:21:58Z,7,,3427.728888888889,1,769,Closed
+BSD+Patents -> MIT,2017-09-26T00:53:37Z,2017-09-26T09:30:06Z,2017-09-26T09:30:06Z,4,,8.608055555555556,162,0,Merged
+Allow the dev server to watch for changes in src/node_modules,2017-10-02T20:15:41Z,2017-10-03T02:57:02Z,2017-10-03T02:57:03Z,1,,6.689166666666667,2,119,Merged
+Add warning when using `react-error-overlay` in production,2017-10-11T03:08:09Z,2017-10-11T18:20:24Z,2017-10-11T18:20:24Z,6,,15.204166666666667,1,108,Merged
+Use env variable to disable clearConsole (#2495),2017-10-16T20:36:58Z,,2018-11-07T23:19:26Z,2,,9290.707777777778,2,606,Closed
+Handle process stdin,2017-10-25T08:22:44Z,,2018-11-07T23:19:28Z,1,,9086.945555555556,7,627,Closed
+"Update lint rules, and clarify docs around linting",2017-10-25T14:21:44Z,,2018-11-07T23:19:29Z,16,,9080.9625,2,605,Closed
+Re-enable yarn install on eject for non-windows machines,2017-10-29T19:03:11Z,,2018-01-16T18:45:56Z,1,,1895.7125,1,232,Closed
+add support for linting json files,2017-10-30T07:40:31Z,,2018-01-16T19:14:42Z,2,,1883.5697222222223,6,435,Closed
+Add preflight CWD check for npm,2017-10-30T20:18:15Z,2017-10-30T21:24:07Z,2017-10-30T21:24:07Z,5,,1.0977777777777777,1,289,Merged
+Refactor extra watch options regex to react-dev-utils,2017-10-30T23:28:36Z,2017-11-04T02:23:32Z,2017-11-04T02:23:32Z,4,,98.91555555555556,7,186,Merged
+Support template dependencies,2017-10-31T06:50:29Z,,2019-02-07T06:50:33Z,3,,11136.00111111111,1,438,Closed
+Add option to transpile ES6 modules to CJS modules in babel-preset-react-app,2017-11-01T14:36:31Z,,2018-11-07T05:16:49Z,4,,8894.671666666667,1,757,Closed
+add —use-npm flag to bypass yarn,2017-11-04T17:47:53Z,2017-11-09T19:03:41Z,2017-11-09T19:03:41Z,2,,121.26333333333334,2,61,Merged
+Export dismissRuntimeErrors function,2017-11-05T16:48:54Z,2017-11-05T18:41:57Z,2017-11-05T18:41:57Z,1,,1.8841666666666668,1,627,Merged
+update githubpages deployment,2017-11-11T00:19:58Z,,2018-11-07T23:19:31Z,1,,8686.9925,1,289,Closed
+Print full directory name from lsof,2017-11-11T03:45:13Z,2018-01-09T16:07:21Z,2018-01-09T16:07:21Z,1,,1428.368888888889,1,213,Merged
+eslint-formatter: improve file,2017-11-12T00:44:12Z,,2018-01-09T15:58:20Z,4,,1407.2355555555555,1,327,Closed
+Open editor to exact column from build error overlay,2017-11-19T04:57:01Z,2018-01-09T15:47:23Z,2018-01-09T15:47:23Z,3,,1234.8394444444446,4,398,Merged
+Allow error overlay to be unregistered,2017-11-20T20:15:25Z,2017-11-21T04:23:01Z,2017-11-21T04:23:01Z,1,,8.126666666666667,1,47,Merged
+Update User Guide with deploying to GitHub User pages,2017-11-27T16:29:20Z,2017-11-27T21:28:43Z,2017-11-27T21:28:43Z,6,,4.989722222222222,1,243,Merged
+Enhance Jest config error for `setupTestFrameworkScriptFile`,2017-11-28T07:16:06Z,2018-01-17T13:26:22Z,2018-01-17T13:26:22Z,2,,1206.171111111111,1,517,Merged
+Switch to Babel 7,2017-11-30T01:05:16Z,2018-01-11T23:42:33Z,2018-01-11T23:42:33Z,6,,1030.621388888889,14,1242,Merged
+"Update documentation, add file compression",2017-12-21T10:21:31Z,,2018-01-09T15:37:04Z,1,,461.25916666666666,1,347,Closed
+Add editor support for Sublime Dev & VSCode Insiders,2018-01-06T16:26:34Z,2018-01-09T15:10:31Z,2018-01-09T15:10:31Z,1,,70.7325,1,102,Merged
+Import SVGs as React components (#1388),2018-01-08T23:47:11Z,2018-01-17T19:40:57Z,2018-01-17T19:40:57Z,8,,211.8961111111111,6,316,Merged
+Updating ESlint to ^4.15.0 and adding new rules to config,2018-01-09T14:39:40Z,2018-01-13T01:05:18Z,2018-01-13T01:05:18Z,8,,82.42722222222223,2,773,Merged
+Provide test:debug script out-of-the-box,2018-01-09T15:02:25Z,,2018-12-08T15:34:39Z,1,,7992.537222222222,5,13,Closed
+Extend --scripts-version to include .tar.gz format,2018-01-09T16:04:02Z,2018-01-09T17:34:47Z,2018-01-09T17:34:47Z,2,,1.5125,1,277,Merged
+Add warning when HOST environment variable is set (#3719),2018-01-10T00:08:50Z,2018-01-14T19:14:37Z,2018-01-14T19:14:37Z,3,,115.0963888888889,1,81,Merged
+Add support for yarn and lerna monorepos.,2018-01-11T01:46:28Z,2018-02-01T20:58:19Z,2018-02-01T20:58:19Z,39,,523.1975,33,517,Merged
+Switch to Yarn Workspaces,2018-01-11T18:51:51Z,2018-01-12T01:54:53Z,2018-01-12T01:54:53Z,6,,7.0505555555555555,12,216,Merged
+Enable Yarn check files,2018-01-13T01:08:28Z,2018-01-13T03:14:28Z,2018-01-13T03:14:28Z,1,,2.1,1,306,Merged
+Loosen Babel preset to use browserslist,2018-01-13T01:58:58Z,2018-01-13T03:48:58Z,2018-01-13T03:48:58Z,4,,1.8333333333333333,3,458,Merged
+Add preflight check to guard against wrong versions of webpack/eslint/jest higher up the tree,2018-01-13T02:45:35Z,2018-01-13T15:55:49Z,2018-01-13T15:55:49Z,8,,13.170555555555556,6,580,Merged
+Compile code in parallel,2018-01-13T22:27:54Z,2018-01-13T23:57:36Z,2018-01-13T23:57:36Z,1,,1.495,3,69,Merged
+Tell user what browser support their application was built with,2018-01-14T04:52:20Z,2018-01-14T17:04:07Z,2018-01-14T17:04:07Z,3,,12.196388888888889,6,315,Merged
+Offer to set default browsers,2018-01-14T17:35:02Z,2018-01-14T18:54:01Z,2018-01-14T18:54:01Z,3,,1.3163888888888888,9,40,Merged
+Update issue template to include the --info flag,2018-01-15T08:33:55Z,,2018-04-29T11:16:12Z,3,,2498.7047222222222,1,509,Closed
+Check if there is a .babelrc file before ejecting #1066,2018-01-15T17:38:29Z,,2018-11-01T16:13:59Z,1,,6958.591666666666,1,269,Closed
+Use wmic to get process list on Windows,2018-01-15T20:34:15Z,2018-01-17T19:32:06Z,2018-01-17T19:32:06Z,1,,46.964166666666664,1,377,Merged
+Disable service worker by default,2018-01-16T17:59:29Z,2018-01-19T00:13:54Z,2018-01-19T00:13:54Z,7,,54.24027777777778,2,57,Merged
+Use custom bit.ly links,2018-01-17T18:54:26Z,2018-01-18T14:17:03Z,2018-01-18T14:17:03Z,1,,19.376944444444444,3,73,Merged
+update react error overlay to be compatible with chalk 2,2018-01-17T21:47:35Z,,2018-01-18T08:06:13Z,4,,10.310555555555556,2,432,Closed
+feat: react-scripts lint command #1217,2018-01-18T03:11:52Z,,2018-11-01T16:13:59Z,25,,6901.035277777778,3,509,Closed
+Provide callbacks in serviceWorker (next),2018-01-19T11:28:05Z,2018-01-20T19:15:33Z,2018-01-20T19:15:33Z,5,,31.79111111111111,1,1015,Merged
+Support custom env file,2018-01-20T14:13:40Z,,2018-02-12T23:22:24Z,1,,561.1455555555556,1,264,Closed
+Don't use app node_modules folder as a resolve fallback,2018-01-21T15:12:22Z,2018-01-21T19:05:25Z,2018-01-21T19:05:25Z,1,,3.8841666666666668,2,1319,Merged
+Named asset import for SVG files,2018-01-23T18:30:28Z,2018-02-02T19:56:57Z,2018-02-02T19:56:58Z,24,,241.4413888888889,11,420,Merged
+set allchunks: true for ExtractTextPlugin,2018-01-23T20:16:24Z,,2018-05-31T17:10:31Z,1,,3068.9019444444443,2,274,Closed
+Add loader for .graphql files,2018-01-23T21:08:26Z,2018-02-03T15:51:55Z,2018-02-03T15:51:55Z,21,,258.7247222222222,11,1645,Merged
+use dynamic-cdn-webpack-plugin for react and react-dom,2018-01-24T07:55:35Z,,2018-11-01T16:14:00Z,3,,6752.3069444444445,2,950,Closed
+Move polyfill control to user land,2018-01-26T14:23:08Z,,2018-09-27T13:20:55Z,1,,5854.963055555556,6,2008,Closed
+Updates to reflect service worker registration being opt-in.,2018-01-26T18:20:51Z,2018-09-19T18:08:39Z,2018-09-19T18:08:39Z,6,,5663.796666666667,2,291,Merged
+RFC: Exporting start script to facilitate custom start scripts in a CRA app without ejecting,2018-01-27T23:12:39Z,,2018-02-03T18:06:41Z,1,,162.90055555555554,1,599,Closed
+Add support for WebWorker with worker-loader (#3660),2018-01-29T20:31:17Z,,2018-11-01T16:14:00Z,1,,6619.711944444444,3,1573,Closed
+Rebuild project on package update (#2956),2018-01-29T22:11:57Z,,2018-11-01T16:14:01Z,4,,6618.0344444444445,3,344,Closed
+Allow bundles to be analyzed with Webpack-specific tools,2018-01-31T13:51:10Z,2018-06-04T08:10:47Z,2018-06-04T08:10:48Z,21,,2970.3269444444445,3,1608,Merged
+Use jsdom environment for tests by default,2018-02-02T22:29:56Z,,2018-09-24T15:37:38Z,1,,5609.128333333333,5,223,Closed
+CSS Modules localIdentName cleanup,2018-02-03T16:17:26Z,,2018-03-21T15:45:45Z,9,,1103.4719444444445,3,433,Closed
+Support running create-react-app inside a monorepo.,2018-02-03T22:42:13Z,,2018-11-01T16:14:01Z,10,,6497.53,15,331,Closed
+WebpackDevServer: (Only) Ignore node_modules if polling is required,2018-02-05T21:53:10Z,,2018-11-01T16:14:01Z,4,,6450.3475,9,1006,Closed
+Use yarn when running inside yarn workspace.,2018-02-08T22:18:38Z,2018-02-10T13:07:19Z,2018-02-10T13:07:20Z,16,,38.81138888888889,9,187,Merged
+Add support for new yarn workspaces config format,2018-02-09T07:13:58Z,2018-02-11T13:36:03Z,2018-02-11T13:36:03Z,1,,54.36805555555556,1,1668,Merged
+Allow extensions other than .js for entry point,2018-02-11T15:45:03Z,,2018-10-23T14:06:33Z,4,,6094.358333333334,2,891,Closed
+enable manifest plugin on dev,2018-02-12T02:50:46Z,2018-05-31T17:26:39Z,2018-05-31T17:26:39Z,2,,2606.5980555555557,1,126,Merged
+Issue 1394 adding no bin links option,2018-02-16T23:09:11Z,,2018-11-01T16:14:02Z,5,,6185.080833333333,1,1346,Closed
+Add ESLint check for incorrect propTypes usage (#3840),2018-02-20T18:35:43Z,2018-03-25T22:17:41Z,2018-03-25T22:17:42Z,2,,795.6994444444445,4,101,Merged
+Update recursive-readdir to recent version,2018-02-22T01:00:12Z,,2018-05-31T05:36:29Z,1,,2356.6047222222223,1,298,Closed
+Webpack 4,2018-02-26T08:55:03Z,2018-05-20T17:22:25Z,2018-05-20T17:22:25Z,49,,2000.456111111111,17,1555,Merged
+Make Jest usage recommendations more consistent with Jest's docs,2018-02-26T16:45:32Z,,2018-12-08T15:34:36Z,1,,6838.817777777777,1,0,Closed
+BUG MITIGATION: .mjs should not resolve before .js files,2018-02-27T17:20:43Z,2018-03-22T14:27:24Z,2018-03-22T14:27:24Z,2,,549.1113888888889,1,860,Merged
+Update Now Deployment Docs,2018-02-28T05:43:07Z,,2018-11-01T16:14:03Z,2,,5914.515555555556,1,159,Closed
+Fix a typo in packages/react-scripts/template/README.md,2018-02-28T09:52:37Z,2018-03-05T01:45:19Z,2018-03-05T01:45:19Z,2,,111.87833333333333,1,261,Merged
+Docs: Update status of Object Rest/Spread proposal,2018-03-01T16:13:43Z,2018-03-05T01:36:20Z,2018-03-05T01:36:20Z,1,,81.37694444444445,1,85,Merged
+docs: Instructions to config NODE_PATH in Flow,2018-03-02T17:31:33Z,,2018-11-01T16:14:04Z,3,,5854.708611111111,1,22,Closed
+Update CONTRIBUTING.md,2018-03-06T08:11:35Z,2018-03-07T22:50:59Z,2018-03-07T22:50:59Z,1,,38.656666666666666,1,243,Merged
+Document multiple build environments via `env-cmd` #4071,2018-03-06T23:17:58Z,2018-04-15T15:52:44Z,2018-04-15T15:52:44Z,2,,952.5794444444444,1,745,Merged
+Preserve quotes in font values during minification,2018-03-07T23:36:01Z,,2019-12-13T01:12:43Z,1,,15481.611666666666,1,13,Closed
+Allow ModuleScopePlugin accecpts an array as its appSrc,2018-03-10T12:12:13Z,2018-03-23T12:28:42Z,2018-03-23T12:28:42Z,2,,312.27472222222224,2,545,Merged
+Bump babel-related deps,2018-03-15T15:38:58Z,2018-03-18T20:22:56Z,2018-03-18T20:22:57Z,4,,76.73277777777778,7,26,Merged
+Workbox service worker,2018-03-17T03:33:56Z,2018-09-27T15:51:43Z,2018-09-27T15:51:43Z,15,,4668.296388888889,2,1723,Merged
+Fix 'add to homescreen' failure,2018-03-20T14:13:53Z,,2018-11-01T16:14:06Z,1,,5426.003611111111,4,215,Closed
+Sass loader,2018-03-21T20:38:03Z,2018-04-18T16:35:55Z,2018-04-18T16:35:56Z,18,,667.9644444444444,18,1253,Merged
+Chokidar Updates,2018-03-23T12:06:09Z,2018-05-20T22:31:27Z,2018-05-20T22:31:27Z,4,,1402.4216666666666,1,605,Merged
+[next] Revert to use ecma 5 in uglifyOptions,2018-03-31T11:32:12Z,2018-04-02T17:30:31Z,2018-04-02T17:30:31Z,1,,53.971944444444446,1,543,Merged
+Enable loose mode for `class-properties`,2018-04-03T18:03:28Z,2018-04-06T00:42:01Z,2018-04-06T00:42:01Z,2,,54.6425,1,1175,Merged
+Upgrade Babel to `beta.44`,2018-04-04T06:50:47Z,2018-04-05T05:28:30Z,2018-04-05T05:28:30Z,2,,22.628611111111113,5,8,Merged
+Adds support for paths in the --scripts-version parameter,2018-04-06T09:52:29Z,,2018-04-12T06:21:29Z,1,,140.48333333333332,1,296,Closed
+change es5 code to es6,2018-04-16T12:53:31Z,,2018-06-01T02:54:19Z,1,,1094.0133333333333,3,204,Closed
+Fixed typo,2018-04-19T17:14:39Z,,2018-07-23T05:17:44Z,3,,2268.051388888889,7,204,Closed
+Bumped jest version to 22.4.1,2018-04-25T15:29:37Z,2018-04-27T06:04:22Z,2018-04-27T06:04:22Z,1,,38.579166666666666,4,368,Merged
+"fix: update envinfo + implementation, update issue_template",2018-04-27T19:28:37Z,2018-04-30T16:44:43Z,2018-04-30T16:44:43Z,7,,69.26833333333333,3,1697,Merged
+Update sass-loader (#4363),2018-04-27T21:19:09Z,2018-04-28T00:32:21Z,2018-04-28T00:32:21Z,1,,3.22,3,17,Merged
+Add Node 10 to Travis config and remove Node 6,2018-04-30T16:53:11Z,2018-07-16T04:26:43Z,2018-07-16T04:26:43Z,2,,1835.558888888889,6,66,Merged
+Docs updated for husky,2018-05-01T21:20:32Z,,2018-09-28T06:05:13Z,1,,3584.744722222222,3,144,Closed
+Update README.md bootstrap 4,2018-05-06T10:31:53Z,,2018-06-30T01:29:16Z,2,,1310.9563888888888,1,204,Closed
+Fix typo.,2018-05-07T08:22:56Z,,2018-06-01T02:47:21Z,2,,594.4069444444444,1,227,Closed
+Map (s?css|sass) modules to identity-obj-proxy in jest,2018-05-08T00:55:49Z,2018-05-16T01:03:22Z,2018-05-16T01:03:22Z,1,,192.12583333333333,1,586,Merged
+Update the thread loader test in formatWebpackMessages,2018-05-08T14:09:54Z,2018-05-09T04:37:19Z,2018-05-09T04:37:19Z,4,,14.456944444444444,1,292,Merged
+Re-enable check,2018-05-12T00:13:13Z,,2018-05-13T20:57:24Z,1,,44.73638888888889,1,300,Closed
+Fix e2e:docker script,2018-05-13T21:16:53Z,2018-05-14T00:05:16Z,2018-05-14T00:05:16Z,1,,2.806388888888889,5,164,Merged
+Update svgr,2018-05-14T15:53:29Z,2018-05-14T20:43:48Z,2018-05-14T20:43:48Z,1,,4.838611111111111,1,181,Merged
+Updated guide for CircleCI to follow 2.0,2018-05-16T07:19:14Z,,2018-11-01T16:14:06Z,3,,4064.9144444444446,2,82,Closed
+add bootstrap 4,2018-05-20T22:29:27Z,,2018-06-30T01:28:29Z,2,,962.9838888888889,1,204,Closed
+[Read Me template patch] Warn about #871 until it's actually fixed. ,2018-05-21T11:20:12Z,2018-05-22T16:19:25Z,2018-05-22T16:19:25Z,2,,28.986944444444443,1,725,Merged
+webpack 4 scope hoisting,2018-05-22T18:37:40Z,2018-05-24T22:32:07Z,2018-05-24T22:32:07Z,1,,51.9075,3,234,Merged
+Make Sass missing message friendlier,2018-05-24T22:58:23Z,2018-09-26T15:22:16Z,2018-09-26T15:22:16Z,2,,2992.3980555555554,3,101,Merged
+Support new file name case,2018-05-24T23:17:59Z,,2018-09-26T20:19:03Z,1,,2997.0177777777776,1,99,Closed
+Updates a language feature doc link,2018-05-28T12:45:11Z,,2018-11-01T16:14:07Z,3,,3771.4822222222224,1,101,Closed
+Add link for using a modern web stack on Heroku in the user guide,2018-06-01T07:53:19Z,,2018-11-01T16:14:07Z,3,,3680.346666666667,1,485,Closed
+Update README.md,2018-06-01T08:04:03Z,,2018-06-01T12:22:44Z,1,,4.311388888888889,1,204,Closed
+Update targeted IE version in documentation,2018-06-02T11:57:08Z,2018-09-26T05:36:13Z,2018-09-26T05:36:13Z,2,,2777.651388888889,1,204,Merged
+ignore intellij module files when generating an app,2018-06-13T16:35:44Z,2018-11-02T15:24:50Z,2018-11-02T15:24:50Z,1,,3406.818333333333,1,791,Merged
+Delete useless console.log() and fix typo (follwing to following in react-scripts documentation.),2018-06-17T05:51:15Z,,2018-06-18T00:57:25Z,1,,19.102777777777778,2,80,Closed
+[internal] Fix node 10 test issue,2018-06-17T07:24:15Z,2018-06-18T17:00:55Z,2018-06-18T17:00:56Z,1,,33.611111111111114,5,138,Merged
+Add instructions on alternative methods of app creation,2018-06-18T17:06:04Z,2018-06-20T20:15:15Z,2018-06-20T20:15:16Z,6,,51.153055555555554,1,157,Merged
+Fix error with formatWebpackMessages trimming warnings,2018-06-20T17:25:22Z,,2018-09-21T12:36:09Z,1,,2227.179722222222,1,1412,Closed
+add direction attribute to html,2018-06-21T12:49:45Z,,2018-09-26T05:21:48Z,1,,2320.534166666667,1,251,Closed
+Suggest `reactstrap` instead of `react-bootstrap`,2018-06-29T17:18:00Z,,2018-06-29T19:19:25Z,2,,2.0236111111111112,1,91,Closed
+Expose `reportRuntimeError`,2018-06-30T06:04:01Z,2018-11-01T03:20:23Z,2018-11-01T03:20:23Z,3,,2973.2727777777777,2,609,Merged
+Fix typo,2018-07-04T21:44:07Z,2018-07-05T16:46:25Z,2018-07-05T16:46:25Z,1,,19.038333333333334,1,72,Merged
+"Revert ""Remove CSS modules docs (#3832)""",2018-07-08T06:08:05Z,,2018-09-26T05:14:21Z,1,,1919.1044444444444,1,269,Closed
+feat: update `svgr/webpack` loader,2018-07-20T17:42:57Z,,2018-09-21T19:50:58Z,1,,1514.1336111111111,3,315,Closed
+TypeScript support using Babel 7,2018-07-29T21:07:14Z,2018-10-21T16:03:27Z,2018-10-21T16:03:27Z,119,,2010.9369444444444,22,3930,Merged
+Replace workspaceRoot with workspaceFolder,2018-08-03T02:47:54Z,,2018-09-28T18:26:50Z,2,,1359.648888888889,1,653,Closed
+Use file name whitelist to prevent RCE,2018-08-08T18:42:01Z,2018-08-22T16:35:25Z,2018-08-22T16:35:25Z,3,,333.89,1,387,Merged
+Upgrade Babel to 7.0.0-rc.1,2018-08-11T18:20:32Z,,2018-09-20T14:17:10Z,1,,955.9438888888889,7,0,Closed
+flowtype.org -> flow.org,2018-08-12T18:30:09Z,2018-09-17T23:50:56Z,2018-09-17T23:50:56Z,1,,869.3463888888889,1,204,Merged
+use npm init instead of npx,2018-08-22T13:03:02Z,,2018-09-09T01:39:59Z,2,,420.61583333333334,1,215,Closed
+Switch from cheap-module-source-map eval-source-map,2018-08-27T21:12:31Z,2018-09-20T22:54:50Z,2018-09-20T22:54:50Z,4,,577.7052777777777,5,1655,Merged
+Unpin fsevents to prevent error on node 10. Fixes #4896,2018-08-31T19:25:23Z,,2018-09-21T11:56:13Z,1,,496.5138888888889,1,280,Closed
+use the correct dependency for babel-plugin-dynamic-import-node,2018-09-08T04:29:07Z,2018-10-14T18:22:19Z,2018-10-14T18:22:19Z,3,,877.8866666666667,2,382,Merged
+Fix/file size reporter,2018-09-18T17:11:58Z,2018-09-19T12:25:55Z,2018-09-19T12:25:55Z,4,,19.2325,1,525,Merged
+Integrating with an API Backend: add API Platform,2018-09-24T11:03:57Z,2018-09-24T14:28:06Z,2018-09-24T14:28:06Z,1,,3.4025,1,97,Merged
+Update usage advice of husky to 1.0,2018-09-24T13:00:30Z,2018-09-24T20:11:36Z,2018-09-24T20:11:36Z,1,,7.185,1,331,Merged
+Prevent the cache of files using Babel Macros,2018-09-24T19:05:34Z,2018-09-25T00:10:11Z,2018-09-25T00:10:11Z,2,,5.076944444444444,6,212,Merged
+Drop IE 11 support by default,2018-09-25T18:46:51Z,2018-09-25T20:08:30Z,2018-09-25T20:08:30Z,6,,1.3608333333333333,9,500,Merged
+Turn on Babel `helpers`,2018-09-25T20:50:03Z,2018-09-25T22:59:07Z,2018-09-25T22:59:07Z,24,,2.151111111111111,9,226,Merged
+Updates to README to reflect Workbox usage.,2018-09-26T20:52:51Z,2018-10-01T00:12:31Z,2018-10-01T00:12:31Z,3,,99.32777777777778,2,442,Merged
+Don't polyfill fetch for Node,2018-09-27T13:17:53Z,2018-09-27T14:23:03Z,2018-09-27T14:23:03Z,1,,1.086111111111111,1,181,Merged
+Plug'n'Play support,2018-09-27T14:54:18Z,2018-10-01T14:53:08Z,2018-10-01T14:53:08Z,7,,95.98055555555555,9,373,Merged
+Remove runtime alias hack,2018-09-27T18:04:55Z,2018-09-27T20:52:44Z,2018-09-27T20:52:44Z,3,,2.7969444444444442,7,82,Merged
+Switch back to babel-loader,2018-09-27T20:53:31Z,2018-09-27T23:17:21Z,2018-09-27T23:17:21Z,20,,2.397222222222222,8,15,Merged
+"Run behavioral smoke tests with Jest, add output tests",2018-09-28T08:35:11Z,2018-09-28T10:19:30Z,2018-09-28T10:19:30Z,2,,1.738611111111111,37,435,Merged
+Correctly lookup assets when using a relative build directory,2018-09-28T19:26:13Z,2018-09-29T03:03:49Z,2018-09-29T03:03:49Z,3,,7.626666666666667,8,62,Merged
+Remove thread-loader,2018-09-29T18:49:57Z,2018-09-29T22:30:29Z,2018-09-29T22:30:29Z,2,,3.6755555555555555,4,512,Merged
+💅 Polish webpack message output,2018-09-30T06:04:25Z,2018-09-30T21:44:50Z,2018-09-30T21:44:50Z,1,,15.67361111111111,27,486,Merged
+Strip flow syntax before any other transform,2018-09-30T22:28:11Z,2018-10-01T00:06:39Z,2018-10-01T00:06:39Z,2,,1.6411111111111112,2,204,Merged
+5238 set up basic docs structure,2018-10-02T14:04:38Z,2018-10-03T22:09:15Z,2018-10-03T22:09:15Z,3,,32.07694444444444,17,310,Merged
+Add SoMe links to documentation,2018-10-02T15:46:28Z,2018-10-04T12:31:12Z,2018-10-04T12:31:12Z,1,,44.745555555555555,2,128,Merged
+Fix `mjs` handling for graphql,2018-10-02T23:12:51Z,,2018-10-03T00:34:56Z,1,,1.3680555555555556,14,627,Closed
+Add `.mjs` support back to webpack (it has native ESM support),2018-10-03T00:19:48Z,2018-10-03T04:03:52Z,2018-10-03T04:03:52Z,10,,3.7344444444444442,3,306,Merged
+Added note on update to .flowconfig for .scss imports,2018-10-05T19:13:20Z,2018-10-14T18:36:45Z,2018-10-14T18:36:45Z,1,,215.39027777777778,1,85,Merged
+docs(react-scripts): update proxy usage wording,2018-10-05T20:03:19Z,,2019-03-19T16:26:19Z,7,,3956.383333333333,1,62,Closed
+Add callouts and logo,2018-10-07T15:28:49Z,2018-10-08T05:31:22Z,2018-10-08T05:31:22Z,1,,14.0425,5,369,Merged
+Add some headings to the getting started section,2018-10-07T15:54:39Z,2018-10-08T05:32:07Z,2018-10-08T05:32:07Z,1,,13.624444444444444,1,234,Merged
+Port user guide over,2018-10-07T18:44:15Z,2018-10-08T05:34:47Z,2018-10-08T05:34:47Z,1,,10.842222222222222,53,1817,Merged
+Potpourri,2018-10-08T17:43:33Z,2018-10-11T05:07:37Z,2018-10-11T05:07:37Z,1,,59.40111111111111,45,255,Merged
+Upgrade dependencies,2018-10-08T21:51:57Z,,2019-03-10T22:06:10Z,2,,3672.2369444444444,5,84,Closed
+Added options to allow for overrides to workbox-webpack-plugin,2018-10-09T10:11:25Z,,2021-01-03T13:47:01Z,18,,19611.593333333334,3,368,Closed
+Add some front page content,2018-10-11T07:09:42Z,2018-10-11T16:51:00Z,2018-10-11T16:51:00Z,11,,9.688333333333333,3,924,Merged
+Add forward ref to React SVG Component,2018-10-16T23:45:41Z,2019-02-14T19:20:40Z,2019-02-14T19:20:40Z,1,,2899.5830555555553,4,842,Merged
+Document .graphql and .gql file loading with graphql.macro,2018-10-18T19:32:03Z,2019-04-03T19:21:52Z,2019-04-03T19:21:52Z,12,,4007.8302777777776,3,180,Merged
+Update node version check,2018-10-19T02:41:51Z,,2019-08-07T04:05:55Z,2,,7009.401111111111,1,6,Closed
+Add allowESModules option to babel-preset-react-app,2018-10-19T19:23:56Z,2018-11-21T19:39:34Z,2018-11-21T19:39:34Z,3,,792.2605555555556,1,241,Merged
+Make onUpdate callback fire when a new service worker is intalled and waiting,2018-10-20T02:40:46Z,,2020-01-31T16:40:50Z,6,,11246.00111111111,2,592,Closed
+"Add ""edit"" feature to Docusaurus pages",2018-10-20T05:17:09Z,2018-10-21T21:53:54Z,2018-10-21T21:53:54Z,1,,40.6125,1,260,Merged
+Support simple electron support via TARGET_ELECTRON env variable,2018-10-20T20:29:00Z,,2024-08-22T01:09:39Z,3,,51172.6775,2,274,Closed
+Fix title on Safari,2018-10-20T23:22:00Z,2018-10-21T17:13:35Z,2018-10-21T17:13:35Z,1,,17.85972222222222,1,365,Merged
+Check Node version early #5430,2018-10-21T03:07:44Z,,2018-12-20T22:36:08Z,1,,1459.4733333333334,5,204,Closed
+Generate tsconfig,2018-10-22T04:17:58Z,,2018-10-22T14:49:09Z,1,,10.519722222222223,2,443,Closed
+Respect tsconfig.json extends when validating config,2018-10-23T03:45:53Z,2018-10-23T19:52:48Z,2018-10-23T19:52:48Z,6,,16.115277777777777,3,3122,Merged
+Add TypeScript app creation,2018-10-24T03:36:38Z,2018-10-24T20:28:37Z,2018-10-24T20:28:37Z,3,,16.86638888888889,19,122,Merged
+Fixing Internal Links,2018-10-24T05:40:33Z,2018-10-29T18:00:29Z,2018-10-29T18:00:29Z,3,,132.3322222222222,15,516,Merged
+fix named-asset-import plugin to work with export-as syntax,2018-10-26T00:38:04Z,2018-11-20T16:00:30Z,2018-11-20T16:00:30Z,6,,615.3738888888889,2,1341,Merged
+add tests for named-asset-imports plugin,2018-10-26T03:08:48Z,2018-10-31T20:33:02Z,2018-10-31T20:33:02Z,13,,137.4038888888889,3,125,Merged
+Generalize the adding bootstrap documentation,2018-10-30T19:26:39Z,2018-12-24T19:58:45Z,2018-12-24T19:58:45Z,1,,1320.535,1,283,Merged
+Fix link to PWA section of docs,2018-11-01T09:19:13Z,,2018-11-14T18:30:49Z,1,,321.1933333333333,5,254,Closed
+Add support for TSLint,2018-11-03T04:25:16Z,,2019-02-25T00:06:25Z,9,,2731.6858333333334,9,546,Closed
+Add support for setupTests.ts,2018-11-03T04:51:06Z,2018-11-23T05:14:26Z,2018-11-23T05:14:26Z,6,,480.3888888888889,2,555,Merged
+Sass source map for dev,2018-11-05T05:46:04Z,2019-02-08T05:18:50Z,2019-02-08T05:18:51Z,1,,2279.5461111111113,1,8,Merged
+Merge webpack configuration,2018-11-06T02:03:45Z,2018-11-08T03:11:21Z,2018-11-08T03:11:21Z,7,,49.126666666666665,7,239,Merged
+Suggest Encore when not building a SPA with Symfony,2018-11-06T17:01:43Z,2018-11-08T03:43:56Z,2018-11-08T03:43:56Z,5,,34.70361111111111,1,336,Merged
+Only use cached yarn.lock if using the default yarn registry,2018-11-07T18:34:28Z,,2019-02-18T18:55:25Z,1,,2472.349166666667,1,103,Closed
+Add example command to create typed project,2018-11-10T14:05:02Z,,2018-12-10T15:25:33Z,6,,721.3419444444445,1,211,Closed
+Add information for usage custom registries on e2e testing #4488,2018-11-10T15:51:28Z,2019-02-11T22:15:42Z,2019-02-11T22:15:42Z,1,,2238.403888888889,1,134,Merged
+Fix TypeScript decorator support,2018-11-13T05:45:20Z,2018-11-22T02:57:26Z,2018-11-22T02:57:26Z,2,,213.20166666666665,3,180,Merged
+"extra polyfills must be included manually, fixes #5795",2018-11-15T12:04:44Z,2018-11-16T14:06:02Z,2018-11-16T14:06:02Z,2,,26.02166666666667,1,55,Merged
+Remove unused dependencies in babel-preset-react-app,2018-11-15T18:19:40Z,2019-08-09T20:03:58Z,2019-08-09T20:03:58Z,1,,6409.738333333334,1,15,Merged
+Add default values to `file_ext` note,2018-11-15T22:07:19Z,2018-11-27T23:06:34Z,2018-11-27T23:06:34Z,2,,288.9875,1,784,Merged
+Resolve relative paths for preprocessor styles,2018-11-16T09:35:37Z,2019-08-06T03:28:09Z,2019-08-06T03:28:09Z,4,,6305.875555555555,2,314,Merged
+Run prettier on HTML files,2018-11-17T05:53:20Z,2018-11-23T04:41:10Z,2018-11-23T04:41:10Z,7,,142.79722222222222,5,88,Merged
+Add option to provide custom ssl certificates during development,2018-11-17T20:33:53Z,2020-01-31T12:36:07Z,2020-01-31T12:36:07Z,18,,10552.037222222221,3,1337,Merged
+Include absoluteRuntime in babel preset docs,2018-11-17T23:16:29Z,2020-04-04T23:32:25Z,2020-04-04T23:32:25Z,1,,12096.265555555556,1,56,Merged
+Add explanation of why we install everything as a dependency to the docs,2018-11-23T06:14:46Z,,2018-12-22T05:54:56Z,5,,695.6694444444445,1,88,Closed
+Add production build section to docs,2018-11-26T05:04:42Z,2018-12-08T22:14:25Z,2018-12-08T22:14:25Z,2,,305.16194444444443,7,231,Merged
+Speed up TypeScript projects,2018-11-26T14:53:30Z,2019-02-08T03:34:53Z,2019-02-08T03:34:53Z,14,,1764.6897222222221,11,1647,Merged
+Add SASS_PATH instructions to Sass stylesheet docs,2018-11-28T07:22:18Z,2018-12-04T16:45:57Z,2018-12-04T16:45:57Z,3,,153.39416666666668,1,431,Merged
+progressive web app changes for lighthouse 100% score,2018-11-30T01:06:08Z,,2019-08-07T03:47:22Z,5,,6002.687222222222,10,1003,Closed
+Set jsonpFunction by default,2018-12-03T16:23:42Z,2019-08-05T08:24:47Z,2019-08-05T08:24:47Z,1,,5872.018055555555,1,325,Merged
+Add pre-eject message about new features in v2,2018-12-03T22:19:48Z,2018-12-04T02:54:56Z,2018-12-04T02:54:56Z,2,,4.585555555555556,1,15,Merged
+add command to add files to staging after eject,2018-12-04T03:32:59Z,2019-03-12T04:06:38Z,2019-03-12T04:06:38Z,7,,2352.5608333333334,2,213,Merged
+Apply useESModules option to @babel/preset-env,2018-12-06T09:09:48Z,,2019-02-20T14:15:20Z,4,,1829.0922222222223,1,106,Closed
+Improve advice in verifyPackageTree.js,2018-12-06T09:34:28Z,2018-12-06T11:39:02Z,2018-12-06T11:39:02Z,1,,2.076111111111111,1,66,Merged
+Updated docs re: .eslintrc,2018-12-07T16:55:03Z,2018-12-08T07:02:58Z,2018-12-08T07:02:58Z,1,,14.131944444444445,2,370,Merged
+Support React Hooks (#5602),2018-12-09T17:14:41Z,2019-03-15T02:36:31Z,2019-03-15T02:36:31Z,2,,2289.363888888889,5,257,Merged
+feat(xhtml): wrap generated script with cdata in InlineChunkHtmlPlugin,2018-12-10T15:11:08Z,,2019-01-18T18:22:52Z,1,,939.1955555555555,1,384,Closed
+TypeScript detection filtering 'node_modules'.,2018-12-11T20:54:35Z,2019-01-14T11:54:47Z,2019-01-14T11:54:47Z,1,,807.0033333333333,3,960,Merged
+Support for graceful extension of Jest config,2018-12-17T14:26:56Z,2019-05-12T11:30:59Z,2019-05-12T11:30:59Z,2,,3501.0675,1,2041,Merged
+Add environment variable to control image inlining threshold,2018-12-18T13:54:44Z,2019-06-18T04:25:40Z,2019-06-18T04:25:40Z,8,,4358.515555555556,3,501,Merged
+"[docs] Warn/clarify that env vars are NOT ""SECRET""",2018-12-18T17:37:42Z,2019-02-10T01:41:25Z,2019-02-10T01:41:25Z,5,,1280.0619444444444,1,12,Merged
+Correct an error for documentation,2018-12-19T16:18:33Z,2019-01-04T15:18:24Z,2019-01-04T15:18:24Z,1,,382.9975,1,204,Merged
+add note about serviceWorker.js,2018-12-20T01:37:22Z,,2019-08-11T19:33:09Z,1,,5633.929722222222,1,383,Closed
+Validation for multiple arguments if specified for create-react-app,2018-12-21T14:21:38Z,2019-02-03T15:07:31Z,2019-02-03T15:07:32Z,2,,1056.7647222222222,1,427,Merged
+Add explanation for adding everything as dependencies to docs,2018-12-22T05:28:19Z,2019-04-03T19:48:28Z,2019-04-03T19:48:28Z,3,,2462.3358333333335,1,52,Merged
+Remove outdated docs for setting up eslint in editor,2018-12-22T14:45:10Z,2018-12-24T15:42:57Z,2018-12-24T15:42:57Z,1,,48.963055555555556,1,152,Merged
+Changes to steps for publishing GitHub User Page,2018-12-27T08:37:45Z,2019-01-17T02:39:36Z,2019-01-17T02:39:36Z,4,,498.0308333333333,1,1258,Merged
+removes use of clearConsole() in some instances,2018-12-29T06:30:56Z,,2019-05-02T20:17:27Z,1,,2989.775277777778,3,816,Closed
+Typo fixes,2018-12-29T13:57:19Z,2018-12-31T02:21:33Z,2018-12-31T02:21:33Z,1,,36.403888888888886,2,204,Merged
+Set module resolution based on baseUrl in jsconfig/tsconfig.json,2019-01-03T15:08:45Z,,2019-03-15T19:33:50Z,44,,1708.4180555555556,19,658,Closed
+Bump eslint-plugin-react version and update webpack config,2019-01-05T07:42:37Z,2019-01-06T23:05:15Z,2019-01-06T23:05:15Z,1,,39.37722222222222,3,236,Merged
+set correct path for `setupProxy.js` script after ejection,2019-01-05T15:37:58Z,,2019-01-07T01:04:28Z,1,,33.44166666666667,1,270,Closed
+dependencies: move chalk to react-dev-utils,2019-01-08T07:40:45Z,2019-01-12T11:55:57Z,2019-01-12T11:55:57Z,3,,100.25333333333333,10,561,Merged
+Add note for global install of CLI,2019-01-09T04:10:23Z,2019-01-09T21:16:09Z,2019-01-09T21:16:10Z,5,,17.09611111111111,1,221,Merged
+Suggests that tsconfig.json is incorrect only when SyntaxError is caught,2019-01-09T14:44:37Z,2019-04-04T21:18:16Z,2019-04-04T21:18:16Z,4,,2046.5608333333332,1,402,Merged
+Updating updating-to-new-releases.md for users who installed CRA globally,2019-01-13T12:47:32Z,2019-01-20T02:13:38Z,2019-01-20T02:13:38Z,1,,157.435,1,391,Merged
+Add deployment instructions with AWS Amplify,2019-01-15T22:17:16Z,2019-03-21T01:41:17Z,2019-03-21T01:41:17Z,1,,1539.4002777777778,1,65,Merged
+Update `serve` port flag and add example,2019-01-19T11:47:55Z,2019-01-20T20:46:51Z,2019-01-20T20:46:51Z,2,,32.98222222222222,1,699,Merged
+Fix babel preset useESModules option,2019-01-22T17:23:55Z,,2020-09-08T20:11:17Z,1,,14282.789444444445,1,443,Closed
+Only use `yarn.lock.cached` if using the default Yarn registry,2019-01-23T00:45:56Z,2019-02-18T14:49:55Z,2019-02-18T14:49:55Z,2,,638.0663888888889,1,338,Merged
+Minimal Mode,2019-01-24T21:30:03Z,,2019-03-05T19:49:58Z,10,,958.3319444444444,10,166,Closed
+Update to Jest 24,2019-01-25T22:20:43Z,2019-03-15T18:02:59Z,2019-03-15T18:03:00Z,6,,1171.7044444444443,11,1001,Merged
+%PUBLIC_URL% in development,2019-01-26T04:00:12Z,,2019-06-22T16:40:31Z,6,,3540.6719444444443,4,454,Closed
+Allow react-scripts test --no-watch,2019-01-27T00:35:08Z,2019-02-01T15:49:53Z,2019-02-01T15:49:53Z,4,,135.24583333333334,1,595,Merged
+Remove body padding reset from templates,2019-01-29T13:28:09Z,2019-04-24T17:32:05Z,2019-04-24T17:32:05Z,2,,2044.0655555555556,2,151,Merged
+Update testMatch to also be compatible with Jest 24,2019-01-31T06:32:14Z,2019-04-16T03:44:56Z,2019-04-16T03:44:56Z,7,,1797.2116666666666,1,620,Merged
+Update docs to document `--no-watch`,2019-02-01T19:31:38Z,2019-02-04T07:21:06Z,2019-02-04T07:21:06Z,5,,59.824444444444445,3,489,Merged
+fix local yarn create-react-app for local testing before publish,2019-02-04T21:37:22Z,2019-02-05T07:45:57Z,2019-02-05T07:45:58Z,1,,10.143055555555556,1,232,Merged
+Minor issue in README.md,2019-02-05T15:52:29Z,2019-02-06T07:56:37Z,2019-02-06T07:56:37Z,1,,16.06888888888889,1,235,Merged
+Add `box-sizing: border-box` to all elements by default,2019-02-06T06:27:43Z,,2019-02-07T11:11:53Z,1,,28.73611111111111,2,0,Closed
+Add additional information for postcss errors (#6282),2019-02-06T20:07:08Z,2019-10-23T21:26:48Z,2019-10-23T21:26:48Z,1,,6217.327777777778,1,1439,Merged
+Upgrade Docusaurus and enable new features,2019-02-08T14:35:19Z,2019-02-13T01:26:48Z,2019-02-13T01:26:48Z,1,,106.85805555555555,3,753,Merged
+Add note about npx caching and link to #6119,2019-02-09T17:44:50Z,2019-03-13T02:45:57Z,2019-03-13T02:45:57Z,1,,753.0186111111111,1,326,Merged
+Speed up TypeScript v2,2019-02-12T05:11:00Z,2019-02-19T00:31:45Z,2019-02-19T00:31:45Z,1,,163.34583333333333,14,353,Merged
+Improved language used in markdown code blocks.,2019-02-13T21:11:27Z,2019-02-22T05:16:33Z,2019-02-22T05:16:33Z,5,,200.085,16,273,Merged
+Allow for the ability to use `.d.ts` files without buying into typescript setup,2019-02-15T01:37:30Z,2019-02-17T08:17:50Z,2019-02-17T08:17:50Z,1,,54.672222222222224,1,303,Merged
+Analyse also dependencies bundle,2019-02-15T10:38:15Z,2019-02-21T14:50:22Z,2019-02-21T14:50:22Z,1,,148.20194444444445,1,268,Merged
+Edit InterpolateHtmlPlugin hook (#6448),2019-02-17T19:31:00Z,2019-10-23T21:14:04Z,2019-10-23T21:14:04Z,1,,5953.717777777778,1,14,Merged
+change class component to function component,2019-02-18T09:43:06Z,2019-03-11T16:05:22Z,2019-03-11T16:05:22Z,4,,510.37111111111113,2,204,Merged
+revert css sourcemaps in development,2019-02-20T19:54:49Z,2019-02-20T21:16:18Z,2019-02-20T21:16:19Z,1,,1.3580555555555556,1,17,Merged
+remove webpack-bundle-analyzer,2019-02-21T07:25:35Z,2019-03-19T00:51:36Z,2019-03-19T00:51:36Z,1,,617.4336111111111,3,226,Merged
+Fix a typo,2019-02-21T14:44:35Z,2019-02-21T16:41:31Z,2019-02-21T16:41:31Z,1,,1.948888888888889,1,204,Merged
+Update advanced-configuration.md,2019-02-22T15:54:30Z,2019-03-26T06:13:28Z,2019-03-26T06:13:28Z,4,,758.3161111111111,1,204,Merged
+Enable click to go to error in console part 2!,2019-02-23T09:04:48Z,2019-03-10T16:31:30Z,2019-03-10T16:31:31Z,8,,367.445,3,156,Merged
+adding options for esmodules and commonjs build targets (#5216),2019-02-23T19:11:40Z,,2019-04-28T21:54:48Z,1,,1538.7188888888888,6,5404,Closed
+Fix jest config watchPlugins,2019-02-23T23:47:38Z,,2019-04-24T22:05:36Z,1,,1438.2994444444444,1,59,Closed
+Add TypeScript linting support,2019-02-24T23:56:46Z,2019-03-15T03:17:17Z,2019-03-15T03:17:17Z,1,,435.34194444444444,5,525,Merged
+Add template support,2019-02-25T08:22:18Z,,2019-09-22T12:41:42Z,1,,5020.323333333334,30,1147,Closed
+Fixed not working websocket proxy,2019-02-25T09:46:07Z,,2019-05-16T07:00:17Z,1,,1917.236111111111,1,221,Closed
+Add shutdown message for devServer when SIGINT,2019-02-26T12:43:41Z,,2021-07-07T15:44:41Z,1,,20691.016666666666,1,204,Closed
+Add directory details to packages/* package.json,2019-03-07T10:42:00Z,,2019-04-16T02:23:42Z,1,,951.695,9,299,Closed
+WIP: differential serving allow modern ES2015 and legacy ES5 build,2019-03-07T14:48:51Z,,2019-04-11T16:32:26Z,24,,841.7263888888889,9,1714,Closed
+Support browserslist in @babel/preset-env,2019-03-09T22:19:21Z,2019-03-14T19:16:10Z,2019-03-14T19:16:10Z,3,,116.94694444444444,4,940,Merged
+Convert JSON.stringify \n to os.EOL,2019-03-10T07:42:46Z,2019-03-11T15:47:16Z,2019-03-11T15:47:16Z,2,,32.075,1,50,Merged
+Cleanup Jest config,2019-03-15T19:04:27Z,2019-04-04T17:00:01Z,2019-04-04T17:00:01Z,4,,477.9261111111111,15,822,Merged
+Change app component declaration from arrow function to regular function,2019-03-15T19:12:12Z,2019-03-19T02:18:22Z,2019-03-19T02:18:22Z,1,,79.10277777777777,1,84,Merged
+Set baseUrl from jsconfig.json/tsconfig.json,2019-03-15T19:29:15Z,2019-04-16T21:08:25Z,2019-04-16T21:08:25Z,11,,769.6527777777778,29,872,Merged
+Remove unnecessary shrink-to-fit=no meta data,2019-03-17T19:30:41Z,2019-03-18T18:28:17Z,2019-03-18T18:28:17Z,1,,22.96,2,468,Merged
+Add Render deployment section,2019-03-20T19:02:23Z,2019-04-08T06:47:56Z,2019-04-08T06:47:56Z,1,,443.75916666666666,1,124,Merged
+Enable futureEmitAssets in webpack config,2019-03-21T01:53:59Z,2019-04-04T20:35:49Z,2019-04-04T20:35:49Z,1,,354.6972222222222,1,95,Merged
+Kill verdaccio in CI tasks cleanup,2019-03-21T14:14:46Z,2019-03-26T00:59:09Z,2019-03-26T00:59:09Z,3,,106.73972222222223,5,216,Merged
+Remove project property from @typescript-eslint/parser options,2019-03-21T14:34:31Z,2019-03-29T04:17:40Z,2019-03-29T04:17:40Z,1,,181.71916666666667,1,334,Merged
+Update SASS_PATH documentation for Windows,2019-03-24T12:10:54Z,2019-03-24T20:39:51Z,2019-03-24T20:39:51Z,1,,8.4825,1,408,Merged
+Update to workbox-webpack-plugin v4,2019-03-28T00:39:59Z,2019-04-05T15:48:02Z,2019-04-05T15:48:02Z,1,,207.13416666666666,1,1288,Merged
+InlineChunkHtmlPlugin works with empty publicPath,2019-04-01T05:48:19Z,2019-04-16T02:38:32Z,2019-04-16T02:38:32Z,5,,356.83694444444444,1,385,Merged
+SSR support,2019-04-03T16:25:52Z,,2021-03-15T05:52:05Z,3,,17077.436944444446,26,3772,Closed
+change NODE_ENV and PUBLIC_URL into readonly,2019-04-04T06:03:21Z,2019-04-07T17:18:33Z,2019-04-07T17:18:33Z,2,,83.25333333333333,1,373,Merged
+Add Service-Worker header to checkValidServiceWorker,2019-04-04T11:46:42Z,2019-10-23T21:20:24Z,2019-10-23T21:20:24Z,1,,4857.5616666666665,2,697,Merged
+Update to core-js@3,2019-04-07T00:19:29Z,2019-04-14T23:53:11Z,2019-04-14T23:53:11Z,2,,191.56166666666667,7,1109,Merged
+Warn when using react-scripts-ts,2019-04-07T19:39:53Z,2019-04-09T01:26:39Z,2019-04-09T01:26:39Z,4,,29.779444444444444,2,99,Merged
+Add .idea to ignore webstorm internal files,2019-04-07T21:34:52Z,,2019-04-08T15:50:40Z,1,,18.263333333333332,2,204,Closed
+Update link to React Testing Library docs,2019-04-08T11:35:29Z,2019-04-08T17:53:03Z,2019-04-08T17:53:03Z,3,,6.292777777777777,1,204,Merged
+Clarify production build output files documentation,2019-04-10T08:01:32Z,2019-04-13T21:47:33Z,2019-04-13T21:47:33Z,2,,85.76694444444445,1,82,Merged
+Copy fixes in adding Bootstrap docs,2019-04-11T10:59:45Z,2019-04-14T21:29:14Z,2019-04-14T21:29:14Z,1,,82.49138888888889,1,204,Merged
+"Call to action button now ""reacts"" to being hovered :)",2019-04-13T05:39:02Z,2019-04-25T16:18:09Z,2019-04-25T16:18:09Z,2,,298.65194444444444,1,61,Merged
+[Expo] Prevent the use of react-native internals with react-native-web,2019-04-13T09:55:19Z,,2021-08-12T02:01:04Z,2,,20440.095833333333,1,985,Closed
+Add link to TypeScript page in Getting Started,2019-04-13T22:25:28Z,2019-04-14T03:18:52Z,2019-04-14T03:18:52Z,1,,4.89,1,265,Merged
+Fix docs about minimum React version for SVG component support,2019-04-14T19:57:31Z,2019-04-14T21:27:51Z,2019-04-14T21:27:51Z,1,,1.5055555555555555,1,12,Merged
+Add custom function to generate asset manifest,2019-04-14T20:08:21Z,2019-04-16T03:35:26Z,2019-04-16T03:35:26Z,1,,31.45138888888889,1,289,Merged
+Upgrade to Lerna v3,2019-04-16T22:31:03Z,2019-04-17T15:59:07Z,2019-04-17T15:59:07Z,1,,17.467777777777776,3,63,Merged
+Add baseUrl documentation,2019-04-19T03:23:05Z,2019-04-19T14:27:05Z,2019-04-19T14:27:05Z,7,,11.066666666666666,1,51,Merged
+Remove `Object.assign` from `MiniCssExtractPlugin` options,2019-04-19T22:45:52Z,2019-04-29T15:31:50Z,2019-04-29T15:31:50Z,1,,232.76611111111112,1,498,Merged
+Fix @typescript-eslint typescript peer dependency warning,2019-04-21T01:26:03Z,,2020-12-09T18:28:03Z,2,,14369.033333333333,1,121,Closed
+Fix no-useless-constructor rule in TypeScript,2019-04-23T03:51:02Z,2019-04-24T14:35:52Z,2019-04-24T14:35:52Z,2,,34.74722222222222,1,12,Merged
+Change cssmodule classname hash to use repo relative paths instead of…,2019-04-23T16:32:20Z,2019-04-28T01:48:44Z,2019-04-28T01:48:44Z,3,,105.27333333333333,1,434,Merged
+Upgrade svgr to 4.2.0,2019-04-23T17:14:13Z,2019-05-24T15:53:35Z,2019-05-24T15:53:35Z,2,,742.6561111111112,1,2,Merged
+Update README.md,2019-04-23T18:01:35Z,2019-04-24T08:45:46Z,2019-04-24T08:45:46Z,1,,14.73638888888889,1,28,Merged
+Update GraphQL doc,2019-04-25T08:37:39Z,2019-04-30T05:26:44Z,2019-04-30T05:26:44Z,1,,116.81805555555556,1,186,Merged
+"Amend docs - ""add typescript"" global warning",2019-04-26T03:34:45Z,,2019-04-28T17:04:51Z,2,,61.501666666666665,2,327,Closed
+Remove all whitespace at end of line,2019-04-26T03:54:54Z,,2019-05-31T11:40:38Z,1,,847.7622222222222,10,0,Closed
+docs: removed scripts from getting-started,2019-04-26T07:33:21Z,,2019-05-16T01:37:46Z,1,,474.0736111111111,2,0,Closed
+Adds TSC_COMPILE_ON_ERROR env var...,2019-04-26T20:51:35Z,2019-10-01T08:09:10Z,2019-10-01T08:09:11Z,14,,3779.2930555555554,6,1894,Merged
+Grammar!,2019-04-27T22:56:45Z,2019-04-28T01:27:12Z,2019-04-28T01:27:12Z,1,,2.5075,1,248,Merged
+Fix compatibility of create-react-app to Node.js v0.10+,2019-04-28T09:23:51Z,2019-05-28T15:48:12Z,2019-05-28T15:48:12Z,1,,726.4058333333334,1,63,Merged
+Add clarifying note to TypeScript docs warning about global install of CRA,2019-04-28T17:03:52Z,2019-05-01T00:35:18Z,2019-05-01T00:35:18Z,3,,55.52388888888889,1,453,Merged
+Add the :tada: emoji to initial commit message.,2019-04-30T13:52:00Z,,2019-06-08T16:15:54Z,4,,938.3983333333333,1,356,Closed
+Configurable eslint-loader,2019-05-03T08:09:33Z,,2019-05-23T07:42:03Z,9,,479.5416666666667,1,88,Closed
+Add note to restart the dev server after changing .env file,2019-05-03T22:34:35Z,2019-05-05T16:28:09Z,2019-05-05T16:28:09Z,2,,41.89277777777778,1,204,Merged
+Stop hiding the column number of ESLint errors,2019-05-04T00:12:29Z,2019-10-01T16:23:23Z,2019-10-01T16:23:24Z,1,,3616.181666666667,2,1178,Merged
+Disable no-dupe-class-members rule for TypeScript,2019-05-05T05:46:02Z,2019-05-07T16:17:06Z,2019-05-07T16:17:07Z,2,,58.51777777777778,1,12,Merged
+Update README.md template to be nicer with links,2019-05-07T16:42:33Z,,2019-05-09T15:30:26Z,1,,46.79805555555556,1,269,Closed
+Fix node_modules sourcemap config (which will fix VSCode debugging of CRA apps),2019-05-09T01:18:02Z,2019-10-10T06:20:19Z,2019-10-10T06:20:19Z,2,,3701.0380555555557,1,6157,Merged
+Add vscodium to the editor list,2019-05-10T13:35:09Z,2019-08-08T22:12:51Z,2019-08-08T22:12:51Z,1,,2168.6283333333336,1,143,Merged
+Add ESLint extend support to eslint-loader,2019-05-12T13:05:52Z,2019-07-16T09:17:52Z,2019-07-16T09:17:52Z,7,,1556.2,5,833,Merged
+fix: Replaced opn (deprecated) with open,2019-05-15T18:36:11Z,2019-05-21T08:23:05Z,2019-05-21T08:23:05Z,2,,133.78166666666667,2,190,Merged
+Correct spelling of browserslist,2019-05-16T00:58:08Z,2019-05-16T23:38:40Z,2019-05-16T23:38:40Z,1,,22.675555555555555,1,241,Merged
+Added CI Instructions for AWS Codebuild,2019-05-16T06:09:35Z,,2021-07-07T15:44:42Z,4,,18801.585277777776,1,204,Closed
+Adjust typescript-eslint to not warn about typedefs when used before defined,2019-05-17T16:55:03Z,2019-05-20T15:40:55Z,2019-05-20T15:40:55Z,3,,70.76444444444445,1,540,Merged
+Support configuring coveragePathIgnorePatterns,2019-05-17T19:07:27Z,2019-08-08T21:13:46Z,2019-08-08T21:13:46Z,1,,1994.1052777777777,1,205,Merged
+Improve breaking changes info for CRA 3.0.0,2019-05-20T18:12:59Z,2019-05-22T16:29:45Z,2019-05-22T16:29:45Z,2,,46.279444444444444,1,357,Merged
+Add Azure DevOps build pipeline,2019-05-22T01:44:59Z,2019-05-29T02:12:24Z,2019-05-29T02:12:24Z,7,,168.45694444444445,17,701,Merged
+Append title element to SVG component via title prop,2019-05-27T11:05:06Z,2019-07-15T14:54:20Z,2019-07-15T14:54:20Z,1,,1179.8205555555555,4,2135,Merged
+Update deprecated package reference,2019-06-05T07:11:10Z,2019-06-05T23:08:43Z,2019-06-05T23:08:43Z,1,,15.959166666666667,1,525,Merged
+Fix RegExp from navigateFallbackBlacklist (workbox),2019-06-06T13:52:13Z,2019-08-08T22:07:51Z,2019-08-08T22:07:51Z,2,,1520.2605555555556,1,775,Merged
+"Closes webpack dev server and exits process on ""end"" stdin",2019-06-12T19:30:26Z,2020-02-19T22:53:47Z,2020-02-19T22:53:47Z,8,,6051.389166666667,1,389,Merged
+Guard polyfills against window possibly being undefined,2019-06-12T23:43:49Z,2019-09-24T03:44:45Z,2019-09-24T03:44:45Z,3,,2476.0155555555557,2,121,Merged
+jsx-no-duplicate-props ignore case fix,2019-06-16T06:56:51Z,2019-07-16T14:56:29Z,2019-07-16T14:56:29Z,3,,727.9938888888889,1,216,Merged
+Support comments in tsconfig.json,2019-06-19T14:30:34Z,2019-08-07T18:00:57Z,2019-08-07T18:00:57Z,5,,1179.506388888889,1,2024,Merged
+Upgrade webpack to 4.35.0 to fix dynamic import issue,2019-06-21T00:38:39Z,2019-06-24T18:25:15Z,2019-06-24T18:25:16Z,4,,89.77666666666667,5,12,Merged
+feat(react-scripts): allow PUBLIC_URL in develoment mode,2019-06-21T07:49:45Z,2020-02-02T11:55:27Z,2020-02-02T11:55:27Z,14,,5428.095,14,1364,Merged
+Update peer dependencies,2019-06-24T12:45:15Z,2019-06-24T15:42:04Z,2019-06-24T15:42:04Z,2,,2.9469444444444446,1,445,Merged
+Handle browser arguments,2019-06-24T20:10:12Z,2019-06-26T08:47:30Z,2019-06-26T08:47:31Z,8,,36.62166666666667,2,294,Merged
+Documented --use-npm & --use-script,2019-06-25T22:34:00Z,2019-06-27T07:16:32Z,2019-06-27T07:16:32Z,3,,32.708888888888886,1,159,Merged
+fix(eject): guard against empty key before access,2019-06-28T18:34:15Z,2019-07-03T00:44:04Z,2019-07-03T00:44:04Z,1,,102.16361111111111,1,3997,Merged
+docs: note that 2 to 3 migration may require deletion of node_modules,2019-06-30T13:53:47Z,2019-10-01T16:20:57Z,2019-10-01T16:20:57Z,1,,2234.4527777777776,1,200,Merged
+Fix for #6720: HMR not working in Firefox if proxy option present,2019-07-04T00:21:11Z,,2019-07-28T14:59:19Z,1,,590.6355555555556,26,235,Closed
+Update testing-library related npm package names in README,2019-07-09T12:37:51Z,2019-07-29T15:49:17Z,2019-07-29T15:49:17Z,1,,483.19055555555553,1,280,Merged
+Fix typos,2019-07-11T19:28:21Z,2019-07-15T14:12:35Z,2019-07-15T14:12:35Z,1,,90.73722222222223,5,204,Merged
+proposal dynamic import are stage 4,2019-07-15T09:44:12Z,2019-07-18T16:02:40Z,2019-07-18T16:02:40Z,1,,78.30777777777777,1,325,Merged
+Exit from startBrowserProcess when no browser is provided.,2019-07-15T21:28:19Z,,2019-11-03T06:07:27Z,1,,2648.652222222222,1,1223,Closed
+Update url-loader to 2.0.1,2019-07-16T20:03:48Z,2019-07-18T22:47:00Z,2019-07-18T22:47:00Z,2,,50.72,1,961,Merged
+"Ignore ""jsx-a11y/aria-role"" for React components",2019-07-19T13:40:39Z,2019-08-12T15:37:18Z,2019-08-12T15:37:18Z,1,,577.9441666666667,1,368,Merged
+Add ESLint 6 support,2019-07-23T16:26:16Z,2019-07-28T12:05:55Z,2019-07-28T12:05:55Z,2,,115.66083333333333,7,17,Merged
+Add question issue template,2019-07-24T23:03:25Z,2019-07-25T16:39:35Z,2019-07-25T16:39:35Z,4,,17.602777777777778,5,141,Merged
+Update adding-typescript.md,2019-07-25T09:18:07Z,,2019-07-25T14:20:30Z,1,,5.039722222222222,1,226,Closed
+Add explicit check for --watchAll=false,2019-07-26T08:09:02Z,2019-07-26T18:26:58Z,2019-07-26T18:26:58Z,2,,10.29888888888889,1,145,Merged
+Add optional chaining and nullish coalescing operators support,2019-07-27T03:19:15Z,2019-11-09T05:38:37Z,2019-11-09T05:38:37Z,2,,2522.322777777778,2,238,Merged
+Fix for #6720: HMR not working in Firefox if proxy option present,2019-07-28T15:19:26Z,2019-08-07T18:02:33Z,2019-08-07T18:02:33Z,4,,242.7186111111111,1,233,Merged
+Update README for ESLint config,2019-07-30T11:45:54Z,2019-07-30T14:54:49Z,2019-07-30T14:54:50Z,1,,3.1486111111111112,1,164,Merged
+Add global deprecate warning on create-react-app package,2019-07-30T15:12:24Z,,2020-07-29T07:25:43Z,4,,8752.221944444444,2,87,Closed
+Added dependencies to bootstrap article when using custom SCSS.,2019-08-01T21:41:15Z,2019-08-01T23:28:51Z,2019-08-01T23:28:51Z,1,,1.7933333333333332,1,191,Merged
+[optimize-react] Optimize preset-env integration,2019-08-02T11:41:21Z,,2020-03-17T10:52:16Z,2,,5471.1819444444445,4,2797,Closed
+Support @typescript-eslint/recommended,2019-08-02T15:22:42Z,,2019-09-09T01:56:05Z,2,,898.5563888888889,3,28,Closed
+add missing created file (serviceWorker.js),2019-08-03T02:59:12Z,,2019-09-07T14:53:14Z,1,,851.9005555555556,1,49,Closed
+Bump dependencies,2019-08-04T01:20:30Z,2019-08-08T21:12:35Z,2019-08-08T21:12:35Z,4,,115.86805555555556,15,71,Merged
+Specify roots in Jest config,2019-08-06T06:30:36Z,2019-08-07T03:42:58Z,2019-08-07T03:42:58Z,2,,21.20611111111111,1,169,Merged
+100% lighthouse score for progressive web app,2019-08-06T12:54:30Z,2019-08-07T09:29:29Z,2019-08-07T09:29:29Z,2,,20.583055555555557,10,1008,Merged
+Adjusted deployment documentation for ZEIT Now,2019-08-08T09:41:15Z,2019-08-08T18:25:50Z,2019-08-08T18:25:50Z,3,,8.743055555555555,1,277,Merged
+add readonly modifier for css module,2019-08-09T17:01:53Z,2019-08-09T20:03:12Z,2019-08-09T20:03:12Z,2,,3.0219444444444443,1,204,Merged
+Update docusaurus config,2019-08-09T22:50:59Z,2019-08-13T00:44:00Z,2019-08-13T00:44:00Z,2,,73.88361111111111,1,0,Merged
+Add links to Spectrum in README and docs,2019-08-09T23:01:30Z,2019-08-10T23:17:54Z,2019-08-10T23:17:54Z,2,,24.273333333333333,2,2,Merged
+Don't block static files in robots.txt,2019-08-10T23:51:13Z,2019-08-12T15:28:29Z,2019-08-12T15:28:29Z,3,,39.62111111111111,2,28,Merged
+Fix ESLint 6 support,2019-08-12T16:21:40Z,2019-08-13T17:24:30Z,2019-08-13T17:24:30Z,3,,25.04722222222222,2,61,Merged
+Show logo for mobile views in create-react-app.dev,2019-08-13T08:40:31Z,2019-08-14T18:09:50Z,2019-08-14T18:09:50Z,2,,33.48861111111111,1,744,Merged
+The variable dotenvFiles is never reassigned - use const instead,2019-08-13T15:34:04Z,2019-09-13T23:37:33Z,2019-09-13T23:37:33Z,1,,752.0580555555556,1,161,Merged
+only load eslint config when EXTEND_ESLINT environment variable is specified/ do not swallow eslint config errors,2019-08-14T06:28:05Z,2019-09-27T08:26:23Z,2019-09-27T08:26:23Z,2,,1057.9716666666666,1,1018,Merged
+Upgrade dotenv-expand to fix issues,2019-08-14T09:25:41Z,2019-09-11T05:27:26Z,2019-09-11T05:27:26Z,2,,668.0291666666667,1,208,Merged
+add a migration step to remove static from robots.txt,2019-08-14T16:43:02Z,2019-08-16T18:14:49Z,2019-08-16T18:14:49Z,2,,49.52972222222222,1,204,Merged
+Explicitly checking that EXTEND_ESLINT is true,2019-08-15T03:03:58Z,2019-09-09T03:27:07Z,2019-09-09T03:27:07Z,1,,600.3858333333334,1,328,Merged
+Bump version of @typescript-eslint/*,2019-08-15T21:42:19Z,2019-09-11T05:08:24Z,2019-09-11T05:08:25Z,4,,631.4347222222223,4,24,Merged
+feat: enforce Flow header on Flow projects,2019-08-16T10:40:13Z,,2019-08-16T17:51:40Z,1,,7.190833333333333,1,219,Closed
+docs: update Flow documentation,2019-08-16T15:04:53Z,2019-08-16T18:20:05Z,2019-08-16T18:20:05Z,1,,3.2533333333333334,1,171,Merged
+Upgrade TypeScript ESLint Parser and Plugin to the 2.x version range,2019-08-17T14:53:38Z,,2019-08-18T13:51:20Z,1,,22.961666666666666,3,62,Closed
+Update README.md,2019-08-18T18:49:27Z,,2019-08-26T16:14:18Z,1,,189.41416666666666,1,204,Closed
+enable .eslintignore again,2019-08-19T07:11:12Z,2019-09-24T07:41:05Z,2019-09-24T07:41:06Z,2,,864.4980555555555,1,501,Merged
+Minor performance improvements,2019-08-23T07:46:44Z,2019-09-11T05:44:25Z,2019-09-11T05:44:25Z,1,,453.9613888888889,1,681,Merged
+Upgrade babel-eslint,2019-08-26T12:47:13Z,,2019-09-09T01:21:53Z,1,,324.5777777777778,1,272,Closed
+Update deployment.md with another AWS example,2019-08-30T15:37:18Z,2019-09-17T20:57:52Z,2019-09-17T20:57:52Z,1,,437.34277777777777,1,314,Merged
+Remove --single-quote from prettier examples,2019-09-09T15:55:25Z,2019-09-11T14:08:30Z,2019-09-11T14:08:30Z,2,,46.21805555555556,1,477,Merged
+Close <br> tags in templates' READMEs,2019-09-11T06:00:58Z,2019-09-30T07:49:33Z,2019-09-30T07:49:33Z,3,,457.8097222222222,2,217,Merged
+Use installing package manager in README,2019-09-16T19:27:49Z,2019-10-02T08:23:23Z,2019-10-02T08:23:23Z,3,,372.9261111111111,1,78,Merged
+Add template support,2019-09-22T12:43:24Z,2019-10-24T22:17:42Z,2019-10-24T22:17:42Z,26,,777.5716666666667,159,261,Merged
+fix forEach undefined error with eslintFormatter,2019-09-22T20:51:58Z,,2019-09-25T20:29:53Z,1,,71.63194444444444,1,378,Closed
+Add babel runtime version to transform-runtime plugin to reduce bundle size,2019-09-24T07:46:20Z,2019-10-06T22:31:12Z,2019-10-06T22:31:13Z,1,,302.7477777777778,1,516,Merged
+Remove switch case,2019-09-25T00:56:37Z,2019-10-01T08:16:15Z,2019-10-01T08:16:15Z,1,,151.32722222222222,1,160,Merged
+Support production profiling with React Developer Tools,2019-09-26T02:13:07Z,2019-10-03T03:53:42Z,2019-10-03T03:53:42Z,19,,169.67638888888888,3,1346,Merged
+Enable custom sockjs pathname for hot reloading server.,2019-09-29T07:03:43Z,2020-01-31T12:07:57Z,2020-01-31T12:07:57Z,7,,2981.0705555555555,5,1557,Merged
+Fix wrong letter casing,2019-09-29T16:39:46Z,2019-09-30T08:08:28Z,2019-09-30T08:08:29Z,1,,15.478333333333333,1,113,Merged
+Support setting baseUrl to root directory,2019-09-30T13:11:06Z,2019-10-02T07:48:34Z,2019-10-02T07:48:34Z,1,,42.62444444444444,3,843,Merged
+Documentation typo fix: accessbile→accessible,2019-09-30T17:06:41Z,2019-09-30T20:38:13Z,2019-09-30T20:38:13Z,1,,3.5255555555555556,1,0,Merged
+Allow for browserslist environment variables,2019-10-01T21:56:07Z,2019-10-11T03:59:35Z,2019-10-11T03:59:35Z,2,,222.05777777777777,1,370,Merged
+Upgrade to docusaurus 2,2019-10-05T15:46:40Z,2019-10-15T16:37:33Z,2019-10-15T16:37:33Z,2,,240.84805555555556,27,979,Merged
+Add yarn.lock to .gitignore,2019-10-06T14:59:33Z,2019-10-27T04:06:21Z,2019-10-27T04:06:21Z,2,,493.11333333333334,1,398,Merged
+Widen eslint-config-react-app peer dependency versions,2019-10-06T15:16:50Z,2020-02-19T23:14:07Z,2020-02-19T23:14:08Z,2,,3271.9547222222222,7,764,Merged
+Fixed process type in TypeScript template.,2019-10-08T15:04:02Z,2019-10-10T06:25:15Z,2019-10-10T06:25:15Z,2,,39.353611111111114,1,215,Merged
+fix: make error overlay fontsize larger,2019-10-10T04:45:16Z,,2020-05-07T03:46:27Z,1,,5039.019722222222,3,259,Closed
+Remove error for @typescript-eslint/no-namespace,2019-10-10T08:57:48Z,2019-12-06T20:44:22Z,2019-12-06T20:44:23Z,1,,1379.776111111111,2,295,Merged
+Setup a flag to enable writeToDisk in dev mode,2019-10-12T00:35:33Z,,2019-11-16T03:18:23Z,1,,842.7138888888888,3,1158,Closed
+Upgrade outdated packages,2019-10-12T19:43:36Z,2019-10-25T08:36:34Z,2019-10-25T08:36:34Z,2,,300.8827777777778,4,282,Merged
+Tightens up the TypeScript docs,2019-10-13T01:32:04Z,2019-10-14T01:54:53Z,2019-10-14T01:54:53Z,2,,24.380277777777778,1,132,Merged
+[WIP]: Added tests for extending eslint (#7519),2019-10-13T05:05:07Z,,2022-09-13T20:45:57Z,2,,25599.680555555555,10,150,Closed
+Add numeric separator support,2019-10-13T09:14:40Z,2019-10-30T22:32:53Z,2019-10-30T22:32:53Z,3,,421.30361111111114,3,89,Merged
+Fix absolute paths issue in Jest,2019-10-13T19:27:35Z,2019-10-14T01:59:42Z,2019-10-14T01:59:42Z,1,,6.535277777777778,1,147,Merged
+Document correct default behavior for HOST var,2019-10-14T14:26:31Z,2019-10-15T00:26:42Z,2019-10-15T00:26:42Z,1,,10.003055555555555,1,14,Merged
+Revert logo in templates,2019-10-16T04:10:58Z,2019-10-16T16:25:43Z,2019-10-16T16:25:43Z,2,,12.245833333333334,10,81,Merged
+feat: add additional Jest keys to whitelist,2019-10-16T14:39:23Z,2019-10-16T17:07:14Z,2019-10-16T17:07:14Z,3,,2.464166666666667,2,473,Merged
+added check for typescript template and unsupported node version,2019-10-17T19:44:59Z,2019-10-17T23:19:37Z,2019-10-17T23:19:37Z,2,,3.5772222222222223,1,1200,Merged
+Update getting-started.md,2019-10-18T06:22:06Z,2019-10-18T19:16:30Z,2019-10-18T19:16:30Z,1,,12.906666666666666,1,275,Merged
+chore: update README.md gif links,2019-10-20T10:48:22Z,2019-10-20T16:06:22Z,2019-10-20T16:06:23Z,1,,5.3,2,226,Merged
+Add Alex to lint documentation,2019-10-21T01:44:32Z,2019-10-24T18:14:16Z,2019-10-24T18:14:16Z,2,,88.49555555555555,25,327,Merged
+Update adding-bootstrap.md,2019-10-21T02:47:11Z,2019-10-21T07:29:55Z,2019-10-21T07:29:56Z,1,,4.7122222222222225,1,8,Merged
+Fix eslint complaints in build.js,2019-10-24T09:03:51Z,2019-10-24T10:43:21Z,2019-10-24T10:43:21Z,1,,1.6583333333333334,1,25,Merged
+Bump docusaurus 🦖,2019-10-24T14:30:40Z,2019-10-24T18:27:02Z,2019-10-24T18:27:02Z,1,,3.9394444444444443,3,71,Merged
+Bump react,2019-10-24T14:36:53Z,2019-10-24T20:58:15Z,2019-10-24T20:58:15Z,1,,6.356111111111111,2,37,Merged
+refactor: remove double coerce,2019-10-25T07:17:44Z,2019-10-27T04:01:57Z,2019-10-27T04:01:57Z,1,,44.73694444444445,1,218,Merged
+Removed errors,2019-10-29T09:52:18Z,,2021-07-07T15:44:43Z,3,,14813.87361111111,1,294,Closed
+chore: Fix broken link for e2e README,2019-10-29T10:04:38Z,2019-10-29T12:41:43Z,2019-10-29T12:41:43Z,1,,2.6180555555555554,1,433,Merged
+chore: Fix broken link for CRA deployment,2019-10-29T10:16:03Z,2019-10-29T12:39:47Z,2019-10-29T12:39:47Z,1,,2.3955555555555557,1,571,Merged
+Passthrough wasm files to webpack internal loaders,2019-10-31T01:56:26Z,,2019-11-03T00:35:11Z,2,,70.64583333333333,2,558,Closed
+Move node polyfills in webpack to prepare for webpack 5,2019-10-31T09:47:41Z,,2020-12-04T20:03:59Z,1,,9610.271666666667,2,474,Closed
+Update babel core to 7.7.0 and typescript to 3.7,2019-11-05T13:09:05Z,,2019-11-09T15:46:28Z,1,,98.62305555555555,6,315,Closed
+No spinning React logo if `prefers-reduced-motion`,2019-11-05T19:27:18Z,2019-11-06T05:09:28Z,2019-11-06T05:09:28Z,1,,9.702777777777778,1,517,Merged
+Fix light background in docusaurus night mode,2019-11-06T00:23:23Z,2019-11-13T14:37:04Z,2019-11-13T14:37:05Z,8,,182.22805555555556,2,149,Merged
+Support scss absolute path resolution for url(),2019-11-06T01:42:24Z,2020-06-07T12:08:04Z,2020-06-07T12:08:04Z,4,,5146.427777777778,7,493,Merged
+Support JetBrains Rider IDE as an editor,2019-11-08T11:51:46Z,2020-01-31T12:04:15Z,2020-01-31T12:04:15Z,2,,2016.2080555555556,1,125,Merged
+Add placeholders where old template READMEs used to be,2019-11-13T01:06:46Z,2019-11-13T23:59:32Z,2019-11-13T23:59:33Z,3,,22.879444444444445,3,158,Merged
+Add logo resources,2019-11-13T01:39:19Z,,2020-01-27T05:03:30Z,2,,1803.4030555555555,2,965,Closed
+Bump dependencies,2019-11-16T01:56:26Z,2019-11-16T04:15:52Z,2019-11-16T04:15:52Z,1,,2.323888888888889,6,92,Merged
+Bump webpack-dev-server,2019-11-16T06:00:44Z,2019-11-24T22:18:33Z,2019-11-24T22:18:34Z,1,,208.29694444444445,8,644,Merged
+Add scripts support to templates,2019-11-16T19:53:57Z,2019-11-19T10:14:31Z,2019-11-19T10:14:31Z,11,,62.342777777777776,1,748,Merged
+Disable resolve.symlinks.,2019-11-18T03:33:19Z,,2021-10-20T23:51:32Z,7,,16868.30361111111,1,1085,Closed
+Add contributors section to readme,2019-11-18T06:10:43Z,2019-11-18T21:17:06Z,2019-11-18T21:17:06Z,2,,15.106388888888889,1,204,Merged
+Use @typescript-eslint/no-unused-expressions to support optional chaining,2019-11-19T21:22:00Z,2019-11-20T03:15:25Z,2019-11-20T03:15:25Z,1,,5.8902777777777775,1,611,Merged
+Prefix apple-touch-icon links with PUBLIC_URL,2019-11-20T04:02:22Z,2019-11-24T11:54:03Z,2019-11-24T11:54:03Z,2,,103.86138888888888,2,354,Merged
+Set compact option to true for dependencies,2019-11-20T17:50:11Z,,2019-12-26T16:33:54Z,1,,862.7286111111111,1,245,Closed
+fix(react-scripts): proactively append to .gitignore during generation,2019-11-25T20:17:13Z,2019-12-18T18:42:55Z,2019-12-18T18:42:56Z,2,,550.4283333333333,1,2000,Merged
+Add TypeScript peer dependency to react-scripts,2019-11-27T22:14:28Z,2019-11-28T22:32:20Z,2019-11-28T22:32:20Z,1,,24.297777777777778,1,188,Merged
+Remove no-unexpected-multiline rule,2019-11-27T22:44:20Z,2019-11-28T21:07:11Z,2019-11-28T21:07:11Z,3,,22.38083333333333,2,13,Merged
+Update template docs,2019-11-29T15:00:45Z,2019-11-29T17:40:26Z,2019-11-29T17:40:26Z,1,,2.661388888888889,3,204,Merged
+Disable ESLint's buggy no-unused-expressions rule,2019-12-02T19:13:10Z,,2019-12-04T02:14:44Z,3,,31.02611111111111,1,642,Closed
+Update custom template docs with instructions for testing custom template locally,2019-12-05T19:17:11Z,2020-01-30T22:45:36Z,2020-01-30T22:45:36Z,1,,1347.473611111111,1,208,Merged
+Add titleProp to SVGR ReactComponent type definition,2019-12-06T12:31:00Z,2020-01-30T22:33:45Z,2020-01-30T22:33:45Z,1,,1330.0458333333333,1,121,Merged
+chore: update docusaurus & tweak site,2019-12-07T07:20:05Z,2019-12-10T20:42:31Z,2019-12-10T20:42:31Z,1,,85.37388888888889,5,1119,Merged
+Sync dependencies babel config,2019-12-09T04:06:27Z,2020-01-30T22:41:40Z,2020-01-30T22:41:40Z,2,,1266.5869444444445,1,101,Merged
+"Fix typo in comment: `?.` is right, `.?` is not",2019-12-09T10:26:59Z,2019-12-09T22:09:07Z,2019-12-09T22:09:07Z,1,,11.702222222222222,1,359,Merged
+Add package-runner note to readme,2019-12-10T03:59:09Z,2019-12-15T21:19:42Z,2019-12-15T21:19:42Z,2,,137.3425,1,0,Merged
+Support JSONC format for jsconfig.json,2019-12-10T13:51:52Z,,2022-12-22T19:07:26Z,4,,26597.259444444444,1,436,Closed
+use MiniCssExtractPlugin with hmr in dev mode,2019-12-11T11:18:58Z,,2020-04-14T06:30:52Z,3,,2995.1983333333333,2,776,Closed
+"Add ESLint plugins for Jest, Jest DOM, and Testing Library",2019-12-11T20:50:56Z,,2020-07-01T06:08:11Z,2,,4857.2875,6,2034,Closed
+Update deployment.md about nginx,2019-12-12T02:24:16Z,,2019-12-27T06:03:33Z,2,,363.65472222222223,1,97,Closed
+Bump pkgUp,2019-12-12T14:22:58Z,2019-12-13T09:57:55Z,2019-12-13T09:57:55Z,1,,19.5825,2,135,Merged
+Bump chalk,2019-12-12T14:33:45Z,2019-12-13T19:02:05Z,2019-12-13T19:02:05Z,1,,28.47222222222222,5,132,Merged
+Add current version and bin location to --info output,2019-12-13T00:09:29Z,2019-12-13T09:56:49Z,2019-12-13T09:56:49Z,1,,9.78888888888889,1,1154,Merged
+Optimize localhost detection regex in service worker templates,2019-12-13T17:12:48Z,,2020-01-19T01:00:48Z,1,,871.8,2,420,Closed
+Bump internal dependencies,2019-12-13T19:19:11Z,2019-12-14T05:33:53Z,2019-12-14T05:33:54Z,4,,10.245,6,400,Merged
+Remove React.FC from Typescript template,2019-12-13T20:28:29Z,2020-01-22T21:32:49Z,2020-01-22T21:32:49Z,5,,961.0722222222222,1,4198,Merged
+Minor refactors in create-react-app,2019-12-13T22:30:33Z,2019-12-16T20:56:38Z,2019-12-16T20:56:38Z,2,,70.43472222222222,1,109,Merged
+Add default dockerfile that builds for production,2019-12-14T18:44:06Z,,2019-12-19T21:32:15Z,1,,122.8025,4,348,Closed
+Replace favicon in templates,2019-12-17T04:04:11Z,2019-12-30T19:53:01Z,2019-12-30T19:53:01Z,2,,327.81388888888887,2,485,Merged
+Add template support for any package.json keys (#8082),2019-12-22T12:09:17Z,2020-01-12T12:10:04Z,2020-01-12T12:10:04Z,14,,504.0130555555556,5,3204,Merged
+Add source-map-loader for debugging into original source of node_modules libraries that contain sourcemaps,2019-12-24T06:36:51Z,2021-06-02T17:11:45Z,2021-06-02T17:11:46Z,1,,12634.581666666667,3,3000,Merged
+Docs: add sanitize.css as alternative in css reset docs,2020-01-02T14:32:50Z,,2020-05-05T03:02:00Z,3,,2964.4861111111113,1,0,Closed
+Handle service worker error in Firefox,2020-01-03T01:07:13Z,2020-01-31T15:09:20Z,2020-01-31T15:09:20Z,2,,686.0352777777778,2,74,Merged
+Use native ESLint behaviour when extending,2020-01-03T08:58:10Z,2020-03-01T15:58:45Z,2020-03-01T15:58:45Z,1,,1399.0097222222223,3,165,Merged
+Fix sass importLoaders,2020-01-03T18:20:05Z,2020-01-30T23:50:02Z,2020-01-30T23:50:02Z,1,,653.4991666666666,1,651,Merged
+Run git init before template dependencies are installed,2020-01-03T22:50:08Z,2020-01-31T11:59:16Z,2020-01-31T11:59:16Z,2,,661.1522222222222,1,115,Merged
+Fixes unchecked access to 'deploy' script on build,2020-01-08T03:53:24Z,2020-02-08T05:10:50Z,2020-02-08T05:10:50Z,2,,745.2905555555556,1,447,Merged
+Minor grammatical edit,2020-01-08T06:08:05Z,2020-01-16T19:25:29Z,2020-01-16T19:25:29Z,1,,205.29,1,204,Merged
+Support shorthand scoped templates,2020-01-09T08:32:54Z,2020-01-12T12:07:08Z,2020-01-12T12:07:08Z,4,,75.57055555555556,2,1660,Merged
+Update public folder usage docs to clarify globals,2020-01-09T08:51:37Z,2020-01-31T11:56:52Z,2020-01-31T11:56:52Z,1,,531.0875,1,601,Merged
+Update Dependencies,2020-01-15T21:36:26Z,2020-01-21T22:46:02Z,2020-01-21T22:46:02Z,4,,145.16,5,115,Merged
+Suggest installing source-map-explorer as a dev dependency,2020-01-20T17:34:44Z,,2020-01-30T23:24:56Z,1,,245.83666666666667,1,325,Closed
+Upgrade to Jest 25,2020-01-22T19:42:09Z,2020-05-04T00:23:35Z,2020-05-04T00:23:35Z,1,,2452.6905555555554,12,375,Merged
+Wider Chromium support for openBrowser,2020-01-23T20:23:00Z,2020-01-31T08:53:30Z,2020-01-31T08:53:30Z,1,,180.50833333333333,2,1483,Merged
+Make @typescript-eslint optional peerDependencies,2020-01-26T09:04:08Z,,2021-04-07T02:17:28Z,2,,10481.222222222223,6,532,Closed
+Make the PWA link point to the right place,2020-01-27T01:45:02Z,2020-01-31T07:57:27Z,2020-01-31T07:57:27Z,2,,102.20694444444445,1,374,Merged
+setupTestFrameworkScriptFile is deprecated,2020-01-29T04:16:12Z,2020-01-31T11:53:22Z,2020-01-31T11:53:22Z,3,,55.61944444444445,1,369,Merged
+Exclude files from formatting (prettierignore),2020-01-31T19:53:41Z,,2020-03-12T21:08:46Z,3,,985.2513888888889,2,86,Closed
+Change arrow functions to function declarations,2020-02-01T17:38:40Z,2020-02-03T14:28:40Z,2020-02-03T14:28:40Z,1,,44.833333333333336,2,237,Merged
+Fix --use-pnp for Yarn 2,2020-02-11T10:51:43Z,2020-05-05T03:32:08Z,2020-05-05T03:32:08Z,3,,2008.673611111111,1,616,Merged
+Correct webpack name casing,2020-02-13T07:14:18Z,2020-02-13T14:41:03Z,2020-02-13T14:41:03Z,2,,7.445833333333334,28,427,Merged
+Fix missing peer dependencies warnings,2020-02-13T15:41:42Z,,2020-02-19T22:31:59Z,1,,150.83805555555554,2,114,Closed
+Add support to customize the Service Worker with InjectManifest and Workbox v5,2020-02-14T02:46:21Z,,2020-07-22T17:18:22Z,1,,3830.533611111111,11,2055,Closed
+Replace period in CSS Module classnames,2020-02-15T05:31:37Z,2020-05-05T20:17:31Z,2020-05-05T20:17:32Z,2,,1934.765,2,709,Merged
+Fix proxying API request docs,2020-02-19T15:56:29Z,2020-03-04T01:23:52Z,2020-03-04T01:23:52Z,1,,321.4563888888889,1,215,Merged
+allow specification of package.main in template.json,2020-02-22T18:20:53Z,2020-02-29T09:57:36Z,2020-02-29T09:57:36Z,2,,159.61194444444445,1,1834,Merged
+Update http-proxy-middleware documentation,2020-02-23T03:49:43Z,,2020-03-21T17:35:58Z,2,,661.7708333333334,1,435,Closed
+Add React.StrictMode to default templates,2020-02-26T22:11:39Z,2020-03-10T15:16:49Z,2020-03-10T15:16:49Z,3,,305.0861111111111,2,76,Merged
+Indicate that the file structure is the template's,2020-02-27T12:18:07Z,2020-02-29T09:48:27Z,2020-02-29T09:48:27Z,1,,45.50555555555555,1,200,Merged
+Add experimental react-refresh support,2020-02-29T03:12:19Z,2020-04-06T04:47:29Z,2020-04-06T04:47:30Z,1,,889.5861111111111,6,4017,Merged
+Update url to see prettier in action,2020-03-06T09:21:25Z,2020-04-07T03:50:38Z,2020-04-07T03:50:38Z,1,,762.4869444444445,1,116,Merged
+Bump dependencies,2020-03-08T18:56:02Z,2020-03-09T17:20:42Z,2020-03-09T17:20:42Z,1,,22.41111111111111,6,195,Merged
+"docs: use devDependencies for husky, lint-staged and prettier",2020-03-11T01:55:53Z,,2020-04-04T23:34:40Z,1,,597.6463888888889,1,480,Closed
+Support source maps for scss in dev environments,2020-03-11T21:39:28Z,2020-05-04T03:08:17Z,2020-05-04T03:08:18Z,1,,1277.4802777777777,1,352,Merged
+Add minimal template,2020-03-14T10:26:22Z,,2020-05-07T17:37:32Z,1,,1303.1861111111111,6,852,Closed
+Simplify wording in setting-up-your-editor.md,2020-03-21T12:51:38Z,2020-04-07T03:49:38Z,2020-04-07T03:49:38Z,3,,398.96666666666664,1,204,Merged
+Use process.execPath to spawn node subprocess,2020-03-23T05:52:41Z,2020-06-20T17:58:59Z,2020-06-20T17:58:59Z,1,,2148.105,2,1263,Merged
+Update template tests,2020-03-24T10:26:38Z,2020-03-24T16:10:48Z,2020-03-24T16:10:49Z,2,,5.736111111111111,2,158,Merged
+Bump typescript template to 3.8 ,2020-03-25T19:49:29Z,2020-03-27T09:39:43Z,2020-03-27T09:39:43Z,2,,37.83722222222222,1,409,Merged
+fix: handle templates without main package field,2020-03-27T09:25:52Z,2020-04-04T23:36:22Z,2020-04-04T23:36:22Z,2,,206.175,3,247,Merged
+update referenced enzyme.js links,2020-03-28T18:29:36Z,,2020-05-20T05:34:54Z,1,,1259.0883333333334,1,88,Closed
+Add back in --stats output from webpack.,2020-04-05T20:23:35Z,2020-05-05T02:59:46Z,2020-05-05T02:59:46Z,1,,702.6030555555556,2,757,Merged
+Add setupTests.js to the list of generated files,2020-04-06T08:50:45Z,2020-04-07T03:47:50Z,2020-04-07T03:47:50Z,1,,18.95138888888889,1,204,Merged
+Update workbox plugin to 5.1.2,2020-04-11T19:13:06Z,,2020-07-22T02:30:35Z,1,,2431.291388888889,3,2725,Closed
+Support devDependencies in templates,2020-04-15T18:00:41Z,2020-05-04T15:16:40Z,2020-05-04T15:16:40Z,2,,453.2663888888889,2,168,Merged
+Do not check for interactive session to shut down dev server,2020-04-16T19:13:49Z,2020-05-04T02:56:52Z,2020-05-04T02:56:52Z,2,,415.7175,1,1463,Merged
+Add support for postcss.config.js,2020-04-26T12:49:41Z,,2021-03-31T06:29:10Z,1,,8129.658055555556,10,196,Closed
+Rename Zeit to Vercel and correct doc link,2020-04-28T15:28:09Z,,2020-06-02T11:52:51Z,1,,836.4116666666666,1,204,Closed
+Add import/no-anonymous-default-export lint rule,2020-04-28T22:43:26Z,2020-05-04T03:34:56Z,2020-05-04T03:34:56Z,1,,124.85833333333333,41,219,Merged
+Bump immer version,2020-04-30T05:56:56Z,2020-08-05T17:21:06Z,2020-08-05T17:21:06Z,1,,2339.402777777778,1,133,Merged
+feat: remove typescript flag and NODE_PATH support,2020-04-30T06:30:02Z,2020-05-29T08:11:58Z,2020-05-29T08:11:58Z,4,,697.6988888888889,17,226,Merged
+Added gitignore for IDEA. Can be extended.,2020-05-01T11:14:08Z,,2020-06-10T20:46:46Z,3,,969.5438888888889,1,138,Closed
+Bump React Hooks ESLint plugin to 4.0.0,2020-05-01T16:29:49Z,2020-05-04T01:27:15Z,2020-05-04T01:27:15Z,2,,56.95722222222222,2,612,Merged
+fix react-refresh babel plugin not applied,2020-05-04T12:54:02Z,2020-05-04T16:30:13Z,2020-05-04T16:30:13Z,1,,3.6030555555555557,1,125,Merged
+Upgrade to Jest 26,2020-05-04T18:16:36Z,2020-06-01T14:02:26Z,2020-06-01T14:02:26Z,1,,667.7638888888889,11,608,Merged
+Move shortlinks to cra.link,2020-05-05T02:43:39Z,2020-05-05T22:29:06Z,2020-05-05T22:29:06Z,1,,19.7575,10,58,Merged
+feat(eslint-config-react-app): Add jest & testing-library rules,2020-05-05T21:06:10Z,2020-10-22T15:08:28Z,2020-10-22T15:08:28Z,20,,4074.0383333333334,6,680,Merged
+Support ESLint 7.x,2020-05-09T11:15:16Z,2020-06-23T03:49:02Z,2020-06-23T03:49:02Z,3,,1072.5627777777777,4,1969,Merged
+Add support for new BUILD_PATH advanced configuration variable,2020-05-10T23:31:27Z,2021-02-03T18:16:10Z,2021-02-03T18:16:10Z,1,,6450.745277777778,2,3860,Merged
+Update outdated link,2020-05-11T08:08:01Z,,2020-06-17T04:33:45Z,1,,884.4288888888889,1,162,Closed
+ZEIT Now → Vercel,2020-05-15T05:53:26Z,,2020-07-11T02:37:59Z,3,,1364.7425,1,143,Closed
+Fix dotenv file loading order,2020-05-20T20:33:35Z,2020-05-29T07:18:14Z,2020-05-29T07:18:14Z,3,,202.74416666666667,3,140,Merged
+Update deployment docs for Azure Static Web Apps,2020-05-21T14:44:52Z,2020-06-14T23:01:53Z,2020-06-14T23:01:53Z,4,,584.2836111111111,1,84,Merged
+clean formatMessage usage,2020-05-24T12:58:23Z,2020-08-05T17:10:25Z,2020-08-05T17:10:25Z,1,,1756.2005555555556,1,226,Merged
+Update `<noscript>` to something more appropriate. 😂,2020-05-26T13:10:23Z,,2020-05-27T11:04:21Z,1,,21.899444444444445,1,358,Closed
+Small syntax update for including `style-loader`,2020-05-28T15:26:39Z,,2020-06-03T19:06:43Z,2,,147.6677777777778,27,644,Closed
+Update packages,2020-05-29T03:59:00Z,2020-05-29T07:02:57Z,2020-05-29T07:02:57Z,1,,3.0658333333333334,6,53,Merged
+Update getting-started.md,2020-05-29T20:41:25Z,2020-05-31T08:32:55Z,2020-05-31T08:32:55Z,1,,35.858333333333334,1,231,Merged
+Replace Spectrum links with GitHub Discussions,2020-06-03T05:50:53Z,2020-06-14T23:06:45Z,2020-06-14T23:06:45Z,2,,281.26444444444445,2,0,Merged
+Allow testMatch for jest config,2020-06-05T16:59:17Z,2020-06-06T14:21:55Z,2020-06-06T14:21:55Z,1,,21.377222222222223,1,987,Merged
+Add performance relayer + documentation (web-vitals),2020-06-05T21:39:20Z,2020-06-11T22:53:51Z,2020-06-11T22:53:52Z,14,,145.24194444444444,10,302,Merged
+Upgrade dependencies,2020-06-10T04:26:58Z,2020-06-10T06:36:49Z,2020-06-10T06:36:49Z,1,,2.1641666666666666,9,0,Merged
+fix: improve DefinePlugin config,2020-06-16T23:32:20Z,,2020-07-24T15:34:44Z,2,,904.04,1,517,Closed
+Switch to the Workbox InjectManifest plugin,2020-06-23T15:54:25Z,2020-07-22T02:27:33Z,2020-07-22T02:27:33Z,24,,682.5522222222222,8,643,Merged
+Updated README.md Templates to Follow ESLint Markdown Rules,2020-07-01T02:19:57Z,2020-08-01T21:27:24Z,2020-08-01T21:27:25Z,4,,763.1241666666666,2,1279,Merged
+Explain how to uninstall create-react-app globally,2020-07-02T00:41:16Z,2020-07-02T14:54:50Z,2020-07-02T14:54:50Z,4,,14.226111111111111,4,502,Merged
+feat: Update ESLint dependencies,2020-07-02T20:14:37Z,2020-07-22T18:33:57Z,2020-07-22T18:33:57Z,1,,478.3222222222222,4,0,Merged
+fix: Fix azure-pipelines' endOfLine,2020-07-03T10:53:35Z,2020-09-14T03:26:35Z,2020-09-14T03:26:35Z,1,,1744.55,5,10,Merged
+fix: typo in adding-typescript.md,2020-07-06T21:49:08Z,,2020-08-22T23:06:09Z,2,,1129.2836111111112,1,16,Closed
+Update adding-typescript.md,2020-07-10T18:03:16Z,,2020-10-11T23:45:53Z,1,,2237.7102777777777,1,246,Closed
+fix(messaging): Update suggestBundleSplitting links,2020-07-13T16:38:08Z,,2022-01-09T13:59:31Z,1,,13077.35638888889,1,168,Closed
+fixing a few typos and enhancing a few sentences clarity in docs,2020-07-20T17:55:53Z,,2020-10-11T23:45:51Z,1,,1997.8327777777777,12,2,Closed
+Remove server worker registration from default templates,2020-07-22T17:47:23Z,2020-07-23T08:31:00Z,2020-07-23T08:31:00Z,2,,14.726944444444445,4,255,Merged
+Add Fast Refresh warning when using React < 16.10,2020-07-22T18:30:59Z,2020-08-02T17:24:31Z,2020-08-02T17:24:31Z,6,,262.89222222222224,4,514,Merged
+fix  #9346,2020-07-23T08:40:44Z,,2020-12-25T14:11:17Z,1,,3725.5091666666667,1,281,Closed
+feat: exit on outdated create-react-app version,2020-07-23T18:48:48Z,2020-07-29T07:25:43Z,2020-07-29T07:25:44Z,2,,132.61527777777778,1,585,Merged
+Added CRA logo in README.md,2020-07-24T09:28:27Z,2020-08-24T14:40:15Z,2020-08-24T14:40:16Z,2,,749.1966666666667,1,661,Merged
+Update README.md,2020-07-27T01:06:43Z,,2020-10-13T21:11:46Z,1,,1892.0841666666668,1,204,Closed
+feat: better refresh plugin integration,2020-07-28T09:49:31Z,2020-07-28T19:38:08Z,2020-07-28T19:38:08Z,2,,9.810277777777777,4,1773,Merged
+Update running-tests.md,2020-07-28T23:36:16Z,2020-08-01T21:30:35Z,2020-08-01T21:30:35Z,2,,93.90527777777778,1,59,Merged
+Upfate master,2020-07-31T10:11:57Z,,2020-08-04T23:56:18Z,3,,109.73916666666666,5,204,Closed
+My Security update,2020-08-01T00:18:01Z,,2020-08-04T23:04:33Z,4,,94.77555555555556,25,324,Closed
+Fix template name handling,2020-08-04T02:25:07Z,2020-08-05T17:25:11Z,2020-08-05T17:25:11Z,1,,39.00111111111111,5,234,Merged
+Typo fix,2020-08-05T17:40:48Z,,2020-10-04T04:28:17Z,3,,1426.7913888888888,1,204,Closed
+feat: Update ESLint dependencies,2020-08-06T08:56:07Z,2020-09-14T03:30:01Z,2020-09-14T03:30:01Z,1,,930.565,5,54,Merged
+docs: update references to zeit/now to vercel,2020-08-07T13:59:43Z,,2020-10-06T12:47:20Z,1,,1438.7936111111112,1,93,Closed
+chore: update to jest@26.3,2020-08-10T11:52:19Z,2020-08-11T07:14:59Z,2020-08-11T07:14:59Z,1,,19.377777777777776,9,84,Merged
+Update terser-webpack-plugin version,2020-08-11T20:07:03Z,,2020-08-12T16:50:07Z,1,,20.717777777777776,1,445,Closed
+Fixes in the /packages/react-devs-utils/README.md file,2020-08-11T21:22:16Z,2020-08-17T21:00:13Z,2020-08-17T21:00:13Z,1,,143.6325,1,66,Merged
+docs: add missing override options for Jest config,2020-08-12T03:57:04Z,2021-02-03T18:09:45Z,2021-02-03T18:09:45Z,2,,4214.211388888889,1,390,Merged
+postcss fix - the css file from outside the project doesn't parse…,2020-08-17T02:50:52Z,,2020-10-04T04:28:19Z,2,,1153.6241666666667,1,266,Closed
+Bump major versions of ESLint config's README,2020-08-17T17:14:20Z,,2020-10-11T23:45:57Z,2,,1326.5269444444446,1,443,Closed
+fix: add alt tag to improve accessibility of docusaurus website,2020-08-18T11:47:11Z,2020-09-14T14:31:09Z,2020-09-14T14:31:09Z,1,,650.7327777777778,1,267,Merged
+[ImgBot] Optimize images,2020-08-21T10:54:31Z,2020-10-26T18:29:48Z,2020-10-26T18:29:48Z,2,,1591.5880555555555,10,1391,Merged
+Update links to Flow and Typescript,2020-08-21T17:15:54Z,,2020-12-25T15:10:54Z,1,,3021.9166666666665,1,394,Closed
+Fixed typo in the directory tree section of README,2020-08-22T15:29:38Z,,2020-10-11T23:45:45Z,1,,1208.268611111111,1,53,Closed
+Update CODEOWNERS,2020-08-23T04:22:09Z,,2020-10-11T23:45:45Z,1,,1195.3933333333334,1,140,Closed
+Update template dependencies to latest version,2020-08-24T01:00:46Z,2020-09-14T03:28:10Z,2020-09-14T03:28:11Z,1,,506.45666666666665,2,0,Merged
+Update adding-custom-environment-variables.md,2020-08-24T08:32:53Z,,2020-08-25T10:09:24Z,1,,25.60861111111111,1,305,Closed
+Fix broken link in docs to deployment with relative links,2020-08-26T10:08:32Z,,2020-10-11T23:45:58Z,1,,1117.6238888888888,1,250,Closed
+Update Readme.md,2020-09-02T13:07:34Z,,2020-12-25T15:11:00Z,1,,2738.057222222222,1,479,Closed
+Remove EXTEND_ESLINT and add Jest rules,2020-09-03T08:45:11Z,2020-09-13T09:52:23Z,2020-09-13T09:52:23Z,2,,241.12,11,144,Merged
+SVGs as ReactComponent must follow PascalCasing,2020-09-06T18:49:56Z,,2022-01-09T13:59:29Z,3,,11755.159166666666,1,622,Closed
+Add AVIF image support,2020-09-08T23:17:39Z,2020-10-14T17:54:53Z,2020-10-14T17:54:53Z,5,,858.6205555555556,2,39,Merged
+Fixing a small bug in file structure tree,2020-09-10T13:14:57Z,,2020-09-11T15:51:40Z,1,,26.611944444444443,1,360,Closed
+Upgrade dependencies,2020-09-14T03:53:52Z,2020-09-16T20:44:53Z,2020-09-16T20:44:53Z,2,,64.85027777777778,14,87,Merged
+fix: resolve CI build failure,2020-09-14T09:46:43Z,2020-09-16T07:08:06Z,2020-09-16T07:08:06Z,6,,45.35638888888889,5,0,Merged
+Use new JSX transform with React 17,2020-09-15T04:40:32Z,2020-09-16T17:46:36Z,2020-09-16T17:46:36Z,7,,37.10111111111111,2,14,Merged
+fix(eslint-config-react-app): Make eslint-plugin-jest an optional peerDependency,2020-09-19T22:24:43Z,2020-10-22T14:12:56Z,2020-10-22T14:12:56Z,3,,783.8036111111111,2,0,Merged
+fix: resolve ESLint config from appPath,2020-09-23T07:33:18Z,2020-09-30T17:18:24Z,2020-09-30T17:18:24Z,4,,177.75166666666667,3,179,Merged
+Fix broken links,2020-09-25T14:51:36Z,,2022-01-09T13:59:22Z,1,,11303.129444444445,1,744,Closed
+[Packages] update link in README.md,2020-09-28T19:41:58Z,,2022-01-09T13:59:23Z,2,,11226.290277777778,1,105,Closed
+Update to PostCSS 8,2020-09-28T21:31:02Z,,2020-12-08T04:24:46Z,3,,1686.8955555555556,1,72,Closed
+Upgrade Docusaurus to latest version,2020-09-30T15:50:06Z,2020-10-16T19:08:27Z,2020-10-16T19:08:27Z,1,,387.30583333333334,5,568,Merged
+Update getting-started.md,2020-09-30T20:12:02Z,,2022-01-09T13:59:19Z,3,,11177.788055555555,1,47,Closed
+Replace deprecated eslint-loader by eslint-webpack-plugin,2020-10-04T11:28:30Z,2020-10-20T10:38:33Z,2020-10-20T10:38:33Z,3,,383.1675,4,425,Merged
+docs(development): adds React Styleguidist demo,2020-10-07T04:18:27Z,,2022-01-09T13:59:18Z,2,,11025.680833333334,1,299,Closed
+fix: resolve new JSX transform issues,2020-10-12T16:34:40Z,2020-10-15T09:27:04Z,2020-10-15T09:27:04Z,14,,64.87333333333333,3,576,Merged
+Fix refreshOverlayInterop module scope error,2020-10-14T18:25:06Z,2020-10-21T16:56:27Z,2020-10-21T16:56:27Z,2,,166.5225,1,172,Merged
+[v4] Fallback to full reload if React version doesn't support Fast Refresh,2020-10-17T08:22:02Z,,2020-10-26T18:21:41Z,1,,225.99416666666667,3,1078,Closed
+Update running-tests.md,2020-10-17T09:49:11Z,,2020-12-25T14:11:37Z,1,,1660.3738888888888,1,170,Closed
+feat: remove unused React imports,2020-10-22T07:40:06Z,2020-10-22T22:30:38Z,2020-10-22T22:30:38Z,2,,14.842222222222222,2,501,Merged
+feat: Update ESLint dependencies,2020-10-22T14:26:21Z,2020-10-22T16:13:09Z,2020-10-22T16:13:09Z,1,,1.78,3,0,Merged
+New JSX Transform opt out,2020-10-22T22:41:00Z,2020-10-23T03:04:37Z,2020-10-23T03:04:37Z,6,,4.393611111111111,4,72,Merged
+Add link to Open Collective,2020-10-23T04:03:10Z,2020-10-23T05:31:01Z,2020-10-23T05:31:01Z,1,,1.4641666666666666,1,50,Merged
+fix(react-scripts): add missing peer dependency react and update react-refresh-webpack-plugin,2020-10-23T20:00:45Z,2021-01-13T23:07:11Z,2021-01-13T23:07:12Z,2,,1971.1072222222222,1,1201,Merged
+docs: update deploy script command,2020-10-24T10:31:57Z,,2020-12-25T14:11:32Z,1,,1491.6597222222222,1,263,Closed
+fix: fast refresh is enabled if `FAST_REFRESH` environment variable is not defined,2020-10-27T01:28:58Z,,2020-12-25T15:10:50Z,1,,1429.6977777777777,1,440,Closed
+Fix noFallthroughCasesInSwitch/jsx object is not extensible,2020-10-27T07:21:29Z,2020-10-30T23:04:56Z,2020-10-30T23:04:56Z,4,,87.72416666666666,1,429,Merged
+docs(eslint-config-react-app): typo in installation command for jest rules,2020-10-27T11:37:22Z,,2020-12-25T15:10:51Z,1,,1419.5580555555555,1,64,Closed
+Fix #9880,2020-10-27T12:52:04Z,,2020-10-28T20:23:37Z,4,,31.525833333333335,1,98,Closed
+Fix: revisit dependency pinning,2020-10-28T13:10:17Z,,2020-12-25T14:11:29Z,1,,1393.02,2,344,Closed
+fix: disable esModule on file-loader and url-loader to fix require() issues,2020-10-28T15:19:24Z,,2021-05-31T07:54:24Z,2,,5152.583333333333,1,1102,Closed
+Fix #9880,2020-10-28T20:28:24Z,,2021-05-30T12:31:52Z,5,,5128.057777777778,1,373,Closed
+inform people readng the doc that expand variables not working,2020-10-29T15:13:26Z,,2020-12-25T14:11:24Z,1,,1366.966111111111,1,204,Closed
+Add TypeScript 4.x as peerDependency to react-scripts,2020-10-30T14:44:18Z,2020-11-26T05:10:21Z,2020-11-26T05:10:21Z,2,,638.4341666666667,1,610,Merged
+Move ESLint cache file into node_modules,2020-11-01T11:13:19Z,2020-12-08T05:08:20Z,2020-12-08T05:08:21Z,3,,881.9169444444444,1,1196,Merged
+Fix outdated comment,2020-11-02T18:49:11Z,,2020-12-25T14:11:33Z,1,,1267.3727777777779,1,335,Closed
+Update postcss packages,2020-11-03T23:22:54Z,2020-12-08T04:24:34Z,2020-12-08T04:24:34Z,1,,821.0277777777778,2,736,Merged
+WP5 - Update fork-ts-checker-webpack-plugin [DRAFT],2020-11-03T23:55:34Z,,2021-07-01T06:00:17Z,10,,5742.078611111111,6,1192,Closed
+WP5 - Replace OptimizeCssAssetsWebpackPlugin with CssMinimizerWebpackPlugin,2020-11-04T00:38:38Z,,2021-07-01T06:01:14Z,1,,5741.376666666667,2,360,Closed
+WP5 - Update IgnorePlugin signature,2020-11-04T00:54:01Z,,2021-07-01T05:58:40Z,1,,5741.0775,1,284,Closed
+Remove trailing space in reportWebVitals.ts,2020-11-08T16:23:02Z,2020-11-10T16:41:34Z,2020-11-10T16:41:34Z,1,,48.30888888888889,1,65,Merged
+Increase Workbox's maximumFileSizeToCacheInBytes,2020-11-09T21:10:29Z,2020-11-10T18:07:48Z,2020-11-10T18:07:48Z,1,,20.955277777777777,1,497,Merged
+docs: add React Testing Library as a library requiring jsdom,2020-11-10T09:48:05Z,2020-11-10T16:49:43Z,2020-11-10T16:49:43Z,1,,7.027222222222222,1,334,Merged
+Fix a typo in eslint-config-react-app README,2020-11-16T15:18:18Z,,2020-11-20T02:11:41Z,1,,82.88972222222222,1,272,Closed
+Recovered some integration tests,2020-11-18T07:47:45Z,2020-12-08T04:46:42Z,2020-12-08T04:46:42Z,5,,476.9825,8,1486,Merged
+Fix typo in eslint jest plugin install command,2020-11-18T09:58:13Z,,2020-12-25T15:10:52Z,1,,893.2108333333333,1,204,Closed
+Add support for Webpack 5 message objects,2020-11-20T19:32:56Z,2021-05-30T12:56:57Z,2021-05-30T12:56:57Z,1,,4577.400277777778,1,191,Merged
+update broken pace.js link in document,2020-11-24T14:07:56Z,,2020-11-25T04:41:31Z,1,,14.559722222222222,1,550,Closed
+Add opt-out for eslint-webpack-plugin,2020-11-29T17:48:44Z,2021-02-03T18:45:02Z,2021-02-03T18:45:02Z,6,,1584.9383333333333,3,395,Merged
+Allow custom branch names,2020-12-05T04:34:55Z,,2024-08-28T20:34:56Z,1,,32704.000277777777,2,2033,Closed
+Remove references to Node 8,2020-12-08T05:00:12Z,2020-12-14T21:38:32Z,2020-12-14T21:38:32Z,1,,160.63888888888889,2,70,Merged
+Upgrade docs http links to https,2020-12-24T14:08:49Z,2021-04-12T02:30:30Z,2021-04-12T02:30:30Z,1,,2604.361388888889,9,840,Merged
+test(create-react-app): add integration tests,2021-01-14T08:47:03Z,2021-05-12T18:08:18Z,2021-05-12T18:08:18Z,3,,2841.3541666666665,4,165,Merged
+Update production-build.md,2021-01-19T08:21:51Z,,2021-01-20T18:16:41Z,1,,33.91388888888889,1,204,Closed
+fix type,2021-01-28T05:04:36Z,,2022-06-17T17:35:37Z,1,,12132.516944444444,1,204,Closed
+Remove ESLint verification when opting-out,2021-02-04T09:35:42Z,2021-06-02T17:08:33Z,2021-06-02T17:08:33Z,4,,2839.5475,1,249,Merged
+docs: Make hyperlink consistent,2021-02-04T12:00:23Z,2022-06-17T17:36:52Z,2022-06-17T17:36:52Z,2,,11957.608055555556,1,177,Merged
+Fix ICSS syntax in stylesheets,2021-02-05T14:29:26Z,2021-04-12T02:27:32Z,2021-04-12T02:27:33Z,1,,1571.9683333333332,1,2339,Merged
+docs: move '/api' from use() to createProxyMiddleware(),2021-02-11T13:17:42Z,,2021-07-07T15:44:48Z,1,,3506.451666666667,1,302,Closed
+Updated pace.js link,2021-02-12T08:00:15Z,2022-06-17T17:27:38Z,2022-06-17T17:27:38Z,1,,11769.45638888889,1,20,Merged
+Fix typo on readme,2021-02-15T09:41:26Z,,2021-05-12T16:25:54Z,5,,2070.741111111111,1,98,Closed
+Fixed FAST_REFRESH behaviour issue #10539,2021-02-15T11:40:46Z,,2021-02-15T16:03:30Z,1,,4.378888888888889,1,353,Closed
+Add image optimization,2021-02-17T19:44:44Z,,2021-08-04T19:13:40Z,3,,4031.4822222222224,8,372,Closed
+react-dev-utils bump to immer 8.0.1,2021-02-20T17:36:51Z,,2021-02-20T19:10:13Z,1,,1.556111111111111,1,320,Closed
+Upgrade eslint-webpack-plugin to fix opt-out flag,2021-02-21T14:14:07Z,2021-02-22T16:39:06Z,2021-02-22T16:39:07Z,1,,26.41638888888889,2,690,Merged
+Webpack5 update [DRAFT],2021-03-06T10:51:53Z,,2021-05-14T17:06:00Z,2,,1662.2352777777778,18,1078,Closed
+Fixed a typo,2021-03-10T04:54:55Z,,2021-05-12T16:26:50Z,1,,1523.5319444444444,1,67,Closed
+Upgrade jest from 26.6.0 to 27.0.0-next.6,2021-03-25T20:08:17Z,,2021-09-22T22:48:05Z,26,,4346.663333333333,13,233,Closed
+chore: migrate to @babel/eslint-parser,2021-03-29T19:55:57Z,2021-07-14T17:21:32Z,2021-07-14T17:21:32Z,14,,2565.426388888889,7,299,Merged
+Bump immer version for fixing security issue,2021-04-07T13:12:52Z,2021-05-12T16:33:28Z,2021-05-12T16:33:28Z,1,,843.3433333333334,1,188,Merged
+Unpin babel dependencies,2021-04-08T11:10:47Z,2021-05-30T15:10:23Z,2021-05-30T15:10:23Z,3,,1251.9933333333333,4,163,Merged
+feat(eslint-config-react-app): support `eslint-plugin-testing-library` 4.x,2021-04-12T11:06:41Z,,2021-12-25T01:00:30Z,4,,6157.896944444445,4,445,Closed
+chore: Docusaurus with webpack 5,2021-04-23T13:34:59Z,,2022-01-09T13:59:11Z,1,,6264.403333333334,3,514,Closed
+[WP5] Webpack5 update,2021-05-14T17:05:26Z,2021-05-28T07:33:00Z,2021-05-28T07:33:00Z,4,,326.45944444444444,31,1266,Merged
+test(create-react-app): assert for exit code,2021-05-16T19:14:11Z,2021-10-12T08:29:58Z,2021-10-12T08:29:58Z,1,,3565.2630555555556,1,94,Merged
+Coerce Node versions with metadata,2021-06-05T09:39:46Z,2021-06-08T05:38:49Z,2021-06-08T05:38:50Z,1,,67.98416666666667,1,88,Merged
+fix: fast refresh stops on needed bail outs,2021-06-15T00:18:39Z,2021-07-14T17:19:49Z,2021-07-14T17:19:50Z,1,,713.0194444444444,1,1963,Merged
+changed class attribute to className,2021-06-17T08:42:14Z,,2021-07-07T15:44:50Z,1,,487.04333333333335,1,281,Closed
+Update PostCSS version,2021-06-18T13:54:00Z,2021-06-22T13:01:49Z,2021-06-22T13:01:50Z,1,,95.13027777777778,1,197,Merged
+Upgrade sass-loader to ^11.1.1,2021-06-30T17:12:52Z,,2021-09-15T14:38:37Z,3,,1845.4291666666666,1,685,Closed
+Deprecate root level template.json keys,2021-07-07T17:36:00Z,2021-07-14T17:18:16Z,2021-07-14T17:18:16Z,1,,167.70444444444445,2,283,Merged
+Webpack 5,2021-07-12T11:58:10Z,2021-08-04T17:24:41Z,2021-08-04T17:24:42Z,44,,557.4419444444444,49,594,Merged
+Fix: URL for code splitting,2021-07-15T04:06:54Z,,2022-09-20T15:22:18Z,1,,10379.256666666666,1,222,Closed
+add module federation support,2021-07-23T14:27:55Z,,2024-04-23T10:42:01Z,4,,24116.235,8,1035,Closed
+Increase minimum node version to 14,2021-07-28T19:14:27Z,,2021-07-30T06:28:16Z,1,,35.23027777777778,14,49,Closed
+fix: dependency issue after workbox-webpack-plugin 6.2 release,2021-08-06T10:22:42Z,2021-08-18T17:26:18Z,2021-08-18T17:26:19Z,1,,295.06,1,323,Merged
+fix: resolve dependency issues in v5 alpha,2021-08-07T14:52:58Z,2021-09-22T17:36:18Z,2021-09-22T17:36:18Z,1,,1106.7222222222222,3,265,Merged
+Use npm v7 with workspaces for local development and testing,2021-08-11T15:37:39Z,2021-09-01T17:14:04Z,2021-09-01T17:14:04Z,1,,505.6069444444444,30,488,Merged
+Update @pmmmwh/react-refresh-webpack-plugin to 0.5.0-rc.3,2021-08-17T22:37:11Z,2021-08-19T13:35:19Z,2021-08-19T13:35:19Z,1,,38.96888888888889,1,553,Merged
+Migrate to webpack-dev-server to 4.0.0,2021-08-18T10:49:33Z,2021-08-19T07:51:09Z,2021-08-19T07:51:09Z,1,,21.026666666666667,6,155,Merged
+Bump url-parse from 1.4.7 to 1.5.3 in /docusaurus/website,2021-08-18T17:27:40Z,,2021-09-01T17:15:31Z,2,,335.7975,1,4753,Closed
+allow CORS on webpack-dev-server,2021-08-19T20:43:44Z,2021-09-22T22:48:39Z,2021-09-22T22:48:39Z,3,,818.0819444444444,1,95,Merged
+Upgrade jest and related packages from 26.6.0 to 27.1.0,2021-08-28T07:28:43Z,2021-09-22T22:47:16Z,2021-09-22T22:47:17Z,8,,615.3091666666667,13,631,Merged
+Fix typos,2021-08-31T21:12:49Z,,2021-11-03T12:40:42Z,1,,1527.4647222222222,8,390,Closed
+Bump immer from 8.0.4 to 9.0.6,2021-09-03T07:23:05Z,2021-09-22T17:37:46Z,2021-09-22T17:37:46Z,3,,466.2447222222222,2,8192,Merged
+Update all dependencies,2021-10-10T21:24:39Z,,2021-12-15T21:14:42Z,4,,1583.8341666666668,12,182,Closed
+Update all dependencies,2021-11-05T15:34:52Z,2021-12-02T22:33:19Z,2021-12-02T22:33:19Z,2,,654.9741666666666,14,1067,Merged
+Add support for Tailwind,2021-12-05T23:38:50Z,2021-12-14T05:47:34Z,2021-12-14T05:47:34Z,3,,198.14555555555555,4,84,Merged
+chore(test): make all tests install with `npm ci`,2021-12-07T18:28:14Z,2021-12-08T18:40:54Z,2021-12-08T18:40:54Z,5,,24.211111111111112,10,255,Merged
+chore(lint): lint all files,2021-12-08T00:33:14Z,,2022-04-13T20:24:37Z,2,,3043.856388888889,58,428,Closed
+Add swc transpilation behind a flag,2021-12-10T21:12:37Z,,2023-04-03T10:25:57Z,2,,11485.222222222223,22,1415,Closed
+V5 fix split chunks issue prod build,2021-12-15T15:31:19Z,,2023-04-03T10:25:58Z,6,,11370.910833333333,2,158,Closed
+V5 add back support for node builtins,2021-12-15T16:58:34Z,,2023-04-03T10:25:58Z,21,,11369.456666666667,35,423,Closed
+Warn when not using the latest version of create-react-app but do not exit,2022-01-12T21:53:26Z,2022-03-23T20:09:38Z,2022-03-23T20:09:38Z,1,,1678.27,1,108,Merged
+Fix issue #11930 where mini css extract plugin was updated to new version,2022-01-14T23:20:37Z,,2022-01-17T20:20:13Z,3,,68.99333333333334,2,530,Closed
+Ignore docs when publishing,2022-01-26T06:12:59Z,2022-01-27T16:38:25Z,2022-01-27T16:38:25Z,1,,34.42388888888889,1,71,Merged
+Fix missing build error file paths,2022-02-11T21:50:10Z,,2023-08-03T18:30:05Z,1,,12908.665277777778,1,1244,Closed
+docs: add homepage banner in support of Ukraine,2022-03-02T06:52:10Z,2022-03-02T18:52:52Z,2022-03-02T18:52:52Z,1,,12.011666666666667,2,428,Merged
+Updated App.js,2022-03-09T08:45:36Z,,2022-10-12T19:29:25Z,1,,5218.730277777778,1,579,Closed
+Update templates to use React 18 `createRoot`,2022-03-30T04:36:28Z,2022-04-08T22:04:15Z,2022-04-08T22:04:15Z,2,,233.46305555555554,5,118,Merged
+Update cra-template for react18,2022-04-02T07:02:43Z,,2022-04-26T05:42:27Z,1,,574.6622222222222,2,140,Closed
+updated template for react v18,2022-04-04T05:22:28Z,,2022-04-14T17:04:38Z,1,,251.70277777777778,3,126,Closed
+fix: webpack noise printed only if error or warning,2022-04-04T18:54:59Z,2022-04-11T21:35:17Z,2022-04-11T21:35:17Z,3,,170.67166666666665,1,391,Merged
+fix(babel-preset-react-app): add missing dependency,2022-05-04T18:34:15Z,2023-05-29T21:58:00Z,2023-05-29T21:58:00Z,1,,9363.395833333334,2,410,Merged
+"docs: fix link of ""Building for Relative Paths""",2022-08-25T18:58:09Z,2022-09-08T07:40:48Z,2022-09-08T07:40:48Z,2,,324.7108333333333,1,272,Merged
+Update running-tests.md,2024-08-09T04:32:09Z,2024-08-27T17:09:10Z,2024-08-27T17:09:10Z,2,APPROVED,444.61694444444447,1,228,Merged

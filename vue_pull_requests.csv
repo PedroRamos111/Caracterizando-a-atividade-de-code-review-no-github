@@ -1,0 +1,516 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+add compile options test,2016-06-29T16:30:33Z,2016-06-30T15:01:37Z,2016-06-30T15:01:37Z,1,,22.517777777777777,1,18,Merged
+Add undefined check for instance methods,2016-09-10T20:25:14Z,2016-09-11T14:54:47Z,2016-09-11T14:54:47Z,3,,18.4925,1,410,Merged
+"[next] [discussion] Add warning for those using Vue.set with only two arguments, as in Vue 1",2016-09-12T03:20:27Z,,2016-10-12T04:56:07Z,2,,721.5944444444444,1,810,Closed
+Allow for function as child,2016-09-20T20:00:18Z,,2016-10-12T04:56:07Z,1,,512.9302777777777,5,1817,Closed
+Update `$refs` type declaration,2016-09-26T04:17:05Z,2016-09-28T19:04:08Z,2016-09-28T19:04:08Z,1,,62.784166666666664,2,421,Merged
+fix directive sort compare,2016-09-26T14:13:46Z,2016-09-27T18:37:50Z,2016-09-27T18:37:50Z,2,,28.40111111111111,2,113,Merged
+warn user calling Vue() without new,2016-09-27T22:38:15Z,2016-09-28T19:33:29Z,2016-09-28T19:33:29Z,2,,20.920555555555556,2,562,Merged
+fix IE/Edge select remembering selection,2016-09-28T16:21:38Z,2016-09-28T19:32:59Z,2016-09-28T19:32:59Z,3,APPROVED,3.1891666666666665,1,49,Merged
+Fix $createElement and Vue.extend,2016-09-30T04:47:28Z,2016-09-30T17:57:39Z,2016-09-30T17:57:39Z,4,,13.169722222222223,6,192,Merged
+Fix #3824 Allow text nodes on static templates in components,2016-10-01T17:31:48Z,2016-10-05T19:13:14Z,2016-10-05T19:13:14Z,2,,97.69055555555556,2,74,Merged
+Fix links to docs in Readme,2016-10-05T17:06:15Z,2016-10-05T20:04:32Z,2016-10-05T20:04:32Z,1,CHANGES_REQUESTED,2.971388888888889,1,131,Merged
+Switch to https,2016-10-07T07:41:05Z,2016-10-07T21:39:51Z,2016-10-07T21:39:51Z,1,,13.979444444444445,6,47,Merged
+add getTypeList to process mutli-type prop,2016-10-09T14:18:06Z,2016-10-10T23:20:44Z,2016-10-10T23:20:44Z,3,CHANGES_REQUESTED,33.04388888888889,1,138,Merged
+Add promise support to nextTick,2016-10-17T23:51:02Z,2016-11-20T14:50:38Z,2016-11-20T14:50:38Z,11,,806.9933333333333,4,473,Merged
+Fix typo in 'component',2016-10-18T19:00:33Z,2016-10-19T14:33:17Z,2016-10-19T14:33:17Z,1,,19.545555555555556,1,149,Merged
+Typo fix: optimizier -> optimizer,2016-10-22T21:14:15Z,2016-10-24T12:25:08Z,2016-10-24T12:25:08Z,1,,39.18138888888889,1,70,Merged
+".number modifier should work with select, radio, checkbox (fix #4018)",2016-10-24T14:29:52Z,2016-11-01T15:50:22Z,2016-11-01T15:50:22Z,4,,193.34166666666667,7,10,Merged
+fix problematic use of 'deprecated' in warnings,2016-10-27T05:27:55Z,2016-11-01T15:17:25Z,2016-11-01T15:17:25Z,1,APPROVED,129.825,3,13,Merged
+Check and warn for falsy class name (fixes #4050),2016-10-28T07:12:17Z,2016-11-01T15:30:43Z,2016-11-01T15:30:43Z,2,,104.30722222222222,1,189,Merged
+Small performance improvement in watcher.js,2016-10-31T02:53:08Z,2016-11-01T15:48:47Z,2016-11-01T15:48:47Z,5,,36.9275,2,73,Merged
+"[RFC] fix #4055, generate style on custom component, Don't Merge",2016-10-31T15:21:38Z,2016-11-04T13:38:52Z,2016-11-04T13:38:52Z,4,,94.28722222222223,3,80,Merged
+introduce a warning with misusage binding in dev mode,2016-11-01T15:23:17Z,,2016-11-01T18:14:19Z,2,,2.8505555555555557,2,118,Closed
+change FunctionalComponentOptions to a generic interface,2016-11-02T03:21:27Z,,2016-11-03T15:26:19Z,3,,36.08111111111111,4,40,Closed
+Add support attribute module,2016-11-02T19:21:57Z,2016-11-03T14:53:43Z,2016-11-03T14:53:43Z,3,APPROVED,19.529444444444444,2,28,Merged
+"fix #4041, warn overriding Vue's internal methods",2016-11-04T05:40:07Z,2016-11-04T11:44:47Z,2016-11-04T11:44:47Z,3,CHANGES_REQUESTED,6.0777777777777775,2,0,Merged
+Modifier once for v-on,2016-11-21T13:09:03Z,2016-11-30T17:15:18Z,2016-11-30T17:15:18Z,6,,220.10416666666666,5,187,Merged
+Support v-if multiple conditions,2016-11-21T17:18:01Z,2016-11-21T20:24:54Z,2016-11-21T20:24:54Z,6,,3.1147222222222224,10,285,Merged
+Fix nested templates in SFC,2016-11-23T15:33:32Z,,2016-11-23T18:17:45Z,3,,2.7369444444444446,3,285,Closed
+improve examples html title,2016-11-29T10:25:56Z,2016-11-29T11:49:33Z,2016-11-29T11:49:33Z,2,APPROVED,1.3936111111111111,7,87,Merged
+Modifier key v-on modifier for keyboard event && Spelling correct &&…,2016-12-01T06:22:08Z,,2016-12-01T19:32:28Z,2,,13.172222222222222,3,112,Closed
+add ignore .idea directory,2016-12-04T11:44:30Z,,2016-12-06T09:13:00Z,1,APPROVED,45.475,1,155,Closed
+Improve elm.value update (fix #4392),2016-12-07T02:35:09Z,,2016-12-08T15:57:56Z,11,,37.37972222222222,2,233,Closed
+fix v-bind.prop parse (fix #4432),2016-12-10T12:49:10Z,2016-12-11T15:16:23Z,2016-12-11T15:16:23Z,3,APPROVED,26.453611111111112,2,9,Merged
+fixed error of can't read length of null when use broadcast and there no child component,2016-12-14T12:23:00Z,,2016-12-23T05:18:55Z,2,,208.93194444444444,1,53,Closed
+Add missing string handler in v-for,2016-12-16T11:07:56Z,2016-12-16T16:50:53Z,2016-12-16T16:50:53Z,1,,5.715833333333333,2,296,Merged
+Support async component hydration in SSR,2016-12-17T11:52:26Z,,2017-02-16T07:23:34Z,5,,1459.5188888888888,5,1240,Closed
+Set default value for ignoredElements to [].,2016-12-19T17:15:20Z,2016-12-20T02:20:08Z,2016-12-20T02:20:08Z,1,,9.08,1,114,Merged
+"Update loose equal function, check toString value for primitive type (fix #4514)",2016-12-20T16:38:10Z,2016-12-21T21:22:55Z,2016-12-21T21:22:55Z,4,,28.745833333333334,4,10,Merged
+Node maybe be removed by v-html/v-text (fix #4535),2016-12-22T15:39:27Z,2016-12-23T02:17:41Z,2016-12-23T02:17:41Z,2,APPROVED,10.637222222222222,2,144,Merged
+Recommend user to provide reproduction repository for ssr issue,2016-12-26T18:04:14Z,2016-12-27T21:09:22Z,2016-12-27T21:09:22Z,2,,27.085555555555555,2,84,Merged
+Update LICENSE,2017-01-04T00:11:54Z,2017-01-04T19:44:02Z,2017-01-04T19:44:03Z,1,,19.535555555555554,1,2,Merged
+Necessary changes to observer for full Tracker compatibility,2017-01-05T00:11:16Z,,2017-12-12T21:36:29Z,4,,8205.420277777777,6,1955,Closed
+Updated Android 4 SauceLabs configuration,2017-01-06T17:47:14Z,2017-01-12T23:45:44Z,2017-01-12T23:45:44Z,1,,149.975,1,466,Merged
+Use ES2015 destructuring assignment to swap variables,2017-01-07T04:44:33Z,,2017-01-12T23:39:20Z,2,,138.91305555555556,1,232,Closed
+fine-tuning of toNumber function,2017-01-10T07:42:55Z,2017-01-12T23:41:08Z,2017-01-12T23:41:08Z,4,,63.97027777777778,1,366,Merged
+Use shields.io compliant badge for SauceLabs,2017-01-15T08:13:52Z,,2017-02-06T17:00:38Z,1,,536.7794444444445,1,233,Closed
+add types for Vue 1.x,2017-01-17T10:52:23Z,2017-02-15T22:25:48Z,2017-02-15T22:25:48Z,9,,707.5569444444444,12,915,Merged
+Be able to delete array item in `Vue.delete`,2017-01-19T02:18:06Z,2017-01-19T15:41:33Z,2017-01-19T15:41:33Z,8,CHANGES_REQUESTED,13.390833333333333,2,630,Merged
+fix(sfc): component contains '<' only,2017-01-19T11:38:17Z,2017-01-20T03:23:21Z,2017-01-20T03:23:21Z,2,CHANGES_REQUESTED,15.751111111111111,2,302,Merged
+Support select multiple binding (fix #4755),2017-01-19T14:35:56Z,2017-01-19T18:36:19Z,2017-01-19T18:36:20Z,3,CHANGES_REQUESTED,4.006388888888889,2,41,Merged
+Remove warnings about inline value attributes for v-model,2017-01-23T06:54:55Z,2017-01-23T13:57:08Z,2017-01-23T13:57:08Z,3,,7.036944444444444,2,64,Merged
+Avoid double-decoding on attribute value,2017-01-27T02:22:07Z,2017-01-31T17:03:50Z,2017-01-31T17:03:50Z,2,CHANGES_REQUESTED,110.69527777777778,1,328,Merged
+[Documentation] fixed typo on line 15,2017-02-01T03:06:27Z,2017-02-01T15:10:38Z,2017-02-01T15:10:38Z,1,,12.069722222222222,1,153,Merged
+filter division expression with parentheses (fix #4838),2017-02-02T16:31:34Z,2017-02-14T18:30:11Z,2017-02-14T18:30:11Z,3,,289.9769444444444,2,108,Merged
+add $props,2017-02-04T09:33:12Z,2017-02-14T16:39:06Z,2017-02-14T16:39:07Z,2,,247.09833333333333,6,296,Merged
+#4371 - Explicit transition durations,2017-02-05T16:14:38Z,2017-02-15T23:37:10Z,2017-02-15T23:37:10Z,5,,247.37555555555556,4,444,Merged
+Fix multiple attr in select with undefined value,2017-02-05T21:18:48Z,2017-02-06T16:58:36Z,2017-02-06T16:58:37Z,1,,19.663333333333334,2,225,Merged
+support $on multi event - #4856,2017-02-06T03:19:40Z,2017-02-15T23:39:53Z,2017-02-15T23:39:53Z,4,APPROVED,236.33694444444444,4,8,Merged
+Standardize the JSFiddle starter link,2017-02-09T07:55:37Z,2017-02-09T22:44:30Z,2017-02-09T22:44:30Z,2,,14.814722222222223,2,268,Merged
+typings: type-checking WatchHandler,2017-02-10T07:20:22Z,2017-02-14T18:24:22Z,2017-02-14T18:24:22Z,2,,107.06666666666666,4,91,Merged
+[WIP] fix transition-group transition on empty array - #4900,2017-02-10T10:52:13Z,,2017-02-11T18:18:18Z,1,,31.434722222222224,0,0,Closed
+Let userland remove the production tips info,2017-02-11T11:01:43Z,,2017-02-12T23:49:21Z,1,,36.79388888888889,1,915,Closed
+Fix JSFiddle links,2017-02-11T17:36:41Z,2017-02-12T23:49:48Z,2017-02-12T23:49:48Z,1,,30.218611111111112,2,418,Merged
+Fix transition,2017-02-11T18:19:42Z,,2017-02-15T14:59:55Z,2,,92.67027777777778,4,192,Closed
+Pass attributes to parseComponent (addresses #4914),2017-02-14T01:09:25Z,2017-02-14T19:35:46Z,2017-02-14T19:35:46Z,1,APPROVED,18.439166666666665,2,211,Merged
+Add foreignObject as a dedicated SVG element (fixes #4813),2017-02-14T01:16:00Z,2017-02-14T19:36:37Z,2017-02-14T19:36:37Z,1,,18.343611111111112,1,365,Merged
+"fix #4872, use context agnostic Function constructor check",2017-02-14T05:08:16Z,2017-02-14T18:40:57Z,2017-02-14T18:40:57Z,2,CHANGES_REQUESTED,13.544722222222223,3,472,Merged
+support max-alive in keep-alive - #3961 ,2017-02-14T08:34:46Z,,2017-06-27T02:41:11Z,4,,3186.1069444444443,2,6,Closed
+small improvements on html-parser,2017-02-14T09:45:37Z,2017-02-14T14:05:01Z,2017-02-14T14:05:01Z,2,APPROVED,4.323333333333333,1,153,Merged
+Warn when defining a method with same name as a prop,2017-02-17T04:27:48Z,2017-02-18T14:09:27Z,2017-02-18T14:09:28Z,3,APPROVED,33.69416666666667,2,274,Merged
+Adding the ability to suppress notifications in Vue.set and Vue.delete,2017-02-20T10:38:07Z,,2017-07-11T02:31:53Z,3,CHANGES_REQUESTED,3375.896111111111,9,1873,Closed
+Add support for array as inline style value (client/ssr),2017-02-23T23:34:47Z,,2017-04-17T04:07:12Z,2,,1252.5402777777779,195,1091,Closed
+Add esm-files to package.json,2017-02-26T11:16:37Z,2017-02-26T13:06:36Z,2017-02-26T13:06:36Z,1,APPROVED,1.8330555555555557,1,74,Merged
+refactor TypeScript typings to use ES style exports,2017-02-26T23:46:47Z,,2017-07-01T03:23:16Z,1,,2979.6080555555554,5,653,Closed
+compiler codegen improvement,2017-02-27T09:45:36Z,2017-02-27T14:07:32Z,2017-02-27T14:07:32Z,2,CHANGES_REQUESTED,4.365555555555556,1,250,Merged
+Check property exists instead of truthy value,2017-03-01T09:07:44Z,2017-03-01T16:01:25Z,2017-03-01T16:01:25Z,3,APPROVED,6.894722222222223,2,12,Merged
+Fix unnecessary conditional.,2017-03-01T17:44:12Z,2017-03-03T04:04:05Z,2017-03-03T04:04:05Z,3,APPROVED,34.33138888888889,1,202,Merged
+support $off multi event,2017-03-01T23:02:17Z,2017-03-03T03:51:58Z,2017-03-03T03:51:58Z,2,APPROVED,28.828055555555554,4,25,Merged
+SFC parseComponent pads complete content with spaces,2017-03-02T00:28:15Z,2017-03-05T20:36:39Z,2017-03-05T20:36:39Z,2,,92.14,3,351,Merged
+fix mouse modifier override the keycode ( Fixed #5046 ),2017-03-02T03:28:41Z,,2017-03-03T03:41:01Z,2,APPROVED,24.205555555555556,2,8,Closed
+chore: check binding.value instead of just binding object,2017-03-02T12:14:46Z,2017-03-02T15:16:38Z,2017-03-02T15:16:38Z,3,APPROVED,3.031111111111111,1,153,Merged
+imporve:check the delete oparator in event expression,2017-03-02T19:47:59Z,2017-03-03T04:09:00Z,2017-03-03T04:09:00Z,4,,8.350277777777778,2,49,Merged
+Pull Request Template to GitHub,2017-03-02T20:20:34Z,2017-03-03T02:41:14Z,2017-03-03T02:41:14Z,1,,6.344444444444444,1,743,Merged
+Remove unnecessary else statement after return,2017-03-03T18:12:25Z,,2017-03-03T19:39:23Z,1,APPROVED,1.4494444444444445,18,399,Closed
+chore: fix some closetag mismatches,2017-03-04T01:11:54Z,2017-03-04T15:10:11Z,2017-03-04T15:10:11Z,3,APPROVED,13.971388888888889,1,1456,Merged
+chore(once.spec): \s match all whitespaces,2017-03-04T12:48:50Z,2017-03-05T00:40:15Z,2017-03-05T00:40:15Z,2,APPROVED,11.856944444444444,1,1456,Merged
+chore(model-select.spec): add a check for value binding and fix some typo,2017-03-04T16:13:46Z,2017-03-08T02:14:56Z,2017-03-08T02:14:56Z,1,,82.01944444444445,1,1456,Merged
+chore(model-text.spec): add a missing check,2017-03-04T16:30:21Z,2017-03-05T00:40:36Z,2017-03-05T00:40:36Z,2,APPROVED,8.170833333333333,1,1456,Merged
+chore(filter.spec): fix variable-- test case,2017-03-04T16:43:53Z,2017-03-05T00:40:49Z,2017-03-05T00:40:49Z,2,APPROVED,7.948888888888889,1,1456,Merged
+chore(test): fix some typos,2017-03-06T01:59:11Z,2017-03-06T08:50:49Z,2017-03-06T08:50:49Z,1,,6.860555555555556,17,1456,Merged
+chore(parser.spec): fix an IE conditional test with a typo,2017-03-06T02:04:28Z,2017-03-08T02:17:09Z,2017-03-08T02:17:09Z,1,,48.21138888888889,1,1515,Merged
+fix a typo on type definition name,2017-03-06T02:18:16Z,2017-03-06T08:56:23Z,2017-03-06T08:56:23Z,1,,6.635277777777778,1,1529,Merged
+chore(src): fix some typos,2017-03-06T02:39:48Z,2017-03-06T08:54:31Z,2017-03-06T08:54:31Z,1,,6.245277777777778,6,1535,Merged
+Reorganize and update PR template,2017-03-06T05:23:38Z,2017-03-08T02:18:03Z,2017-03-08T02:18:03Z,6,,44.90694444444444,1,1039,Merged
+fix prevent default unit test,2017-03-08T04:21:23Z,2017-03-08T05:47:39Z,2017-03-08T05:47:39Z,1,,1.4377777777777778,1,0,Merged
+support v-on passive modifier,2017-03-08T07:44:18Z,2017-04-05T06:35:17Z,2017-04-05T06:35:17Z,9,APPROVED,670.8497222222222,5,128,Merged
+fix #5121: parse content in textarea as plaintext,2017-03-09T05:30:27Z,2017-03-10T01:39:39Z,2017-03-10T01:39:39Z,2,APPROVED,20.153333333333332,2,12,Merged
+fix v-on unit test,2017-03-09T05:37:17Z,2017-03-10T01:40:04Z,2017-03-10T01:40:04Z,2,APPROVED,20.046388888888888,1,694,Merged
+fix wrong order of generate modifier code,2017-03-09T10:40:40Z,2017-03-10T01:42:15Z,2017-03-10T01:42:15Z,1,APPROVED,15.026388888888889,3,29,Merged
+Warn when not passing props in kebab-case,2017-03-10T04:12:45Z,2017-03-13T07:41:27Z,2017-03-13T07:41:27Z,2,CHANGES_REQUESTED,75.47833333333334,2,1259,Merged
+add provide/inject on functional context,2017-03-16T05:49:01Z,2017-04-05T06:36:15Z,2017-04-05T06:36:16Z,4,APPROVED,480.7872222222222,4,6,Merged
+use cross-env to make env-setting work better in 'npm run',2017-03-16T08:03:27Z,,2017-03-17T04:10:30Z,1,,20.1175,2,524,Closed
+Allow named properties on reactive arrays.,2017-03-18T06:59:25Z,2017-03-23T07:12:31Z,2017-03-23T07:12:31Z,2,,120.21833333333333,2,1273,Merged
+"fix provide isn't reactive with a single array, Fix #5223 ",2017-03-20T05:45:14Z,2017-03-21T07:22:32Z,2017-03-21T07:22:32Z,2,,25.621666666666666,2,1307,Merged
+"fix no change triggered after reassigned state, Fix #5191",2017-03-20T07:48:06Z,2017-03-21T07:20:58Z,2017-03-21T07:20:58Z,1,,23.547777777777778,2,1307,Merged
+"Component Tag in Transition Group, Fix #5095",2017-03-21T10:48:24Z,,2017-03-22T05:59:17Z,5,CHANGES_REQUESTED,19.18138888888889,3,1314,Closed
+handle v-model on password input field on ie9 (fix #5250),2017-03-22T07:42:56Z,2017-03-23T04:00:45Z,2017-03-23T04:00:45Z,3,,20.296944444444446,1,1350,Merged
+Warn and handle missing get in computed (fix #5265),2017-03-23T21:42:23Z,2017-03-27T02:41:30Z,2017-03-27T02:41:30Z,8,,76.98527777777778,2,1620,Merged
+fix #5321 don't throw error when node gets relocated,2017-03-29T17:22:34Z,2017-04-03T03:36:50Z,2017-04-03T03:36:50Z,1,CHANGES_REQUESTED,106.23777777777778,2,1461,Merged
+handle errors thrown by directive hooks (#5314),2017-03-30T02:03:51Z,2017-04-03T03:37:55Z,2017-04-03T03:37:55Z,1,,97.56777777777778,2,1052,Merged
+fix a typo in comment,2017-04-10T17:40:55Z,2017-04-10T20:52:03Z,2017-04-10T20:52:03Z,1,,3.1855555555555557,1,1309,Merged
+allow an extended constructor as global mixin (fix vue-class-component#83),2017-04-15T06:53:47Z,2017-04-16T07:38:14Z,2017-04-16T07:38:14Z,2,,24.740833333333335,2,1326,Merged
+improve:add local variable declaration,2017-04-17T16:44:57Z,2017-04-18T03:42:38Z,2017-04-18T03:42:38Z,2,APPROVED,10.961388888888889,1,1380,Merged
+Allow slot names to be numbers,2017-04-21T17:03:54Z,2017-04-25T04:25:28Z,2017-04-25T04:25:28Z,1,,83.35944444444445,2,1317,Merged
+"Support Vue.delete(arr, index) in TypeScript definitions",2017-04-25T02:19:18Z,2017-04-25T04:18:27Z,2017-04-25T04:18:27Z,1,,1.9858333333333333,2,1493,Merged
+fix mixin issue(fix vuejs/vue-class-component#87),2017-04-25T08:57:03Z,2017-04-26T06:51:25Z,2017-04-26T06:51:25Z,1,,21.906111111111112,2,1345,Merged
+Fix when functional component render method retrun null (fix #5536),2017-04-27T15:55:58Z,2017-04-29T06:42:36Z,2017-04-29T06:42:36Z,9,,38.77722222222222,2,1424,Merged
+[vue-server-renderer] ensure assets are unique,2017-04-27T19:19:46Z,2017-04-29T06:16:23Z,2017-04-29T06:16:24Z,1,CHANGES_REQUESTED,34.94361111111111,3,1110,Merged
+fix #5539: improve `isDef` type definition,2017-04-28T09:58:35Z,2017-04-29T06:24:06Z,2017-04-29T06:24:06Z,1,,20.42527777777778,9,1254,Merged
+tweak type definition layouting,2017-04-29T15:24:30Z,2017-04-30T03:32:39Z,2017-04-30T03:32:39Z,1,APPROVED,12.135833333333334,1,1063,Merged
+Prevent unecessary input trigger with v-model,2017-05-03T14:12:28Z,2017-05-07T13:46:33Z,2017-05-07T13:46:34Z,2,,95.56805555555556,2,1314,Merged
+"only set a key to VNode have similar shape, fix #5618",2017-05-06T15:33:37Z,,2017-05-09T02:57:51Z,3,CHANGES_REQUESTED,59.403888888888886,1,1553,Closed
+"Fix: nested child elements can not be updated correctly, fix #5618",2017-05-07T17:30:32Z,2017-05-09T15:21:50Z,2017-05-09T15:21:50Z,6,CHANGES_REQUESTED,45.855,4,1345,Merged
+"Warn when component option should be an object, but is not (#5605)",2017-05-09T23:03:34Z,2017-05-12T02:22:00Z,2017-05-12T02:22:00Z,11,APPROVED,51.30722222222222,5,1345,Merged
+Added check in merge strat for watches if child is already an array (fix #5652),2017-05-11T10:43:24Z,2017-06-06T05:48:31Z,2017-06-06T05:48:31Z,5,CHANGES_REQUESTED,619.0852777777778,3,1612,Merged
+Add TypeScript definition for ssrContext,2017-05-11T17:12:04Z,2017-05-12T02:21:26Z,2017-05-12T02:21:26Z,2,,9.15611111111111,2,1398,Merged
+Add picture to the isHTMLTag map so it suppresses unneeded warnings while unit testing,2017-05-15T16:36:36Z,2017-05-16T01:21:55Z,2017-05-16T01:21:55Z,1,APPROVED,8.755277777777778,1,1336,Merged
+Warn when a inject has been not provided,2017-05-16T06:30:43Z,2017-05-29T05:49:50Z,2017-05-29T05:49:50Z,6,CHANGES_REQUESTED,311.3186111111111,2,1343,Merged
+improve: add missing html and svg tag,2017-05-17T02:43:41Z,2017-05-30T05:33:49Z,2017-05-30T05:33:49Z,1,CHANGES_REQUESTED,314.8355555555556,1,1067,Merged
+maintain consistency of function name,2017-05-23T05:20:29Z,2017-05-29T05:29:56Z,2017-05-29T05:29:56Z,3,APPROVED,144.1575,1,522,Merged
+Add types for vue-server-renderer (fix #5772),2017-05-28T07:30:06Z,2017-05-28T12:08:58Z,2017-05-28T12:08:58Z,7,,4.647777777777778,4,1032,Merged
+fix #5760: transition async component error,2017-05-31T18:00:03Z,,2017-06-05T14:23:14Z,4,,116.38638888888889,3,1352,Closed
+fix #5804: support object value for key attribute,2017-06-02T16:55:02Z,,2017-06-03T05:56:16Z,1,,13.020555555555555,1,536,Closed
+Merge inject when extending a component,2017-06-05T15:24:03Z,2017-06-15T14:15:36Z,2017-06-15T14:15:36Z,3,APPROVED,238.85916666666665,3,1352,Merged
+"Provide an option called plugins to process ast in vue-template-compiler, fix #5703",2017-06-12T03:31:00Z,,2017-06-20T03:46:44Z,1,,192.26222222222222,2,1347,Closed
+Add warnHandler to allow users to set a custom warn callback,2017-06-14T12:19:12Z,2017-06-14T13:37:27Z,2017-06-14T13:37:27Z,2,,1.3041666666666667,5,1653,Merged
+Improve Vue type declarations for more canonical usage,2017-06-14T23:07:28Z,,2017-08-29T14:36:49Z,22,,1815.4891666666667,17,1448,Closed
+"Be able to use string type index in array, fix #5884",2017-06-15T10:44:22Z,2017-06-16T01:37:31Z,2017-06-16T01:37:31Z,4,,14.885833333333334,2,1345,Merged
+"Special attributes are invalid when using object syntax in v-bind, fix #5881",2017-06-15T16:46:48Z,2017-06-16T18:02:38Z,2017-06-16T18:02:38Z,4,APPROVED,25.26388888888889,7,1345,Merged
+test: correcting existing test case,2017-06-18T06:37:49Z,2017-06-29T04:39:02Z,2017-06-29T04:39:02Z,3,APPROVED,262.0202777777778,1,1368,Merged
+Check enterToClass/leaveToClass existence before adding it,2017-06-18T14:09:09Z,2017-06-30T06:57:16Z,2017-06-30T06:57:16Z,3,APPROVED,280.8019444444444,1,1363,Merged
+add sync modifier with bind object,2017-06-21T08:00:16Z,2017-06-30T00:46:55Z,2017-06-30T00:46:55Z,2,,208.7775,5,1307,Merged
+Support array syntax for keep-alive include and exclude,2017-06-23T03:45:41Z,2017-06-30T00:50:31Z,2017-06-30T00:50:31Z,1,,165.08055555555555,2,1515,Merged
+correct variable name,2017-06-24T15:38:54Z,2017-06-30T00:58:09Z,2017-06-30T00:58:09Z,4,APPROVED,129.32083333333333,1,1301,Merged
+remove unnecessary codes,2017-06-26T08:07:55Z,2017-06-30T00:59:08Z,2017-06-30T00:59:08Z,4,APPROVED,88.8536111111111,1,555,Merged
+"Add .bare event modifier, fix #5976",2017-06-26T14:29:54Z,2017-10-04T16:37:00Z,2017-10-04T16:37:01Z,7,APPROVED,2402.1183333333333,4,1270,Merged
+chore(git): ignore dist files until release,2017-06-26T23:12:01Z,2017-06-30T01:02:02Z,2017-06-30T01:02:02Z,6,,73.83361111111111,2,1177,Merged
+support plugin with multi version vue (#5970),2017-06-27T05:49:34Z,2017-06-30T03:20:43Z,2017-06-30T03:20:43Z,1,,69.51916666666666,2,1299,Merged
+fix: ensure cleanup in watcher.get,2017-06-28T06:02:14Z,2017-06-29T04:38:14Z,2017-06-29T04:38:14Z,3,APPROVED,22.6,2,144,Merged
+added Object key sort prior to JSON.stringify comparison (fix #5908),2017-06-28T16:02:59Z,,2017-07-21T00:43:11Z,2,,536.67,2,1322,Closed
+fix typos in src/server/bundle-renderer/create-bundle-runner.js,2017-07-01T08:46:13Z,2017-07-01T13:36:23Z,2017-07-01T13:36:23Z,1,APPROVED,4.836111111111111,1,1322,Merged
+test: test bundle size,2017-07-02T17:29:53Z,,2017-07-04T06:46:20Z,2,,37.274166666666666,3,1535,Closed
+"fix: the first LF following pre and textarea tag should be ignored, fix #5992",2017-07-03T15:30:35Z,2017-07-10T13:42:01Z,2017-07-10T13:42:01Z,6,,166.19055555555556,2,1311,Merged
+"Fix #6008, Add merge strategy for provide option",2017-07-04T02:47:38Z,2017-07-07T03:39:26Z,2017-07-07T03:39:26Z,2,,72.86333333333333,2,1301,Merged
+fix #5997: refactor function registerRef,2017-07-06T10:31:10Z,2017-07-07T03:37:20Z,2017-07-07T03:37:20Z,1,,17.102777777777778,3,1166,Merged
+chore: add .idea directory to .gitignore,2017-07-11T17:20:25Z,,2017-07-11T20:34:12Z,1,,3.229722222222222,1,1105,Closed
+remove references to gitter; use chat.vuejs.org for discourse,2017-07-12T18:32:55Z,2017-07-13T02:53:15Z,2017-07-13T02:53:15Z,2,,8.338888888888889,1,1339,Merged
+fix(compile): generate comments with special character,2017-07-18T19:00:23Z,2017-07-19T22:09:22Z,2017-07-19T22:09:22Z,2,,27.149722222222223,2,1316,Merged
+"fix #6193, change event should not be triggered if each value still matches an option",2017-07-23T14:36:07Z,2017-08-29T16:52:19Z,2017-08-29T16:52:19Z,4,,890.27,2,1484,Merged
+chore(runtime): correctly render the embed attribute allowfullscreen,2017-07-25T05:25:43Z,,2017-09-01T21:28:17Z,2,APPROVED,928.0427777777778,7,1366,Closed
+"fix #6209, selected option not updated properly under IE11",2017-07-25T14:49:41Z,2017-08-29T15:17:39Z,2017-08-29T15:17:39Z,2,,840.4661111111111,7,1433,Merged
+"fix($compiler): Allow using array value with array v-model in checkboxes, fix #6219",2017-07-26T01:11:13Z,2017-09-01T21:35:41Z,2017-09-01T21:35:41Z,3,,908.4077777777778,2,1310,Merged
+refactor($compile): Disable warn if v-model is used with ternary text-like types for input.,2017-07-26T11:28:29Z,,2017-08-11T23:57:44Z,6,,396.4875,2,1308,Closed
+close #6241 : support .sync modifier on prop object properties in deep,2017-07-28T15:40:52Z,,2017-09-01T21:32:06Z,5,,845.8538888888888,8,1062,Closed
+remove repeat line in patch.js,2017-08-02T01:27:56Z,2017-09-05T19:54:53Z,2017-09-05T19:54:53Z,2,APPROVED,834.4491666666667,7,1323,Merged
+perf: optimize the performance of hyphenate method.,2017-08-02T09:39:02Z,2017-09-05T19:48:43Z,2017-09-05T19:48:43Z,2,,826.1613888888888,7,1491,Merged
+close #6097: Allow defining optional inject dependency with default values,2017-08-08T08:00:23Z,2017-10-05T19:44:32Z,2017-10-05T19:44:33Z,5,APPROVED,1403.7358333333334,3,1816,Merged
+feat(vue-server-renderer): add TypeScript declarations of webpack plugins (fix #6301),2017-08-08T12:35:51Z,2017-09-05T19:57:06Z,2017-09-05T19:57:06Z,1,,679.3541666666666,11,1551,Merged
+"Allow v-bind=""$attrs"" with v-on=""$listeners"" to work with v-model",2017-08-08T20:11:49Z,,2017-10-02T20:02:17Z,1,,1319.841111111111,11,1114,Closed
+"Support ES proposals in vue template expressions, fix #6307",2017-08-08T22:19:39Z,,2017-08-11T23:44:13Z,5,,73.40944444444445,1,1711,Closed
+"fix($vdom): Don't replace input for text-like type change, fix #6313",2017-08-11T04:19:00Z,2017-09-01T22:49:39Z,2017-09-01T22:49:39Z,8,,522.5108333333334,10,1311,Merged
+replace Firefix with Firefox,2017-08-13T07:01:11Z,2017-08-13T12:53:18Z,2017-08-13T12:53:18Z,2,APPROVED,5.868611111111111,1,1381,Merged
+"fix(typing): allow variadic plugin use, fix #6357",2017-08-14T06:07:44Z,2017-09-05T20:02:39Z,2017-09-05T20:02:39Z,1,,541.9152777777778,9,777,Merged
+"fix(transition): consider async placeholder as valid child to return, fix #6256",2017-08-15T03:09:49Z,2017-08-29T20:09:21Z,2017-08-29T20:09:21Z,1,,352.9922222222222,12,1307,Merged
+Further improve Vue type declarations for canonical usage,2017-08-17T12:09:30Z,2017-10-06T18:45:14Z,2017-10-06T18:45:14Z,17,,1206.5955555555556,10,1889,Merged
+fixes #6361: check if component is custom,2017-08-25T11:48:27Z,,2017-09-05T22:17:34Z,1,,274.48527777777775,2,1312,Closed
+add EsModuleComponent definition,2017-08-30T05:13:37Z,2017-09-05T19:25:16Z,2017-09-05T19:25:16Z,3,,158.19416666666666,4,1184,Merged
+refactor(shared): improve flowtype,2017-09-02T14:54:50Z,,2017-09-05T04:06:53Z,2,,61.200833333333335,1,1301,Closed
+fix: add `inject` option in functional component options type,2017-09-06T16:35:25Z,2017-09-13T06:25:50Z,2017-09-13T06:25:50Z,1,,157.84027777777777,3,1065,Merged
+Fix typo in comment,2017-09-07T00:18:30Z,,2017-09-07T02:44:05Z,1,,2.426388888888889,1,1319,Closed
+Spelling,2017-09-07T04:08:36Z,2017-09-07T11:33:10Z,2017-09-07T11:33:10Z,2,APPROVED,7.4094444444444445,20,597,Merged
+refactor: remove always falsy condition on perf,2017-09-08T07:28:18Z,2017-09-11T17:13:38Z,2017-09-11T17:13:38Z,3,,81.75555555555556,1,1544,Merged
+fix typo,2017-09-11T21:15:52Z,2017-09-12T13:10:39Z,2017-09-12T13:10:39Z,2,APPROVED,15.913055555555555,1,1346,Merged
+refactor: remove ternary operator because key is always true,2017-09-12T02:11:59Z,2017-09-12T13:11:22Z,2017-09-12T13:11:22Z,1,,10.989722222222222,1,1491,Merged
+fix: update packages readme links which point to 404,2017-09-12T02:49:18Z,2017-09-12T13:10:19Z,2017-09-12T13:10:19Z,1,,10.350277777777778,4,1301,Merged
+improve package docs,2017-09-14T08:51:51Z,2017-09-14T12:37:53Z,2017-09-14T12:37:53Z,1,APPROVED,3.7672222222222222,1,1063,Merged
+doc: spelling and formatting,2017-09-25T03:01:48Z,2017-09-25T16:31:28Z,2017-09-25T16:31:28Z,5,,13.494444444444444,2,1608,Merged
+Allow an object's Symbols to be observed,2017-09-27T21:46:36Z,2017-09-28T14:53:40Z,2017-09-28T14:53:40Z,1,,17.11777777777778,1,1611,Merged
+fix(v-html): added warning when v-html used with child content present,2017-09-28T17:00:55Z,,2017-10-06T19:37:37Z,1,,194.61166666666668,4,1250,Closed
+fix(compiler): warn when inline-template component has no children (f…,2017-09-28T23:49:16Z,2017-10-03T22:00:52Z,2017-10-03T22:00:52Z,1,,118.19333333333333,2,1315,Merged
+refactor: remove unnecessary condition,2017-09-29T06:36:41Z,2017-09-29T18:33:28Z,2017-09-29T18:33:28Z,1,,11.946388888888889,1,1301,Merged
+Improve error msg for non-reactive properties,2017-10-03T14:31:04Z,2017-10-03T15:45:38Z,2017-10-03T15:45:39Z,4,APPROVED,1.2427777777777778,1,352,Merged
+Add slot v-bind warning (fix #6677),2017-10-04T10:29:44Z,2017-10-06T19:48:00Z,2017-10-06T19:48:00Z,2,CHANGES_REQUESTED,57.30444444444444,2,1351,Merged
+feat($core): call data method with this (#6739),2017-10-09T10:16:26Z,2017-10-10T13:39:31Z,2017-10-10T13:39:31Z,1,APPROVED,27.384722222222223,2,1310,Merged
+feat(ssr): auto-remove initial state script if prod [#6761],2017-10-10T03:37:54Z,2017-10-10T15:06:48Z,2017-10-10T15:06:48Z,4,APPROVED,11.481666666666667,1,1100,Merged
+WIP: feat($compile): display line numbers for errors in the parser (#6338),2017-10-10T06:18:55Z,,2017-12-12T21:22:37Z,1,,1527.0616666666667,3,1310,Closed
+"add semicolon before closure, fix ssr error",2017-10-13T08:07:25Z,2017-10-13T12:52:34Z,2017-10-13T12:52:35Z,2,APPROVED,4.7525,1,1362,Merged
+tweak: The value of props here is always true,2017-10-13T08:29:43Z,2017-10-13T12:53:07Z,2017-10-13T12:53:07Z,1,APPROVED,4.39,1,1339,Merged
+feat: add Prop to main type declaration file [#6850],2017-10-19T13:07:03Z,2018-12-05T22:50:14Z,2018-12-05T22:50:14Z,4,,9897.719722222222,3,1315,Merged
+"build: map vue to local types, simplify build setup",2017-10-20T02:02:38Z,2017-10-21T12:32:03Z,2017-10-21T12:32:03Z,1,,34.49027777777778,4,1063,Merged
+refactor TypeScript typings to use ES style exports,2017-10-21T16:46:05Z,,2017-10-21T21:56:51Z,1,,5.179444444444444,5,1301,Closed
+fix(model): correctly set activeindex of select element in a new v-model,2017-10-25T13:57:37Z,2017-11-03T02:03:20Z,2017-11-03T02:03:20Z,2,,204.09527777777777,2,1345,Merged
+fix #6931: Clean up target variables to avoid memory leaks,2017-10-26T18:52:22Z,2017-10-27T01:08:11Z,2017-10-27T01:08:11Z,3,,6.2636111111111115,3,1567,Merged
+feat(v-model): add lazy modifier for v-model on components(close #6914),2017-10-27T10:28:30Z,,2020-12-17T13:29:46Z,2,APPROVED,27531.02111111111,7,1084,Closed
+fix:#6938,2017-10-27T11:42:35Z,,2017-11-01T12:20:57Z,1,,120.63944444444445,2,556,Closed
+fix:#6938 <keep-alive> should not cache anonymous components,2017-11-01T12:29:33Z,,2017-11-02T04:15:09Z,4,,15.76,2,921,Closed
+fix #6687 out-in transition getting stuck with v-if,2017-11-08T17:00:58Z,2017-11-16T14:29:27Z,2017-11-16T14:29:27Z,3,,189.47472222222223,1,619,Merged
+Give link for Vue examples under 'Documentation',2017-11-09T10:48:13Z,2017-11-13T16:47:04Z,2017-11-13T16:47:04Z,1,APPROVED,101.98083333333334,1,1331,Merged
+feat(weex): support batch update styles and attributes,2017-11-11T15:48:15Z,2017-11-13T16:49:06Z,2017-11-13T16:49:06Z,1,,49.01416666666667,4,398,Merged
+"revert(weex): remove the ""receiveTasks"" api and support component hook",2017-11-14T03:17:12Z,2017-11-14T13:19:32Z,2017-11-14T13:19:32Z,1,,10.03888888888889,4,499,Merged
+test($compile): #7048 warn if both v-model and v-bind:value used on same element,2017-11-14T12:54:47Z,2017-11-16T16:24:23Z,2017-11-16T16:24:23Z,4,APPROVED,51.49333333333333,2,399,Merged
+chore #7070: warn properties that starts with $ or _,2017-11-20T22:40:48Z,,2017-11-23T21:42:26Z,2,,71.02722222222222,2,1722,Closed
+chore: fix comment typo,2017-11-23T02:53:19Z,2017-11-23T15:20:19Z,2017-11-23T15:20:19Z,1,APPROVED,12.45,1,1319,Merged
+"feat(core): support KeyboardEvent.key for built in keyboard event modifiers, fix #6900",2017-11-23T16:25:49Z,2018-03-07T19:38:42Z,2018-03-07T19:38:42Z,4,,2499.214722222222,2,1307,Merged
+feat(compiler): output source range for compiler errors (#6338),2017-11-25T14:26:18Z,2018-12-22T02:58:33Z,2018-12-22T02:58:33Z,3,,9396.5375,21,1420,Merged
+fix(types): bump ts version and fix typing bugs,2017-11-27T09:31:08Z,2017-11-27T14:28:39Z,2017-11-27T14:28:39Z,1,,4.958611111111111,5,1056,Merged
+chore: fix README.md,2017-11-30T06:17:24Z,2017-11-30T16:34:46Z,2017-11-30T16:34:46Z,4,APPROVED,10.289444444444445,1,1313,Merged
+enhancement: additional key codes,2017-11-30T07:13:37Z,,2017-11-30T17:32:42Z,5,,10.318055555555556,1,1364,Closed
+feat(weex): WIP implement virtual component,2017-12-01T08:13:45Z,2017-12-04T14:59:01Z,2017-12-04T14:59:01Z,2,,78.75444444444445,14,300,Merged
+Add Iterator supports for v-for,2017-12-02T16:25:19Z,,2018-12-26T20:12:26Z,6,,9339.785277777777,1,1330,Closed
+feat(#7054): vue-template-compiler support switch deindent,2017-12-11T05:24:44Z,2018-12-21T16:59:34Z,2018-12-21T16:59:34Z,2,,9011.580555555556,2,1193,Merged
+tweak: return is better when inject has no value,2017-12-16T16:54:30Z,2017-12-16T20:47:45Z,2017-12-16T20:47:45Z,1,APPROVED,3.8875,1,1339,Merged
+refactor: extract VueConfiguration type for easy expansion (#7273),2017-12-19T08:22:11Z,2017-12-19T14:34:36Z,2017-12-19T14:34:36Z,2,,6.206944444444445,1,1314,Merged
+"fix(weex): default value for editor, fix #7165",2017-12-20T05:55:20Z,2017-12-20T14:05:22Z,2017-12-20T14:05:22Z,2,,8.167222222222222,2,1322,Merged
+fix(types): make VNodeChildrenArrayContents type more accurate,2017-12-20T06:53:43Z,2017-12-20T14:09:24Z,2017-12-20T14:09:24Z,3,,7.261388888888889,2,1658,Merged
+feat(weex): support to parse object literal in binding attributes or styles,2017-12-20T12:42:02Z,2017-12-27T02:33:38Z,2017-12-27T02:33:38Z,1,,157.86,7,348,Merged
+fix(core): fix defineReactive unnecessary getters call fix #7280,2017-12-21T18:10:39Z,2018-03-07T19:58:12Z,2018-03-07T19:58:12Z,1,,1825.7925,1,1394,Merged
+"WIP: fix #6913, feat($compiler): add support of v-local directive to provide a way to…",2017-12-27T02:29:34Z,,2018-03-07T22:32:15Z,6,,1700.0447222222222,6,1350,Closed
+feat(compiler): add support for scoped slot pass down in templates (fix #7178),2017-12-31T17:07:09Z,,2018-03-07T20:32:42Z,1,,1587.4258333333332,3,1512,Closed
+fix #7367: Replace isAndroid with window.ConpositionEvent.,2018-01-03T03:46:50Z,,2018-03-07T22:13:50Z,2,,1530.45,2,1311,Closed
+fix(types): contravariant generic default in ComponentOption,2018-01-03T03:59:57Z,2018-01-03T06:33:48Z,2018-01-03T06:33:48Z,2,,2.5641666666666665,2,1585,Merged
+Fix #7404: skip v-model & value binding collision check with dynamic type binding,2018-01-08T07:58:14Z,2018-03-07T22:44:56Z,2018-03-07T22:44:56Z,1,,1406.7783333333334,2,1079,Merged
+Use native bind instead of own fix:#7408,2018-01-13T10:36:30Z,,2018-03-08T15:04:14Z,4,,1300.4622222222222,3,1301,Closed
+"fix(core): Give warning for set/delete methods on null, undefined, String, Number and Boolean values. Fixes #7381",2018-01-14T16:56:09Z,2018-03-08T15:31:41Z,2018-03-08T15:31:41Z,1,,1270.5922222222223,2,1063,Merged
+perf(state.js): check NODE_ENV before other if-statements - for better dead code elimination,2018-01-14T20:37:49Z,,2018-01-23T22:27:42Z,1,,217.83138888888888,1,1435,Closed
+fix(inject): hasOwn instead of 'in' (fix #7284),2018-01-16T00:47:21Z,2018-03-08T16:15:36Z,2018-03-08T16:15:36Z,1,APPROVED,1239.4708333333333,2,2128,Merged
+fix(core): Use native bind function instead of own (fix #7408),2018-01-20T22:03:43Z,2018-03-08T15:07:40Z,2018-03-08T15:07:40Z,3,,1121.0658333333333,1,1506,Merged
+fix(show): prevent transitions from starting on change truthy values,2018-01-24T11:16:09Z,2018-03-08T16:19:08Z,2018-03-08T16:19:08Z,1,,1037.0497222222223,1,1317,Merged
+fix(props): consider prop types order for default bool value,2018-02-01T00:21:19Z,,2018-03-09T19:49:40Z,1,APPROVED,883.4725,2,1312,Closed
+fix(types): add missing `listeners` type on RenderContext,2018-02-01T02:02:15Z,2018-03-08T16:52:02Z,2018-03-08T16:52:02Z,1,,854.8297222222222,2,1494,Merged
+test(types): update TS version and fix types test,2018-02-03T02:03:44Z,2018-02-03T19:02:26Z,2018-02-03T19:02:26Z,2,,16.97833333333333,4,1314,Merged
+Edit documentation for grammar and consistency,2018-02-04T04:49:11Z,2018-02-06T00:58:33Z,2018-02-06T00:58:33Z,1,APPROVED,44.15611111111111,3,1403,Merged
+fix(sfc): avoid to deindent when pad option is specified,2018-02-14T15:04:48Z,2018-10-24T16:10:58Z,2018-10-24T16:10:59Z,1,APPROVED,6049.102777777778,2,1805,Merged
+fix(types): make render option in functional components to optional,2018-02-18T09:46:40Z,2018-03-08T16:55:28Z,2018-03-08T16:55:28Z,1,,439.14666666666665,2,1428,Merged
+docs(COMMIT_CONVENTION): update Angular's commit convention link,2018-02-19T12:34:42Z,2018-03-08T17:00:11Z,2018-03-08T17:00:11Z,3,APPROVED,412.4247222222222,1,816,Merged
+fix(refs): allow ref key to be zero (fix #7669),2018-02-20T22:09:52Z,2018-02-21T15:21:52Z,2018-02-21T15:21:52Z,2,APPROVED,17.2,2,1366,Merged
+refactor arrow markup,2018-02-22T01:27:17Z,,2018-03-08T17:01:57Z,1,APPROVED,351.5777777777778,1,1367,Closed
+fix(types): prefer normal component over functional one,2018-02-22T11:09:40Z,2018-03-08T18:55:53Z,2018-03-08T18:55:53Z,2,,343.7702777777778,2,1209,Merged
+"chore: fix README.md vulnerable target=""_blank"" links",2018-02-22T12:39:07Z,2018-03-07T14:03:08Z,2018-03-07T14:03:08Z,1,APPROVED,313.4002777777778,1,1646,Merged
+shorten font property,2018-02-23T08:19:02Z,,2018-03-08T17:03:15Z,3,,320.7369444444444,1,1380,Closed
+fix(compiler): return handler value for event modifiers instead of un…,2018-02-23T11:00:41Z,2018-03-08T22:09:54Z,2018-03-08T22:09:54Z,6,APPROVED,323.1536111111111,3,1949,Merged
+fix(types): fix wrong errorCaptured type,2018-02-26T08:34:46Z,2018-03-08T17:05:04Z,2018-03-08T17:05:04Z,2,,248.505,2,1406,Merged
+fix(v-model): v-model ended with spaces,2018-03-02T12:00:12Z,,2018-03-04T11:02:01Z,4,CHANGES_REQUESTED,47.030277777777776,6,1312,Closed
+Style: update variable name,2018-03-06T11:41:44Z,2018-03-08T17:21:12Z,2018-03-08T17:21:12Z,4,,53.65777777777778,1,1435,Merged
+chore: fix typo,2018-03-09T12:13:03Z,2018-03-09T13:54:56Z,2018-03-09T13:54:56Z,1,APPROVED,1.6980555555555557,1,1080,Merged
+feat(typing): use keyof inference to simplify definition,2018-03-12T03:04:35Z,,2018-12-06T06:41:02Z,1,,6459.6075,2,1514,Closed
+fix(ssr): add Fragment in RenderState typing,2018-03-12T09:29:50Z,2018-03-12T13:34:41Z,2018-03-12T13:34:41Z,1,,4.0808333333333335,1,1301,Merged
+"Static type=""checkbox"" with v-bind (fix #7811)",2018-03-13T09:08:20Z,2018-03-13T15:05:58Z,2018-03-13T15:05:58Z,4,APPROVED,5.960555555555556,2,1301,Merged
+Clean shell scripts,2018-03-13T20:15:28Z,2018-03-22T14:02:41Z,2018-03-22T14:02:41Z,7,,209.78694444444446,2,863,Merged
+"feat(server, webpack-plugin): webpack 4 support",2018-03-16T07:14:12Z,2018-04-07T04:23:59Z,2018-04-07T04:24:00Z,2,,525.1630555555555,3,1423,Merged
+feat(weex): invoke handlers on virtual component instance,2018-03-16T10:07:43Z,,2022-09-19T03:20:11Z,1,,39545.20777777778,10,1746,Closed
+feat(warn): make the warning messages more explicit (close #7764),2018-03-22T20:08:16Z,2018-08-17T14:40:47Z,2018-08-17T14:40:47Z,3,,3546.5419444444447,2,1292,Merged
+"fix(codegen): support IE11 and Edge use of ""Esc"" key (close #7880)",2018-03-23T16:07:42Z,2018-03-23T23:08:56Z,2018-03-23T23:08:56Z,1,APPROVED,7.020555555555555,1,1553,Merged
+feat(types): add vue-template-compiler types,2018-03-29T04:39:29Z,2018-12-05T22:56:28Z,2018-12-05T22:56:28Z,8,,6042.283055555556,1,1616,Merged
+fix(provide): Merges symbol provides,2018-03-29T13:47:41Z,2018-12-21T17:49:22Z,2018-12-21T17:49:22Z,2,APPROVED,6412.0280555555555,2,1780,Merged
+fix(utils/looseEqual): update looseEqual to handle dates (close #7928),2018-03-30T06:16:00Z,,2018-03-31T18:18:48Z,2,,36.04666666666667,3,1299,Closed
+feat(weex): support object syntax of class,2018-03-30T09:21:43Z,2018-04-07T04:24:23Z,2018-04-07T04:24:23Z,2,,187.04444444444445,4,1417,Merged
+feat(parser): add hasShadowRoot option,2018-03-31T03:34:33Z,,2018-04-02T13:24:29Z,1,,57.83222222222222,4,1552,Closed
+"fix(e2e-todomvc-test): trigger click on .new-todo instead of footer, fix #7937",2018-03-31T15:38:29Z,2018-08-20T21:52:07Z,2018-08-20T21:52:07Z,1,,3414.2272222222223,1,1301,Merged
+fix(shared): check dates in looseEqual,2018-03-31T18:15:33Z,2018-10-24T16:45:06Z,2018-10-24T16:45:07Z,1,APPROVED,4966.4925,2,1620,Merged
+refactor(compiler): Document and refactor filter parser,2018-04-02T16:27:29Z,,2018-10-22T19:51:03Z,1,,4875.392777777778,2,2035,Closed
+refactor: make the set method more reasonable,2018-04-08T16:03:20Z,2018-10-22T20:04:06Z,2018-10-22T20:04:06Z,6,APPROVED,4732.012777777778,1,1378,Merged
+refactor: add empty v-bind warning(re #7973),2018-04-09T04:42:52Z,2018-10-24T16:46:39Z,2018-10-24T16:46:39Z,4,APPROVED,4764.063055555555,2,1063,Merged
+remove useless code,2018-04-11T08:06:35Z,2018-10-22T20:04:55Z,2018-10-22T20:04:55Z,1,,4667.972222222223,1,19,Merged
+"fix(types): make VNodeDirective properties optional, fix #8013",2018-04-11T10:26:50Z,2018-10-22T20:09:23Z,2018-10-22T20:09:24Z,2,,4665.7091666666665,3,1730,Merged
+feat: add warning in dev mode when method is not function (#…,2018-04-13T21:46:32Z,,2019-01-03T21:41:00Z,5,APPROVED,6359.9077777777775,2,841,Closed
+refactor: merge common class names of a component(re #8015),2018-04-16T15:56:01Z,,2018-10-22T20:11:25Z,5,,4540.256666666667,2,1301,Closed
+"feat(ssr): Add 'nonce' option to context for ssr outlet script, fix #7479",2018-04-18T09:31:47Z,2018-12-20T20:15:05Z,2018-12-20T20:15:05Z,1,,5914.721666666666,2,1468,Merged
+fix(for): use IE compatible regex in v-for regex,2018-04-18T13:07:18Z,2018-10-24T16:48:08Z,2018-10-24T16:48:08Z,2,APPROVED,4539.680555555556,1,1317,Merged
+Refactor: refactor extend method,2018-04-24T13:52:42Z,,2018-10-22T20:16:04Z,4,,4350.389444444444,7,1301,Closed
+Update config.js use string literals,2018-05-01T02:06:57Z,2018-10-24T16:48:58Z,2018-10-24T16:48:59Z,5,APPROVED,4238.700277777778,1,1320,Merged
+fix(SSR): Properly handle newlines and whitespace in SSR classnames (fix #7859),2018-05-04T03:31:45Z,,2022-05-10T12:39:43Z,2,,35217.13277777778,2,1587,Closed
+Fix: block unnecessary input event on input tag placeholder in IE,2018-05-07T06:17:21Z,2018-10-24T17:01:03Z,2018-10-24T17:01:03Z,2,APPROVED,4090.7283333333335,1,1568,Merged
+fix #8041: templates inside v-pre should be rendered to HTML,2018-05-08T00:08:21Z,2018-10-24T17:01:30Z,2018-10-24T17:01:30Z,1,APPROVED,4072.8858333333333,3,1837,Merged
+perf(Dep.js): Dep now uses an object to handle subscriptions,2018-05-09T16:23:09Z,,2023-12-11T10:20:39Z,5,,49001.958333333336,3,1716,Closed
+Add iterable supports for v-for ,2018-05-12T12:10:21Z,2018-12-26T20:38:19Z,2018-12-26T20:38:19Z,2,,5480.466111111111,2,1850,Merged
+allow functional components to return multiple VNodes (fix #8191),2018-05-15T23:46:12Z,2018-10-24T17:03:30Z,2018-10-24T17:03:30Z,2,APPROVED,3881.2883333333334,2,1301,Merged
+fix(types): add model option to functional components,2018-05-21T08:26:33Z,2018-10-24T17:03:49Z,2018-10-24T17:03:49Z,1,,3752.621111111111,2,1317,Merged
+feat(warn): warn when an existing property starting with $ is not pro…,2018-05-21T16:24:24Z,2018-10-24T17:04:57Z,2018-10-24T17:04:57Z,10,,3744.6758333333332,2,1336,Merged
+fix #8093: Use custom toString method when interpolating objects if implemented,2018-05-22T06:51:05Z,2018-12-21T18:13:49Z,2018-12-21T18:13:49Z,3,APPROVED,5123.3788888888885,3,1416,Merged
+fix(types): add refInFor to VNodeData,2018-05-22T17:12:41Z,2018-10-24T17:05:16Z,2018-10-24T17:05:16Z,1,APPROVED,3719.876388888889,2,1547,Merged
+fix(compiler): remove the extra space of v-for alias,2018-05-23T08:54:28Z,2018-10-24T17:05:49Z,2018-10-24T17:05:49Z,1,APPROVED,3704.1891666666666,1,1714,Merged
+fix(renderer): allow overwrite server renderer defaults,2018-05-29T09:19:16Z,,2018-10-30T17:02:40Z,2,CHANGES_REQUESTED,3703.7233333333334,2,1395,Closed
+Adds handler for kebab-case event for v-bind:sync; fix #6428,2018-06-05T01:53:10Z,2018-12-21T18:34:17Z,2018-12-21T18:34:18Z,6,APPROVED,4792.685277777778,2,1027,Merged
+"refactor(core): Replace ""var""",2018-06-05T09:41:04Z,2018-10-24T17:07:41Z,2018-10-24T17:07:41Z,2,APPROVED,3391.4436111111113,30,1469,Merged
+refactor: keep single source of truth,2018-06-11T10:34:55Z,2018-10-24T17:21:15Z,2018-10-24T17:21:15Z,1,,3246.7722222222224,1,1300,Merged
+refactor: remove redundant code in html-parse,2018-06-15T06:55:34Z,2018-10-24T17:22:17Z,2018-10-24T17:22:17Z,1,,3154.445277777778,1,1410,Merged
+fix(v-pre): skip compiling custom component tags in v-pre blocks (fix…,2018-06-19T09:02:19Z,2018-10-24T17:24:07Z,2018-10-24T17:24:07Z,2,APPROVED,3056.3633333333332,3,1566,Merged
+"feat(errors): sync/async error handling for lifecycle hooks and v-on handlers (#7653, #6953)",2018-06-21T21:39:26Z,2018-12-20T15:02:29Z,2018-12-20T15:02:29Z,1,,4361.384166666667,5,1500,Merged
+Refactor: use feature detection instead of browser sniffing in Env.js,2018-06-22T10:04:04Z,,2018-06-23T03:41:21Z,5,,17.621388888888887,1,1396,Closed
+"fix(parser): allow CRLFs in string interpolations, fix #8103",2018-06-25T03:59:44Z,2018-10-24T17:24:56Z,2018-10-24T17:24:56Z,2,APPROVED,2917.42,2,1519,Merged
+types: add AsyncComponentFactory type,2018-06-30T13:28:22Z,2018-12-05T23:00:57Z,2018-12-05T23:00:57Z,1,,3801.5430555555554,1,1603,Merged
+fix(v-model): transformModel should check if prop is defined and fall back to attrs if needed (fix #8430),2018-07-02T13:15:48Z,,2019-02-07T15:08:58Z,4,APPROVED,5281.886111111111,2,1063,Closed
+fix: always use microtasks for nextTick,2018-07-04T07:34:43Z,2018-12-19T18:29:01Z,2018-12-19T18:29:01Z,1,,4042.905,4,1118,Merged
+chore: remove unnecessary judgment,2018-07-14T19:39:50Z,2018-10-24T17:56:03Z,2018-10-24T17:56:03Z,2,APPROVED,2446.2702777777777,1,1301,Merged
+update toMs function. fix #4894,2018-07-16T05:20:02Z,2018-10-24T17:58:25Z,2018-10-24T17:58:25Z,1,APPROVED,2412.639722222222,1,1618,Merged
+chore: update reference to already defined variable,2018-07-18T20:12:21Z,2018-10-23T19:52:45Z,2018-10-23T19:52:45Z,1,APPROVED,2327.673333333333,1,1301,Merged
+fix (shared-utils): Improve readability and consistency in code comments (fix #8528),2018-07-20T06:27:55Z,2018-10-23T19:53:47Z,2018-10-23T19:53:48Z,2,APPROVED,2293.431111111111,1,1778,Merged
+fix(types): relax the return type of props default option,2018-07-21T04:01:45Z,2018-09-18T02:33:58Z,2018-09-18T02:33:58Z,1,,1414.5369444444445,2,1445,Merged
+refactor(transition): replace nested closure with static ones,2018-07-24T19:16:00Z,2018-10-23T20:01:30Z,2018-10-23T20:01:30Z,2,APPROVED,2184.758333333333,1,1301,Merged
+fix(#8567): handle errors on immediate watchers,2018-07-31T07:48:52Z,2018-11-29T23:14:29Z,2018-11-29T23:14:29Z,1,,2919.4269444444444,2,1602,Merged
+feat: Store functional render context on vnode in development,2018-08-01T12:40:09Z,2018-11-30T22:31:45Z,2018-11-30T22:31:45Z,2,,2913.86,2,101,Merged
+fix(types): support chain call,2018-08-03T01:49:44Z,2018-12-01T04:27:25Z,2018-12-01T04:27:25Z,5,,2882.6280555555554,5,1414,Merged
+refactor: add missing else in genNode,2018-08-03T15:12:55Z,2018-10-23T20:26:21Z,2018-10-23T20:26:21Z,1,,1949.223888888889,1,901,Merged
+refactor: ignore control-regex lint for unsafeAttrCharRE,2018-08-03T15:28:15Z,2018-08-14T13:12:27Z,2018-08-14T13:12:27Z,2,APPROVED,261.7366666666667,1,672,Merged
+fix(chrome): workaround background-clip style attribute,2018-08-07T13:10:56Z,,2018-10-23T20:33:14Z,1,,1855.3716666666667,1,1317,Closed
+fix(types): fix `renderError` type (#8635),2018-08-11T04:42:36Z,2018-12-01T04:28:30Z,2018-12-01T04:28:30Z,2,APPROVED,2687.765,2,1301,Merged
+chore: update badge for Vue CLI 3,2018-08-12T04:44:48Z,2018-11-29T21:37:02Z,2018-11-29T21:37:02Z,3,APPROVED,2632.8705555555557,1,1053,Merged
+feat(compiler): allow unicode characters for component name as described in #8564,2018-08-17T04:13:23Z,2018-12-26T15:02:55Z,2018-12-26T15:02:55Z,4,,3154.8255555555556,5,1318,Merged
+fix(types): accept `number` type as key on Vue.set/delete (#8707),2018-08-26T00:19:54Z,2018-12-01T04:28:53Z,2018-12-01T04:28:53Z,4,APPROVED,2332.1497222222224,2,1301,Merged
+fix (#8713): replace hardcoded .parentNode with abstract ops,2018-08-27T00:56:22Z,2018-09-09T21:28:21Z,2018-09-09T21:28:21Z,2,,332.53305555555556,1,1366,Merged
+fix(readme): correct badge link,2018-08-29T10:20:15Z,2018-10-22T19:14:40Z,2018-10-22T19:14:40Z,1,,1304.9069444444444,1,1301,Merged
+refactor(class-util): cache whitespace regex,2018-09-01T08:24:19Z,2018-10-23T20:54:35Z,2018-10-23T20:54:35Z,1,APPROVED,1260.5044444444445,1,1352,Merged
+fix(#8730): Improve error reporting,2018-09-03T19:59:58Z,2018-11-30T22:35:11Z,2018-11-30T22:35:11Z,4,,2114.5869444444443,2,1342,Merged
+fix(component): clean up memory leak after loading async component completes (fix #8740),2018-09-04T16:46:28Z,2018-11-30T22:36:09Z,2018-11-30T22:36:09Z,3,,2093.8280555555557,3,1301,Merged
+refactor: empty function replace to noop,2018-09-13T15:26:30Z,2018-10-23T20:52:02Z,2018-10-23T20:52:02Z,7,APPROVED,965.4255555555555,2,1333,Merged
+fix(types): update the type definition of $el property,2018-09-18T07:07:44Z,2018-12-01T04:30:32Z,2018-12-01T04:30:32Z,1,,1773.38,2,985,Merged
+fix #8842: Override v-bind object with kebab-cased props,2018-09-26T07:21:34Z,2018-11-30T22:56:41Z,2018-11-30T22:56:41Z,2,APPROVED,1575.5852777777777,2,1301,Merged
+Remove redundant ternary,2018-09-26T14:18:07Z,2018-11-30T22:38:09Z,2018-11-30T22:38:10Z,2,APPROVED,1568.3338888888889,1,293,Merged
+fix #8865: skip mixins and extends if child is already merged,2018-09-30T12:28:32Z,2018-11-30T22:54:17Z,2018-11-30T22:54:17Z,2,,1474.4291666666666,2,1074,Merged
+refactor: remove some elses,2018-10-07T04:20:27Z,,2018-10-23T22:23:31Z,1,,402.0511111111111,3,375,Closed
+fix #8862: cannot watch unicode properties like 'a.中文',2018-10-10T20:30:15Z,,2019-02-04T21:36:55Z,2,CHANGES_REQUESTED,2809.1111111111113,3,1695,Closed
+Typings: Improve $slots and $scopedSlots type to prevent unchecked access to undefined,2018-10-14T18:56:23Z,2018-12-01T04:31:45Z,2018-12-01T04:31:45Z,3,,1137.5894444444446,2,1773,Merged
+fix(compiler): should keep newline after unary tags in <pre> (fix #8950),2018-10-18T02:59:09Z,2018-11-30T23:02:54Z,2018-11-30T23:02:54Z,3,APPROVED,1052.0625,2,1081,Merged
+feat(state.js): check if method is not a function in the component de…,2018-10-20T21:55:24Z,2018-11-30T23:06:24Z,2018-11-30T23:06:25Z,1,APPROVED,985.1833333333333,2,1412,Merged
+test(transition-mode.spec.js): fix #8992,2018-10-26T08:28:53Z,,2018-12-02T20:49:32Z,1,,900.3441666666666,1,1343,Closed
+fix(ts types): Issue # 8983 Fixing $once type declaration on vue.d.ts file. $once …,2018-10-26T16:28:48Z,2018-12-01T04:41:27Z,2018-12-01T04:41:28Z,6,,852.2108333333333,1,1488,Merged
+feat(ssr): ssrPrefetch option,2018-11-03T00:02:50Z,2018-12-20T20:26:13Z,2018-12-20T20:26:13Z,1,,1148.3897222222222,10,1394,Merged
+style(types): fix typo,2018-11-18T19:10:54Z,2018-12-01T04:58:59Z,2018-12-01T04:58:59Z,1,APPROVED,297.8013888888889,1,109,Merged
+fix #9046 disable dep collection when invoking lifecycle hooks will be useless when invoking computed in lifecycle,2018-11-20T10:45:04Z,2018-12-01T05:24:31Z,2018-12-01T05:24:31Z,2,CHANGES_REQUESTED,258.6575,2,1301,Merged
+Refactor comment,2018-11-21T12:31:52Z,,2018-11-21T15:34:16Z,1,APPROVED,3.04,1,921,Closed
+Rephrase comment,2018-11-21T15:32:44Z,2018-12-01T05:23:59Z,2018-12-01T05:23:59Z,4,APPROVED,229.85416666666666,1,915,Merged
+WIP: types: propagate this in computed properties,2018-11-22T15:13:49Z,,2018-11-23T11:34:55Z,1,,20.351666666666667,1,1374,Closed
+Allow empty slot-scope to render a scoped slot instead of a normal one,2018-11-24T16:56:22Z,,2019-02-02T12:42:27Z,5,,1675.7680555555555,3,1021,Closed
+fix(types): correct scopedSlot types,2018-12-03T04:55:57Z,2018-12-04T01:31:40Z,2018-12-04T01:31:40Z,1,,20.595277777777778,2,1364,Merged
+fix(weex): support data class type that is string (#9124),2018-12-04T08:37:30Z,2018-12-11T16:29:50Z,2018-12-11T16:29:50Z,2,,175.87222222222223,1,1301,Merged
+chore: fix tag name in compiler/parser/index.js,2018-12-08T11:47:09Z,2018-12-11T16:28:41Z,2018-12-11T16:28:41Z,2,APPROVED,76.69222222222223,2,1301,Merged
+fix(lifecycle): beforeUpdated should not be called if component is de…,2018-12-09T23:10:43Z,2018-12-11T16:31:28Z,2018-12-11T16:31:28Z,2,,41.34583333333333,2,1392,Merged
+fix(types): avoid `this` in VueConstructor signature,2018-12-10T02:35:00Z,2018-12-10T16:53:57Z,2018-12-10T16:53:57Z,1,,14.315833333333334,3,954,Merged
+fix #9183 multiline v-model expressions,2018-12-11T06:05:20Z,2018-12-11T15:27:44Z,2018-12-11T15:27:44Z,1,,9.373333333333333,2,1299,Merged
+fix(#9198): fix merged twice bug when passing extended constructor to mixins,2018-12-13T14:35:00Z,2019-01-10T21:10:55Z,2019-01-10T21:10:55Z,2,,678.5986111111112,2,1157,Merged
+feat(compiler): switch to new `removeWhitespace` option (#9208),2018-12-18T07:38:59Z,,2018-12-26T19:24:55Z,2,,203.76555555555555,3,1477,Closed
+fix #9224 Warn when the type of a prop isn't a constructor,2018-12-19T15:23:21Z,,2019-01-14T08:12:36Z,1,CHANGES_REQUESTED,616.8208333333333,1,1301,Closed
+fix(warn): better message with no constructors props,2018-12-22T11:40:16Z,2021-03-30T09:38:13Z,2021-03-30T09:38:13Z,3,APPROVED,19893.965833333332,2,1658,Merged
+refactor: remove duplicate code,2018-12-29T12:27:42Z,,2019-01-02T16:00:42Z,2,,99.55,1,1301,Closed
+fix(async component): memory leak after synchronous async loading (fix #9229),2019-01-02T14:08:39Z,2019-01-11T20:46:26Z,2019-01-11T20:46:26Z,4,,222.62972222222223,2,1301,Merged
+fix(ssr): style binding keeps falsy values (#9231),2019-01-08T14:00:24Z,,2019-01-11T16:12:03Z,1,,74.19416666666666,2,1307,Closed
+[feature] allow template to be function in vue-server-renderer,2019-01-15T09:32:42Z,2019-01-18T16:20:07Z,2019-01-18T16:20:07Z,1,,78.79027777777777,2,2739,Merged
+"webpack import in SSR ,there is -1(from chunks.css.map) in the client…",2019-01-17T15:30:48Z,,2022-12-28T13:02:29Z,1,CHANGES_REQUESTED,34581.52805555556,1,1405,Closed
+update README.md,2019-01-19T14:20:46Z,2019-01-19T16:28:20Z,2019-01-19T16:28:20Z,1,APPROVED,2.1261111111111113,1,1437,Merged
+Explicitly disable a transition by setting it to false (fix #9320),2019-01-25T01:41:55Z,,2019-03-14T10:59:28Z,4,,1161.2925,2,1797,Closed
+style does not work with zIndex (fix #9382),2019-01-29T15:59:52Z,2019-01-31T15:08:36Z,2019-01-31T15:08:36Z,4,CHANGES_REQUESTED,47.14555555555555,2,1261,Merged
+feat: include errors in Vue.compile result,2019-02-12T06:51:49Z,,2022-07-18T08:45:07Z,1,APPROVED,30049.888333333332,3,1312,Closed
+fix(errorHandler): async error handling for watchers,2019-02-12T21:11:33Z,2021-04-16T15:57:25Z,2021-04-16T15:57:25Z,5,APPROVED,19050.764444444445,4,1155,Merged
+docs: clarify docs about using template compiler,2019-02-16T18:06:11Z,2019-03-01T15:00:03Z,2019-03-01T15:00:03Z,1,APPROVED,308.8977777777778,1,1544,Merged
+fix(#9511): avoid promise catch multiple times,2019-02-19T10:17:01Z,2019-02-21T19:01:54Z,2019-02-21T19:01:54Z,2,,56.74805555555555,2,1759,Merged
+style(util): remove unnessary variable in cached,2019-02-20T03:17:18Z,,2022-10-06T13:16:29Z,2,,31785.98638888889,1,1338,Closed
+fix(types): update this for nextTick api,2019-02-21T07:10:27Z,2019-02-28T21:54:08Z,2019-02-28T21:54:08Z,1,,182.72805555555556,2,1199,Merged
+"test: Add a unit test for ""$off event and this event added by $once""",2019-02-22T03:11:08Z,2019-02-28T22:54:51Z,2019-02-28T22:54:52Z,6,,163.72861111111112,1,1364,Merged
+Remove unnecessary variable assignment for prop validator,2019-02-23T13:31:05Z,,2019-02-28T23:02:52Z,1,APPROVED,129.52972222222223,1,1449,Closed
+fix(types): allow scoped slots to return a single VNode,2019-02-24T04:49:28Z,2019-02-28T22:03:28Z,2019-02-28T22:03:28Z,2,,113.23333333333333,3,1489,Merged
+"fix #9571, rendering async components after initial context was destroyed",2019-02-25T15:26:50Z,2019-02-28T22:37:45Z,2019-02-28T22:37:45Z,2,,79.18194444444444,1,1473,Merged
+fix(#9577): support deep object as dynamic arguments,2019-02-27T12:21:20Z,2019-02-28T14:36:47Z,2019-02-28T14:36:47Z,7,,26.2575,2,1723,Merged
+"fix: avoid compression of unicode sequences by using regexps, closes #9456 ",2019-02-28T15:36:49Z,2019-02-28T17:10:38Z,2019-02-28T17:10:39Z,1,APPROVED,1.563611111111111,3,1317,Merged
+docs: fix spelling and grammatical errors,2019-03-04T15:45:03Z,2019-03-04T16:54:00Z,2019-03-04T16:54:00Z,1,APPROVED,1.1491666666666667,7,794,Merged
+fix(scheduler): getNow detection can randomly fail (fix #9632),2019-03-07T19:12:50Z,2019-03-08T17:04:28Z,2019-03-08T17:04:28Z,1,,21.860555555555557,1,1693,Merged
+Fix #9641: v-bind object should be overridable by single bindings,2019-03-08T07:29:10Z,2019-03-08T17:00:48Z,2019-03-08T17:00:48Z,2,,9.527222222222223,2,1301,Merged
+fix: whitespace: 'condense' should honor <pre> tag as well,2019-03-09T05:57:01Z,2019-03-14T07:47:52Z,2019-03-14T07:47:52Z,1,,121.8475,2,1301,Merged
+fix(ssr): fix nested async functional componet rendering,2019-03-11T05:29:35Z,2019-03-13T09:20:29Z,2019-03-13T09:20:29Z,1,,51.848333333333336,2,1310,Merged
+feat(computed): pass component instance as second argument in setter,2019-03-11T06:28:11Z,,2022-10-23T03:40:22Z,1,APPROVED,31725.203055555554,2,1334,Closed
+fix(codegen): inline function expression can be named inside a `v-on`…,2019-03-15T08:05:45Z,2019-03-18T08:19:42Z,2019-03-18T08:19:42Z,1,APPROVED,72.2325,2,1329,Merged
+fix #9727,2019-03-17T20:38:31Z,2019-03-18T07:47:44Z,2019-03-18T07:47:44Z,1,APPROVED,11.153611111111111,3,1323,Merged
+fix(types): allow using functions on the PropTypes (#9692),2019-03-18T11:59:43Z,2019-03-19T04:54:28Z,2019-03-19T04:54:28Z,2,,16.9125,2,1301,Merged
+Template compiler warning,2019-03-19T19:33:44Z,2019-03-20T05:13:15Z,2019-03-20T05:13:15Z,1,APPROVED,9.658611111111112,1,1217,Merged
+fix(parser): fixed `dynamicArgAttribute` RegExp,2019-03-28T14:09:41Z,2020-09-21T14:01:47Z,2020-09-21T14:01:47Z,2,APPROVED,13031.868333333334,2,1862,Merged
+docs: fixing grammar errors,2019-04-15T05:01:11Z,,2022-04-19T14:52:42Z,1,CHANGES_REQUESTED,26409.85861111111,3,1342,Closed
+fix(keep-alive): fix keep-alive memory leak,2019-04-15T12:52:04Z,,2020-01-06T15:39:56Z,1,,6386.797777777778,2,2002,Closed
+feat: add warning when .native modifier is used on native HTML elements,2019-04-17T05:39:40Z,2019-04-25T02:39:20Z,2019-04-25T02:39:20Z,7,APPROVED,188.99444444444444,2,1657,Merged
+fix typo,2019-04-26T14:58:46Z,2019-05-14T10:15:42Z,2019-05-14T10:15:42Z,4,,427.28222222222223,1,1301,Merged
+docs: use yarn instead of npm in scripts section,2019-05-15T06:08:56Z,,2022-08-19T05:49:45Z,3,,28607.680277777778,1,1326,Closed
+fix(v-on): add removing all dom event listeners when vnode destroyed,2019-05-29T11:03:52Z,2021-08-05T09:21:13Z,2021-08-05T09:21:13Z,2,APPROVED,19174.289166666666,2,1391,Merged
+fix(v-pre): do not alter attributes (fix #10087),2019-05-30T13:53:29Z,2020-09-21T15:42:08Z,2020-09-21T15:42:09Z,4,APPROVED,11521.810833333333,2,1594,Merged
+Add CodeTriage badge to vuejs/vue,2019-06-03T22:29:30Z,,2020-03-04T21:56:01Z,1,,6599.441944444445,1,2176,Closed
+chore(typo): fix comment typo,2019-06-04T08:33:49Z,2019-06-04T09:51:20Z,2019-06-04T09:51:20Z,1,APPROVED,1.2919444444444443,1,1310,Merged
+feat(warn): warn computed conflict with methods,2019-06-08T02:52:43Z,2021-04-16T15:56:33Z,2021-04-16T15:56:33Z,1,APPROVED,16285.06388888889,2,1301,Merged
+fix(warns): modify `maybeComponent` function in parser,2019-06-19T05:30:51Z,2021-04-07T12:38:13Z,2021-04-07T12:38:14Z,1,APPROVED,15799.122777777779,2,1380,Merged
+fix(warn): regular slot and scoped slot with same name shouldn't be allowed(fix #10149),2019-07-02T02:13:31Z,,2020-07-25T11:19:55Z,2,CHANGES_REQUESTED,9345.106666666667,2,1301,Closed
+fix(slot): add a function to return the slot fallback content,2019-07-04T06:04:44Z,,2021-04-16T15:32:53Z,4,CHANGES_REQUESTED,15657.469166666666,4,1318,Closed
+[Enhancement]  improved eslint-config to be more readable,2019-07-19T19:46:05Z,,2019-09-24T06:54:47Z,10,,1595.145,1,1044,Closed
+refactor(style): use arrow functions for unit tests,2019-07-26T17:46:43Z,,2023-09-29T18:37:36Z,1,,36624.84805555556,7,1449,Closed
+chore: fix proxy warning typo,2019-07-30T23:13:24Z,2019-07-31T07:52:43Z,2019-07-31T07:52:43Z,2,APPROVED,8.655277777777778,1,1310,Merged
+a spelling mistake,2019-08-07T01:15:08Z,2019-08-07T07:09:01Z,2019-08-07T07:09:01Z,1,APPROVED,5.898055555555556,1,1318,Merged
+fix(types): allow string for watch handlers,2019-08-14T14:41:41Z,2020-09-21T14:13:22Z,2020-09-21T14:13:22Z,5,APPROVED,9695.528055555556,2,1146,Merged
+fix typo : added a missing dot on comment,2019-08-15T15:37:43Z,,2019-09-12T19:01:31Z,2,,675.3966666666666,1,1364,Closed
+fix: add URL in ssr sandbox global,2019-08-19T18:33:49Z,,2020-09-22T07:19:38Z,1,,9588.763611111111,1,1231,Closed
+[automated] Patreon backers update (Sep 2019,2019-09-05T05:00:40Z,2019-09-19T20:09:31Z,2019-09-19T20:09:32Z,1,,351.1475,1,34,Merged
+feat(web): Integrate trusted types into Vue,2019-09-06T14:44:33Z,,2023-11-20T12:05:10Z,10,,36861.34361111111,6,4721,Closed
+fix(props): correctly warn when a provided prop is Symbol,2019-09-17T08:55:46Z,2020-09-21T10:24:18Z,2020-09-21T10:24:18Z,2,,8881.475555555555,2,1317,Merged
+docs: fix link to point to ModuleOptions lines,2019-09-18T20:22:55Z,2019-09-19T07:52:33Z,2019-09-19T07:52:33Z,1,APPROVED,11.49388888888889,1,1367,Merged
+fix(ts): force mandatory options,2019-09-27T12:51:23Z,,2022-12-31T23:40:29Z,8,CHANGES_REQUESTED,28594.818333333333,2,1368,Closed
+Remove unecessary else,2019-10-11T14:57:55Z,,2021-07-23T06:00:46Z,2,,15615.0475,1,1301,Closed
+build(deps): bump lodash.mergewith from 4.6.1 to 4.6.2,2019-10-13T14:40:23Z,,2022-05-20T06:42:31Z,1,,22792.035555555554,1,2315,Closed
+Fastcoding Inc broken icon,2019-10-14T11:33:35Z,2019-10-28T15:30:58Z,2019-10-28T15:30:58Z,1,,339.9563888888889,1,1275,Merged
+[automated] Patreon sponsors update,2019-10-14T20:13:14Z,,2019-10-28T15:28:47Z,1,,331.25916666666666,2,34,Closed
+fix(core): remove trailing comma in function signature,2019-11-19T18:52:52Z,2020-09-21T09:20:25Z,2020-09-21T09:20:25Z,3,,7358.4591666666665,1,1483,Merged
+[automated] Patreon sponsors update,2019-12-05T05:00:45Z,2019-12-08T15:57:52Z,2019-12-08T15:57:52Z,1,,82.95194444444445,2,34,Merged
+ fix: serialize-javascript vulnerability by updating package (#10910) ,2019-12-09T05:37:24Z,,2019-12-10T02:41:52Z,2,CHANGES_REQUESTED,21.074444444444445,6,1324,Closed
+build(deps-dev): bump serialize-javascript from 1.3.0 to 2.1.2,2019-12-09T15:42:48Z,2019-12-13T19:49:41Z,2019-12-13T19:49:41Z,2,APPROVED,100.11472222222223,2,1212,Merged
+fix(compiler): event handler with modifiers swallowing arguments,2019-12-27T03:23:15Z,2020-09-21T14:16:45Z,2020-09-21T14:16:46Z,1,APPROVED,6466.891666666666,2,1070,Merged
+perf: preinitialize typeCheck RegExp,2020-01-07T23:21:36Z,2021-03-30T09:36:47Z,2021-03-30T09:36:47Z,2,APPROVED,10738.253055555555,1,1830,Merged
+fix(events): rule of calling binded event handler (close #11014),2020-01-18T22:49:41Z,,2022-10-13T13:21:15Z,1,,23966.52611111111,1,1198,Closed
+docs: fix minor typo,2020-01-26T07:12:33Z,2020-01-26T14:08:18Z,2020-01-26T14:08:18Z,2,APPROVED,6.929166666666666,1,1301,Merged
+feat(warns): avoid warning native modifiers on dynamic components,2020-01-27T11:09:41Z,2021-03-30T09:02:46Z,2021-03-30T09:02:46Z,2,APPROVED,10269.884722222223,2,1342,Merged
+fix(attrs): check key on setAttr,2020-01-28T10:16:22Z,,2020-02-12T07:32:34Z,1,CHANGES_REQUESTED,357.27,4,1360,Closed
+chore(platforms/web/server/util): Removes duplicate values from the a…,2020-02-02T05:51:53Z,2020-02-11T14:50:23Z,2020-02-11T14:50:23Z,2,APPROVED,224.975,1,1348,Merged
+fix(compiler): avoid converting &nbps; to spaces,2020-02-02T16:31:51Z,2021-03-30T09:03:04Z,2021-03-30T09:03:04Z,4,APPROVED,10120.520277777778,2,1067,Merged
+fix(readme): svg image,2020-02-05T02:39:40Z,2020-02-11T14:49:50Z,2020-02-11T14:49:50Z,1,,156.16944444444445,1,1324,Merged
+Update README.md,2020-02-05T12:54:56Z,,2023-08-22T09:30:14Z,1,,31052.588333333333,1,1321,Closed
+chore: upgrade to ESLint v6,2020-02-11T23:49:48Z,,2021-07-26T20:01:25Z,4,,12740.193611111112,6,1593,Closed
+fix(core): fix sameVnode for async component,2020-02-14T06:14:44Z,2021-04-16T15:58:02Z,2021-04-16T15:58:02Z,1,APPROVED,10257.721666666666,2,1967,Merged
+fix(types): make $refs undefined possible,2020-02-17T08:34:32Z,2021-04-16T15:59:37Z,2021-04-16T15:59:37Z,2,APPROVED,10183.418055555556,1,1860,Merged
+fix(ssr): textarea keeps undefined/null values,2020-02-18T03:16:12Z,2020-09-21T14:04:59Z,2020-09-21T14:04:59Z,1,APPROVED,5194.813055555555,2,1315,Merged
+build(deps-dev): bump codecov from 3.1.0 to 3.6.5,2020-02-19T18:23:33Z,,2020-07-21T12:41:17Z,1,,3666.2955555555554,1,3191,Closed
+fix(compiler): Allow BigInt usage in templates,2020-02-27T09:44:54Z,2021-03-30T09:40:44Z,2021-03-30T09:40:45Z,7,APPROVED,9527.930555555555,2,1547,Merged
+fix(vdom): check old handlers are defined before remove (fix #11151),2020-02-28T04:20:01Z,,2023-11-14T02:10:30Z,2,APPROVED,32517.84138888889,2,1063,Closed
+bug: fix the param 'file' might be undefined,2020-02-28T07:14:15Z,,2020-08-25T08:54:02Z,1,,4297.663055555556,1,1529,Closed
+[automated] Patreon backers update (Mar 2020,2020-03-05T05:00:25Z,2020-03-09T15:06:04Z,2020-03-09T15:06:04Z,1,,106.09416666666667,1,34,Merged
+fix(readme): svg doesnt displayed ,2020-03-05T19:23:45Z,2020-03-06T15:09:03Z,2020-03-06T15:09:03Z,2,,19.755,1,146,Merged
+fix(types): changed expression type to optional string,2020-03-08T02:58:56Z,2021-03-30T09:37:57Z,2021-03-30T09:37:57Z,1,APPROVED,9294.650277777779,2,1470,Merged
+fix(props): support BigInt in props type validation,2020-03-08T19:36:49Z,2021-03-30T09:41:10Z,2021-03-30T09:41:10Z,2,APPROVED,9278.0725,2,1371,Merged
+"docs: Fix simple typo, unnecesarry -> unnecessary",2020-04-06T11:42:34Z,2020-04-06T21:54:14Z,2020-04-06T21:54:14Z,2,CHANGES_REQUESTED,10.194444444444445,1,285,Merged
+fix(v-on): avoid events with empty keyCode (autocomplete),2020-04-18T23:46:27Z,2021-04-16T15:53:45Z,2021-04-16T15:53:45Z,1,APPROVED,8704.121666666666,2,1609,Merged
+fix #11391: translate attribute had incorrectly the key as it's value,2020-05-13T22:43:58Z,2020-09-21T14:51:39Z,2020-09-21T14:51:40Z,2,APPROVED,3136.1280555555554,1,1500,Merged
+"$http.delete shows warning ""avoid using JavaScript unary operator as property name"" (fix #11090)",2020-05-23T05:29:32Z,,2020-05-23T16:28:42Z,1,CHANGES_REQUESTED,10.98611111111111,2,1301,Closed
+chore: upgrade serialize-javascript,2020-06-03T13:31:32Z,2020-08-13T14:38:25Z,2020-08-13T14:38:25Z,4,,1705.1147222222223,3,1530,Merged
+chore: spelling and grammar. fix #11480,2020-07-01T01:17:01Z,2020-07-01T09:11:47Z,2020-07-01T09:11:47Z,1,APPROVED,7.9127777777777775,4,1777,Merged
+fix(vdom): avoid executing root level script tags,2020-07-03T07:52:52Z,2021-03-30T09:43:34Z,2021-03-30T09:43:34Z,9,APPROVED,6481.845,2,1496,Merged
+build(deps-dev): bump lodash from 4.17.13 to 4.17.19,2020-07-17T08:46:32Z,2021-03-09T09:17:01Z,2021-03-09T09:17:01Z,4,,5640.508055555556,1,5121,Merged
+fix: v-model avoid triggering extra input event in firefox,2020-07-23T15:06:04Z,,2022-12-19T08:19:08Z,1,,21089.217777777776,2,1301,Closed
+[automated] Patreon sponsors update,2020-07-26T03:33:03Z,2020-07-30T16:28:08Z,2020-07-30T16:28:08Z,1,,108.91805555555555,2,34,Merged
+build(deps): bump elliptic from 6.4.1 to 6.5.3,2020-07-30T19:05:09Z,2020-08-07T08:01:23Z,2020-08-07T08:01:23Z,1,,180.93722222222223,1,4180,Merged
+[automated] Patreon sponsors update,2020-08-05T12:19:18Z,,2020-08-05T15:21:27Z,1,,3.035833333333333,2,34,Closed
+[automated] Patreon sponsors update,2020-09-08T17:30:32Z,2020-09-16T01:33:46Z,2020-09-16T01:33:46Z,1,,176.05388888888888,2,34,Merged
+fix(ssr): inheritAttrs false adds attributes to html,2020-10-05T21:45:31Z,2021-03-30T09:49:40Z,2021-03-30T09:49:40Z,2,APPROVED,4212.069166666667,2,1462,Merged
+chore: update HTTP -> HTTPS,2020-10-16T03:59:14Z,2020-10-16T12:17:26Z,2020-10-16T12:17:27Z,2,APPROVED,8.303333333333333,1,1480,Merged
+fix npm publish .DS_Store,2020-10-25T21:41:58Z,,2021-01-07T15:55:33Z,1,CHANGES_REQUESTED,1770.2263888888888,1,269,Closed
+chore: fix npm test on Windows,2020-11-21T07:55:38Z,2020-11-21T09:53:10Z,2020-11-21T09:53:10Z,1,APPROVED,1.958888888888889,1,1322,Merged
+fix: force update between two components with and without slot,2020-11-27T07:49:47Z,2021-04-16T15:34:34Z,2021-04-16T15:34:34Z,1,APPROVED,3367.7463888888888,2,1311,Merged
+[automated] Patreon sponsors update,2020-11-27T14:00:12Z,,2021-02-18T12:42:25Z,1,,1990.703611111111,2,34,Closed
+[automated] Patreon sponsors update,2020-12-09T17:16:59Z,,2021-03-17T21:46:39Z,1,,2356.4944444444445,2,34,Closed
+refactor(factory): improve fallback multiple v-if,2021-01-07T11:08:21Z,,2024-08-13T08:23:05Z,4,APPROVED,31533.245555555557,12,1317,Closed
+fix(ssr): vue-ssr-webpack-plugin compatible with webpack 4/5,2021-01-12T11:23:45Z,,2021-06-02T12:50:28Z,6,,3385.445277777778,4,1317,Closed
+[automated] Patreon sponsors update,2021-02-09T09:15:59Z,,2021-03-17T21:46:27Z,2,,876.5077777777777,2,34,Closed
+fix(types): async Component types,2021-02-11T10:51:21Z,2021-06-03T13:13:33Z,2021-06-03T13:13:34Z,6,APPROVED,2690.37,2,1824,Merged
+[automated] Patreon sponsors update,2021-02-12T09:59:19Z,,2021-02-18T12:41:07Z,1,,146.69666666666666,2,34,Closed
+fix(model): keep -0 to '-0',2021-02-13T01:53:20Z,,2021-02-18T12:20:30Z,6,CHANGES_REQUESTED,130.45277777777778,1,1576,Closed
+fix(types): allow symbol &  boolean for vnode key,2021-02-15T12:57:14Z,2021-04-07T09:37:53Z,2021-04-07T09:37:53Z,2,APPROVED,1220.6775,1,1301,Merged
+feat(build): add sourceMap,2021-02-19T13:55:47Z,,2024-02-03T06:43:16Z,3,,25888.79138888889,5,526,Closed
+fix: pause dep collection during immediate watcher invocation,2021-03-07T16:52:20Z,2021-03-30T09:46:13Z,2021-03-30T09:46:13Z,8,APPROVED,544.8980555555555,2,1343,Merged
+fix: handle async placeholders in normalizeScopedSlot ,2021-03-16T12:36:19Z,2021-04-16T15:33:56Z,2021-04-16T15:33:56Z,3,,746.9602777777778,1,1117,Merged
+fix(types): add types for `Vue.util.warn` function,2021-03-17T10:13:48Z,2021-03-30T09:46:54Z,2021-03-30T09:46:54Z,1,APPROVED,311.5516666666667,1,1387,Merged
+chore: move to typescript,2021-04-03T14:15:25Z,,2022-05-20T07:21:15Z,3,,9881.097222222223,494,1005,Closed
+feat(ssr): vue-ssr-webpack-plugin compatible with webpack 5,2021-04-03T17:27:13Z,2021-06-02T12:50:28Z,2021-06-02T12:50:28Z,3,APPROVED,1435.3875,3,1453,Merged
+upgrade chromedriver version (fix #12031),2021-04-26T01:12:16Z,,2021-04-26T08:12:12Z,1,,6.998888888888889,1,1500,Closed
+build(deps-dev): bump lodash from 4.17.19 to 4.17.21,2021-05-09T06:11:12Z,2022-02-22T18:21:01Z,2022-02-22T18:21:01Z,1,,6948.163611111111,1,4463,Merged
+build(deps): bump hosted-git-info from 2.7.1 to 2.8.9,2021-05-10T14:41:18Z,,2022-05-20T06:42:22Z,1,,8992.017777777777,1,7794,Closed
+chore(compiler): improve readability,2021-05-11T03:01:34Z,,2021-05-26T09:46:36Z,5,,366.75055555555554,0,1063,Closed
+Update check if value is primitive.,2021-07-03T02:28:00Z,,2021-07-03T13:06:57Z,1,,10.649166666666666,1,1301,Closed
+feat(compiler): condenses staticClass whitespace (fix #12113),2021-07-25T05:38:45Z,2021-09-08T09:23:49Z,2021-09-08T09:23:49Z,1,APPROVED,1083.7511111111112,3,1620,Merged
+build(deps): bump path-parse from 1.0.6 to 1.0.7,2021-08-11T03:06:31Z,,2022-05-20T06:42:20Z,1,,6771.5969444444445,1,2702,Closed
+chore: fix typo in  test,2021-09-22T11:54:21Z,2021-09-22T13:58:09Z,2021-09-22T13:58:09Z,1,APPROVED,2.0633333333333335,3,1315,Merged
+ci: Update CircleCI pipeline to run Codecov,2021-12-28T18:15:57Z,,2024-03-19T17:29:29Z,2,CHANGES_REQUESTED,19487.225555555557,3,2259,Closed
+[automated] Patreon sponsors update,2022-01-03T15:03:16Z,2022-01-04T01:22:46Z,2022-01-04T01:22:46Z,1,CHANGES_REQUESTED,10.325,2,50,Merged
+build(deps): bump follow-redirects from 1.13.0 to 1.14.7,2022-01-13T14:27:25Z,2022-01-14T08:23:10Z,2022-01-14T08:23:10Z,1,,17.929166666666667,1,4733,Merged
+fix(compiler): Warning for v if or template changes,2022-04-18T06:48:28Z,,2023-08-19T03:14:53Z,1,,11708.440277777778,1,1301,Closed
+Update transition group duration,2022-04-18T07:24:21Z,,2023-08-19T03:14:53Z,1,CHANGES_REQUESTED,11707.842222222222,4,1301,Closed
+add warning message for v-if with empty key,2022-04-18T08:25:19Z,,2023-08-19T03:14:54Z,1,,11706.826388888889,5,1487,Closed
+add logic to check string constructor,2022-04-18T09:39:46Z,,2023-08-19T03:14:54Z,1,CHANGES_REQUESTED,11705.585555555555,3,1301,Closed
+"chore: Missing script: ""lint""",2022-05-24T06:28:29Z,,2022-05-31T03:11:11Z,2,CHANGES_REQUESTED,164.71166666666667,1,1301,Closed
+chore(compiler-sfc): replace `substr` with `slice`,2022-06-20T13:42:27Z,2022-07-04T03:26:18Z,2022-07-04T03:26:18Z,4,APPROVED,325.73083333333335,1,682,Merged
+Type script,2022-06-22T13:01:31Z,,2022-06-27T06:51:16Z,1,,113.82916666666667,2,1301,Closed
+fix: post watcher not triggered (fix #12664),2022-07-15T18:10:40Z,,2022-07-16T12:47:13Z,3,,18.609166666666667,2,1311,Closed
+fix(12753): Add missing type parameter constraints,2022-08-19T23:02:29Z,2022-08-22T02:28:39Z,2022-08-22T02:28:39Z,1,APPROVED,51.43611111111111,1,1452,Merged
+chore: `deep` combinator DEPRECATED usage warn,2022-09-15T14:32:18Z,,2022-10-11T03:46:01Z,1,,613.2286111111111,1,1319,Closed
+fix(types):fix Spreading data functional components TSX type error (fix #12778),2022-09-18T15:17:07Z,2022-11-09T09:34:55Z,2022-11-09T09:34:55Z,1,CHANGES_REQUESTED,1242.2966666666666,2,1301,Merged
+fix(compiler-sfc): Optimize the value of emitIdentifier,2022-10-26T14:19:35Z,2023-10-23T07:08:18Z,2023-10-23T07:08:18Z,1,APPROVED,8680.811944444444,3,1275,Merged
+fix(compiler-sfc): resolve object expression parsing errors in `v-on`,2022-11-02T14:02:47Z,2023-10-23T07:08:58Z,2023-10-23T07:08:58Z,1,APPROVED,8513.103055555555,1,1346,Merged
+chore: fix typo,2022-11-02T14:07:33Z,2022-11-09T08:07:36Z,2022-11-09T08:07:36Z,1,APPROVED,162.00083333333333,1,1275,Merged
+fix(sfc/types): improve the type inference using `withDefaults`,2022-11-09T06:28:55Z,2023-10-23T07:06:28Z,2023-10-23T07:06:29Z,1,APPROVED,8352.625833333334,2,1346,Merged
+fix(compiler-sfc): fix macro usage in multi-variable declaration,2022-11-09T06:54:51Z,2023-10-23T07:08:35Z,2023-10-23T07:08:35Z,1,APPROVED,8352.228888888889,3,1275,Merged
+chore: comment typos,2022-11-18T10:21:52Z,2022-12-14T08:43:02Z,2022-12-14T08:43:02Z,2,APPROVED,622.3527777777778,1,1275,Merged
+fix(compiler-sfc): add semicolon after `defineProps` statement,2022-11-18T11:30:41Z,2023-10-23T07:09:23Z,2023-10-23T07:09:23Z,3,APPROVED,8131.645,2,1275,Merged
+fix(patch): clone insert hooks to avoid being mutated during iteration,2022-12-19T09:23:04Z,2023-10-23T07:11:13Z,2023-10-23T07:11:13Z,1,,7389.8025,2,1740,Merged
+chore: update links (http=https),2022-12-27T01:25:17Z,2022-12-27T09:19:37Z,2022-12-27T09:19:37Z,1,APPROVED,7.905555555555556,6,1323,Merged
+chore: fix typo in apiAsyncComponent.ts,2022-12-27T19:22:51Z,2022-12-27T21:38:05Z,2022-12-27T21:38:05Z,1,APPROVED,2.253888888888889,1,1344,Merged
+chore: fix typo in utils.ts (#12927) [skip ci],2023-01-12T11:44:17Z,2023-01-12T14:47:00Z,2023-01-12T14:47:00Z,1,APPROVED,3.0452777777777778,1,1275,Merged
+fix: correctly update styles,2023-01-30T06:58:54Z,,2023-12-06T15:17:57Z,1,APPROVED,7448.3175,2,1290,Closed
+chore: fixed some typos,2023-02-04T02:35:32Z,2023-02-04T18:16:38Z,2023-02-04T18:16:38Z,1,,15.685,2,1295,Merged
+refactor(shared): update `genStaticKeys`,2023-04-26T13:43:39Z,2023-04-27T09:43:19Z,2023-04-27T09:43:19Z,1,APPROVED,19.994444444444444,1,123,Merged
+Update jsx.d.ts,2023-05-20T15:31:39Z,,2024-08-12T08:55:53Z,1,,10793.403888888888,1,1301,Closed
+Marcos aurelio - fiz uma coreção no scc,2023-05-31T04:40:18Z,,2023-05-31T06:39:43Z,1,,1.9902777777777778,1,1275,Closed
+fix(types): serverPrefetch's this type doesn't include component properties ,2023-08-17T05:56:01Z,2023-10-23T06:58:47Z,2023-10-23T06:58:47Z,1,APPROVED,1609.046111111111,1,1289,Merged
+fix: type augmentation and compiler-sfc types w/moduleResolution: bundler (fix #13106),2023-10-24T22:55:38Z,2023-12-06T07:52:19Z,2023-12-06T07:52:19Z,1,,1016.9447222222223,1,1871,Merged
+Update README.md (browser compatibility reference),2024-05-20T11:29:04Z,2024-05-21T07:51:56Z,2024-05-21T07:51:56Z,1,APPROVED,20.38111111111111,1,1451,Merged
+chore: fix link broken,2024-06-14T10:31:23Z,2024-06-14T12:52:12Z,2024-06-14T12:52:12Z,2,APPROVED,2.3469444444444445,1,1291,Merged

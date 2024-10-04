@@ -1,0 +1,1042 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Expose Hibernate Statistics,2015-07-24T09:49:18Z,,2017-10-03T08:25:25Z,2,,19246.601944444443,5,331,Closed
+Add Quartz Scheduler support,2015-10-26T01:02:57Z,,2017-05-30T16:49:10Z,3,,13983.770277777778,21,420,Closed
+Add support for configuring lobgack logging via JMX,2015-11-14T03:06:47Z,,2018-05-18T09:56:36Z,2,CHANGES_REQUESTED,21990.83027777778,3,240,Closed
+Use `SizeAndTimeBasedRollingPolicy` for default file appender,2016-07-07T16:10:00Z,,2017-11-02T22:24:56Z,1,,11598.24888888889,7,805,Closed
+Add option to configure logging filters,2016-07-09T20:07:07Z,,2019-02-20T12:40:36Z,2,,22936.558055555557,4,644,Closed
+Expose tldSkipPatterns as property,2016-08-09T08:38:36Z,,2016-10-24T12:48:55Z,1,CHANGES_REQUESTED,1828.1719444444445,1,305,Closed
+Add support for multiple beans in the Flyway and Liquibase endpoints,2016-08-11T04:28:33Z,,2016-12-22T10:46:23Z,2,APPROVED,3198.2972222222224,4,186,Closed
+Add auto-configuration support for Spring Data Geode Repositories.,2016-09-19T23:31:07Z,,2016-11-22T14:41:03Z,3,CHANGES_REQUESTED,1527.1655555555556,11,1495,Closed
+Add Kafka AutoConfiguration,2016-09-20T16:33:19Z,,2016-11-22T09:31:37Z,5,,1504.9716666666666,16,102,Closed
+Add auto-configuration support for Apache Geode as a caching provider.,2016-09-21T07:17:44Z,,2016-11-22T14:41:26Z,13,CHANGES_REQUESTED,1495.395,12,891,Closed
+Memory Health Indicators,2016-09-21T20:21:28Z,,2019-01-24T16:29:59Z,2,,20516.141944444444,13,740,Closed
+Rework subtypes populating code algorithm,2016-09-23T18:55:57Z,,2016-10-19T13:25:00Z,8,,618.4841666666666,1,554,Closed
+Added logFilename and pidFilename to EmbeddedLaunchScriptProperties,2016-10-27T08:50:33Z,,2016-11-22T13:55:05Z,2,APPROVED,629.0755555555555,3,218,Closed
+Support early JDBC connection pool creation,2016-11-09T11:39:37Z,,2016-11-22T17:54:20Z,1,,318.2452777777778,6,368,Closed
+Add properties for content security policy,2016-11-12T19:41:44Z,,2016-11-17T00:07:20Z,2,,100.42666666666666,4,92,Closed
+Redis configuration with URL,2016-11-15T19:02:04Z,,2016-12-21T05:57:01Z,6,,850.9158333333334,4,681,Closed
+Validate excluded autoconfiguration classes,2016-11-16T21:36:02Z,,2016-11-22T14:38:32Z,3,,137.04166666666666,2,14,Closed
+Add auto-configuration support for Hazelcast client,2016-11-23T22:24:08Z,,2017-05-04T13:53:15Z,10,CHANGES_REQUESTED,3879.485277777778,10,776,Closed
+Auto-configure HikariCP's Dropwizard metrics support,2016-12-06T14:31:27Z,,2017-04-27T02:12:28Z,1,,3395.683611111111,3,1287,Closed
+Provide a @DataMongoTest similar to @DataJpaTest,2016-12-08T16:16:32Z,,2017-01-20T15:43:35Z,16,,1031.4508333333333,15,1745,Closed
+Introduce @ConditionalOnMissingServletFilter,2016-12-15T10:02:28Z,,2018-02-02T12:09:59Z,1,,9938.125277777777,10,895,Closed
+GH-7646: Additional Kafka Properties,2016-12-16T17:29:11Z,,2016-12-21T05:57:00Z,4,,108.4636111111111,5,68,Closed
+Autodetect spring.jpa.database from spring.datasource.url,2016-12-30T17:56:53Z,,2017-01-03T10:40:16Z,2,APPROVED,88.72305555555556,6,341,Closed
+Update CommandRunner.java,2017-01-07T00:16:22Z,,2017-01-09T11:09:37Z,2,,58.8875,4,214,Closed
+Make start/stop run-levels configurable in INIT-INFO section of launch.script,2017-01-07T15:33:54Z,,2017-01-18T14:25:22Z,1,APPROVED,262.85777777777776,3,125,Closed
+Make DataSourceInitializer use constructor injection,2017-01-12T16:58:54Z,,2017-01-17T16:14:43Z,4,APPROVED,119.26361111111112,2,37,Closed
+Uses java try with resources to let java close resource automatically.,2017-01-20T13:36:31Z,,2017-05-23T18:40:25Z,4,,2957.065,9,293,Closed
+Add junit5 sample application,2017-01-20T16:36:40Z,,2017-07-25T07:53:17Z,10,,4455.276944444445,6,189,Closed
+Fix usage of @ImportResource for migrating classic applications,2017-01-31T08:09:41Z,,2017-03-02T08:55:59Z,1,,720.7716666666666,1,173,Closed
+Add schema validation options for embedded LDAP,2017-02-04T16:45:18Z,,2017-02-20T13:05:12Z,9,CHANGES_REQUESTED,380.33166666666665,5,675,Closed
+Thymeleaf root view,2017-02-08T03:00:50Z,,2017-10-06T18:56:38Z,12,,5775.93,12,166,Closed
+Add actuator endpoint for finding and deleting sessions,2017-02-20T22:26:47Z,,2017-09-20T14:21:56Z,3,,5079.919166666667,18,511,Closed
+Tidy up PropertiesLauncher a bit and clarify the behaviour,2017-02-21T12:15:41Z,,2017-03-02T11:23:38Z,7,,215.1325,13,476,Closed
+Make Tomcat Access Log's fileDateFormat configurable via the environment,2017-03-02T20:11:24Z,,2017-03-10T09:39:18Z,3,CHANGES_REQUESTED,181.465,3,230,Closed
+Graphite metric exporter,2017-03-02T20:30:47Z,,2017-10-03T19:55:06Z,8,,5159.405277777778,3,165,Closed
+Tweak PropertiesLauncher to locate classes as well as nested jars,2017-03-03T16:47:25Z,,2017-04-20T05:58:23Z,7,CHANGES_REQUESTED,1141.1827777777778,4,258,Closed
+Introduce reset method to OutputCapture,2017-03-04T11:51:44Z,,2017-03-10T08:55:27Z,2,,141.06194444444444,2,12,Closed
+Add @DataNeo4jTest,2017-03-14T22:56:34Z,,2017-04-02T14:34:56Z,1,CHANGES_REQUESTED,447.63944444444445,13,279,Closed
+Add @DataElasticSearchTest support,2017-03-15T11:13:54Z,,2018-02-02T13:09:32Z,2,APPROVED,7777.927222222223,12,77,Closed
+Allow Gson to be configured declaratively #1946,2017-03-29T21:25:36Z,,2017-06-12T14:42:31Z,3,CHANGES_REQUESTED,1793.2819444444444,5,307,Closed
+Add support for configuring Jetty's request log via the environment #…,2017-04-05T11:45:40Z,,2017-04-27T08:47:32Z,3,CHANGES_REQUESTED,525.0311111111112,5,94,Closed
+Add new API to loggers endpoint: support delete logger configuration.,2017-04-06T10:20:31Z,,2017-06-01T12:22:39Z,4,CHANGES_REQUESTED,1346.0355555555554,11,72,Closed
+Support of Neo4j index generation configuration,2017-04-07T09:34:11Z,,2017-04-24T09:18:47Z,8,CHANGES_REQUESTED,407.74333333333334,3,208,Closed
+Polish,2017-04-10T15:15:45Z,,2017-04-11T07:42:12Z,3,,16.440833333333334,6,228,Closed
+Add database initializer for Spring Integration,2017-04-10T20:09:27Z,,2017-04-24T13:18:25Z,12,CHANGES_REQUESTED,329.14944444444444,7,256,Closed
+Avoiding double registration MBean for HikariDataSource. Fixes gh-5114,2017-04-15T13:53:32Z,,2017-06-19T06:15:19Z,4,,1552.3630555555555,1,1819,Closed
+"Fix statsd metrics collection for metric names with "":""",2017-04-16T10:22:10Z,,2017-04-18T08:43:23Z,1,,46.353611111111114,2,1846,Closed
+Don't expose `exception` error attribute by default,2017-04-21T17:13:39Z,,2017-04-27T09:20:50Z,7,,136.1197222222222,6,259,Closed
+Redis connection pool test configuration.  Fixes #8894,2017-04-22T19:02:52Z,,2017-06-12T18:00:18Z,1,,1222.9572222222223,4,152,Closed
+Add slice test support for SDC,2017-04-29T09:56:19Z,,2017-10-02T14:40:04Z,1,CHANGES_REQUESTED,3748.7291666666665,16,189,Closed
+Spring AMQP: Support Both Container Types,2017-05-01T20:34:10Z,,2017-05-05T10:04:39Z,7,,85.50805555555556,7,220,Closed
+Log an error if health indicator throws an exception,2017-05-05T08:58:12Z,,2017-05-15T18:58:56Z,11,APPROVED,250.01222222222222,1,407,Closed
+Add Kafka Kerberos Configuration Properties,2017-05-10T17:24:32Z,,2017-05-14T16:14:05Z,3,CHANGES_REQUESTED,94.82583333333334,5,47,Closed
+"Add SSL cert,key,chain,disableCompressions,honorCipherOrder configuration",2017-05-13T23:14:12Z,,2017-05-15T13:59:07Z,2,CHANGES_REQUESTED,38.74861111111111,3,182,Closed
+Add Slice test annotation for Redis,2017-05-14T02:26:52Z,,2017-06-15T09:41:00Z,7,APPROVED,775.2355555555556,12,113,Closed
+Adapt to Spring Data Cassandra Kay changes,2017-05-23T14:19:46Z,,2017-05-24T10:13:18Z,1,APPROVED,19.892222222222223,11,169,Closed
+Adding responseTimeMs to actuator health indicators #9238,2017-05-27T06:54:06Z,,2018-08-08T15:30:37Z,2,,10520.60861111111,4,124,Closed
+Add support for configuring PageableHandlerMethodArgumentResolver and SortHandlerMethodArgumentResolver using configuration properties,2017-05-29T05:38:33Z,,2017-05-30T09:20:35Z,3,APPROVED,27.700555555555557,4,317,Closed
+Replace `WebMvcRegistrationsAdapter` with default methods,2017-05-29T05:41:53Z,,2017-05-30T12:15:34Z,1,APPROVED,30.56138888888889,3,79,Closed
+Allow customization of MongoClientSettings.Builder,2017-05-29T08:26:58Z,,2017-05-31T13:50:28Z,1,CHANGES_REQUESTED,53.391666666666666,5,136,Closed
+Add @JooqTest support,2017-05-29T13:50:06Z,,2017-05-31T13:11:18Z,12,CHANGES_REQUESTED,47.35333333333333,9,389,Closed
+Auto-detect jOOQ dialect,2017-05-30T09:41:28Z,,2017-05-31T09:26:34Z,4,APPROVED,23.751666666666665,6,892,Closed
+Update Infinispan dependencies to 9.0.1.Final,2017-06-06T12:21:48Z,,2017-07-06T06:43:33Z,13,CHANGES_REQUESTED,714.3625,5,95,Closed
+Allow abstract serializers/deserializer in @JsonComponent,2017-06-09T08:14:55Z,,2017-06-15T11:44:04Z,1,APPROVED,147.48583333333335,2,139,Closed
+Introduced protected getBannerText method to allow customization on banner text,2017-06-09T11:26:05Z,,2017-06-14T11:22:58Z,2,,119.94805555555556,1,662,Closed
+"Add support for ""spring.kafka.listener.batch-listener"" property ",2017-06-09T14:31:53Z,,2017-06-14T09:16:00Z,4,APPROVED,114.73527777777778,4,2311,Closed
+Allow SslStoreProvider to provide only a KeyStore,2017-06-13T23:04:55Z,,2017-10-03T19:53:28Z,2,CHANGES_REQUESTED,2684.8091666666664,1,223,Closed
+HealthIndicator for Neo4j,2017-06-20T01:04:27Z,,2017-06-26T09:07:17Z,6,CHANGES_REQUESTED,152.04722222222222,5,360,Closed
+Auto-configure codecs in WebFlux server & client,2017-06-20T15:10:08Z,2017-07-03T10:03:09Z,2017-07-03T10:03:09Z,4,APPROVED,306.8836111111111,15,24,Merged
+Add prefix to all properties in maven plugin,2017-06-21T05:21:32Z,,2017-06-22T07:14:42Z,2,,25.886111111111113,4,255,Closed
+"Update Gradle versions to check compatibility with 3.5.1, 4.0, 4.0.1, and 4.1-rc-1",2017-06-25T21:24:55Z,,2017-07-21T07:48:50Z,1,,610.3986111111111,1,174,Closed
+Add endpoint for scheduled task information,2017-06-28T02:44:45Z,,2017-11-14T18:51:13Z,7,,3352.1077777777778,4,660,Closed
+Consistent property prefixes for Spring Session MongoDB and Spring Data MongoDB,2017-06-28T13:48:12Z,,2017-09-25T10:04:37Z,2,,2132.273611111111,5,837,Closed
+Add support for Spring WS auto WSDL/XSD exposure,2017-06-29T11:54:02Z,,2017-09-25T13:22:03Z,1,,2113.4669444444444,9,484,Closed
+Fix Narayana recovery manager's too early start,2017-06-30T08:55:45Z,,2017-08-01T14:47:50Z,9,CHANGES_REQUESTED,773.8680555555555,1,91,Closed
+Auto-configure Spring REST Docs to use REST Assured,2017-06-30T12:58:59Z,,2017-09-25T11:49:06Z,1,CHANGES_REQUESTED,2086.8352777777777,10,189,Closed
+Add Jsonb support,2017-07-01T01:14:32Z,,2017-09-21T13:15:53Z,3,CHANGES_REQUESTED,1980.0225,22,411,Closed
+Add configuration for OkHttpClient.Builder in InfluxDbAutoConfiguration,2017-07-03T04:52:48Z,,2017-07-25T06:55:48Z,1,CHANGES_REQUESTED,530.05,2,301,Closed
+Bind spring.activemq.properties to ActiveMQConnectionFactory,2017-07-04T15:08:19Z,,2017-07-19T14:13:26Z,3,CHANGES_REQUESTED,359.0852777777778,3,10,Closed
+Add XMLUnit as a managed dependency and to the test starter,2017-07-09T22:07:59Z,,2017-09-18T16:51:36Z,2,APPROVED,1698.7269444444444,2,226,Closed
+Align with breaking API changes in RedisCacheManager,2017-07-12T07:40:54Z,,2017-07-13T08:59:50Z,1,APPROVED,25.315555555555555,2,163,Closed
+"When pool autocommit is disabled, inform Hibernate",2017-07-12T18:58:09Z,,2017-10-17T10:45:14Z,1,,2319.784722222222,5,393,Closed
+Harmonize database initializers,2017-07-13T12:54:52Z,,2017-08-18T16:16:01Z,4,,867.3525,19,287,Closed
+Fix: additional-spring-configuration-metadata.json is not being merged when building with Gradle 4,2017-07-14T02:54:43Z,,2017-07-25T15:54:48Z,1,CHANGES_REQUESTED,277.00138888888887,1,151,Closed
+made docs for Hibernate naming strategy a little more specific,2017-07-14T21:51:23Z,,2017-07-26T12:50:34Z,11,,278.9863888888889,1,12,Closed
+gh-852: Update SampleIntegrationTests to run tests against packaged CLI,2017-07-14T22:01:51Z,,2018-01-19T16:49:36Z,3,CHANGES_REQUESTED,4530.795833333334,5,987,Closed
+Use default schema in actuator Liquibase endpoint,2017-07-25T17:37:25Z,,2017-07-28T10:03:42Z,1,CHANGES_REQUESTED,64.43805555555555,3,416,Closed
+Make JarURLConnection return entry's last modified time from getLastModified();,2017-07-28T12:30:29Z,,2017-07-28T14:44:32Z,3,APPROVED,2.234166666666667,2,40,Closed
+Change the application layout in documentation to show packaging by features.,2017-07-29T20:14:54Z,,2017-09-18T14:14:59Z,5,APPROVED,1218.0013888888889,1,14,Closed
+Fix to allow empty argument in maven plugin. Fixes gh-9713,2017-07-31T13:40:55Z,,2017-09-19T13:03:07Z,3,,1199.37,2,121,Closed
+Replace hierarchical metrics with micrometer-based dimensional metrics,2017-08-07T22:20:44Z,,2017-09-14T16:17:04Z,1,,905.9388888888889,211,937,Closed
+Change the maven plugin to allow use a source with classifier. ,2017-08-10T12:46:18Z,,2017-09-20T11:38:05Z,1,CHANGES_REQUESTED,982.8630555555555,4,192,Closed
+Add protected logger to SpringBootCondition,2017-08-11T14:29:32Z,,2017-08-23T15:04:58Z,2,,288.59055555555557,1,174,Closed
+Add tomcat-catalina-jmx-remote in Tomcat dependencies,2017-08-18T10:11:47Z,,2017-08-19T07:56:36Z,1,CHANGES_REQUESTED,21.746944444444445,1,101,Closed
+Identify and fix incomplete assertions,2017-08-27T13:17:10Z,,2017-08-29T14:47:44Z,3,,49.50944444444445,6,185,Closed
+Document default value change for proxy-target-class,2017-08-31T17:39:18Z,,2017-09-16T04:47:39Z,1,APPROVED,371.13916666666665,1,535,Closed
+Add auto-configuration for spring-security-oauth2-client,2017-09-09T04:13:51Z,,2017-10-02T21:38:52Z,42,CHANGES_REQUESTED,569.4169444444444,8,283,Closed
+Added keystore type and truststore type to rabbit properties,2017-09-11T13:09:44Z,,2017-09-18T14:44:58Z,3,APPROVED,169.5872222222222,5,205,Closed
+Output a warning from the launch script if the application will run as root,2017-09-12T20:33:34Z,,2018-09-11T11:21:01Z,16,APPROVED,8726.790833333333,1,308,Closed
+Add KafkaAdmin Auto-Configuration,2017-09-15T16:33:44Z,,2017-09-25T12:51:14Z,5,CHANGES_REQUESTED,236.29166666666666,6,106,Closed
+Add Quartz actuator endpoint,2017-09-20T13:00:10Z,,2021-04-06T10:20:56Z,1,,31053.34611111111,14,193,Closed
+Add MongoDB support to Spring Session sample,2017-09-21T18:22:53Z,,2017-09-22T05:27:54Z,1,APPROVED,11.08361111111111,2,0,Closed
+Autoconfigure MessageConverter for Spring Kafka,2017-09-22T06:58:18Z,,2017-10-02T14:37:45Z,2,CHANGES_REQUESTED,247.6575,4,116,Closed
+Fix check vendor location in FlywayAutoConfiguration,2017-09-23T05:13:18Z,,2017-11-19T04:30:51Z,3,,1367.2925,2,409,Closed
+Polish JacksonAutoConfiguration,2017-09-25T02:09:08Z,,2017-09-25T08:08:40Z,1,APPROVED,5.992222222222222,1,249,Closed
+Polish,2017-09-29T10:38:29Z,,2017-10-02T14:25:59Z,11,APPROVED,75.79166666666667,27,228,Closed
+Adds auto-configuration of property useCodeAsDefaultMessage of MessageSource,2017-09-30T21:03:02Z,,2017-10-02T13:57:14Z,2,APPROVED,40.903333333333336,3,108,Closed
+Add runApplication() Kotlin top level function,2017-10-04T17:05:26Z,,2017-11-02T11:04:38Z,7,APPROVED,689.9866666666667,4,1243,Closed
+Set CacheControl for static resources from properties file,2017-10-04T21:49:44Z,,2017-11-20T16:48:52Z,6,,1122.9855555555555,4,269,Closed
+Updates for Micrometer 1.0.0-rc.2,2017-10-05T05:09:37Z,,2017-10-05T15:58:31Z,3,,10.815,15,344,Closed
+Log context path at startup,2017-10-06T19:06:17Z,,2017-11-06T11:50:02Z,1,CHANGES_REQUESTED,736.7291666666666,3,947,Closed
+"Add source, user and uri to slf4j MDC",2017-10-09T14:19:04Z,,2018-01-19T17:00:48Z,4,,2450.6955555555555,5,805,Closed
+Update docs for OpenShift,2017-10-12T02:00:35Z,,2017-10-17T07:17:44Z,3,APPROVED,125.28583333333333,1,305,Closed
+Fix Security OAuth2 Client documentation,2017-10-12T12:08:15Z,,2017-10-17T07:08:49Z,1,APPROVED,115.00944444444444,1,280,Closed
+Fix NPE if no database url is given and no embedded database is available,2017-10-12T18:57:23Z,,2017-10-25T12:00:21Z,7,CHANGES_REQUESTED,305.0494444444444,3,13,Closed
+Polish,2017-10-13T16:41:28Z,,2017-10-17T13:33:47Z,1,APPROVED,92.87194444444444,18,228,Closed
+UserNameAttribute for custom OAuth2 provider,2017-10-17T21:39:53Z,,2017-12-12T20:48:36Z,1,,1343.1452777777777,2,285,Closed
+Polish,2017-10-19T17:43:54Z,,2017-10-20T06:16:34Z,2,,12.544444444444444,12,228,Closed
+PR #9714: JVM arguments and options,2017-10-21T16:00:55Z,,2018-04-24T14:27:28Z,11,CHANGES_REQUESTED,4438.4425,7,917,Closed
+Editing getting started,2017-10-24T17:20:22Z,,2017-10-28T11:01:44Z,9,CHANGES_REQUESTED,89.68944444444445,1,62,Closed
+Editing pass for using-spring-boot.adoc,2017-10-24T20:25:16Z,,2017-10-28T11:17:14Z,10,CHANGES_REQUESTED,86.86611111111111,1,62,Closed
+Editing pass for spring-boot-features.adoc,2017-10-27T20:07:02Z,,2017-10-31T19:06:07Z,49,CHANGES_REQUESTED,94.98472222222222,1,132,Closed
+Editing pass for production-ready-features.adoc,2017-10-30T16:28:39Z,,2017-11-01T11:07:44Z,1,APPROVED,42.65138888888889,1,52,Closed
+Editing pass for deployment.adoc,2017-10-30T18:51:20Z,,2017-10-31T17:32:44Z,8,APPROVED,22.69,1,135,Closed
+Editing pass for howto.adoc,2017-10-31T21:54:51Z,,2017-11-02T17:29:41Z,12,CHANGES_REQUESTED,43.580555555555556,1,115,Closed
+Editing pass for appendix-application-properties.adoc,2017-11-01T18:31:22Z,,2017-11-20T23:51:50Z,2,,461.3411111111111,1,59,Closed
+Editing pass for appendix-configuration-metadata.adoc,2017-11-01T20:59:30Z,,2017-11-02T10:43:44Z,1,APPROVED,13.737222222222222,1,100,Closed
+Editing pass for appendix-auto-configuration-classes.adoc,2017-11-01T21:12:05Z,,2017-11-02T10:23:50Z,1,APPROVED,13.195833333333333,1,30,Closed
+Editing pass for appendix-test-auto-configuration.adoc,2017-11-01T21:18:20Z,,2017-11-02T10:21:49Z,1,APPROVED,13.058055555555555,1,41,Closed
+Editing pass for appendix-dependency-versions.adoc,2017-11-01T22:03:29Z,,2017-11-02T10:11:23Z,1,APPROVED,12.131666666666666,1,87,Closed
+Add auto-configuration for RabbitMQ metrics,2017-11-02T13:15:05Z,,2018-01-18T15:18:09Z,18,,1850.0511111111111,6,73,Closed
+90-character formatting pass for documentation-overview.adoc,2017-11-02T14:59:22Z,,2017-11-02T17:34:50Z,1,,2.591111111111111,1,143,Closed
+Upgrade to Micrometer 1.0.0-rc.3,2017-11-03T15:54:50Z,,2017-11-04T06:49:38Z,11,,14.913333333333334,40,111,Closed
+Improve cache auto-configuration for Redis,2017-11-06T20:02:46Z,2017-11-10T13:46:03Z,2017-11-10T13:46:03Z,1,CHANGES_REQUESTED,89.7213888888889,3,329,Merged
+Add web test client restdocs autoconfiguration,2017-11-09T17:25:54Z,,2018-01-09T12:09:55Z,3,,1458.733611111111,9,254,Closed
+Make RabbitTemplate exchange and routingKey configurable,2017-11-10T11:04:12Z,,2017-12-12T08:10:29Z,6,,765.1047222222222,3,342,Closed
+Introduce TestRestTemplate Kotlin extensions,2017-11-15T20:35:04Z,,2017-11-24T08:58:19Z,2,,204.3875,4,179,Closed
+Upgrade to micrometer 1.0.0-rc.5,2017-11-17T21:15:11Z,,2017-11-29T01:32:52Z,7,,268.2947222222222,11,61,Closed
+Fix references to management related properties,2017-11-21T07:08:22Z,,2017-11-23T09:58:10Z,1,,50.83,6,146,Closed
+Improve extension of Neo4jHealthIndicator,2017-11-23T03:15:55Z,,2017-12-14T09:02:32Z,3,CHANGES_REQUESTED,509.77694444444444,5,697,Closed
+Polish,2017-11-24T18:52:17Z,,2017-11-27T09:33:22Z,9,,62.68472222222222,9,228,Closed
+Add @DataCouchbaseTest support,2017-11-25T12:48:54Z,,2018-04-25T11:38:31Z,11,APPROVED,3622.8269444444445,20,75,Closed
+Fix wrong annotation in CouchbaseReactiveRepositoriesAutoConfiguratio…,2017-11-26T03:55:16Z,,2017-11-27T10:00:17Z,1,,30.08361111111111,2,185,Closed
+Clean LdapHealthIndicatorTests,2017-11-26T20:21:31Z,,2017-11-27T09:33:22Z,1,APPROVED,13.1975,1,174,Closed
+Fix NullPointer when requesting a session that does not exist,2017-11-29T11:56:18Z,,2017-11-30T09:06:32Z,1,CHANGES_REQUESTED,21.170555555555556,2,332,Closed
+Use volatile for ReactiveTokenValidator.cacheTokenKeys,2017-12-01T07:00:03Z,,2017-12-06T15:12:59Z,9,APPROVED,128.21555555555557,2,394,Closed
+"AtomikosJtaConfiguration userTransactionService change destroyMethod to ""shutdownWait"" ",2017-12-01T11:20:58Z,,2017-12-12T07:32:24Z,1,APPROVED,260.19055555555553,3,174,Closed
+Allow customizing sanitization rules for /env,2017-12-05T16:52:37Z,,2021-08-31T04:37:39Z,5,,32747.750555555554,11,774,Closed
+AuditEvent: Principal must not be null when Authentication.getName() returns null,2017-12-11T23:46:20Z,,2017-12-12T07:50:37Z,1,CHANGES_REQUESTED,8.071388888888889,2,27,Closed
+Apply customize() to createCredentialNetworkMongoClient(),2017-12-18T22:42:16Z,,2017-12-28T11:40:32Z,1,APPROVED,228.9711111111111,2,271,Closed
+Reporting inaccessible file in RandomAccessDataFile,2017-12-22T14:15:13Z,,2017-12-28T10:27:50Z,1,APPROVED,140.21027777777778,2,290,Closed
+Improve Spring Data Web configuration properties ,2017-12-22T18:03:21Z,,2017-12-28T14:26:00Z,4,,140.3775,4,138,Closed
+Polish,2017-12-23T16:36:33Z,,2017-12-26T08:54:18Z,5,,64.29583333333333,15,228,Closed
+Polish,2017-12-29T16:59:52Z,,2017-12-30T16:22:05Z,1,APPROVED,23.370277777777776,10,228,Closed
+Deduplicate tag values in metrics actuator endpoint,2018-01-03T19:43:41Z,,2018-01-05T12:43:25Z,4,CHANGES_REQUESTED,40.995555555555555,2,17,Closed
+Add support for additional Kafka listener properties,2018-01-04T17:13:04Z,,2018-01-05T13:36:09Z,2,,20.384722222222223,5,71,Closed
+Add Kafka health indicator,2018-01-05T11:02:56Z,,2018-02-08T10:59:33Z,2,,815.9436111111111,11,160,Closed
+Add Kafka sample,2018-01-11T03:18:26Z,,2018-02-08T17:41:02Z,9,CHANGES_REQUESTED,686.3766666666667,9,206,Closed
+Upgrade to Micrometer 1.0.0-rc.7,2018-01-11T04:23:42Z,,2018-01-11T17:37:40Z,4,,13.232777777777779,20,1223,Closed
+Add test to spring-boot-sample-quartz,2018-01-13T06:00:45Z,,2018-01-17T13:32:55Z,5,CHANGES_REQUESTED,103.53611111111111,2,190,Closed
+fix possible resource leaks,2018-01-13T12:21:39Z,,2018-01-17T13:16:07Z,1,APPROVED,96.90777777777778,4,584,Closed
+Add check for missing Liquibase's class `CustomResolverServiceLocator`,2018-01-13T16:45:54Z,,2018-01-16T10:17:18Z,3,,65.52333333333333,1,345,Closed
+Use System.lineSeparator(),2018-01-18T11:35:09Z,,2018-01-18T15:56:44Z,4,,4.3597222222222225,8,224,Closed
+RabbitMQ - RetryTemplate configuration hook,2018-01-19T03:12:56Z,,2018-01-19T16:47:08Z,3,,13.57,9,380,Closed
+Use this() in EndpointRequests,2018-01-19T08:41:01Z,,2018-01-19T10:16:35Z,1,APPROVED,1.5927777777777778,2,230,Closed
+RabbitMQ - RetryTemplate customization hook,2018-01-19T16:46:37Z,,2018-07-17T09:29:20Z,3,,4288.711944444444,8,382,Closed
+Add support for anonymousReadOnly in LdapProperties,2018-01-23T04:21:47Z,,2018-01-24T09:30:04Z,2,APPROVED,29.138055555555557,3,190,Closed
+Create Liquibase/Flyway DataSources's if user or url are specified.,2018-01-23T22:14:28Z,,2018-01-26T14:52:46Z,7,,64.63833333333334,5,381,Closed
+Add support for multi baseDn,2018-01-25T04:27:37Z,,2018-02-04T18:47:07Z,2,CHANGES_REQUESTED,254.325,5,238,Closed
+Use try-with-resources in HttpTunnelPayload,2018-01-25T19:15:15Z,,2019-09-18T16:51:56Z,5,,14421.611388888889,6,246,Closed
+Polish,2018-01-25T20:03:10Z,,2018-01-26T09:05:02Z,1,,13.03111111111111,3,58,Closed
+Polish,2018-01-26T13:39:58Z,,2018-01-26T17:20:16Z,1,APPROVED,3.671666666666667,13,228,Closed
+Polish,2018-01-26T21:52:34Z,,2018-01-27T04:22:23Z,1,APPROVED,6.496944444444445,13,228,Closed
+Fix to assert parameter names in EndpointServlet.withInitParameters(),2018-01-27T03:34:38Z,,2018-01-27T04:35:35Z,1,APPROVED,1.0158333333333334,1,258,Closed
+Polish,2018-01-27T10:38:25Z,,2018-01-29T07:13:05Z,4,APPROVED,44.577777777777776,10,228,Closed
+"polish/fix issue ""Unused method parameters should be removed""",2018-01-27T12:18:24Z,,2018-02-02T09:38:04Z,2,APPROVED,141.32777777777778,21,483,Closed
+Replace casted Mockito.any() calls,2018-01-28T16:44:04Z,,2018-01-29T07:05:48Z,1,APPROVED,14.362222222222222,16,433,Closed
+Reduce StringBuilder creation in TypeExtractor.visitDeclared(),2018-01-30T14:13:22Z,,2018-01-30T15:44:17Z,1,APPROVED,1.5152777777777777,1,252,Closed
+Polish,2018-01-31T18:08:20Z,,2018-02-01T07:37:22Z,1,APPROVED,13.483888888888888,9,228,Closed
+Remove obsolete comment,2018-01-31T21:26:03Z,,2018-02-01T08:01:04Z,1,APPROVED,10.58361111111111,1,255,Closed
+Add support of git and build info variables in banner,2018-02-06T02:53:36Z,,2018-02-07T16:23:40Z,2,,37.50111111111111,4,222,Closed
+Improve FailureAnalyzer for embedded datasource,2018-02-07T16:50:46Z,,2018-02-12T10:12:08Z,5,CHANGES_REQUESTED,113.3561111111111,4,133,Closed
+StatsD configuration option to publish unchanged pollable meters,2018-02-08T19:25:18Z,,2018-02-09T20:10:24Z,1,,24.751666666666665,2,264,Closed
+Add out-of-the-box health indicator for reactive MongoDB,2018-02-12T07:02:52Z,,2018-02-13T10:33:39Z,14,CHANGES_REQUESTED,27.513055555555557,7,110,Closed
+Polish: redundant casts should not be used,2018-02-12T21:43:42Z,,2018-02-13T08:34:51Z,1,APPROVED,10.8525,7,174,Closed
+MongoDB data fixtures,2018-02-12T23:26:42Z,,2018-06-06T15:35:01Z,2,,2728.138611111111,7,150,Closed
+Remove config options from Rabbit/JDBC/Cache metrics,2018-02-12T23:48:14Z,,2018-02-13T13:43:37Z,1,APPROVED,13.923055555555555,13,873,Closed
+Polish modifier order,2018-02-13T06:22:53Z,,2018-02-13T08:51:09Z,1,APPROVED,2.471111111111111,8,276,Closed
+Add SignalFxConfig source property,2018-02-14T23:48:24Z,,2018-02-19T09:57:51Z,9,,106.1575,2,63,Closed
+Add Wavefront support,2018-02-15T02:21:27Z,,2018-02-16T20:31:34Z,9,,42.16861111111111,10,154,Closed
+"When using a custom logback.xml location, unwanted debug output may be logged during Logback initialization",2018-02-15T09:15:16Z,,2018-05-14T17:04:29Z,1,APPROVED,2119.820277777778,2,188,Closed
+Use Jersey BOM in dependency management,2018-02-15T21:55:24Z,,2018-04-13T06:52:35Z,1,APPROVED,1352.9530555555555,3,374,Closed
+Restore behavior of management.metrics.export.simple.enabled,2018-02-18T15:53:57Z,,2018-02-19T09:45:18Z,3,,17.855833333333333,4,569,Closed
+Polish,2018-02-19T15:15:12Z,,2018-02-20T04:33:22Z,4,,13.302777777777777,14,228,Closed
+Consistent prefix for datasource pool metrics,2018-02-20T03:24:56Z,,2018-02-20T09:08:01Z,1,APPROVED,5.718055555555556,2,146,Closed
+Add autoconfiguration of Jetty micrometer statistics,2018-02-20T07:12:11Z,,2018-06-15T15:35:30Z,5,CHANGES_REQUESTED,2768.388611111111,5,462,Closed
+Auto-configure metrics for HikariCP,2018-02-20T07:29:54Z,,2018-02-21T10:33:18Z,1,,27.05666666666667,3,304,Closed
+Remove an obsolete warning in doc,2018-02-21T05:01:00Z,,2018-02-21T08:28:03Z,1,APPROVED,3.450833333333333,1,300,Closed
+Use sized array for List.toArray(),2018-02-21T08:32:34Z,,2018-02-21T19:49:48Z,3,,11.287222222222223,6,232,Closed
+Polish,2018-02-21T15:07:34Z,,2018-02-21T16:50:57Z,1,APPROVED,1.7230555555555556,10,228,Closed
+added dependency for java 9 compatibility,2018-02-22T00:47:59Z,,2018-03-01T17:08:22Z,3,CHANGES_REQUESTED,184.33972222222224,2,174,Closed
+Use isTrue() and isFalse() for AssertJ,2018-02-22T07:21:23Z,,2018-02-22T08:56:52Z,1,APPROVED,1.591388888888889,11,238,Closed
+Upgrade junit-platform version,2018-02-22T10:39:37Z,,2018-02-22T18:49:27Z,1,APPROVED,8.16388888888889,1,857,Closed
+Polish,2018-02-23T18:38:18Z,,2018-02-24T15:11:20Z,1,APPROVED,20.550555555555555,2,135,Closed
+Polish argument capturing in two Tomcat tests,2018-02-23T19:10:32Z,,2018-02-26T08:37:49Z,1,APPROVED,61.45472222222222,2,413,Closed
+Polish,2018-02-24T04:06:19Z,,2018-02-24T11:00:43Z,1,APPROVED,6.906666666666666,11,228,Closed
+Set classloader for JMX endpoints to application classloader,2018-02-24T15:04:49Z,,2018-05-14T15:42:30Z,3,,1896.6280555555556,3,1364,Closed
+Dependency management for Hibernate Validator's annotation processor uses the old redirected group ID,2018-02-24T20:46:30Z,,2018-02-25T10:10:15Z,2,APPROVED,13.395833333333334,1,516,Closed
+Polish: immediately return this expression instead of assigning it to the temporary variable,2018-02-24T21:51:44Z,,2018-02-25T10:01:06Z,1,APPROVED,12.15611111111111,11,265,Closed
+Update doc to align with TomcatEmbeddedServletContainerFactory renaming,2018-02-25T16:07:26Z,,2018-02-26T08:34:41Z,1,APPROVED,16.454166666666666,2,259,Closed
+Add cache actuator endpoint for listing and clearing caches,2018-02-25T18:42:38Z,,2018-04-30T14:35:22Z,2,CHANGES_REQUESTED,1531.878888888889,7,417,Closed
+Remove an unnecessary method in EndpointDiscoverer,2018-02-28T13:13:36Z,,2018-02-28T14:46:30Z,1,APPROVED,1.5483333333333333,1,269,Closed
+Make UserDetailsServiceAutoConfiguration.getOrDeducePassword() private,2018-03-01T11:08:43Z,,2018-03-02T09:41:48Z,1,APPROVED,22.551388888888887,1,212,Closed
+"Polish: replace class ""Stack"" by more modern ""Deque""",2018-03-01T21:34:43Z,,2018-03-02T09:40:23Z,1,APPROVED,12.094444444444445,1,174,Closed
+Polish,2018-03-03T01:25:36Z,,2018-03-03T11:27:15Z,1,APPROVED,10.0275,10,228,Closed
+Expose Spring Integration graph using an actuator,2018-03-03T20:13:59Z,,2018-04-25T15:12:50Z,10,,1266.9808333333333,14,302,Closed
+RabbitMQ: Add connectionNamePrefix property,2018-03-04T17:52:12Z,,2018-03-06T16:47:10Z,4,CHANGES_REQUESTED,46.916111111111114,4,208,Closed
+"Polish: Declarations should use Java collection interfaces such as ""Deque"" rather than specific implementation classes such as ""LinkedList""",2018-03-08T14:35:51Z,,2018-03-09T08:33:35Z,1,APPROVED,17.962222222222223,1,174,Closed
+Invoke mapStatus() only when necessary,2018-03-09T06:23:49Z,,2018-03-09T15:27:43Z,1,APPROVED,9.065,1,236,Closed
+Polish: private fields only used as local variables in methods should become local variables,2018-03-09T17:16:53Z,,2018-03-12T14:41:27Z,2,APPROVED,69.40944444444445,1,174,Closed
+Polish: reorder the modifiers to comply with the Java Language Specification,2018-03-09T17:48:03Z,,2018-03-11T20:24:36Z,2,APPROVED,50.60916666666667,1,174,Closed
+Polish: remove unused JUnit rules,2018-03-09T18:10:35Z,,2018-03-10T09:29:41Z,1,APPROVED,15.318333333333333,2,174,Closed
+Polish: method names should comply with a naming convention,2018-03-12T21:03:07Z,,2018-03-13T07:50:42Z,1,APPROVED,10.793055555555556,1,174,Closed
+"Polish: mark unmodified field with ""final""",2018-03-12T21:26:57Z,,2018-03-13T07:38:58Z,1,APPROVED,10.200277777777778,1,263,Closed
+"Polish: ""toString()"" should never be called on a String object",2018-03-12T21:51:27Z,,2018-03-13T07:45:33Z,1,APPROVED,9.901666666666667,1,174,Closed
+"Polish: remove this redundant ""close"" call",2018-03-12T22:00:08Z,,2018-03-13T07:48:54Z,1,APPROVED,9.812777777777777,1,283,Closed
+Remove duplicated @author tags,2018-03-12T22:22:08Z,,2018-03-13T07:52:05Z,1,APPROVED,9.499166666666667,2,0,Closed
+Auto-configure Jersey2 server instrumentation,2018-03-14T16:25:26Z,,2018-10-05T15:41:34Z,1,,4919.268888888889,8,202,Closed
+"Polish: instance methods should not write to ""static"" fields",2018-03-15T06:38:54Z,,2018-03-16T17:16:48Z,1,,34.63166666666667,2,174,Closed
+Add OAuth2 server implementation section to docs,2018-03-15T07:18:12Z,,2018-03-19T16:29:06Z,1,APPROVED,105.18166666666667,1,502,Closed
+Fix Javadoc for ServiceLevelAgreementBoundary,2018-03-15T08:18:49Z,,2018-03-15T12:43:16Z,1,CHANGES_REQUESTED,4.4075,1,174,Closed
+Fix ModifiedClassPathRunner tests if run via IDEA,2018-03-18T14:58:24Z,,2018-03-27T13:50:18Z,1,APPROVED,214.865,1,775,Closed
+Add auto-configuration for Hibernate metrics,2018-03-19T21:10:14Z,,2018-04-17T11:48:12Z,1,APPROVED,686.6327777777777,7,387,Closed
+Polish: diamond operator and StringBuilder,2018-03-19T22:34:00Z,,2018-03-20T13:09:06Z,1,APPROVED,14.585,1,255,Closed
+Rename expose to include,2018-03-20T09:51:26Z,,2018-03-21T11:36:38Z,1,APPROVED,25.753333333333334,2,236,Closed
+Redis Sentinel database support,2018-03-20T10:22:58Z,,2018-03-26T10:39:01Z,1,,144.2675,2,107,Closed
+Polish,2018-03-21T18:25:09Z,,2018-03-26T15:35:25Z,1,APPROVED,117.17111111111112,5,228,Closed
+Avoid string copies in SpringBootBanner,2018-03-22T08:46:03Z,,2018-03-24T17:34:18Z,1,APPROVED,56.80416666666667,1,173,Closed
+Remove value in @ConditionalOnMissingBean if possible,2018-03-23T02:22:19Z,,2018-03-26T15:48:01Z,1,APPROVED,85.42833333333333,27,272,Closed
+Move to pure Asciidoctor for documentation,2018-03-23T21:38:35Z,,2018-12-05T13:29:08Z,4,,6159.8425,71,603,Closed
+Use Supplier variants of Assert methods,2018-03-25T17:13:22Z,,2018-03-26T16:00:14Z,1,APPROVED,22.781111111111112,18,162,Closed
+Fix Kotlin @ConfigurationProperties example,2018-03-26T07:13:28Z,,2018-03-26T10:49:50Z,1,APPROVED,3.6061111111111113,1,199,Closed
+Move away from Couchbase's deprecated endpoint configuration methods ,2018-03-28T05:14:12Z,,2018-04-09T14:24:38Z,2,CHANGES_REQUESTED,297.1738888888889,3,293,Closed
+Fix typo,2018-03-29T01:39:00Z,,2018-03-29T06:57:54Z,1,APPROVED,5.315,1,0,Closed
+Remove HierarchicalNameMapper as a configured @Bean,2018-03-29T15:17:42Z,,2018-04-03T09:24:30Z,1,APPROVED,114.11333333333333,7,29,Closed
+Add auto-configuration for WebServiceTemplate,2018-03-31T12:11:14Z,,2018-06-04T10:34:39Z,11,,1558.3902777777778,10,1042,Closed
+Remove destroyMethod attribute in @Bean for MeterRegistry,2018-04-03T00:18:09Z,,2018-04-03T08:14:46Z,1,APPROVED,7.943611111111111,10,293,Closed
+Apply MeterRegistryCustomizer to composites,2018-04-04T17:43:37Z,,2018-04-05T03:33:12Z,1,,9.82638888888889,4,68,Closed
+Set up environment variables using the Maven plugin,2018-04-08T21:14:28Z,,2018-04-24T13:50:18Z,3,CHANGES_REQUESTED,376.59722222222223,14,75,Closed
+Polish,2018-04-10T05:15:00Z,,2018-04-10T09:47:55Z,1,APPROVED,4.548611111111111,16,228,Closed
+Add support for `includeGroupIds`,2018-04-10T07:10:22Z,,2018-04-27T07:45:39Z,1,CHANGES_REQUESTED,408.58805555555557,10,76,Closed
+Fix duplicate words in comments,2018-04-15T15:57:35Z,,2018-04-16T06:10:48Z,1,APPROVED,14.220277777777778,2,62,Closed
+"Only apply autoconfiguration that injects DataSource by type, if there is a single or primary DataSource",2018-04-18T18:47:57Z,,2018-04-19T07:45:13Z,1,,12.954444444444444,3,1281,Closed
+Remove ManagementServerProperties.addApplicationContextHeader,2018-04-20T06:28:05Z,,2018-04-24T08:18:45Z,1,APPROVED,97.84444444444445,3,308,Closed
+Update version of gradle-git-properties in doc,2018-04-24T10:01:13Z,,2018-04-25T07:44:08Z,5,,21.71527777777778,1,375,Closed
+Document Kotlin custom metadata generation,2018-04-25T09:08:28Z,,2018-04-25T15:20:53Z,4,APPROVED,6.206944444444445,1,42,Closed
+Upgrade to Liquibase 3.6.0,2018-04-25T11:58:48Z,,2018-05-11T11:37:34Z,4,CHANGES_REQUESTED,383.6461111111111,5,223,Closed
+Added http HealthIndicator,2018-04-25T22:16:37Z,,2018-04-26T08:39:07Z,1,,10.375,7,414,Closed
+Rename nested *AutoConfiguration classes to *Configuration,2018-04-27T13:16:11Z,,2018-04-30T14:51:08Z,1,APPROVED,73.5825,4,273,Closed
+Upgrade to Spring Kafka 2.2.0 snapshots,2018-05-01T19:38:36Z,,2018-05-02T14:31:46Z,1,APPROVED,18.886111111111113,4,56,Closed
+Fix @since for IgnoreTopLevelConverterNotFoundBindHandler,2018-05-02T09:41:48Z,,2018-05-02T14:13:51Z,1,APPROVED,4.534166666666667,1,348,Closed
+Polish IgnoreTopLevelConverterNotFoundBindHandlerTests,2018-05-02T10:31:16Z,,2018-05-02T14:13:51Z,1,APPROVED,3.709722222222222,1,243,Closed
+"Add keystore-type, truststore-type, protocol in Kafka ssl properties",2018-05-02T17:16:34Z,,2018-05-03T13:54:02Z,1,APPROVED,20.624444444444446,3,827,Closed
+Polish JpaProperties.determineDdlAuto(),2018-05-03T08:20:41Z,,2018-05-14T06:14:12Z,1,APPROVED,261.89194444444445,1,228,Closed
+Allow to set MailProperties when JNDI is used,2018-05-04T01:32:47Z,,2018-05-04T10:21:50Z,2,CHANGES_REQUESTED,8.8175,2,190,Closed
+Polish,2018-05-05T03:57:46Z,,2018-05-07T12:56:32Z,1,APPROVED,56.97944444444445,6,228,Closed
+Remove MockServletWebServer.emptyEnumeration(),2018-05-06T12:35:11Z,,2018-05-07T12:42:59Z,1,APPROVED,24.13,1,164,Closed
+Fix deprecation warning in OriginTrackedYamlLoader,2018-05-06T15:42:04Z,,2018-05-07T12:39:24Z,1,APPROVED,20.955555555555556,1,216,Closed
+Use empty trust-store password if SSL store provider present,2018-05-07T15:40:17Z,,2018-05-29T22:24:04Z,2,,534.7297222222222,2,553,Closed
+Polish,2018-05-09T18:24:52Z,,2018-05-11T08:03:21Z,6,APPROVED,37.64138888888889,11,228,Closed
+Improve LDAP auto-configuration,2018-05-10T13:39:05Z,,2018-05-11T12:44:33Z,1,APPROVED,23.09111111111111,9,728,Closed
+Add .gitignore for Gradle Plugin module,2018-05-10T14:29:58Z,,2018-05-11T12:28:54Z,3,APPROVED,21.982222222222223,1,379,Closed
+Remove unnecessary semicolons,2018-05-11T10:07:11Z,,2018-05-11T12:24:33Z,1,APPROVED,2.2894444444444444,5,79,Closed
+Polish,2018-05-11T16:01:33Z,,2018-05-14T06:24:59Z,1,APPROVED,62.39055555555556,13,228,Closed
+Add liquibase test rollback on update property,2018-05-14T08:57:15Z,,2018-05-14T14:14:48Z,2,APPROVED,5.2925,3,199,Closed
+Polish,2018-05-16T19:32:38Z,,2018-05-17T13:31:20Z,3,APPROVED,17.97833333333333,6,228,Closed
+Make ErrorProperties.whitelabel final,2018-05-17T10:25:04Z,,2018-05-17T13:32:25Z,1,APPROVED,3.1225,1,227,Closed
+Allow LocalHostUriTemplateHandler to be created with a custom underlying UriTemplateHandler,2018-05-18T08:33:24Z,,2018-05-18T12:26:56Z,2,APPROVED,3.8922222222222222,2,59,Closed
+Add support to set visibility via JacksonProperties,2018-05-19T15:22:17Z,,2018-06-05T08:32:46Z,1,APPROVED,401.1747222222222,5,356,Closed
+Polish,2018-05-23T15:02:57Z,,2018-05-28T07:47:29Z,1,APPROVED,112.74222222222222,19,228,Closed
+Add missing semicolon,2018-05-25T15:59:30Z,,2018-05-26T10:45:15Z,1,APPROVED,18.7625,1,209,Closed
+add enforce-rule to ensure maven version >= 3.5.0,2018-05-26T10:52:31Z,,2018-05-27T16:05:19Z,1,APPROVED,29.213333333333335,2,176,Closed
+Fix javadoc,2018-05-28T04:47:59Z,,2018-05-28T07:29:02Z,1,APPROVED,2.6841666666666666,4,174,Closed
+Add assertion in IntegrationAutoConfigurationTests,2018-05-28T18:05:50Z,,2018-05-29T07:05:07Z,1,APPROVED,12.988055555555556,1,119,Closed
+Polish,2018-05-31T20:07:04Z,,2018-06-01T07:30:19Z,4,APPROVED,11.3875,10,228,Closed
+Upgrade to Hazelcast 3.10.1,2018-05-31T21:49:10Z,,2018-06-01T07:32:07Z,1,APPROVED,9.715833333333334,10,68,Closed
+Auto-configure jOOQ with TransactionListenerProvider,2018-06-01T18:04:33Z,,2018-06-04T15:36:29Z,2,CHANGES_REQUESTED,69.53222222222222,3,75,Closed
+Polish stream creation in some PropertySources,2018-06-03T10:47:01Z,,2018-06-03T14:58:03Z,1,APPROVED,4.183888888888889,2,189,Closed
+MapPropertySource changes are not reflected in the adapted ConfigurationPropertySource,2018-06-03T19:11:10Z,,2018-06-06T22:19:19Z,1,,75.13583333333334,3,3279,Closed
+Remove usage of deprecated Matchers class,2018-06-03T20:34:58Z,,2018-06-04T08:32:41Z,1,APPROVED,11.961944444444445,1,339,Closed
+"Add ""Managed dependency upgrade"" section",2018-06-04T10:46:39Z,,2018-06-04T15:58:02Z,8,APPROVED,5.189722222222223,1,453,Closed
+Add duration support for setConnectTimeout and setReadTimeout,2018-06-04T13:07:28Z,,2018-06-05T14:03:18Z,1,CHANGES_REQUESTED,24.930555555555557,2,121,Closed
+Use Duration in HttpWebServiceMessageSenderBuilder,2018-06-05T10:03:39Z,,2018-06-05T14:23:35Z,1,APPROVED,4.332222222222223,4,0,Closed
+Metrics for `WebServiceTemplate`.,2018-06-05T14:58:03Z,,2018-10-14T08:42:20Z,14,,3137.7380555555555,16,636,Closed
+Add support for ReloadableResourceBundleMessageSource,2018-06-05T17:26:22Z,,2018-10-05T02:46:12Z,1,,2913.3305555555557,4,981,Closed
+Replace commons-codec Base64 usage,2018-06-05T19:44:23Z,,2018-06-06T07:31:04Z,1,APPROVED,11.778055555555556,2,529,Closed
+"Improved the error message, when no main class was found using the gradle-plugin.  #12712",2018-06-06T08:43:55Z,,2018-06-08T17:10:22Z,4,CHANGES_REQUESTED,56.44083333333333,1,260,Closed
+Use a precompiled pattern in WebClientExchangeTags.extractPath(),2018-06-12T05:57:30Z,2018-06-12T07:18:16Z,2018-06-12T07:18:16Z,1,APPROVED,1.346111111111111,1,262,Merged
+Use @SpringBootTest.properties in tests and samples,2018-06-12T22:38:23Z,,2018-06-13T07:29:56Z,1,APPROVED,8.859166666666667,4,314,Closed
+Upgrade to Micrometer 1.0.5,2018-06-13T01:46:06Z,,2018-06-13T07:09:20Z,1,APPROVED,5.387222222222222,1,129,Closed
+Reduce object creation in ConfigurationMetadata.findMatchingItemMetadata(),2018-06-13T23:11:44Z,,2018-06-15T11:39:05Z,6,APPROVED,36.45583333333333,1,293,Closed
+Create a different embedded database for each Datasource when using annotation AutoConfigureTestDatabase,2018-06-14T18:10:07Z,,2018-07-11T15:14:14Z,2,CHANGES_REQUESTED,645.0686111111111,2,266,Closed
+Polish HibernateProperties and its test,2018-06-14T18:55:01Z,,2018-06-15T11:51:09Z,1,APPROVED,16.935555555555556,2,228,Closed
+Polish CachesEndpoint,2018-06-15T08:22:48Z,,2018-06-15T11:57:33Z,1,APPROVED,3.5791666666666666,1,210,Closed
+Add reference to dozer-spring-boot-starter,2018-06-17T09:39:28Z,,2018-06-19T08:57:15Z,2,APPROVED,47.29638888888889,1,223,Closed
+Add support to set base in EmbeddedLdapAutoConfiguration,2018-06-17T17:16:56Z,,2018-08-06T06:50:19Z,1,,1189.556388888889,2,423,Closed
+Add log level guards in ConfigFileApplicationListener,2018-06-18T15:55:53Z,,2018-06-19T09:11:49Z,1,APPROVED,17.265555555555554,1,241,Closed
+Use final keywords for Map fields in JacksonProperties,2018-06-18T19:29:43Z,,2018-06-19T07:14:18Z,2,APPROVED,11.743055555555555,1,246,Closed
+Polish,2018-06-20T20:35:32Z,,2018-06-21T07:24:57Z,1,APPROVED,10.823611111111111,11,228,Closed
+added structurizr starter,2018-06-21T13:00:08Z,,2018-07-09T06:40:11Z,1,,425.6675,1,62,Closed
+TraceableHttpServletRequest encodes query strings incorrectly,2018-06-21T17:03:50Z,,2018-07-10T13:59:02Z,1,APPROVED,452.92,2,286,Closed
+Optimize checks for java classes in Binder,2018-06-24T15:49:26Z,,2018-07-09T06:51:41Z,1,APPROVED,351.0375,2,286,Closed
+Polish conditional expressions,2018-06-26T16:37:49Z,,2018-07-09T07:15:52Z,1,APPROVED,302.63416666666666,3,83,Closed
+Polish,2018-06-29T17:14:44Z,,2018-07-09T08:50:43Z,1,APPROVED,231.59972222222223,5,228,Closed
+Upgrade to Liquibase 3.6.2,2018-06-30T20:40:27Z,,2018-07-13T09:42:51Z,7,,301.04,4,346,Closed
+Prevent duplicate RequestMatcher in RequestMatcherFactory.antPath(),2018-07-05T04:26:36Z,,2018-07-13T07:39:54Z,1,APPROVED,195.22166666666666,1,315,Closed
+Separate logging from getUrlMappings(),2018-07-05T07:29:52Z,,2018-07-10T13:34:19Z,1,APPROVED,126.07416666666667,1,354,Closed
+Remove a List creation in CompositePropertySources.iterator(),2018-07-15T11:39:32Z,,2018-07-16T08:29:44Z,1,APPROVED,20.836666666666666,1,280,Closed
+Polish,2018-07-15T14:59:10Z,,2018-07-16T08:39:54Z,1,APPROVED,17.67888888888889,10,228,Closed
+Fix since on JdbcOperationsDependsOnPostProcessor,2018-07-16T00:37:50Z,,2018-07-16T08:51:46Z,1,APPROVED,8.232222222222223,1,241,Closed
+Remove carriage returns in TypeUtils.getJavaDoc(),2018-07-16T05:38:11Z,,2018-07-16T12:12:53Z,4,,6.578333333333333,3,259,Closed
+Base unit of metric values is unspecified when using the metrics endpoint,2018-07-18T19:48:01Z,,2018-07-24T07:33:45Z,2,CHANGES_REQUESTED,131.76222222222222,2,191,Closed
+PropertyMapper.from(value).,2018-07-20T15:16:35Z,,2018-08-22T13:41:49Z,1,APPROVED,790.4205555555556,10,49,Closed
+Fix Flyway filesystem prefix location check,2018-07-22T10:47:30Z,,2018-07-24T08:39:05Z,4,,45.859722222222224,3,86,Closed
+Add reactive health indicator for Cassandra,2018-07-22T11:53:58Z,,2018-07-25T08:17:12Z,3,,68.38722222222222,5,149,Closed
+Fix OAuth2WebSecurityConfigurationTests,2018-07-24T06:37:01Z,,2018-07-24T08:00:38Z,1,APPROVED,1.3936111111111111,1,416,Closed
+Fix deprecation in UndertowServletWebServerFactory,2018-07-24T09:17:37Z,,2018-07-25T08:28:24Z,1,APPROVED,23.17972222222222,1,205,Closed
+Make SpringBootConfigurationFinder public and usable with other annot…,2018-07-25T20:45:31Z,,2018-07-26T15:23:43Z,5,CHANGES_REQUESTED,18.636666666666667,1,203,Closed
+Fix unchecked assignment in AutoConfigurationImportSelector,2018-07-26T05:42:05Z,,2018-07-26T15:07:01Z,1,APPROVED,9.415555555555555,1,231,Closed
+NoSuchCacheManagerFailureAnalyzer,2018-07-26T12:57:41Z,,2019-02-20T13:13:34Z,1,CHANGES_REQUESTED,5016.264722222222,15,75,Closed
+Fix typo,2018-07-26T18:50:13Z,,2018-07-26T23:03:54Z,1,APPROVED,4.228055555555556,1,0,Closed
+make RabbitTemplate default receive queue configurable,2018-07-27T17:42:11Z,,2018-07-31T12:36:08Z,1,,90.89916666666667,4,137,Closed
+Add classpath prefix to the flyway location,2018-07-28T02:19:56Z,,2018-07-31T12:30:15Z,1,APPROVED,82.17194444444445,1,193,Closed
+Fix deprecation in KafkaAutoConfigurationIntegrationTests,2018-07-28T14:48:58Z,,2018-07-31T12:28:47Z,1,APPROVED,69.66361111111111,1,107,Closed
+Avoid annotation attribute lookup in OnBeanCondition,2018-07-29T18:47:47Z,,2018-07-31T09:07:26Z,1,APPROVED,38.3275,1,437,Closed
+Optimize some StringBuilder.append() calls,2018-07-31T17:53:50Z,,2018-08-01T06:48:34Z,2,APPROVED,12.912222222222223,8,1719,Closed
+Polish,2018-07-31T19:57:18Z,,2018-08-01T09:09:54Z,5,APPROVED,13.21,9,228,Closed
+Failing test for gh-13945,2018-08-01T07:56:28Z,,2018-08-01T09:06:04Z,2,,1.16,1,328,Closed
+Remove unused dependencies,2018-08-01T15:16:59Z,,2018-08-02T13:18:49Z,1,APPROVED,22.030555555555555,1,287,Closed
+Dependency management for micrometer-registry-cloudwatch is missing,2018-08-02T12:21:25Z,,2018-08-06T08:33:06Z,1,APPROVED,92.19472222222223,1,289,Closed
+"DigitalAmount, DigitalUnit,  DigitalAmountStyle (gh-13974)",2018-08-02T15:25:36Z,,2018-08-11T10:12:52Z,1,CHANGES_REQUESTED,210.7877777777778,18,379,Closed
+Update assertion message in AnnotatedClassFinder.scanPackage(),2018-08-02T19:30:41Z,,2018-08-03T07:07:27Z,1,APPROVED,11.612777777777778,1,324,Closed
+Add global support for JMX unique names,2018-08-02T21:51:00Z,,2018-08-06T12:39:52Z,2,CHANGES_REQUESTED,86.81444444444445,4,168,Closed
+Return null immediately when sla is null in convertSla(),2018-08-02T23:37:33Z,,2018-08-03T07:25:36Z,1,APPROVED,7.800833333333333,1,287,Closed
+Invoke Inflater.end() in ZipInflaterInputStream.close(),2018-08-06T10:03:47Z,,2018-08-08T12:47:36Z,2,CHANGES_REQUESTED,50.73027777777778,1,403,Closed
+Fix typo,2018-08-07T17:55:42Z,,2018-08-08T07:36:05Z,1,APPROVED,13.673055555555555,1,58,Closed
+Polish OnWebApplicationCondition,2018-08-07T18:43:16Z,,2018-08-08T07:54:27Z,1,APPROVED,13.186388888888889,1,272,Closed
+NullPointerException in FlywayEndpoint with schema baseline,2018-08-08T15:42:33Z,,2018-08-09T10:16:41Z,1,CHANGES_REQUESTED,18.56888888888889,1,141,Closed
+Add auto-configuation for kafka-streams,2018-08-08T18:58:03Z,,2018-08-22T15:47:23Z,16,,332.8222222222222,6,169,Closed
+Polish,2018-08-09T00:40:09Z,,2018-08-09T07:33:02Z,1,APPROVED,6.881388888888889,3,228,Closed
+Polish ItemMetadata.buildName(),2018-08-09T04:01:08Z,,2018-08-09T07:48:48Z,1,APPROVED,3.7944444444444443,1,487,Closed
+Align server.tomcat.max-swallow-size with Tomcat's default value,2018-08-09T06:35:29Z,,2018-08-09T07:57:24Z,1,APPROVED,1.3652777777777778,2,617,Closed
+adding property to disable HiddenHttpMethodFilter,2018-08-09T11:38:52Z,,2018-08-17T08:29:44Z,1,APPROVED,188.84777777777776,4,132,Closed
+"Add ""With an Immediate Pull Request""",2018-08-10T01:09:28Z,,2018-08-16T09:25:19Z,1,,152.26416666666665,1,386,Closed
+Fix Freemarker documentation link,2018-08-12T07:15:36Z,,2018-08-13T10:11:27Z,1,APPROVED,26.930833333333332,1,168,Closed
+Polish,2018-08-13T09:19:15Z,,2018-08-15T07:44:25Z,3,APPROVED,46.419444444444444,14,228,Closed
+Allow properties to be configured using slice test annotations,2018-08-13T16:20:38Z,,2018-08-16T10:30:50Z,9,CHANGES_REQUESTED,66.17,33,175,Closed
+Prevent mysql-connector-java from pulling in an old version of protobuf-java,2018-08-14T16:10:18Z,,2018-08-14T19:01:46Z,2,,2.8577777777777778,1,192,Closed
+Remove @UsesUnsafeJava annotations,2018-08-15T10:50:25Z,,2018-09-05T07:43:13Z,1,APPROVED,500.88,4,204,Closed
+ Align SessionsEndpoint with Spring Session API improvements,2018-08-17T16:24:32Z,,2018-08-18T09:35:28Z,1,APPROVED,17.182222222222222,5,147,Closed
+Replace loops with Arrays.setAll where possible,2018-08-17T16:33:07Z,,2018-08-20T09:24:02Z,1,,64.84861111111111,9,107,Closed
+Remove unused method in TypeUtils,2018-08-18T11:28:55Z,,2018-08-19T13:40:53Z,1,APPROVED,26.199444444444445,1,85,Closed
+Support more Micrometer histogram properties,2018-08-19T19:46:34Z,,2018-10-12T12:24:05Z,15,,1288.6252777777777,5,112,Closed
+Polish,2018-08-20T15:53:12Z,,2018-08-22T08:44:08Z,1,APPROVED,40.84888888888889,16,228,Closed
+Do not create a messageSource bean if one is already defined,2018-08-21T13:35:08Z,,2018-08-26T09:02:23Z,2,CHANGES_REQUESTED,115.45416666666667,1,0,Closed
+Polish,2018-08-22T17:13:27Z,,2018-08-23T09:43:10Z,4,APPROVED,16.495277777777776,16,228,Closed
+Limit metrics collection of incoming requests,2018-08-22T17:27:10Z,,2018-08-30T11:09:10Z,1,,185.7,9,80,Closed
+Update MongoAutoConfiguration and MongoDataAutoConfiguration to support com.mongodb.client.MongoClient.,2018-08-23T06:18:57Z,,2018-08-28T13:33:00Z,1,,127.23416666666667,4,485,Closed
+Polish,2018-08-23T14:25:09Z,,2018-08-24T09:50:39Z,1,APPROVED,19.425,6,228,Closed
+auto-configuration for spring-security-oauth2-resource-server by oidc issuer location,2018-08-23T19:19:07Z,,2018-08-24T22:04:11Z,11,,26.75111111111111,5,174,Closed
+Polish,2018-08-25T20:05:39Z,,2018-08-26T08:48:48Z,1,APPROVED,12.719166666666666,4,228,Closed
+"Support transaction manager, error handler and after rollback processor with Kafka",2018-08-27T18:20:37Z,,2018-08-28T15:15:38Z,2,,20.916944444444443,5,70,Closed
+Allow the ability to set shareNativeConnection to false for LettuceConnectionFactory,2018-08-27T22:00:43Z,,2018-08-28T08:32:16Z,2,,10.525833333333333,3,157,Closed
+Polish some joining collectors,2018-08-28T14:42:23Z,,2018-08-29T15:38:27Z,1,APPROVED,24.934444444444445,2,293,Closed
+Drop a constant from Servlet package in OrderedHiddenHttpMethodFilter,2018-08-29T00:13:39Z,,2018-10-12T06:09:38Z,3,,1061.9330555555555,1,277,Closed
+Align max HTTP header size configuration across all supported containers ,2018-08-29T09:57:11Z,,2018-09-04T08:54:37Z,5,,142.9572222222222,8,266,Closed
+Throw an exception on invalid syntax in SPRING_APPLICATION_JSON,2018-08-30T10:50:13Z,,2018-09-03T09:28:59Z,1,APPROVED,94.64611111111111,2,80,Closed
+Fix String concatenation,2018-08-30T12:29:30Z,,2018-08-30T19:16:27Z,1,CHANGES_REQUESTED,6.7825,1,152,Closed
+Polish,2018-08-31T15:03:58Z,,2018-09-03T06:53:57Z,1,APPROVED,63.83305555555555,8,228,Closed
+Documentation update for default compressible MIME types,2018-09-01T10:03:31Z,,2018-09-03T19:05:48Z,1,APPROVED,57.03805555555556,1,354,Closed
+Fix indent of Jolokia maven dependency declaration in doc,2018-09-02T17:05:08Z,,2018-09-03T08:01:16Z,1,APPROVED,14.935555555555556,1,184,Closed
+Use InvalidEndpointRequestException for MetricsEndpoint.metric(),2018-09-03T12:51:47Z,,2018-09-04T06:49:39Z,3,APPROVED,17.964444444444446,2,367,Closed
+Polish,2018-09-03T21:30:16Z,,2018-09-04T06:54:27Z,1,APPROVED,9.403055555555556,9,228,Closed
+Make it possible to disable the BackgroundPreinitializer,2018-09-04T16:34:50Z,,2018-09-05T12:35:36Z,2,,20.012777777777778,1,80,Closed
+Add Health details using maps,2018-09-05T03:52:15Z,,2018-09-05T11:41:32Z,1,APPROVED,7.8213888888888885,2,201,Closed
+Polish CommandCompleter,2018-09-06T18:35:51Z,,2018-09-07T14:53:48Z,1,APPROVED,20.299166666666668,1,96,Closed
+Add auto-config for Prometheus Pushgateway. Fixes #14346,2018-09-08T14:55:46Z,,2018-10-06T01:16:14Z,6,CHANGES_REQUESTED,658.3411111111111,5,852,Closed
+Polish,2018-09-12T17:30:27Z,,2018-09-19T07:59:27Z,1,APPROVED,158.48333333333332,9,228,Closed
+Add ApplicationContextInitializedEvent to correspond to contextPrepared in SpringApplicationRunListener,2018-09-14T20:16:02Z,,2018-09-17T09:53:06Z,1,,61.617777777777775,3,80,Closed
+Add outcome tag to Web MVC and reactive metrics,2018-09-16T16:23:54Z,,2018-09-18T11:34:53Z,6,,43.183055555555555,6,471,Closed
+Metric endpoint is summing up same metric,2018-09-17T20:43:04Z,,2018-10-11T23:19:52Z,6,,578.6133333333333,2,375,Closed
+Use meaningful name for MockServerConfigurer bean,2018-09-19T10:56:16Z,,2018-09-19T13:32:22Z,1,APPROVED,2.6016666666666666,1,266,Closed
+Support for SAP Hana Database,2018-09-19T12:22:35Z,,2018-09-20T10:04:43Z,4,APPROVED,21.702222222222222,2,156,Closed
+Polish,2018-09-19T17:51:56Z,,2018-09-20T07:52:18Z,1,APPROVED,14.00611111111111,11,228,Closed
+Support escaped characters in BasicJsonParser,2018-09-19T21:04:04Z,,2018-09-20T08:25:39Z,1,APPROVED,11.359722222222222,2,14,Closed
+Fix and improve Neo4j related documentation,2018-09-20T12:01:03Z,,2018-09-21T09:50:09Z,7,APPROVED,21.81833333333333,1,773,Closed
+Add log messages to lines only when the destination isn't set,2018-09-21T08:20:59Z,,2018-09-22T17:35:25Z,1,APPROVED,33.24055555555555,2,1359,Closed
+Add @since in ApplicationContextInitializedEvent,2018-09-22T14:27:18Z,,2018-09-22T17:33:15Z,1,APPROVED,3.0991666666666666,1,1273,Closed
+Clash of websocketContainerCustomizer beans if Tomcat and Jetty both present,2018-09-22T16:29:27Z,,2018-09-22T17:32:17Z,1,APPROVED,1.0472222222222223,2,71,Closed
+Make sure cache busting works with error pages,2018-09-22T16:49:59Z,,2018-10-04T15:54:48Z,1,APPROVED,287.0802777777778,2,71,Closed
+Polish,2018-09-25T06:58:41Z,,2018-09-26T15:46:03Z,1,APPROVED,32.78944444444444,6,1237,Closed
+Section header in Actuator API docs for query parameters of retrieving caches by name is incorrect,2018-09-25T12:20:49Z,,2018-09-25T18:26:25Z,1,APPROVED,6.093333333333334,1,53,Closed
+Expose preferProxiedForAddress Jetty access log property.,2018-09-26T11:59:56Z,,2018-10-03T14:02:48Z,1,,170.04777777777778,4,227,Closed
+Polish,2018-09-27T06:48:07Z,,2018-10-01T14:51:53Z,1,APPROVED,104.06277777777778,15,1237,Closed
+Use Commons Logging for OnlyOnceLoggingDenyMeterFilter,2018-09-29T16:21:08Z,,2018-09-30T21:50:00Z,1,APPROVED,29.48111111111111,1,1305,Closed
+Add Log Output when DevTools restart is disabled,2018-10-01T13:02:46Z,,2018-10-02T13:14:09Z,5,CHANGES_REQUESTED,24.189722222222223,1,1311,Closed
+Remove unnecessary parameters for String.substring,2018-10-02T16:07:10Z,,2018-10-03T07:49:16Z,1,APPROVED,15.701666666666666,2,116,Closed
+Polish,2018-10-03T01:03:48Z,,2018-10-03T12:00:52Z,6,APPROVED,10.95111111111111,8,1237,Closed
+Polish docs,2018-10-03T10:00:47Z,,2018-10-03T11:40:54Z,1,APPROVED,1.668611111111111,1,94,Closed
+Clarify Javadoc of ConditionalOn annotations,2018-10-03T19:34:16Z,,2018-10-04T10:24:41Z,1,APPROVED,14.840277777777779,3,11,Closed
+"Drop support for ""all"" from management.metrics.distribution.sla",2018-10-04T10:58:46Z,,2018-10-05T08:29:41Z,2,CHANGES_REQUESTED,21.51527777777778,4,80,Closed
+Fix BeansEndpoint typo in readme,2018-10-05T05:34:09Z,,2018-10-05T07:11:58Z,1,APPROVED,1.6302777777777777,1,140,Closed
+Remove unused fields in tests,2018-10-06T09:02:57Z,,2018-10-08T08:46:20Z,1,APPROVED,47.723055555555554,3,75,Closed
+Fix actuator endpoint tables in docs,2018-10-08T09:31:17Z,,2018-10-09T06:29:23Z,7,APPROVED,20.968333333333334,1,558,Closed
+WebFluxAutoConfiguration ignores spring.resources.cache.cachecontrol,2018-10-09T15:51:47Z,,2018-10-15T09:01:14Z,1,CHANGES_REQUESTED,137.1575,2,72,Closed
+@ResponseStatus does not work when using WebFlux,2018-10-09T19:41:46Z,,2018-10-12T14:00:31Z,1,APPROVED,66.3125,2,1788,Closed
+Allow ClassPathResources to be filtered by FilteredClassLoader,2018-10-10T14:47:55Z,,2018-10-12T13:39:51Z,4,,46.86555555555555,3,730,Closed
+Add Log Output when DevTools restart is disabled,2018-10-13T07:17:26Z,,2018-10-29T12:41:45Z,3,CHANGES_REQUESTED,389.40527777777777,1,1348,Closed
+Remove usages of BasicAuthorizationInterceptor,2018-10-15T14:24:53Z,,2018-10-16T08:22:30Z,1,APPROVED,17.960277777777776,5,65,Closed
+Set hostname property for JMX in spring-boot-maven-plugin,2018-10-15T19:35:46Z,,2018-10-17T16:06:38Z,1,APPROVED,44.51444444444444,1,710,Closed
+Polish,2018-10-15T22:17:47Z,,2018-10-16T09:39:29Z,1,APPROVED,11.361666666666666,10,1237,Closed
+Fix a broken table in doc,2018-10-17T01:24:19Z,,2018-10-17T06:47:56Z,1,APPROVED,5.393611111111111,1,1235,Closed
+Replace lambdas with method reference or call,2018-10-23T14:20:47Z,,2018-10-24T08:14:20Z,1,APPROVED,17.8925,4,106,Closed
+Polish javadoc of CachesEndpoint,2018-10-25T19:00:20Z,,2018-10-25T22:34:24Z,1,APPROVED,3.5677777777777777,1,89,Closed
+Add a failure analyzer for Hibernate bootstrap failure,2018-10-29T15:53:29Z,,2018-12-04T09:38:10Z,4,CHANGES_REQUESTED,857.7447222222222,1,138,Closed
+Provide a configuration property for configuring Tomcat's processor cache,2018-11-01T08:51:22Z,,2018-12-03T10:19:04Z,6,APPROVED,769.4616666666667,4,80,Closed
+Consider disabling management.trace.http by default,2018-11-01T14:11:10Z,,2018-11-03T15:43:39Z,1,,49.54138888888889,4,80,Closed
+Update docs to Spock 1.2,2018-11-01T14:31:46Z,,2018-11-02T13:00:52Z,1,APPROVED,22.485,1,262,Closed
+Add reference to Hiatus starter,2018-11-03T16:36:35Z,,2018-11-04T06:25:04Z,1,APPROVED,13.808055555555555,1,97,Closed
+Fail fast if nested condition uses a phase inappropriate for its members,2018-11-04T20:53:11Z,,2018-12-03T13:24:28Z,1,APPROVED,688.5213888888889,2,379,Closed
+Rename logging.file to logging.file.name,2018-11-04T22:19:38Z,,2018-12-03T09:43:38Z,12,APPROVED,683.4,17,1541,Closed
+Polish some Map operations,2018-11-05T19:15:30Z,,2018-11-06T06:42:40Z,1,APPROVED,11.452777777777778,5,181,Closed
+Add missing @Deprecated annotation,2018-11-06T16:10:26Z,,2018-11-07T06:54:36Z,1,APPROVED,14.73611111111111,1,123,Closed
+Replace magic number by HttpStatus,2018-11-08T08:20:29Z,,2018-12-03T14:48:35Z,4,APPROVED,606.4683333333334,1,57,Closed
+Polish,2018-11-08T15:46:32Z,,2018-11-11T10:04:16Z,1,APPROVED,66.29555555555555,12,1237,Closed
+"Change DataSourceHealthIndicator details from ""hello"" to ""result""",2018-11-08T21:05:32Z,,2018-12-03T08:36:11Z,1,APPROVED,587.5108333333334,2,1780,Closed
+Use varargs for DefaultApplicationArguments,2018-11-09T09:18:03Z,,2018-12-03T09:53:25Z,1,APPROVED,576.5894444444444,2,80,Closed
+Polish some Map operations,2018-11-11T11:08:38Z,,2018-11-12T08:09:09Z,1,APPROVED,21.00861111111111,2,120,Closed
+Cookie http-only setting has no effect when using Spring Session,2018-11-13T17:19:34Z,,2018-11-27T11:21:45Z,6,,330.0363888888889,2,751,Closed
+adding actuator health check support for Elasticsearch REST Clients,2018-11-19T09:43:04Z,,2018-11-28T18:49:27Z,4,CHANGES_REQUESTED,225.1063888888889,5,80,Closed
+"Configure MessageSource if no ""messageSource"" bean defined",2018-11-19T09:50:10Z,,2018-12-03T10:33:10Z,1,APPROVED,336.71666666666664,2,3724,Closed
+Avoid premature declaration of variables,2018-11-19T13:12:25Z,,2018-12-03T10:00:38Z,1,APPROVED,332.80361111111114,4,156,Closed
+Replace DirectFieldAccessor usages by hasFieldOrPropertyWithValue,2018-11-27T19:32:09Z,,2018-11-28T07:51:21Z,1,APPROVED,12.32,30,29,Closed
+Avoid NPE when replacement property does not exist,2018-12-05T23:27:17Z,,2018-12-28T17:23:26Z,1,,545.9358333333333,4,1268,Closed
+Simplify code by using try-with-resources statement,2018-12-09T12:32:35Z,,2018-12-10T08:06:43Z,1,APPROVED,19.56888888888889,3,1185,Closed
+Drop ContentContainingCondition in favor of Assertions.contentOf,2018-12-09T23:23:05Z,,2018-12-20T17:10:00Z,1,APPROVED,257.78194444444443,7,159,Closed
+Automate JDK CI upgrades using AdoptOpenJDK API,2018-12-10T00:14:15Z,,2018-12-10T06:57:37Z,1,,6.722777777777778,1,1289,Closed
+Make HierarchicalNameMapper injectable for GraphiteMeterRegistry,2018-12-13T23:03:49Z,,2018-12-15T04:57:28Z,9,CHANGES_REQUESTED,29.894166666666667,2,1344,Closed
+Skip actuator security autoconfig if resource server autoconfig is active,2018-12-14T16:20:21Z,,2019-01-02T22:00:40Z,2,,461.6719444444444,5,1531,Closed
+Apply TomcatConnectorCustomizer and TomcatContextCustomizer beans automatically,2018-12-19T07:08:59Z,,2018-12-19T17:12:25Z,11,CHANGES_REQUESTED,10.057222222222222,4,1185,Closed
+Polish javadoc of ConfigurableUndertowWebServerFactory method,2018-12-20T13:16:46Z,,2018-12-20T17:03:01Z,1,APPROVED,3.7708333333333335,1,139,Closed
+Simplify code by using Map computeIfAbsent,2018-12-21T06:54:25Z,,2018-12-21T10:14:07Z,1,APPROVED,3.328333333333333,2,1185,Closed
+Replace indexOf() with a call to the contains(),2018-12-24T05:09:07Z,,2018-12-24T08:54:08Z,1,APPROVED,3.750277777777778,4,1185,Closed
+Simplify code by using for-each loop,2018-12-24T21:21:04Z,,2018-12-25T09:00:42Z,1,APPROVED,11.660555555555556,3,1185,Closed
+Disable Hibernate entity scanning for default JPA setup,2018-12-25T13:48:06Z,,2018-12-31T15:53:15Z,6,CHANGES_REQUESTED,146.08583333333334,2,80,Closed
+Use Optional value in more functional style,2018-12-28T21:30:02Z,,2018-12-29T10:28:30Z,1,APPROVED,12.974444444444444,1,1185,Closed
+Use hasFieldOrPropertyWithValue where possible,2018-12-29T18:21:47Z,,2018-12-30T08:49:19Z,1,APPROVED,14.45888888888889,5,251,Closed
+Add unit test for cassandra health indicator,2018-12-29T18:31:44Z,,2018-12-30T09:04:22Z,1,APPROVED,14.543888888888889,1,84,Closed
+Remove unused method and improve readability,2018-12-29T23:54:17Z,,2018-12-31T21:25:16Z,1,APPROVED,45.51638888888889,1,131,Closed
+Add opt-in support for Neo4j-OGM native types,2019-01-07T12:08:02Z,,2019-02-13T15:06:04Z,12,,890.9672222222222,8,995,Closed
+Replace custom Neo4j container with testcontainers version.,2019-01-07T12:10:40Z,,2019-02-13T17:46:34Z,3,,893.5983333333334,5,166,Closed
+Remove redundant throws Exception,2019-01-08T04:48:11Z,,2019-01-08T09:43:22Z,1,APPROVED,4.919722222222222,2,179,Closed
+Remove an unused interface in RestarterTests,2019-01-10T05:28:35Z,,2019-01-10T12:26:49Z,1,APPROVED,6.970555555555555,1,1241,Closed
+Async configuration ignores `applicationTaskExecutor` when `EnableScheduling` is enabled ,2019-01-21T14:14:44Z,,2019-01-28T09:08:41Z,1,APPROVED,162.89916666666667,2,157,Closed
+Add more mustache auto configuration,2019-01-22T08:17:28Z,,2019-02-11T17:25:01Z,1,CHANGES_REQUESTED,489.12583333333333,5,80,Closed
+JspTemplateAvailabilityProvider causes java.security.AccessControlException,2019-01-24T12:20:30Z,,2019-01-31T15:27:14Z,5,APPROVED,171.11222222222221,1,71,Closed
+Remove duplicate code from HealthWebEndpointResponseMapper,2019-01-25T08:13:26Z,,2019-01-25T09:45:48Z,1,APPROVED,1.5394444444444444,1,120,Closed
+Use Assertions.contentOf() where possible,2019-01-26T11:52:05Z,,2019-01-28T09:09:28Z,1,APPROVED,45.289722222222224,8,367,Closed
+Directly inject Maps of bean name to bean rather than an ObjectProvider of the same,2019-01-28T14:42:45Z,,2019-01-31T15:27:14Z,1,APPROVED,72.74138888888889,6,79,Closed
+Document testing with `@EmbeddedKafka`,2019-02-01T21:06:05Z,,2019-07-23T16:21:32Z,4,,4123.2575,1,1629,Closed
+Polish,2019-02-03T17:21:09Z,,2019-02-10T09:36:41Z,1,APPROVED,160.2588888888889,12,177,Closed
+Polish,2019-02-05T19:18:38Z,,2019-02-06T08:15:10Z,1,APPROVED,12.942222222222222,1,196,Closed
+Polish,2019-02-08T01:09:57Z,,2019-02-08T08:22:19Z,1,APPROVED,7.206111111111111,7,1237,Closed
+Exclude dependencies during repackaging process for the war archive,2019-02-13T18:09:34Z,,2019-06-19T06:13:52Z,1,CHANGES_REQUESTED,3012.0716666666667,16,552,Closed
+Add support for setting the awaitTeminationSeconds and waitForTasksToCompleteOnShutdown,2019-02-14T10:42:07Z,,2019-02-18T20:14:50Z,5,,105.54527777777778,6,508,Closed
+connectionTimeout and readTimeout properties for configuring RestClient,2019-02-15T11:51:46Z,,2019-04-18T09:18:12Z,1,CHANGES_REQUESTED,1485.4405555555556,3,121,Closed
+Add an example showing how to use AutoConfigureRestDocs with WebTestClient,2019-02-18T12:25:18Z,,2019-02-27T15:05:00Z,1,CHANGES_REQUESTED,218.66166666666666,3,14,Closed
+Properties to set default configuration for auto-timed controller metrics,2019-02-19T05:31:15Z,,2019-05-01T06:18:31Z,3,CHANGES_REQUESTED,1704.7877777777778,20,706,Closed
+Update instructions on how to use JAXB as XML renderer,2019-02-20T13:41:25Z,,2019-02-26T15:59:48Z,1,,146.30638888888888,1,0,Closed
+Add failure analyzer for Flyway's bootstrap failure,2019-02-22T03:51:19Z,,2019-02-28T13:02:22Z,4,CHANGES_REQUESTED,153.18416666666667,6,1185,Closed
+Add `jaxb-runtime` to TldSkipPatterns,2019-02-25T00:35:21Z,,2019-02-28T13:44:48Z,3,,85.1575,1,549,Closed
+Added support for additional Tomcat access log configuration properties,2019-02-26T13:18:24Z,,2019-03-29T16:48:55Z,1,APPROVED,747.5086111111111,4,365,Closed
+Fix NullPointerException with empty X-Forwarded-For header,2019-02-27T10:22:18Z,,2019-02-28T13:58:56Z,1,CHANGES_REQUESTED,27.610555555555557,2,116,Closed
+Use AssertJ facilities for expected exceptions,2019-03-01T17:10:32Z,,2019-03-04T08:29:41Z,1,APPROVED,63.31916666666667,11,243,Closed
+Auto-configured PrometheusPushGatewayManager cannot be configured to use HTTPS to connect to the gateway,2019-03-04T09:44:18Z,,2019-03-29T16:07:41Z,6,,606.3897222222222,2,10,Closed
+Rename Maven version property for PooledJMS,2019-03-04T12:34:07Z,,2019-03-04T14:13:35Z,1,,1.6577777777777778,1,1254,Closed
+Support zip64 jars,2019-03-04T16:39:24Z,,2019-09-20T13:35:59Z,5,,4796.9430555555555,2,132,Closed
+Random management.server.port should not set to the same value as local.server.port,2019-03-06T09:48:26Z,,2019-03-16T00:28:10Z,2,,230.66222222222223,2,180,Closed
+Update ambiguous documentation about ConfigurationProperties,2019-03-07T16:21:26Z,,2019-03-12T10:13:40Z,2,,113.87055555555555,1,1203,Closed
+@WebFluxTest does not enable auto-configuration for any reactive template engines,2019-03-08T10:48:39Z,,2019-03-12T10:08:09Z,2,APPROVED,95.325,2,80,Closed
+Replace ${sys:PID} with %pid in log4j2 configuration,2019-03-08T16:04:10Z,,2019-04-02T15:08:30Z,1,APPROVED,599.0722222222222,2,1388,Closed
+Add missing .class to @RunWith(SpringExtension) in references docs,2019-03-12T14:56:53Z,,2019-03-12T16:23:00Z,1,APPROVED,1.4352777777777779,1,72,Closed
+Metrics may be updated twice when CompositeMeterRegistry exists,2019-03-13T11:38:36Z,,2019-04-24T14:10:35Z,5,APPROVED,1010.5330555555555,5,1321,Closed
+Use isEmpty() where possible,2019-03-13T18:51:59Z,,2019-03-14T08:11:54Z,1,APPROVED,13.331944444444444,1,77,Closed
+Remove explicit types,2019-03-19T19:49:22Z,,2019-03-20T08:56:06Z,1,APPROVED,13.112222222222222,5,75,Closed
+Import ErrorWebFluxAutoConfiguration with @WebFluxTest,2019-03-19T20:04:15Z,,2019-03-29T10:40:32Z,9,,230.60472222222222,3,349,Closed
+Polish,2019-03-25T04:55:17Z,,2019-03-28T15:43:42Z,5,APPROVED,82.80694444444444,4,1237,Closed
+Add Spring-specific styling to Gradle Plugin's documentation,2019-03-26T16:07:46Z,,2019-04-03T07:06:22Z,2,CHANGES_REQUESTED,182.97666666666666,3,1622,Closed
+Null serialisation is not disabled when spring.gson.serialize-nulls is set to false,2019-03-27T02:51:02Z,,2019-03-29T13:09:19Z,1,APPROVED,58.304722222222225,2,390,Closed
+ThymeleafAutoConfiguration fails if thymeleaf-spring5 is not present,2019-03-27T23:15:18Z,,2019-03-28T15:38:02Z,1,APPROVED,16.378888888888888,1,225,Closed
+Add support for Couchbase's role based access,2019-03-29T15:09:52Z,,2019-05-21T07:16:22Z,9,,1264.1083333333333,2,400,Closed
+Rework o.s.b.a.couchbase.CouchbaseConfiguration to avoid the need for bean method proxying,2019-04-01T14:55:00Z,,2019-04-08T07:50:19Z,1,,160.92194444444445,6,72,Closed
+Polish embedded tomcat setup,2019-04-03T19:28:40Z,,2019-04-05T06:45:29Z,2,,35.280277777777776,3,1302,Closed
+Automatically register @EndpointConverter-annotated Converter and GenericConverter beans with the ConversionService used by Actuator endpoints,2019-04-04T04:53:22Z,,2019-07-23T10:32:17Z,2,,2645.648611111111,3,118,Closed
+AutoConfiguration support for Data Mongo ReactiveGridFsTemplate,2019-04-05T08:50:39Z,,2019-04-17T13:40:36Z,4,CHANGES_REQUESTED,292.8325,2,80,Closed
+Speedup element equality checks in ConfigurationPropertyName,2019-04-05T20:18:28Z,,2019-04-24T13:03:57Z,1,APPROVED,448.75805555555553,1,3013,Closed
+"Actuator /configprops shows Duration properties as { ""units"": [ ""SECONDS"", ""NANOS"" ] }",2019-04-11T16:35:31Z,,2019-05-21T08:03:03Z,3,,951.4588888888889,2,133,Closed
+Upgrade to Kotlin 1.3.30,2019-04-13T11:22:13Z,,2019-04-15T11:38:54Z,1,,48.278055555555554,1,36,Closed
+Polish,2019-04-18T04:26:32Z,,2019-04-19T08:03:36Z,2,,27.61777777777778,4,1237,Closed
+Support programmatic lazy-int exclusion,2019-04-20T23:44:11Z,,2019-09-27T04:27:34Z,5,,3820.7230555555557,3,1185,Closed
+JacksonTester handles some characters asymmetrically,2019-04-24T06:57:34Z,,2019-04-25T02:53:43Z,2,,19.935833333333335,10,212,Closed
+Add support for Hazelcast YAML configuration,2019-04-24T07:51:51Z,,2019-04-29T13:18:47Z,2,,125.44888888888889,11,1516,Closed
+Redis pooling minIdle property is ignored as timeBetweenEvictionRun defaults to -1 and cannot be configured,2019-05-02T13:12:56Z,,2019-05-09T14:42:55Z,7,CHANGES_REQUESTED,169.49972222222223,5,875,Closed
+'spring.resources.cache.period' is always overridden by 'spring.resources.cache.cachecontrol',2019-05-06T19:19:48Z,,2019-05-10T21:21:28Z,2,,98.02777777777777,3,1480,Closed
+make repackager thread-safe,2019-05-15T14:40:03Z,,2019-05-16T20:40:46Z,3,,30.011944444444445,2,1304,Closed
+Improve notes for the import into IntelliJ IDEA,2019-05-15T15:34:30Z,,2019-05-20T12:50:05Z,3,APPROVED,117.25972222222222,1,1423,Closed
+@ConfigurationPropertiesScan should import ConfigurationPropertiesBindingPostProcessorRegistrar,2019-05-17T20:54:11Z,,2019-08-02T13:30:51Z,1,,1840.611111111111,1,72,Closed
+Update Maven spring-boot:run to launch JVM with flags to enable development-time optimisations,2019-05-22T14:38:43Z,,2019-05-25T10:28:19Z,1,CHANGES_REQUESTED,67.82666666666667,1,14,Closed
+Add missing @Test annotation,2019-05-29T17:11:31Z,,2019-05-29T21:42:13Z,1,,4.511666666666667,1,119,Closed
+Add `configuration-strategy` property to RedisSessionProperties  to configure `ConfigureRedisAction`,2019-05-30T16:36:15Z,,2019-06-13T00:35:15Z,3,,319.98333333333335,3,14,Closed
+Replace anonymous class with lambda,2019-06-01T09:12:26Z,,2019-06-01T20:15:43Z,1,,11.054722222222223,2,0,Closed
+Polish OutputCapture and its JUnit Jupiter extension,2019-06-03T12:21:39Z,,2019-07-18T16:47:25Z,2,,1084.4294444444445,5,607,Closed
+Migrate LoggingSystemTests to JUnit 5,2019-06-11T14:23:11Z,,2019-06-29T22:57:11Z,2,CHANGES_REQUESTED,440.56666666666666,5,14,Closed
+"Add ""OAuth2TokenValidator<Jwt>"" to ""JwtDecoder"" auto configuration",2019-06-17T18:24:12Z,,2019-06-26T16:23:19Z,3,,213.98527777777778,4,366,Closed
+Update flush mode related Spring Session configuration properties,2019-06-20T13:21:49Z,,2019-07-02T09:09:27Z,1,,283.7938888888889,9,426,Closed
+Polish WebServiceTemplateBuilder,2019-06-21T14:20:03Z,,2019-06-29T21:37:04Z,3,,199.2836111111111,2,51,Closed
+Provide a configuration property for JMS listener container's receive timeout,2019-06-27T08:46:50Z,,2019-09-05T20:51:18Z,1,,1692.0744444444445,3,489,Closed
+add isolation level to KafkaProperties,2019-07-01T19:25:53Z,,2019-07-05T18:01:00Z,5,,94.58527777777778,2,62,Closed
+Add extra validators to ConfigurationProperties,2019-07-01T22:21:10Z,,2019-07-31T19:20:30Z,3,,716.9888888888889,3,1053,Closed
+Use Assertions.contentOf() where possible,2019-07-05T17:54:31Z,,2019-07-10T05:43:34Z,2,,107.8175,3,131,Closed
+Polish BatchAutoConfiguration,2019-07-09T13:39:05Z,,2019-07-09T15:57:04Z,1,,2.299722222222222,2,0,Closed
+Create RestClient bean from a RestHighLevelClient if such a bean has been contributed by the application.,2019-07-11T08:35:02Z,,2019-08-01T12:25:21Z,1,,507.8386111111111,3,14,Closed
+Trimming the whitespace for the OAuth2 provider property,2019-07-12T10:02:05Z,,2019-07-24T13:41:43Z,4,,291.66055555555556,2,14,Closed
+Add HealthIndicator for Hazelcast,2019-07-12T13:34:16Z,,2019-07-18T13:02:26Z,4,,143.46944444444443,8,14,Closed
+Add metrics support for idle jdbc connections,2019-07-13T13:54:31Z,,2019-07-17T12:15:57Z,9,,94.35722222222222,9,80,Closed
+Add support for configuring Spring Session SaveMode,2019-07-15T04:38:12Z,,2019-07-16T09:32:02Z,1,,28.897222222222222,11,133,Closed
+Add support for configuring logger groups via loggers endpoint,2019-07-15T09:29:45Z,,2019-07-30T19:00:08Z,1,,369.50638888888886,8,1388,Closed
+Remove testsupport.assertj package,2019-07-17T13:49:45Z,,2019-07-18T12:28:31Z,1,,22.64611111111111,8,243,Closed
+"Clarify description of ""logging.file.max-history""",2019-07-18T08:39:07Z,,2019-07-24T09:37:49Z,1,,144.97833333333332,1,15,Closed
+Include HandlerInterceptor beans in WebMvcTest slice,2019-07-22T08:51:37Z,,2019-07-22T19:36:30Z,1,APPROVED,10.748055555555556,2,14,Closed
+Include WebFilter beans in WebFluxTest slice,2019-07-22T09:00:17Z,,2019-07-22T19:39:59Z,1,APPROVED,10.661666666666667,2,0,Closed
+Align JavaVersion.NINE name with JDK versioning,2019-07-23T15:16:42Z,,2019-07-24T09:15:03Z,1,APPROVED,17.9725,2,199,Closed
+Polish,2019-07-24T05:42:08Z,,2019-07-24T09:04:43Z,3,,3.376388888888889,5,1237,Closed
+Provide a way to run HealthIndicators concurrently,2019-07-24T07:17:47Z,,2019-08-29T13:13:18Z,1,,869.9252777777778,9,66,Closed
+Default password should not be generated when using resource server,2019-07-25T17:59:54Z,,2019-07-29T21:15:49Z,1,,99.26527777777778,6,1377,Closed
+Missing TransactionManager when user provides a custom Neo4j SessionFactory.,2019-07-29T08:33:56Z,,2019-08-02T15:36:27Z,3,,103.04194444444444,2,672,Closed
+Add dependency management for Kotlin Coroutines BOM,2019-07-30T13:27:06Z,,2019-07-31T08:02:04Z,2,,18.58277777777778,6,1102,Closed
+Simplify if statements,2019-08-05T15:01:54Z,,2019-08-08T12:38:44Z,2,,69.6138888888889,5,123,Closed
+Add support for Quartz in Actuator,2019-08-11T16:29:55Z,,2021-03-29T08:10:38Z,1,,14295.67861111111,14,1598,Closed
+Simplify some code,2019-08-12T05:53:54Z,,2019-08-14T06:39:10Z,2,CHANGES_REQUESTED,48.754444444444445,1,1185,Closed
+Add confirm-type property to RabbitProperties,2019-08-13T02:26:31Z,,2019-08-24T02:01:52Z,3,,263.58916666666664,4,1297,Closed
+Allow Jetty's threadpool to be configured via properties,2019-08-14T23:38:23Z,,2019-08-16T01:35:16Z,2,,25.948055555555555,4,1416,Closed
+Use a configurable location to load global Devtools settings,2019-08-20T21:32:48Z,,2021-07-19T17:27:18Z,3,,16771.908333333333,2,1376,Closed
+Polish,2019-08-26T12:38:44Z,,2019-08-28T09:30:15Z,5,CHANGES_REQUESTED,44.85861111111111,8,75,Closed
+RestTemplateExchangeTags does not handle non-standard status codes,2019-08-29T03:27:30Z,,2019-08-29T12:48:04Z,1,,9.342777777777778,4,1256,Closed
+Add kotlin code snippets to spring-boot refdoc,2019-08-30T09:10:25Z,,2020-10-02T09:05:20Z,10,,9575.915277777778,32,1266,Closed
+Add property ROLLING_FILE_LOG_PATTERN for File Appender,2019-09-06T02:39:18Z,,2019-09-16T07:28:48Z,3,,244.825,13,1378,Closed
+Simplify code,2019-09-06T12:29:48Z,,2019-09-06T16:00:28Z,2,,3.511111111111111,7,114,Closed
+Remove management.health.status.order from docs,2019-09-06T20:13:01Z,,2019-09-09T12:15:32Z,2,,64.04194444444444,3,669,Closed
+Simplify code,2019-09-07T09:21:00Z,,2019-09-09T07:58:07Z,4,,46.618611111111115,6,0,Closed
+Allow forcing self-closing Liquibase datasource,2019-09-16T14:22:29Z,,2020-08-05T15:15:23Z,2,,7776.881666666667,3,822,Closed
+Add Ansi 256 Colors support for ResourceBanner,2019-09-18T07:32:28Z,,2019-09-22T06:31:46Z,1,,94.98833333333333,6,2686,Closed
+Add support for Diagnostic MBean in actuator,2019-09-20T20:27:38Z,,2020-03-05T17:03:10Z,1,,4004.592222222222,4,1114,Closed
+Enforce ordering when ObjectProvider is used,2019-09-24T04:45:11Z,,2019-09-29T01:51:23Z,1,,117.10333333333334,4,88,Closed
+Some code that can be simplified,2019-09-24T14:52:15Z,,2019-09-27T02:12:58Z,5,,59.34527777777778,3,92,Closed
+Support new Micrometer NewRelicConfig eventType properties,2019-10-02T03:59:47Z,,2019-10-03T05:16:42Z,1,,25.281944444444445,4,651,Closed
+Add some more notes on running exploded jar files,2019-10-02T11:55:40Z,,2019-10-15T08:03:40Z,2,,308.1333333333333,1,428,Closed
+Add group RemoteIpValve for ServerProperties.Tomcat,2019-10-03T02:34:12Z,,2019-11-27T13:55:26Z,2,,1331.3538888888888,3,1201,Closed
+spring-boot-loader Performance and other optimizations backports from 2.1.x,2019-10-05T12:49:25Z,,2019-10-05T14:33:05Z,1,,1.7277777777777779,20,1990,Closed
+Fix incorrect backslash escape for curly braces inside of Java code blocks,2019-10-08T20:15:54Z,,2019-10-13T06:46:16Z,1,,106.50611111111111,1,106,Closed
+remove boxing,2019-10-10T06:22:36Z,,2019-10-11T15:39:45Z,1,,33.285833333333336,2,13,Closed
+Rename `max-http-post-size` server property,2019-10-12T18:14:54Z,,2019-10-22T23:20:45Z,4,CHANGES_REQUESTED,245.0975,5,2796,Closed
+Optimize debug level logs,2019-10-15T12:41:38Z,,2019-10-22T07:41:30Z,3,APPROVED,162.99777777777777,5,25,Closed
+Immutable configuration properties not shown by Actuator,2019-10-18T14:59:35Z,,2019-10-22T14:43:55Z,2,CHANGES_REQUESTED,95.7388888888889,1,1276,Closed
+Support commas embedded in command line arguments from Maven plugin,2019-10-23T15:24:46Z,,2019-12-26T10:19:24Z,5,,1530.9105555555554,9,16,Closed
+Polish,2019-10-25T03:06:58Z,,2019-10-29T07:36:46Z,2,,100.49666666666667,6,59,Closed
+Support amqps:// URIs in spring.rabbitmq.addresses,2019-10-29T20:17:51Z,,2019-11-05T13:18:18Z,2,,161.0075,2,137,Closed
+Add reference to Armeria starter,2019-11-01T04:50:12Z,,2019-11-01T13:25:41Z,2,,8.591388888888888,1,82,Closed
+JSON keys containing a dot from CF environment are not handled as a single path segment,2019-11-07T11:03:11Z,,2020-02-11T22:54:56Z,1,,2315.8625,2,1068,Closed
+Improve Dockerfile example to extract the application jar based on an argument,2019-11-07T16:45:16Z,,2019-11-13T12:38:10Z,7,,139.88166666666666,1,72,Closed
+Use DeferredLog in CloudFoundryVcapEnvironmentPostProcessor,2019-11-15T10:53:30Z,,2019-11-21T12:43:33Z,2,,145.83416666666668,2,293,Closed
+Polish AbstractDependsOnBeanFactoryPostProcessor,2019-11-18T12:12:51Z,,2019-11-27T16:51:28Z,6,,220.6436111111111,2,86,Closed
+Support tc datasource prefix for test containers,2019-11-19T05:53:10Z,,2019-11-27T10:04:16Z,8,,196.185,3,1185,Closed
+Add configuration property for RabbitMQ client requestedChannelMax,2019-11-23T12:15:27Z,,2019-11-27T09:38:08Z,6,CHANGES_REQUESTED,93.37805555555556,3,1026,Closed
+ssl.enabled is ignored when Rabbit is configured with an address with no protocol ,2019-11-25T01:47:12Z,,2019-11-25T13:00:40Z,1,,11.224444444444444,2,97,Closed
+Allow custom url in @AutoConfigureTestDatabase,2019-11-27T18:22:46Z,,2020-01-16T18:18:51Z,3,,1199.9347222222223,4,1316,Closed
+Liquibase actuator endpoint does not give correct information when multiple databases are used in one project,2019-11-28T03:59:50Z,,2019-11-29T09:55:53Z,2,APPROVED,29.934166666666666,3,1185,Closed
+No error message when server.ssl.keyAlias doesn't match an entry,2019-12-01T23:38:44Z,,2020-02-12T03:04:44Z,7,,1731.4333333333334,10,587,Closed
+Improve documentation coverage for Spring Batch,2019-12-02T19:04:08Z,,2019-12-23T09:05:23Z,12,,494.0208333333333,1,1310,Closed
+Add support for configuring Liquibase's tag,2019-12-06T01:13:15Z,,2020-02-17T08:57:38Z,11,,1759.7397222222223,3,1201,Closed
+Implements assertion to SampleTestApplicationWebIntegrationTests,2019-12-06T23:14:05Z,,2019-12-12T15:51:30Z,2,APPROVED,136.6236111111111,1,46,Closed
+@DataJpaTest using H2 with schema.sql and spring.datasource.schema-username fails,2019-12-07T11:59:39Z,,2020-04-08T15:28:13Z,4,,2955.476111111111,4,1516,Closed
+Add 'threads' configuration group for embedded containers,2019-12-28T14:42:31Z,,2020-03-19T12:23:01Z,8,,1965.675,8,567,Closed
+Polish note about handling of caches that are created on-the-fly,2019-12-31T02:50:53Z,,2019-12-31T09:08:12Z,6,,6.288611111111111,1,1212,Closed
+Add support for configuring embedded Jetty's max queue capacity,2019-12-31T03:29:50Z,,2020-02-14T13:56:37Z,3,,1090.4463888888888,12,1928,Closed
+Make equality checks defensive to null reference,2020-01-06T06:40:16Z,,2020-01-13T16:45:22Z,3,CHANGES_REQUESTED,178.085,5,202,Closed
+Profile with comma in name does not work in tests,2020-01-07T16:05:29Z,,2020-01-07T21:35:17Z,5,APPROVED,5.496666666666667,2,334,Closed
+DataSource url property is ignored when there is no connection pool,2020-01-08T14:40:39Z,,2020-02-18T15:52:42Z,2,,985.2008333333333,5,621,Closed
+Pass CI branch parameter to build scan,2020-01-12T12:49:16Z,,2020-01-16T14:43:03Z,1,,97.8963888888889,3,320,Closed
+Add a way to customize Hazelcast's Client/Server configs,2020-01-13T13:30:47Z,,2020-02-07T12:43:28Z,5,CHANGES_REQUESTED,599.2113888888889,11,740,Closed
+"Made setDefaultProperties(Map) duplicate the map passed in, rather th…",2020-01-13T15:18:02Z,,2020-01-31T19:15:53Z,8,APPROVED,435.96416666666664,2,829,Closed
+Remove deprecated 2.2 code,2020-01-13T21:19:47Z,,2020-01-16T14:25:36Z,2,,65.09694444444445,104,202,Closed
+Upgrade to Kafka to 2.4.0 and Spring Kafka 2.4.1,2020-01-15T23:25:00Z,,2020-01-23T09:22:27Z,3,,177.9575,1,515,Closed
+Allow Data Couchbase's type key to be configured via application properties,2020-01-17T10:58:31Z,,2020-01-27T10:11:58Z,2,APPROVED,239.22416666666666,3,57,Closed
+Update documentation on excluding an auto-configuration to recommend exclude on SpringBootApplication,2020-01-22T17:31:43Z,,2020-01-23T08:54:31Z,2,,15.38,1,1315,Closed
+Upgrade to Flyway 6.2 and support new validate migration naming property,2020-01-23T16:44:54Z,,2020-01-27T14:30:14Z,2,,93.75555555555556,4,220,Closed
+Unnecessary use of / in classpath:/db/changelog/db.changelog-master.yaml prevents Liquibase from identifying that a change set has already been applied when run from the command line,2020-01-26T02:15:17Z,,2020-02-14T09:22:29Z,2,CHANGES_REQUESTED,463.12,5,2690,Closed
+Fix broken documentation links,2020-01-26T18:27:38Z,,2020-01-27T13:15:39Z,1,,18.80027777777778,9,282,Closed
+Conditions evaluation report mistakenly prints '@ConditionalOnBean' for negative matches,2020-01-27T16:55:07Z,,2020-02-11T08:32:09Z,1,,351.6172222222222,2,496,Closed
+Upgrade to MongoDB 4.0.0-beta1,2020-01-28T13:01:31Z,,2020-02-03T15:08:54Z,3,,146.12305555555557,26,369,Closed
+Fix link to Spring Integration Graph documentation,2020-01-31T07:43:54Z,,2020-02-03T16:34:22Z,6,,80.8411111111111,2,81,Closed
+Include licence and notice files in shipped jars,2020-02-07T11:41:36Z,,2020-02-19T10:12:18Z,10,APPROVED,286.51166666666666,4,171,Closed
+Reinstate Cassandra smoke tests,2020-02-08T16:13:41Z,,2020-02-09T07:28:35Z,1,,15.248333333333333,7,658,Closed
+Invalid variable reference in maven-shade-plugin configuration,2020-02-12T14:13:27Z,,2020-02-13T07:34:36Z,4,CHANGES_REQUESTED,17.3525,1,1502,Closed
+Implement possibility to set custom java home for Gradle tasks,2020-02-14T10:02:26Z,,2020-02-25T15:54:42Z,1,,269.87111111111113,1,551,Closed
+Revisit PluginXmlParserTests,2020-02-15T00:40:24Z,,2020-02-17T08:37:23Z,7,CHANGES_REQUESTED,55.94972222222222,2,1384,Closed
+Polish,2020-02-15T04:17:58Z,,2020-02-16T16:34:16Z,1,,36.27166666666667,5,0,Closed
+Embedded directory server should be usable without `spring-ldap-core`,2020-02-18T17:16:19Z,,2020-03-04T13:49:55Z,3,APPROVED,356.56,3,5513,Closed
+Improve error message when creating an image with no Docker Daemon available,2020-02-22T00:48:20Z,,2020-02-27T22:15:55Z,1,,141.4597222222222,2,1405,Closed
+Polish DataSourceHealthIndicator,2020-03-02T14:23:35Z,,2020-03-05T09:14:13Z,7,,66.84388888888888,1,1393,Closed
+Add hypermedia autoconfiguration for WebTestClient.,2020-03-02T20:57:09Z,,2020-03-23T15:44:03Z,8,CHANGES_REQUESTED,498.7816666666667,6,62,Closed
+Add Java 14 CI,2020-03-06T17:08:41Z,,2020-03-18T13:33:46Z,2,,284.41805555555555,11,575,Closed
+Polish,2020-03-08T08:25:48Z,,2020-03-08T16:28:25Z,1,,8.043611111111112,4,6,Closed
+Automate Docker updates in CI,2020-03-15T14:32:29Z,,2020-03-31T17:48:42Z,14,,387.2702777777778,8,311,Closed
+Fix typos,2020-03-27T17:24:04Z,,2020-03-28T07:46:42Z,2,,14.377222222222223,6,260,Closed
+"Fix for issue #10886 ""Incremental compilation does not keep metadata…""",2020-03-30T00:54:15Z,,2020-07-09T05:28:31Z,1,,2428.571111111111,15,244,Closed
+#20144 - Gradle Flaky Test Mitigation Plugin ,2020-03-30T02:36:04Z,,2020-03-31T15:03:54Z,1,CHANGES_REQUESTED,36.46388888888889,3,1259,Closed
+Clarify the type to which connection-pool-specific `spring.datasource` properties are bound,2020-03-30T12:30:50Z,,2020-03-31T12:05:03Z,2,CHANGES_REQUESTED,23.57027777777778,1,1302,Closed
+Disable auto-configuration of Hazelcast IMDG when Hazelcast Jet is present,2020-03-30T14:43:49Z,,2020-04-01T13:48:22Z,1,CHANGES_REQUESTED,47.075833333333335,3,744,Closed
+Refactor ConventionsPlugin class,2020-04-02T01:45:02Z,,2020-04-09T12:06:13Z,4,APPROVED,178.35305555555556,3,1619,Closed
+Add reference to XChange starter,2020-04-03T21:28:09Z,,2020-04-17T07:37:12Z,1,,322.1508333333333,1,257,Closed
+Updated HazelcastClientConfiguration to support Hazelcast 4.0,2020-04-08T14:07:48Z,,2020-09-09T15:52:52Z,2,CHANGES_REQUESTED,3697.751111111111,1,537,Closed
+Add Cassandra health indicator that uses CqlSession,2020-04-08T19:30:20Z,,2020-06-15T09:13:59Z,12,CHANGES_REQUESTED,1621.7275,11,984,Closed
+Add Cookie's SameSite directive property,2020-04-10T13:03:47Z,,2020-04-15T09:43:32Z,1,,116.6625,5,1328,Closed
+Upgrade to Testcontainers 1.14.0,2020-04-14T06:52:13Z,,2020-04-15T07:21:43Z,2,,24.491666666666667,5,201,Closed
+Fix typo,2020-04-17T18:33:04Z,,2020-04-25T07:16:23Z,1,,180.72194444444443,1,84,Closed
+Provide an RSocketMessageHandlerCustomizer to allow customizing of the RSocketMessageHandler,2020-04-22T18:52:18Z,,2020-04-30T00:17:01Z,1,,173.41194444444446,2,102,Closed
+Fix duplicate slashes in URL links,2020-04-24T07:44:26Z,,2020-05-05T15:49:54Z,1,CHANGES_REQUESTED,272.0911111111111,5,387,Closed
+Proper ordering of metrics auto-configurations,2020-04-26T14:57:56Z,,2020-08-17T23:19:03Z,2,,2720.3519444444446,5,1853,Closed
+Add Period converter support,2020-04-27T01:14:28Z,,2020-05-06T07:30:48Z,4,,222.2722222222222,15,80,Closed
+Allow project dependencies to be assigned to layers by their coordinates,2020-04-28T09:34:01Z,,2020-04-29T13:26:07Z,1,APPROVED,27.868333333333332,4,320,Closed
+Support additional R2DBC pool properties,2020-04-29T03:27:29Z,,2020-07-14T14:54:42Z,8,CHANGES_REQUESTED,1835.453611111111,4,142,Closed
+Fix typo for includeLayerTools,2020-05-04T20:51:03Z,,2020-05-05T00:31:33Z,1,APPROVED,3.675,1,1280,Closed
+Support user info in Elasticsearch URIs,2020-05-11T00:47:32Z,,2020-06-07T18:58:22Z,9,APPROVED,666.1805555555555,2,1203,Closed
+"URI tag for WebMvc and WebFlux metrics is empty, rather than ""root"", when the path pattern is empty",2020-05-11T14:44:24Z,,2020-05-25T11:52:30Z,2,,333.135,4,1039,Closed
+Configure tests using TestContainer to use the actual container IP address,2020-05-17T03:57:45Z,,2020-05-25T13:00:22Z,1,,201.04361111111112,5,2310,Closed
+Fix typo in coordinates of junit-vintage-engine,2020-05-18T06:47:17Z,,2020-05-21T00:43:12Z,1,,65.93194444444444,1,87,Closed
+Add an example for setting a custom image name on the command line with Gradle,2020-05-18T14:20:16Z,,2020-05-20T20:58:02Z,1,,54.629444444444445,1,82,Closed
+Optimize SystemEnvironmentPropertyMapper,2020-05-20T19:02:28Z,,2020-06-05T23:21:13Z,5,,388.3125,1,309,Closed
+Print the java version being used on startup,2020-05-25T10:41:21Z,,2020-06-05T13:20:34Z,1,,266.6536111111111,1,212,Closed
+Upgrade to Testcontainers 1.14.2,2020-05-26T17:31:34Z,,2020-05-27T13:00:16Z,1,,19.47833333333333,12,146,Closed
+Add Cassandra driver Actuator metrics,2020-05-29T19:28:55Z,,2020-07-08T14:16:43Z,5,,954.7966666666666,6,448,Closed
+Support iso offset time and date-time conversion with MVC and WebFlux by setting time or date-time properties to iso-offset,2020-05-31T11:59:54Z,,2020-06-30T16:25:55Z,3,APPROVED,724.4336111111111,3,1298,Closed
+Add support for easily disabling metrics export,2020-06-03T03:32:53Z,,2020-07-24T13:45:52Z,3,APPROVED,1234.2163888888888,48,137,Closed
+Add autoconfiguration for r2dbc-proxy,2020-06-04T00:57:44Z,,2021-05-18T08:28:10Z,5,CHANGES_REQUESTED,8359.507222222222,5,206,Closed
+Add Instana to supported monitoring systems,2020-06-04T17:17:59Z,,2020-06-05T14:29:00Z,1,,21.183611111111112,1,165,Closed
+Add Java 15 CI,2020-06-05T06:34:04Z,,2020-06-15T15:09:45Z,3,,248.59472222222223,7,325,Closed
+Fix wrong property reference to keys-to-sanitize in Javadoc,2020-06-13T04:50:37Z,,2020-06-15T06:42:33Z,1,,49.86555555555555,1,442,Closed
+Kafka Stream consumer metrics were lost in the move away from KafkaConsumerMetrics,2020-06-15T13:06:05Z,,2020-07-02T08:33:11Z,2,CHANGES_REQUESTED,403.45166666666665,6,13,Closed
+21873 flaky tests,2020-06-16T19:05:59Z,,2020-06-19T07:24:00Z,4,APPROVED,60.30027777777778,1,104,Closed
+Simplify logic in ErrorPage's equals method,2020-06-24T07:21:19Z,,2020-06-30T00:09:23Z,2,CHANGES_REQUESTED,136.8011111111111,1,320,Closed
+Disable XML bean definition loading when spring.xml.ignore is true,2020-06-24T16:08:30Z,,2020-06-25T10:59:12Z,4,,18.845,1,755,Closed
+Improve error handling in JDK upgrade checks,2020-06-25T13:34:04Z,,2020-07-01T12:49:48Z,2,,143.26222222222222,1,530,Closed
+Upgrade to Flyway 6.5 and support new create schemas property,2020-06-26T16:29:17Z,,2020-06-29T08:43:01Z,1,APPROVED,64.22888888888889,4,221,Closed
+Add StatsD transport protocol configuration option,2020-06-26T21:03:22Z,,2020-06-29T08:59:13Z,2,APPROVED,59.93083333333333,5,291,Closed
+Accept empty filter dispatcher types in auto-configurations,2020-06-27T16:20:55Z,,2020-06-30T16:40:27Z,2,APPROVED,72.32555555555555,4,311,Closed
+Add a property to not create HealthIndicators from AbstractRoutingDatasources,2020-07-04T12:18:00Z,,2020-07-07T08:45:53Z,5,APPROVED,68.46472222222222,3,75,Closed
+Support configuration of localEntityIdTemplate for a SAML Relying Party,2020-07-07T20:52:41Z,,2020-08-05T07:45:10Z,2,CHANGES_REQUESTED,682.8747222222222,6,310,Closed
+Fix dead link url and name of the STS download link,2020-07-08T23:34:37Z,,2020-07-09T08:58:41Z,2,,9.401111111111112,1,256,Closed
+Upgrade to Spring Data Neo4j 6,2020-07-10T06:46:43Z,,2020-07-29T17:39:42Z,8,CHANGES_REQUESTED,466.88305555555553,36,1589,Closed
+Add auto-configuration for Neo4j driver,2020-07-10T11:54:53Z,,2020-07-27T14:50:24Z,8,CHANGES_REQUESTED,410.92527777777775,12,612,Closed
+Ignore BackgroundPreinitializer in native images,2020-07-17T13:00:49Z,,2020-07-20T11:18:01Z,4,,70.28666666666666,1,156,Closed
+Allow EntityScanner to be configured to scan for interfaces and abstract classes,2020-07-20T13:23:01Z,,2020-09-01T08:03:40Z,3,CHANGES_REQUESTED,1026.6775,4,601,Closed
+Actual method parameter is the same constant inspection,2020-07-21T15:01:56Z,,2020-08-04T04:54:38Z,1,CHANGES_REQUESTED,325.87833333333333,5,99,Closed
+Update conditional inclusion of milestone repository,2020-07-22T13:40:32Z,,2020-07-23T09:29:09Z,4,,19.810277777777777,1,1476,Closed
+Polish,2020-07-23T06:51:06Z,,2020-07-23T16:17:24Z,1,,9.438333333333333,8,115,Closed
+Removed some redundant 'else's using early return,2020-07-23T12:36:52Z,,2020-09-01T11:37:44Z,1,CHANGES_REQUESTED,959.0144444444444,6,1282,Closed
+Add basic auth support for Prometheus pushgateway,2020-07-24T11:02:39Z,,2020-08-12T08:32:40Z,15,CHANGES_REQUESTED,453.5002777777778,2,1379,Closed
+Polish,2020-07-24T12:29:37Z,,2020-07-25T05:27:26Z,2,,16.96361111111111,3,1334,Closed
+Allow Jedis to be selected when both Jedis and Lettuce are on the classpath,2020-07-26T15:33:53Z,,2020-08-05T07:27:46Z,6,,231.89805555555554,5,95,Closed
+Add configuration to disable Redis Cluster dynamic sources refresh,2020-07-26T22:34:43Z,,2020-08-04T14:43:19Z,2,,208.14333333333335,3,145,Closed
+Add auto-configuration for Spring Data Envers,2020-07-28T08:03:28Z,,2021-06-14T06:32:50Z,6,APPROVED,7702.489444444444,11,130,Closed
+Allow DurationFormat and PeriodFormat to be used on parameters,2020-07-29T15:43:43Z,,2020-07-30T08:35:06Z,4,APPROVED,16.85638888888889,3,59,Closed
+Re-use the already built JAR file if possible,2020-07-31T07:55:07Z,,2020-07-31T15:27:28Z,2,,7.539166666666667,1,413,Closed
+Add no-pull option for image building,2020-08-04T20:32:13Z,,2020-08-12T20:57:18Z,2,,192.41805555555555,15,14,Closed
+Add Cassandra driver Actuator metrics,2020-08-19T16:05:25Z,,2021-03-15T12:47:35Z,19,,4988.702777777778,6,627,Closed
+Improve CassandraHealthIndicator with more robust mechanism,2020-08-21T14:59:37Z,,2020-10-02T14:13:07Z,7,CHANGES_REQUESTED,1007.225,8,1282,Closed
+Configure SAML 2.0 Service Provider via Metadata,2020-08-21T18:14:45Z,,2020-09-02T08:35:41Z,4,,278.3488888888889,5,1301,Closed
+Provide a property for configuring Spring AMQP's address shuffle mode,2020-08-26T11:47:25Z,,2020-08-27T12:39:00Z,1,CHANGES_REQUESTED,24.85972222222222,2,1572,Closed
+Support @Timed annotation for WebFlux,2020-08-27T10:47:20Z,,2021-04-09T06:16:26Z,1,,5395.485,2,1298,Closed
+Allow redis's connect and read/command timeouts to be configured separately,2020-08-29T20:48:46Z,,2020-09-11T09:47:00Z,5,CHANGES_REQUESTED,300.97055555555556,5,1298,Closed
+Make @PropertyMapping support nested annotations,2020-08-31T10:58:26Z,,2020-10-28T01:52:42Z,2,,1382.9044444444444,2,439,Closed
+Add support for Oracle UCP,2020-09-17T21:57:49Z,,2020-09-29T14:18:49Z,4,,280.35,10,88,Closed
+Polish empty string checks,2020-10-01T03:13:06Z,,2020-10-05T08:51:21Z,4,CHANGES_REQUESTED,101.6375,8,928,Closed
+Add configuration option to configure RabbitConnectionFactory's channelRpcTimeout,2020-10-01T22:22:07Z,,2020-10-02T08:23:15Z,2,,10.018888888888888,3,221,Closed
+Use JdbcTransactionManager in favor of DatasourceTransactionManager,2020-10-02T07:34:12Z,,2020-10-08T14:29:25Z,5,,150.92027777777778,1,229,Closed
+Polish,2020-10-12T11:51:46Z,,2020-10-13T19:44:48Z,4,,31.88388888888889,4,1334,Closed
+Databases that support embedded and non-embedded modes are always detected as embedded ,2020-10-14T23:46:36Z,,2020-10-16T14:34:41Z,1,CHANGES_REQUESTED,38.80138888888889,7,2573,Closed
+Auto-configure Mongo metrics,2020-11-02T06:14:00Z,,2021-04-06T17:16:41Z,21,APPROVED,3731.0447222222224,6,1161,Closed
+Add keyStoreAlgorithm and trustStoreAlgorithm configuration option to configure RabbitConnectionFactory,2020-11-09T05:35:18Z,,2020-12-15T10:02:21Z,2,APPROVED,868.4508333333333,3,1383,Closed
+Missing Spring Integration metrics due to the MeterRegistry bean being looked for before it has been defined,2020-11-09T17:01:45Z,,2020-11-20T11:37:22Z,7,,258.5936111111111,5,1057,Closed
+Ensure the WebClient to be present before enabling the WebTestClientContextCustomizer,2020-11-13T17:51:27Z,,2020-11-25T13:55:34Z,2,,284.0686111111111,3,5903,Closed
+Persistent and RelationshipProperties-annotated types are not scanned with Spring Data Neo4j,2020-11-24T11:33:42Z,,2020-12-22T11:32:37Z,1,CHANGES_REQUESTED,671.9819444444445,7,446,Closed
+Document how to run unit tests,2020-11-30T19:36:10Z,,2020-12-09T01:33:52Z,5,CHANGES_REQUESTED,197.96166666666667,1,53,Closed
+Allow to configure ActiveMQ Artemis using broker url,2020-11-30T19:49:32Z,,2020-12-21T16:54:33Z,10,APPROVED,501.0836111111111,4,1298,Closed
+Allow recursive profile group references,2020-12-03T23:06:59Z,,2020-12-10T01:52:57Z,1,,146.76611111111112,2,179,Closed
+Upgrade to Hibernate 5.4.25.Final,2020-12-04T10:45:02Z,,2020-12-04T15:57:56Z,3,,5.215,1,1301,Closed
+Add support for Elasticsearch Sniffer,2020-12-05T17:07:12Z,,2020-12-23T16:15:38Z,3,CHANGES_REQUESTED,431.1405555555556,4,68,Closed
+log health status (and description) if status != UP,2020-12-07T09:45:50Z,,2021-09-17T20:22:59Z,4,,6826.619166666666,2,727,Closed
+Avoid duplicate classes in MergedContextConfiguration,2020-12-16T19:01:49Z,,2020-12-16T21:11:47Z,2,,2.1661111111111113,2,929,Closed
+WebServer implementations should return -1 if not listening on a port,2020-12-23T14:34:16Z,,2021-01-06T00:04:27Z,1,,321.50305555555553,6,476,Closed
+Change info endpoint to be secure and unexposed by default,2021-01-08T20:36:31Z,,2021-01-21T23:16:14Z,4,,314.66194444444443,14,1319,Closed
+Support get requests for /actuator/startup,2021-01-09T15:58:36Z,,2021-01-11T08:15:01Z,1,,40.27361111111111,3,58,Closed
+Allow the configprops endpoint to return properties with a particular prefix,2021-01-10T04:53:17Z,,2021-02-10T16:34:51Z,11,,755.6927777777778,7,461,Closed
+Upgrade to Groovy 3.0.7,2021-01-20T18:21:08Z,,2021-01-21T14:33:46Z,6,,20.210555555555555,6,94,Closed
+Add reference to Ogham Spring Boot starters,2021-01-21T15:54:36Z,,2021-01-22T11:08:11Z,1,CHANGES_REQUESTED,19.226388888888888,1,731,Closed
+Fix minor typo in pull request template,2021-01-21T20:22:24Z,,2021-01-22T11:50:16Z,1,,15.464444444444444,1,159,Closed
+Polish README,2021-01-23T21:09:04Z,,2021-02-22T08:17:38Z,3,,707.1427777777777,1,154,Closed
+Polish,2021-02-03T13:15:15Z,,2021-02-09T08:50:21Z,4,,139.585,4,1338,Closed
+javax.persistence.schema-generation.database.action is ignored when checking if default DDL auto setting should be applied,2021-02-07T22:08:11Z,,2021-03-22T13:47:06Z,10,CHANGES_REQUESTED,1023.6486111111111,4,135,Closed
+Verifies that the CassandraProperties default values are the same as driver built-in defaults,2021-02-08T00:34:35Z,,2021-02-10T09:47:12Z,4,CHANGES_REQUESTED,57.210277777777776,1,1703,Closed
+initQueryTimeout and ildeTimeout defaults are not aligned with Cassandra defaults,2021-02-09T17:40:38Z,,2021-02-10T08:42:20Z,2,,15.028333333333334,2,318,Closed
+Allow the project to be built with Java 16,2021-02-10T15:04:35Z,,2021-03-04T19:15:26Z,12,,532.1808333333333,9,3721,Closed
+Add InfluxDB customizer hook point,2021-02-17T00:04:59Z,,2021-02-23T10:36:15Z,7,CHANGES_REQUESTED,154.5211111111111,5,178,Closed
+Docs contribution section,2021-02-19T15:54:28Z,,2021-04-12T07:33:51Z,3,CHANGES_REQUESTED,1239.6563888888888,1,1286,Closed
+Improve documentation of Mockito test execution listeners,2021-02-19T16:00:03Z,,2021-03-05T14:16:56Z,1,CHANGES_REQUESTED,334.2813888888889,1,1450,Closed
+Clear cache in SpyBeanWithAopProxyTests.verifyShouldUseProxyTarget,2021-02-25T16:50:11Z,,2021-07-13T08:40:39Z,2,,3303.8411111111113,1,1280,Closed
+Allow PersistenceUnitPostProcessor to be configured on EntityManagerFactoryBuilder,2021-02-26T02:02:21Z,,2021-02-27T10:39:20Z,8,,32.61638888888889,2,2031,Closed
+Polish,2021-02-26T15:30:36Z,,2021-02-27T10:24:12Z,2,CHANGES_REQUESTED,18.893333333333334,7,1338,Closed
+Provide configuration properties for Flyway's Vault and Conjur support ,2021-02-27T04:56:29Z,,2021-03-01T08:49:18Z,10,CHANGES_REQUESTED,51.88027777777778,4,16,Closed
+Add Java 16 CI pipeline,2021-03-05T15:26:37Z,,2021-03-05T17:46:56Z,6,,2.338611111111111,7,392,Closed
+Provide health for an AbstractRoutingDataSource's resolved targets,2021-03-17T03:23:27Z,,2021-04-10T10:15:15Z,2,,582.8633333333333,2,188,Closed
+Support sending metrics to InfluxDB v2,2021-03-17T13:33:00Z,,2021-03-17T14:57:23Z,2,,1.406388888888889,4,388,Closed
+Add metrics for AbstractRoutingDataSource.,2021-03-20T13:11:50Z,,2021-04-12T16:14:17Z,1,,555.0408333333334,3,16,Closed
+Additional profiles are processed too late when legacy processing is used,2021-03-29T02:18:03Z,,2021-05-11T21:47:51Z,16,,1051.4966666666667,6,809,Closed
+Add detection of Azure App Service to CloudPlatform,2021-03-30T11:27:59Z,,2021-04-07T12:46:14Z,4,APPROVED,193.30416666666667,2,1283,Closed
+Remove unused method parameters,2021-04-09T15:21:27Z,,2021-04-12T07:10:24Z,5,APPROVED,63.81583333333333,10,79,Closed
+Add auto-configuration for Micrometer DiskSpaceMetrics,2021-04-11T04:15:25Z,,2021-06-11T15:02:01Z,7,APPROVED,1474.7766666666666,3,708,Closed
+Unexpected constructor-based initialization of nested @ConfigurationProperties leads to inconsistent behaviour #25368,2021-04-16T06:23:16Z,,2021-09-10T23:08:31Z,1,,3544.7541666666666,3,545,Closed
+Polish,2021-04-21T12:56:35Z,,2021-04-21T15:21:00Z,2,,2.4069444444444446,6,1338,Closed
+Enable Redis connection pool if commons-pool2 is on the classpath,2021-04-22T06:28:55Z,,2021-04-30T12:35:09Z,2,,198.1038888888889,315,92,Closed
+Reproducible build for spring-boot-maven-plugin:build-info,2021-04-23T11:50:12Z,,2021-06-12T15:26:41Z,1,APPROVED,1203.6080555555557,4,356,Closed
+Configuration item metadata ordering is not consistent,2021-04-25T10:01:55Z,,2021-04-28T12:13:52Z,5,,74.19916666666667,2,17,Closed
+Add spring.webflux.multipart configuration properties,2021-04-27T14:00:38Z,,2021-08-02T13:50:43Z,14,,2327.8347222222224,6,150,Closed
+Add support for Dynatrace metrics v2 API,2021-04-27T14:50:14Z,,2021-07-16T16:40:08Z,5,,1921.8316666666667,6,526,Closed
+Add configuration property for Tomcat's rejectIllegalHeader,2021-04-29T18:29:36Z,,2021-06-12T15:39:36Z,1,APPROVED,1053.1666666666667,4,143,Closed
+Polish README,2021-04-30T09:24:20Z,,2021-05-01T14:26:58Z,6,CHANGES_REQUESTED,29.04388888888889,1,1402,Closed
+Enable Redis connection pool if commons-pool2 is on the classpath,2021-04-30T12:27:14Z,,2021-06-14T06:27:19Z,9,APPROVED,1074.0013888888889,5,251,Closed
+Add Lombok @Value support for configuration metadata generation,2021-05-02T12:45:43Z,,2021-06-12T15:41:36Z,1,APPROVED,986.9313888888889,5,1374,Closed
+Apply RSocketConnectorConfigurer beans to the RSocketRequester.Builder,2021-05-02T14:40:51Z,,2021-06-12T16:00:05Z,1,APPROVED,985.3205555555555,2,16,Closed
+Optimize cache storage and solve memory release,2021-05-06T07:57:35Z,,2021-05-06T14:37:07Z,3,,6.658888888888889,1,204,Closed
+Auto-configure binding of Micrometer's JettyConnectionMetrics and JettySslHandshakeMetrics,2021-05-09T21:49:30Z,,2021-07-13T13:02:42Z,11,,1551.22,4,143,Closed
+Allow to configure StartMojo's wait and maxAttempts attributes from the command-line,2021-05-11T06:13:18Z,,2021-06-12T16:16:57Z,2,APPROVED,778.0608333333333,2,424,Closed
+Allow the WebSessionManager's session ID resolver to be customized using a WebSessionIdResolver bean,2021-05-12T08:17:34Z,,2021-06-14T06:16:52Z,4,APPROVED,789.9883333333333,2,161,Closed
+Remove unnecessary throws declaration in tests,2021-05-12T16:28:27Z,,2021-05-17T08:15:15Z,4,,111.78,129,46,Closed
+"Add properties for configuring Flyway's ignoreMigrationPatterns, detectEncoding, and failOnMissingLocations",2021-05-13T18:39:14Z,,2021-06-14T06:25:02Z,3,APPROVED,755.7633333333333,4,235,Closed
+Polish SpringApplication,2021-05-16T00:52:44Z,,2021-05-16T11:37:17Z,2,,10.7425,1,24,Closed
+Polish 'AbstractServletWebServerFactory.configureSessionCookie()',2021-05-16T12:18:10Z,,2021-05-17T14:08:55Z,1,APPROVED,25.845833333333335,1,63,Closed
+Add SpringApplicationBuilder constructor with ResourceLoader parameter,2021-05-28T02:46:46Z,,2021-06-14T06:20:12Z,4,APPROVED,411.5572222222222,2,1345,Closed
+Add Java 17 to JavaVersion enum,2021-06-05T07:43:15Z,,2021-07-20T14:15:00Z,1,,1086.5291666666667,2,108,Closed
+DevTools' LiveReload support's HTTP header handling is case sensitive,2021-06-08T09:37:57Z,,2021-06-16T00:31:59Z,5,,182.90055555555554,1,1706,Closed
+Update optaplanner spring boot starter url,2021-06-08T12:52:37Z,,2021-06-10T05:53:59Z,2,CHANGES_REQUESTED,41.022777777777776,1,65,Closed
+Add Rabbit connection factory configurers,2021-06-20T23:58:34Z,,2021-07-13T16:45:35Z,7,,544.7836111111111,4,123,Closed
+Avoid reflection in tests,2021-06-24T16:27:58Z,,2021-06-29T07:09:40Z,4,,110.695,11,86,Closed
+Fix typo in section title,2021-06-25T11:18:58Z,,2021-06-28T06:08:37Z,1,,66.8275,1,1720,Closed
+Remove unnecessary unit for spring.datasource.tomcat.max-active,2021-06-25T15:04:38Z,,2021-06-29T06:22:34Z,1,,87.29888888888888,1,142,Closed
+Remove default spring.mongodb.embedded.version,2021-06-26T18:54:32Z,,2021-07-13T09:49:23Z,3,,398.9141666666667,8,107,Closed
+Disable failing Gradle plugin tests on JDK 17,2021-07-14T14:12:03Z,,2021-07-16T11:27:01Z,1,,45.24944444444444,8,749,Closed
+Make setters on RabbitTemplateConfigurer public,2021-07-19T04:02:40Z,,2021-07-20T14:02:01Z,5,APPROVED,33.98916666666667,1,313,Closed
+Provide auto-configuration for spring-rabbit-stream,2021-07-23T18:11:50Z,,2021-08-11T12:35:49Z,16,CHANGES_REQUESTED,450.39972222222224,6,106,Closed
+A URI with non-alpha characters in its scheme is not sanitized,2021-07-23T19:23:43Z,,2021-07-26T10:27:29Z,4,APPROVED,63.062777777777775,2,1696,Closed
+Update examples in the Dynatrace documentation,2021-07-27T08:01:33Z,,2021-09-30T08:09:19Z,12,CHANGES_REQUESTED,1560.1294444444445,1,140,Closed
+Provide expiry and bufferLength configuration properties for configuring a distribution statistic,2021-08-06T09:21:01Z,,2021-08-16T08:07:54Z,3,CHANGES_REQUESTED,238.7813888888889,3,86,Closed
+Provide a configuration property for setting the path used by auto-configured disk space metrics,2021-08-15T03:09:00Z,,2021-09-16T05:47:16Z,5,CHANGES_REQUESTED,770.6377777777777,6,470,Closed
+Add support for multiple paths in DiskSpaceHealthIndicator,2021-08-16T00:48:24Z,,2021-08-23T16:06:40Z,2,,183.30444444444444,5,1205,Closed
+Document how to parameterize output directory for REST Docs with WebTestClient,2021-08-18T15:42:32Z,,2021-08-23T14:46:34Z,9,APPROVED,119.06722222222223,2,13,Closed
+Editing pass for the Actuator section,2021-08-18T18:37:34Z,,2021-09-09T00:36:56Z,30,CHANGES_REQUESTED,509.9894444444444,12,1286,Closed
+Include WebMvcRegistrations in @WebMvcTest,2021-08-27T06:23:36Z,,2021-09-10T06:06:29Z,1,APPROVED,335.71472222222224,3,1357,Closed
+Add testing for AbstractFailureAnalyzer.findCause,2021-09-03T08:21:10Z,,2021-09-21T08:10:11Z,1,,431.81694444444446,2,464,Closed
+Auto-configure JVM heap pressure metrics,2021-09-03T18:46:19Z,,2021-09-05T15:38:05Z,1,,44.86277777777778,2,1698,Closed
+Add startup time metrics,2021-09-05T21:16:39Z,,2021-09-16T12:10:05Z,10,,254.89055555555555,20,433,Closed
+Update documentation of spring.redis.jedis.pool.enabled to note that pooling is implicitly enabled in Sentinel mode,2021-09-08T09:00:02Z,,2021-09-22T09:55:01Z,1,,336.9163888888889,1,74,Closed
+Add Spring Integration default poller auto-config,2021-09-14T16:31:27Z,,2021-09-23T23:21:03Z,9,CHANGES_REQUESTED,222.82666666666665,4,1750,Closed
+Add auto-configuration for RabbitStreamTemplate,2021-09-17T22:42:40Z,,2022-01-03T13:12:11Z,4,,2582.4919444444445,4,55,Closed
+Log a fail/warn when config metadata default values are unable to be resolved,2021-09-18T15:55:44Z,,2023-07-20T16:05:17Z,21,,16080.159166666666,18,1639,Closed
+Expand English contractions from the documentation,2021-09-19T16:49:22Z,,2021-09-21T06:05:19Z,1,,37.26583333333333,26,1389,Closed
+"Make it clearer that, when using `@AutoConfigureTestEntityManager` outside of `@DataJpaTest`, any tests using the test entity manager must be `@Transactional`",2021-09-22T03:44:56Z,,2021-10-01T06:14:24Z,3,,218.4911111111111,2,78,Closed
+Support PEM format for Kafka SSL certificates and private key,2021-09-23T18:34:18Z,,2021-10-21T02:40:36Z,4,CHANGES_REQUESTED,656.105,1,1185,Closed
+Support both kebab-case and camelCase as Spring init CLI Options,2021-09-27T13:41:51Z,,2021-10-22T18:24:17Z,3,CHANGES_REQUESTED,604.7072222222222,2,122,Closed
+Avoid explicit initialization of Atomics with their default values,2021-10-01T09:30:06Z,,2021-10-05T13:39:35Z,1,,100.15805555555555,4,220,Closed
+Section 4.4 File Rotation mentions the wrong configuration file name for Log4j2,2021-10-04T08:37:26Z,,2021-10-05T06:37:20Z,1,,21.998333333333335,1,1372,Closed
+Log URLs for all DataSources when H2 Console is auto-configured,2021-10-06T06:01:11Z,,2021-10-14T07:27:20Z,3,CHANGES_REQUESTED,193.43583333333333,2,140,Closed
+Polish,2021-10-08T01:57:43Z,,2021-10-13T07:58:30Z,1,,126.01305555555555,23,35,Closed
+Provide a configuration property for enabling/disabling Spring Integration's default logging,2021-10-14T20:03:23Z,,2021-10-19T10:11:51Z,4,,110.14111111111112,3,1803,Closed
+Polish,2021-10-18T07:03:57Z,,2021-10-22T14:24:35Z,6,,103.34388888888888,15,35,Closed
+Expose Elastic's apiKeyCredentials property,2021-10-20T19:50:53Z,,2021-10-21T16:52:29Z,2,,21.026666666666667,4,236,Closed
+Expose Stackdriver's useSemanticMetricTypes property,2021-10-20T20:16:07Z,,2021-10-21T17:05:25Z,1,,20.821666666666665,4,216,Closed
+"Replace ""via"" with words that are more suited to an international audience",2021-10-27T21:35:03Z,,2021-10-28T16:56:43Z,14,,19.36111111111111,17,1458,Closed
+Make endpoint web extensions conditional on endpoint being exposed over HTTP,2021-10-28T14:54:55Z,,2021-11-16T07:31:43Z,1,APPROVED,448.61333333333334,8,1298,Closed
+Add support for cache2k in memory caching,2021-11-01T17:36:58Z,,2022-03-21T09:10:15Z,6,CHANGES_REQUESTED,3351.554722222222,14,1393,Closed
+"Replace ""check out"" with more formal language",2021-11-02T16:07:38Z,,2021-11-08T22:38:10Z,2,,150.5088888888889,9,1313,Closed
+Upgrade to Embedded Mongo 3.2.5,2021-11-05T18:05:09Z,,2022-01-04T07:40:26Z,1,,1429.5880555555555,3,1300,Closed
+Add support for auto-configuring SecurityContextChangedListener instances,2021-11-05T18:08:09Z,,2022-02-13T16:18:56Z,2,CHANGES_REQUESTED,2398.179722222222,5,921,Closed
+A RestClientBuilder bean is not defined when RestHighLevelClient is unavailable,2021-11-12T14:28:49Z,,2021-11-15T09:38:37Z,1,,67.16333333333333,10,711,Closed
+Configuration sample in reference doc has wrong yaml formatting,2021-11-14T07:19:32Z,,2021-11-16T08:00:21Z,2,,48.680277777777775,1,72,Closed
+Spring Boot Properties Migrator - Detect properties of Map type that are marked as deprecated,2021-11-24T05:31:06Z,,2022-03-21T09:37:12Z,7,CHANGES_REQUESTED,2812.1016666666665,3,1408,Closed
+Allow injection of Spring-managed beans into Hazelcast components,2021-11-24T12:25:08Z,,2022-01-04T08:59:19Z,8,,980.5697222222223,2,499,Closed
+Polish README.adoc,2021-11-28T10:53:53Z,,2021-12-09T14:34:06Z,11,CHANGES_REQUESTED,267.67027777777776,1,1377,Closed
+Add option to allow Spring Batch custom isolation levels,2021-11-30T14:22:08Z,,2022-01-11T10:09:29Z,4,,1003.7891666666667,6,440,Closed
+App fails to start when it depends on thymeleaf-extras-springsecurity5 but does not have Spring Security on the classpath,2021-12-10T06:20:05Z,,2021-12-10T10:03:34Z,2,,3.7247222222222223,1,1307,Closed
+Validate the aud claim in OAuth2 resource server,2021-12-16T13:51:22Z,,2022-04-21T06:30:28Z,3,,3016.6516666666666,5,160,Closed
+Enforce using BDDMockito,2021-12-28T02:37:22Z,,2022-02-01T10:17:01Z,1,CHANGES_REQUESTED,847.6608333333334,195,1436,Closed
+"update doc about ""RestTemplate Customization""",2021-12-29T06:53:02Z,,2022-01-13T13:48:12Z,1,CHANGES_REQUESTED,366.9194444444444,1,204,Closed
+Adjust test schema DDLs for compatibility with H2 2.x,2022-01-02T16:06:30Z,,2022-02-04T09:11:20Z,3,APPROVED,785.0805555555555,14,328,Closed
+Use emptyList() instead of null,2022-01-06T02:20:55Z,,2022-01-06T06:22:43Z,1,,4.03,1,1372,Closed
+Add support for descriptions of record components in configuration metadata generation,2022-01-14T16:47:42Z,,2024-04-22T17:30:08Z,1,,19896.707222222223,9,585,Closed
+fix: add groupId before version number,2022-01-16T14:47:53Z,,2022-02-14T14:18:19Z,7,CHANGES_REQUESTED,695.5072222222223,2,1286,Closed
+Provide some guidance on identifying and resolving Devtools classloading issues,2022-01-16T15:42:36Z,,2022-01-31T15:45:53Z,3,CHANGES_REQUESTED,360.0547222222222,1,373,Closed
+Improve project setup for IntelliJ IDEA,2022-01-17T22:12:04Z,,2023-07-24T12:47:18Z,4,,13262.587222222222,4,557,Closed
+Add Kotlin alternatives to Java samples,2022-01-20T11:08:28Z,,2022-02-05T04:04:50Z,7,,376.93944444444446,366,1635,Closed
+Tests that join the server thread in HttpTunnelServerTests may run indefinitely,2022-01-21T08:15:11Z,,2022-01-31T15:25:44Z,2,,247.17583333333334,2,78,Closed
+Expose configuration properties to configure the  WebsocketServerSpec to use,2022-01-26T02:59:22Z,,2023-07-26T11:58:29Z,1,CHANGES_REQUESTED,13112.985277777778,3,104,Closed
+Ignore invalid stream types when reading log update events,2022-02-08T13:11:04Z,,2022-02-09T13:13:31Z,3,,24.04083333333333,3,14,Closed
+Add documentation for WebMvc.fn,2022-02-09T10:15:03Z,,2022-02-10T12:40:21Z,3,,26.421666666666667,5,14,Closed
+Move away from spring.factories for auto-configuration imports,2022-02-11T12:55:41Z,,2022-02-17T10:29:12Z,2,,141.5586111111111,311,3247,Closed
+Gradle Plugin triggers eager configuration of some tasks,2022-02-14T00:11:33Z,,2022-02-15T12:32:19Z,1,CHANGES_REQUESTED,36.346111111111114,3,124,Closed
+Add auto-configuration for Kafka Retry Topics,2022-02-15T00:28:43Z,,2022-04-21T07:31:12Z,36,,1567.0413888888888,4,1001,Closed
+Document  how to access the H2 Console in a secured web application,2022-02-22T00:16:32Z,,2022-03-21T13:15:52Z,2,,660.9888888888889,2,166,Closed
+Use Gradle's task configuration avoidance APIs in the main reference docs,2022-02-26T02:46:06Z,,2022-03-03T20:39:49Z,6,,137.89527777777778,3,140,Closed
+Reinstate support for Ehcache 3,2022-02-26T21:09:13Z,,2022-03-19T08:47:09Z,9,APPROVED,491.6322222222222,7,976,Closed
+Use Log4jBridgeHandler to route JUL-based logging into Log4j 2,2022-02-26T22:53:29Z,,2022-05-06T14:06:04Z,5,CHANGES_REQUESTED,1647.2097222222221,5,425,Closed
+Improve property placeholder documentation to mention environment variables and default values,2022-02-28T15:38:27Z,,2022-03-03T12:09:38Z,4,APPROVED,68.51972222222223,1,1603,Closed
+Clarify actuator security documentation,2022-03-04T03:27:54Z,,2022-03-04T17:28:04Z,3,CHANGES_REQUESTED,14.002777777777778,1,1286,Closed
+Support uri query parameter sanitization,2022-03-07T02:34:34Z,,2022-08-19T19:29:24Z,4,CHANGES_REQUESTED,3976.913888888889,2,1411,Closed
+Add auto-configuration for Micrometer 2.0 Observation API,2022-03-11T12:59:56Z,,2022-04-05T12:09:17Z,5,,599.1558333333334,17,101,Closed
+Polish StandardAnnotationCustomizableTypeExcludeFilters,2022-03-16T12:28:58Z,,2022-03-21T12:35:41Z,1,CHANGES_REQUESTED,120.11194444444445,4,1394,Closed
+Add support for Micrometer tracing,2022-03-16T15:01:14Z,,2022-04-14T07:17:20Z,14,CHANGES_REQUESTED,688.2683333333333,47,599,Closed
+Perform failure analysis when a web application cannot be started due to a missing web server factory bean,2022-03-22T06:06:56Z,,2022-04-07T18:20:02Z,29,APPROVED,396.2183333333333,9,1761,Closed
+Fix references to JDK 1.8 in READMEs,2022-03-27T16:01:15Z,,2022-03-28T07:39:15Z,2,,15.633333333333333,2,111,Closed
+MustacheAutoConfiguration in a Servlet web application fails with a ClassNotFoundException when Spring MVC is not on the classpath,2022-03-28T21:02:22Z,,2022-03-30T09:58:40Z,4,APPROVED,36.93833333333333,1,11764,Closed
+Add support for Prometheus Exemplars,2022-03-30T01:33:24Z,,2022-04-04T11:49:59Z,2,,130.2763888888889,3,295,Closed
+"Add missing configuration metadata for ""management.endpoint.health.probes.add-additional-paths""",2022-04-06T16:06:52Z,,2022-04-07T07:18:36Z,2,,15.195555555555556,1,941,Closed
+Add auto-configuration for Reactor Kafka,2022-04-06T19:15:35Z,,2024-06-17T14:36:40Z,8,,19267.35138888889,6,3902,Closed
+Expose Git and build information as metrics,2022-04-10T16:18:04Z,,2023-08-10T10:00:36Z,3,CHANGES_REQUESTED,11681.708888888888,3,574,Closed
+Event handling in JobExecutionExitCodeGenerator is not thread-safe,2022-04-16T13:23:21Z,,2022-05-03T12:52:44Z,1,CHANGES_REQUESTED,407.4897222222222,2,407,Closed
+Change identityprovider to asserting-party in Saml2RelyingPartyProperties,2022-04-19T09:14:49Z,,2022-04-20T06:32:45Z,2,,21.29888888888889,8,803,Closed
+Various typos fixes,2022-04-21T16:58:18Z,,2022-05-03T14:19:21Z,8,CHANGES_REQUESTED,285.35083333333336,51,696,Closed
+Add WebClient based sender for Zipkin,2022-04-25T14:17:28Z,,2022-06-22T08:26:59Z,2,CHANGES_REQUESTED,1386.1586111111112,8,174,Closed
+Auto-configure Micrometer's JVM info metrics,2022-04-28T02:43:02Z,,2022-04-29T12:00:20Z,1,APPROVED,33.288333333333334,3,100,Closed
+Add `OtlpMeterRegistry` auto-configuration,2022-04-28T07:53:25Z,,2022-05-03T12:24:52Z,2,APPROVED,124.52416666666667,10,101,Closed
+Polish Micrometer tracing changes,2022-04-28T14:25:20Z,,2022-05-03T11:28:32Z,5,APPROVED,117.05333333333333,8,1336,Closed
+Debug logging for requests to WebFlux-based Actuator endpoints does not identify the endpoint,2022-05-06T07:01:06Z,,2022-05-06T17:16:35Z,1,APPROVED,10.258055555555556,1,1318,Closed
+Use Lambda-based API in Spring Security examples,2022-05-21T13:41:03Z,,2022-06-13T12:30:13Z,1,,550.8194444444445,9,423,Closed
+Add Support for Remote Cloud Development with Gitpod,2022-05-27T09:31:58Z,,2022-07-27T15:22:50Z,9,,1469.8477777777778,2,823,Closed
+WIP: ReactorKafka auto-configuration (approach 1),2022-06-07T02:38:15Z,,2024-06-17T14:36:31Z,5,,17795.97111111111,14,1487,Closed
+Add PropertyMapper.to(...) API designed for immutable instances,2022-06-09T23:04:12Z,,2022-07-19T10:33:37Z,7,,947.4902777777778,2,1993,Closed
+Use java.util.HexFormat where appropriate,2022-06-21T06:32:17Z,,2022-06-21T16:41:59Z,1,,10.161666666666667,3,99,Closed
+HTTP Server and Data repositories metrics record null for the description,2022-06-23T13:37:23Z,,2022-07-13T12:13:02Z,3,APPROVED,478.5941666666667,3,662,Closed
+Use Objects.requireNonNullElse when suitable,2022-06-30T22:13:19Z,,2022-07-01T07:33:18Z,2,,9.333055555555555,1,1346,Closed
+AOT support for Actuator,2022-07-11T12:57:52Z,,2022-07-19T11:11:09Z,9,,190.2213888888889,70,609,Closed
+Deprecation hint for spring.data.mongodb.grid-fs-database is located in the wrong section,2022-07-12T10:54:51Z,,2022-07-12T12:52:07Z,1,,1.9544444444444444,1,124,Closed
+Migrates to sender and receiver propagation handlers,2022-07-18T10:58:11Z,,2022-09-07T08:13:28Z,1,CHANGES_REQUESTED,1221.2547222222222,3,140,Closed
+Fix links in documentations,2022-07-27T13:33:33Z,,2022-08-01T20:11:06Z,6,,126.62583333333333,7,413,Closed
+Provide a reactive actuator endpoint for (username indexed) session repositories,2022-08-09T21:39:59Z,,2024-01-22T13:01:15Z,6,,12735.354444444445,12,696,Closed
+Start building against Micrometer 1.10.0-M5 and Micrometer Tracing 1.0.0-M8 snapshots,2022-08-09T21:55:36Z,,2022-09-06T19:17:29Z,3,,669.3647222222222,9,255,Closed
+Add socketKeepAlive configuration property for Elasticsearch,2022-08-10T07:24:28Z,,2022-08-17T06:26:11Z,5,CHANGES_REQUESTED,167.0286111111111,3,1702,Closed
+Allow different log level for FILE and CONSOLE appender,2022-08-14T14:26:17Z,,2023-01-31T13:44:13Z,7,,4079.298888888889,9,498,Closed
+Allow multiple hosts to be set in MongoProperties,2022-08-21T01:56:48Z,,2022-08-24T03:25:03Z,2,CHANGES_REQUESTED,73.47083333333333,3,1483,Closed
+Optimize the conversion of AnsiColor,2022-08-28T23:31:59Z,,2022-09-01T07:36:30Z,4,,80.07527777777777,4,140,Closed
+Refine `ConfigurationPropertiesReflectionHintsProcessor`,2022-08-29T14:51:24Z,,2022-09-01T15:35:13Z,1,,72.73027777777777,4,634,Closed
+Add support for configuring Spring Session Redis repository,2022-08-31T18:06:26Z,,2022-09-21T16:17:54Z,1,,502.1911111111111,4,408,Closed
+MDC auto-configuration for Brave and OpenTelemetry,2022-09-01T15:18:14Z,,2022-09-22T22:41:43Z,11,CHANGES_REQUESTED,511.3913888888889,15,171,Closed
+Auto-configure a TracingAwareMeterObservationHandler to make tracing interoperable with metrics,2022-09-16T01:28:02Z,,2022-10-13T11:10:57Z,5,CHANGES_REQUESTED,657.7152777777778,6,475,Closed
+Add auto-configuration for Prometheus Exemplars,2022-09-17T01:48:40Z,,2022-10-13T12:40:35Z,2,,634.8652777777778,10,315,Closed
+Integrate full Log4j 2 support into Spring Boot,2022-09-19T18:25:27Z,,2022-10-04T06:14:26Z,2,,347.81638888888887,9,832,Closed
+Maintain independent YAML types,2022-09-21T15:58:07Z,,2022-10-12T16:29:45Z,2,,504.52722222222224,1,1286,Closed
+MDC & Baggage AutoConfiguration for Micrometer Tracing with Brave and OpenTelemetry,2022-09-22T22:41:24Z,,2022-09-27T16:15:24Z,9,,113.56666666666666,8,3221,Closed
+Remove auto-configuration for micrometer-tracing-reporter-wavefront,2022-09-30T01:52:41Z,,2022-09-30T09:14:58Z,1,,7.371388888888889,10,338,Closed
+Use Brave BOM instead of only managing a single Zipkin dependency,2022-10-06T12:12:45Z,,2022-10-06T21:03:39Z,4,,8.848333333333333,1,44,Closed
+Polish Micrometer tracing changes,2022-10-06T23:49:57Z,,2022-10-12T17:06:22Z,1,,137.2736111111111,5,66,Closed
+"WelcomePageHandlerMapping have some bugs in the code, should add customization",2022-10-16T08:55:30Z,,2023-02-14T21:33:33Z,1,,2916.6341666666667,1,2359,Closed
+Wavefront application tags differ from those used in a Spring Boot 2.x application,2022-10-21T20:01:58Z,,2022-11-17T01:38:27Z,8,CHANGES_REQUESTED,629.6080555555556,5,1491,Closed
+Polish,2022-11-11T13:35:43Z,,2022-11-16T09:01:25Z,2,,115.42833333333333,16,23,Closed
+Improve test coverage for OutputCaptureRule,2022-11-29T10:11:53Z,,2022-11-29T22:10:32Z,1,CHANGES_REQUESTED,11.9775,1,142,Closed
+Add Assert.notNull calls and other polish,2022-12-14T13:37:23Z,,2023-08-08T12:39:59Z,24,,5687.043333333333,293,716,Closed
+Improve maven plugin tags documentation,2022-12-21T18:09:56Z,,2022-12-22T06:54:18Z,2,,12.739444444444445,1,1408,Closed
+Add tests to verify that every config setting for each auto-configured meter registry is exposed as a configuration property,2023-01-10T16:56:35Z,,2023-07-25T14:18:28Z,2,CHANGES_REQUESTED,4701.364722222223,21,1334,Closed
+Failing calls to reactive health indicators are not logged,2023-01-12T10:02:37Z,,2023-01-17T13:35:52Z,2,,123.55416666666666,3,353,Closed
+Dependency management for Mongo's Java Driver is incomplete,2023-01-23T11:31:40Z,,2023-01-31T10:12:04Z,1,CHANGES_REQUESTED,190.67333333333335,1,37,Closed
+Add RabbitTemplateCustomizer to allow customization of RabbitTemplates,2023-02-02T07:59:40Z,,2023-03-01T12:14:06Z,4,,652.2405555555556,3,272,Closed
+ApplicationAvailability bean is auto-configured even if a custom one is already present,2023-02-23T14:34:42Z,,2023-04-19T16:02:07Z,1,,1321.4569444444444,2,1479,Closed
+Switch from single topic for fixed delays to single topic for same intervals in Spring Kafka retry configuration.,2023-03-07T12:04:06Z,,2023-03-21T18:50:18Z,1,,342.77,1,0,Closed
+Add auto-configuration for OTLP span exporter,2023-03-07T23:06:21Z,,2023-04-19T14:12:37Z,22,,1023.1044444444444,8,141,Closed
+improve OpenTelemetry config,2023-03-08T18:29:42Z,,2023-03-10T10:03:24Z,1,,39.56166666666667,6,786,Closed
+Include setter-only properties in metadata,2023-03-12T12:47:53Z,,2023-03-15T20:31:55Z,1,,79.73388888888888,8,1429,Closed
+Harmonize references to application.yaml files in reference docs,2023-03-17T07:23:21Z,,2023-04-24T11:47:07Z,1,CHANGES_REQUESTED,916.3961111111112,8,622,Closed
+Configure support for GraphQL pagination and sorting,2023-03-21T09:29:59Z,,2023-03-23T13:56:28Z,3,APPROVED,52.44138888888889,3,1749,Closed
+Clarify servlet container compatibility,2023-03-21T16:05:24Z,,2023-04-11T13:34:48Z,1,APPROVED,501.49,1,197,Closed
+Document requirement for Maven 3.6.3 or later,2023-03-24T17:17:25Z,,2023-03-28T10:36:21Z,1,APPROVED,89.31555555555556,3,1305,Closed
+Use removeIf rather than Iterator-based removal,2023-03-25T15:02:26Z,,2023-04-11T14:39:41Z,1,CHANGES_REQUESTED,407.62083333333334,2,1517,Closed
+Add support for Spring for Apache Pulsar,2023-03-25T16:00:34Z,,2023-09-06T00:03:57Z,42,CHANGES_REQUESTED,3944.0563888888887,51,85,Closed
+Banner placeholders use default values too soon,2023-03-25T20:15:27Z,,2023-03-28T09:30:35Z,4,APPROVED,61.25222222222222,2,319,Closed
+Offer a way to customize the converters used by Spring Batch without extending DefaultBatchConfiguration,2023-03-26T15:31:37Z,,2023-04-19T13:17:12Z,1,APPROVED,573.7597222222222,3,1462,Closed
+Add service connection from Testcontainers Redpanda,2023-03-27T16:19:14Z,,2023-04-18T11:51:12Z,1,,523.5327777777778,7,184,Closed
+Allow MockServerRestTemplateCustomizer to configure MockRestServiceServer's content buffering,2023-04-01T17:05:33Z,,2023-04-17T17:05:46Z,4,CHANGES_REQUESTED,384.0036111111111,2,363,Closed
+ImportsContextCustomizer does not support AliasFor,2023-04-08T21:08:22Z,,2023-07-04T11:20:40Z,1,CHANGES_REQUESTED,2078.205,2,1511,Closed
+Allow to customize opentelemetry SdkTracerProvider,2023-04-12T07:51:13Z,,2023-04-18T09:13:59Z,3,,145.37944444444443,3,1286,Closed
+Add properties to support device grant with Spring Authorization Server,2023-04-12T18:43:34Z,,2023-04-18T18:52:15Z,1,APPROVED,144.1447222222222,4,1546,Closed
+Add aggregation temporality to OtlpProperties,2023-04-12T18:59:27Z,2023-04-13T19:22:30Z,2023-04-13T19:22:30Z,3,APPROVED,24.384166666666665,4,170,Merged
+Improve Kubernetes liveness and readiness probes customization documentation,2023-04-13T18:01:32Z,,2023-07-04T14:18:59Z,1,,1964.2908333333332,5,225,Closed
+Improve documentation of tracing dependencies and configuration properties,2023-04-14T13:13:01Z,,2023-04-17T18:48:04Z,5,CHANGES_REQUESTED,77.58416666666666,1,54,Closed
+Add service connection support for ActiveMQ,2023-04-19T20:31:55Z,,2023-07-20T11:04:28Z,3,CHANGES_REQUESTED,2198.5425,16,0,Closed
+Add service connection from Testcontainers OpenTelemetry Collector,2023-04-20T02:23:44Z,,2023-09-14T09:06:13Z,2,,3534.7080555555553,24,0,Closed
+Inject user-defined Attributes into SdkTracerProvider,2023-04-20T04:17:28Z,,2023-05-03T16:30:43Z,1,CHANGES_REQUESTED,324.22083333333336,3,1066,Closed
+Support Prometheus exemplars with OpenTelemetry agent,2023-04-23T11:24:18Z,,2023-05-12T04:49:10Z,4,,449.4144444444444,1,1212,Closed
+Support Brave's joint spans,2023-04-25T23:52:45Z,,2023-05-04T00:49:42Z,3,APPROVED,192.94916666666666,3,429,Closed
+Document how to use testcontainers service connections for test slices,2023-04-26T02:33:07Z,,2023-05-03T16:22:16Z,5,,181.81916666666666,1,1304,Closed
+Correct list of annotations that are equivalent to @SpringBootApplication,2023-04-27T08:00:56Z,,2023-05-02T11:00:17Z,1,APPROVED,122.98916666666666,1,285,Closed
+Document audience support in OAuth2 resource server,2023-05-04T16:51:28Z,,2023-05-25T13:21:34Z,16,CHANGES_REQUESTED,500.50166666666667,1,1303,Closed
+Fix test in `DataSourceTransactionManagerAutoConfigurationTests`,2023-05-06T12:07:36Z,,2023-05-09T11:25:31Z,1,APPROVED,71.29861111111111,1,142,Closed
+Fix javadoc in OAuth2AuthorizationServerPropertiesMapper,2023-05-09T12:53:13Z,,2023-05-09T15:41:18Z,1,APPROVED,2.801388888888889,1,102,Closed
+Make CurrentTraceContext.Builder a bean,2023-05-15T08:51:39Z,,2023-05-18T01:08:17Z,8,CHANGES_REQUESTED,64.27722222222222,1,1312,Closed
+Improve Kotlin Testcontainers samples,2023-05-16T11:57:22Z,,2023-05-16T18:37:47Z,1,APPROVED,6.673611111111111,3,126,Closed
+Default for spring.flway.execute-in-transaction is not aligned with Flyway's default,2023-05-16T14:01:14Z,,2023-05-16T20:15:41Z,2,APPROVED,6.240833333333334,2,451,Closed
+Defining a zipkin2.reporter.Reporter results in two reporter beans as the auto-configured AsyncReporter does not back off,2023-05-17T04:55:27Z,,2023-05-17T23:43:02Z,1,,18.793055555555554,2,358,Closed
+Tracing only supports a single context propagation type,2023-05-24T06:51:21Z,,2023-06-15T11:50:32Z,17,APPROVED,532.9863888888889,12,2322,Closed
+Auto-configured ExemplarSampler bean only backs off when a DefaultExemplarSampler is defined,2023-05-24T12:48:28Z,,2023-07-17T13:49:01Z,8,APPROVED,1297.0091666666667,2,459,Closed
+Upgrade Kafka image used in integration tests,2023-05-24T20:05:32Z,,2023-05-24T21:47:11Z,1,,1.6941666666666666,2,257,Closed
+Move property notes up to external configuration section,2023-05-27T21:18:41Z,,2023-06-07T07:32:31Z,1,APPROVED,250.23055555555555,1,629,Closed
+Fix error in SSL bundle documentation,2023-05-29T07:15:09Z,,2023-05-30T22:20:27Z,1,APPROVED,39.08833333333333,1,1286,Closed
+Fix issue with 'springProperty' not loaded from context scope when initializing with 'playSaxEvents' in logback,2023-05-29T13:11:50Z,,2023-05-31T23:29:24Z,2,,58.29277777777778,2,1700,Closed
+Methods in KafkaConnectionDetails are named inconsistently,2023-06-05T15:14:06Z,,2023-06-30T10:27:09Z,1,APPROVED,595.2175,2,210,Closed
+Polish,2023-06-13T15:58:18Z,,2023-06-16T20:06:08Z,9,APPROVED,76.13055555555556,9,23,Closed
+Support custom token validators for OAuth2 Resource Server auto-configuration,2023-06-13T17:49:44Z,,2023-07-05T14:19:24Z,9,CHANGES_REQUESTED,524.4944444444444,4,255,Closed
+Support for Base64 encoded p12 keystore using the ssl bundle configuration,2023-06-14T10:01:36Z,,2023-06-22T20:28:43Z,1,,202.45194444444445,2,218,Closed
+Update properties-and-configuration.adoc,2023-06-14T19:46:47Z,,2023-06-15T19:53:06Z,1,,24.10527777777778,1,1345,Closed
+@ServiceConnection on a @Bean method does not work in sliced tests,2023-06-23T02:33:21Z,,2023-08-01T17:14:42Z,3,,950.6891666666667,18,301,Closed
+JobLauncherApplicationRunner returns a success exit code even when no jobs have been run,2023-06-23T08:14:20Z,,2023-06-23T23:33:41Z,2,CHANGES_REQUESTED,15.3225,2,1468,Closed
+JobLauncherApplicationRunner returns a success exit code even when no jobs have been run,2023-06-24T14:06:32Z,,2023-07-24T14:32:31Z,1,,720.4330555555556,2,1532,Closed
+Change B3 extraction format to single,2023-06-24T14:35:29Z,,2023-07-19T06:28:40Z,8,APPROVED,591.8863888888889,2,137,Closed
+"Change server log message to have ""port"" or ""ports"" rather than ""ports(s)""",2023-06-28T12:57:11Z,,2023-06-30T19:05:14Z,2,CHANGES_REQUESTED,54.134166666666665,6,224,Closed
+Auto-configured JacksonJsonpMapper is conditional on an ObjectMapper bean but does not use such a bean,2023-06-29T08:03:24Z,,2023-07-14T09:43:56Z,2,APPROVED,361.67555555555555,3,1019,Closed
+Use spring-amqp-bom,2023-07-03T03:43:06Z,,2023-07-05T08:20:41Z,1,APPROVED,52.62638888888889,1,0,Closed
+"Polish formatting in ""Running Spring Batch Jobs on Startup""",2023-07-05T07:00:41Z,,2023-07-05T08:13:22Z,1,APPROVED,1.2113888888888888,1,1286,Closed
+Checking for invalid characters in SpringBootContextLoader.setActiveProfiles,2023-07-06T14:36:25Z,,2024-01-31T12:37:32Z,1,,5014.018611111111,2,1650,Closed
+Skip Duration to int to Duration conversion in ClientHttpRequestFactories.Jdk,2023-07-06T19:57:49Z,,2023-07-06T23:16:32Z,1,APPROVED,3.3119444444444444,1,128,Closed
+Order ProblemDetailsExceptionHandler beans,2023-07-10T09:06:41Z,,2023-08-02T13:28:54Z,1,APPROVED,556.3702777777778,4,1909,Closed
+Add property for base time unit in OTLP registry,2023-07-12T21:02:55Z,,2023-07-17T11:19:03Z,2,,110.2688888888889,4,169,Closed
+Allow auto-configured HikariDataSource to participate in checkpoint-restore,2023-07-17T12:10:51Z,,2023-07-25T16:46:05Z,4,CHANGES_REQUESTED,196.5872222222222,5,133,Closed
+Harmonize Stream.collect() usage,2023-07-24T04:07:05Z,,2023-07-26T09:16:19Z,9,CHANGES_REQUESTED,53.153888888888886,3,108,Closed
+Document that server.forward-headers-strategy property defaults to native when running on Kubernetes,2023-07-25T12:13:37Z,,2023-07-26T07:54:58Z,2,APPROVED,19.689166666666665,1,220,Closed
+Document how to use Docker Compose integration when running tests,2023-07-28T13:05:06Z,,2023-07-31T09:05:53Z,1,CHANGES_REQUESTED,68.01305555555555,1,99,Closed
+server.max-http-request-header-size doesn't affect Netty server with http2 enabled,2023-08-05T08:21:15Z,,2023-08-17T10:20:07Z,3,CHANGES_REQUESTED,289.9811111111111,2,14574,Closed
+Use JOOQ functionality to determine dialect,2023-08-15T06:33:31Z,,2023-08-16T13:58:39Z,1,,31.41888888888889,1,0,Closed
+Polish javadoc,2023-08-28T08:06:18Z,,2023-08-30T12:43:07Z,2,APPROVED,52.61361111111111,8,164,Closed
+Unwrap a validator instance of specified type contained in SpringValidatorAdapter,2023-08-28T17:51:52Z,,2023-09-11T10:23:16Z,2,CHANGES_REQUESTED,328.5233333333333,2,3740,Closed
+fix bootBuildImage task failing when native GraalVM compilation is slow and HTTP/S communication with Docker is used,2023-08-30T19:49:24Z,,2023-10-03T18:21:25Z,2,CHANGES_REQUESTED,814.5336111111111,10,35889,Closed
+Add local and tag correlation fields,2023-09-16T08:22:14Z,,2024-01-09T10:53:06Z,3,CHANGES_REQUESTED,2762.5144444444445,5,539,Closed
+RepackageMojo doesn't support 1 digit numerical values for project.build.outputTimestamp,2023-09-17T11:59:43Z,,2023-09-22T09:22:52Z,2,,117.38583333333334,2,948,Closed
+Add Spring Pulsar container property customizers,2023-09-24T04:20:09Z,,2024-05-28T21:20:39Z,1,,5945.008333333333,8,1606,Closed
+Add auto-configuration for CountedAspect and TimedAspect,2023-09-29T04:15:20Z,,2023-10-02T10:35:56Z,2,,78.34333333333333,3,200,Closed
+Implement SSL bundle reload,2023-10-10T13:13:11Z,,2023-10-16T13:51:56Z,3,,144.64583333333334,34,703,Closed
+Add a Restarting a stopped or failed Job section to the batch howto,2023-11-11T08:11:59Z,,2023-11-13T11:09:21Z,2,,50.95611111111111,1,103,Closed
+Add SpringInfoContributor,2023-11-14T19:56:41Z,,2024-01-11T01:08:04Z,3,,1373.1897222222221,8,491,Closed
+Use KafkaContainer in smoke test for Kafka with SSL,2023-11-15T02:55:10Z,,2023-11-15T23:06:06Z,1,,20.182222222222222,4,133,Closed
+Update Dynatrace docs with info about the meter metadata toggle,2023-11-15T17:25:15Z,,2023-11-22T09:14:58Z,1,,159.82861111111112,1,252,Closed
+"Replace Function<String, String> with UnaryOperator<String> in CorrelationIdFormatter",2023-11-18T19:43:03Z,,2023-11-21T04:08:08Z,2,,56.418055555555554,2,1493,Closed
+"Replaced all usages of Function<String, String> with UnaryOperator<String>",2023-11-22T15:29:17Z,,2023-11-22T17:56:56Z,1,,2.4608333333333334,4,136,Closed
+Add configuration properties for cluster-level failover with Apache Pulsar,2023-11-27T08:27:34Z,,2024-01-10T12:29:02Z,1,,1060.0244444444445,6,1286,Closed
+Correct references to Jetty's HTTP2 server module,2023-12-01T22:48:02Z,,2023-12-04T12:37:23Z,2,APPROVED,61.8225,2,1675,Closed
+Add property for maximum number of reactive sessions,2023-12-07T03:49:57Z,,2024-01-10T10:04:23Z,1,,822.2405555555556,3,711,Closed
+Update Dynatrace documentation links,2023-12-07T13:02:07Z,,2023-12-11T07:19:02Z,4,APPROVED,90.28194444444445,2,433,Closed
+Cleanup kotlin sources,2023-12-08T01:54:56Z,,2023-12-11T08:44:43Z,2,,78.82972222222222,22,202,Closed
+Add conditional bean for jOOQ exception translator,2023-12-13T10:04:10Z,,2024-01-22T23:54:59Z,1,CHANGES_REQUESTED,973.8469444444445,4,61,Closed
+Pulsar authentication param properties cause IllegalStateException with Pulsar Client 3.1.0 ,2023-12-16T05:48:34Z,,2023-12-17T06:24:04Z,1,,24.591666666666665,2,1667,Closed
+otel tracing support for env vars,2023-12-20T13:30:50Z,,2024-01-15T16:49:57Z,1,,627.3186111111111,4,504,Closed
+Upgrade to Brave 6 and Zipkin Reporter 3,2024-01-07T08:30:28Z,,2024-02-20T12:45:56Z,27,APPROVED,1060.2577777777778,23,649,Closed
+Remove unreachable throw code,2024-01-11T17:15:52Z,,2024-01-16T19:57:00Z,1,CHANGES_REQUESTED,122.68555555555555,1,103,Closed
+SslBundle implementations do not provide useful toString() results,2024-01-15T16:31:01Z,,2024-01-17T13:03:58Z,1,,44.549166666666665,2,1848,Closed
+Auto-configured ConcurrentPulsarListenerContainerFactory and PulsarConsumerFactory cannot be injected into injection points with specific generic type information,2024-01-25T14:59:44Z,,2024-01-31T09:00:38Z,3,,138.015,2,229,Closed
+Polish,2024-02-02T14:26:25Z,,2024-02-02T22:11:55Z,1,CHANGES_REQUESTED,7.758333333333334,15,97,Closed
+Update the Debugging Documentation of the Spring Boot Maven Plugin ,2024-02-03T20:45:46Z,,2024-02-06T12:10:31Z,1,,63.4125,4,127,Closed
+Showcase and fix for actuator configprops endpoint serialization issu…,2024-02-05T09:12:53Z,,2024-02-14T12:29:25Z,5,,219.27555555555554,1,1321,Closed
+Upgrade Pulsar to 3.2.0 and use Pulsar BOM,2024-02-05T19:14:30Z,,2024-02-06T12:56:59Z,1,,17.708055555555557,2,1406,Closed
+Add customizer callback for WebHttpHandlerBuilder,2024-02-08T14:07:22Z,,2024-02-08T20:51:38Z,2,CHANGES_REQUESTED,6.737777777777778,4,422,Closed
+Gradle plugin allows the use of Gradle 7.4 but the documented and tested minimum is 7.5,2024-02-10T20:25:18Z,,2024-02-11T20:33:26Z,1,CHANGES_REQUESTED,24.135555555555555,2,204,Closed
+Change format of git.commit.time used by git-commit-id-maven-plugin from RFC 822 to ISO 8601,2024-02-16T17:22:00Z,,2024-02-28T12:04:42Z,1,,282.71166666666664,1,1979,Closed
+Configure suitable TaskExecutor for WebSocket when virtual threads are enabled,2024-02-17T19:45:30Z,,2024-02-20T10:13:29Z,2,,62.466388888888886,4,151,Closed
+Make resolution algorithm of ConnectionDetailsFactory more explicit,2024-02-23T08:19:24Z,,2024-02-27T19:25:58Z,1,,107.10944444444445,1,467,Closed
+Add a configuration property for Spring Data Web's serialization mode,2024-02-29T08:30:17Z,,2024-09-06T08:42:08Z,10,APPROVED,4560.1975,3,108,Closed
+Configure JpaBaseConfiguration with custom ManagedClassNameFilter,2024-03-01T07:21:59Z,,2024-04-18T19:12:13Z,8,,1163.8372222222222,2,12,Closed
+spring.data.redis.cluster.nodes and spring.data.redis.sentinel.nodes do not handle IPv6 addresses correctly,2024-03-01T18:26:55Z,,2024-04-22T11:11:36Z,1,CHANGES_REQUESTED,1240.7447222222222,5,350,Closed
+"When using Maven, configuring the spring-boot.excludes or spring-boot-includes user properties causes the build to fail with ""Cannot find default setter""",2024-03-05T18:31:10Z,,2024-04-11T15:57:00Z,5,,885.4305555555555,3,448,Closed
+server.error.include-binding-errors does not recognize MethodValidationResult exceptions,2024-03-11T03:56:02Z,,2024-04-22T16:50:42Z,4,,1020.9111111111112,4,12,Closed
+Re-enable Spring Pulsar interceptor tests,2024-03-12T17:10:28Z,,2024-03-13T10:49:42Z,1,,17.65388888888889,1,1670,Closed
+Delay interaction with Lazy CqlSession bean until first required usage,2024-03-15T13:49:16Z,,2024-04-10T17:16:52Z,2,,627.46,1,487,Closed
+Add standardized property to distinguish a group of applications,2024-03-17T01:31:35Z,,2024-07-03T10:01:38Z,10,,2600.5008333333335,20,288,Closed
+Add support for Prometheus Client 1.x and simpleclient,2024-03-19T11:26:23Z,,2024-04-05T08:53:14Z,7,,405.4475,31,1037,Closed
+Use activemq-client dependency vs transitional activemq-client-jakarta,2024-03-19T15:33:38Z,,2024-03-20T11:02:32Z,3,APPROVED,19.481666666666666,4,115,Closed
+Reinstate support for auto-configuring an embedded ActiveMQ broker,2024-03-19T16:13:50Z,,2024-09-06T06:30:11Z,1,CHANGES_REQUESTED,4094.2725,4,7,Closed
+Add Spring Pulsar transaction support,2024-04-08T04:39:17Z,,2024-04-18T02:57:41Z,21,CHANGES_REQUESTED,238.30666666666667,7,1797,Closed
+"As of Jetty12, Graceful shutdown is broken.",2024-04-09T09:49:42Z,,2024-04-10T19:20:37Z,1,CHANGES_REQUESTED,33.515277777777776,3,2336,Closed
+Polish RabbitAutoConfigurationTests to use kebab-case keys,2024-04-18T09:07:06Z,,2024-04-18T19:53:34Z,7,,10.774444444444445,1,0,Closed
+Pulsar auth parameters don't properly encode JSON values,2024-04-23T23:16:04Z,,2024-05-22T11:49:45Z,3,,684.5613888888889,2,1681,Closed
+Flyway auto-configuration does not work with Flyway 10 when using GraalVM,2024-05-19T05:08:48Z,,2024-05-29T13:23:27Z,1,CHANGES_REQUESTED,248.24416666666667,2,240,Closed
+ Fix various minor inconsistencies of the documentation,2024-05-24T18:12:15Z,,2024-05-29T12:14:35Z,2,,114.03888888888889,5,1422,Closed
+Warn in the documentation that spring.profiles.group can only be used in non-profile-specific documents,2024-05-28T05:05:31Z,,2024-05-29T12:06:59Z,1,,31.024444444444445,1,747,Closed
+Fix typos in method names and javadoc,2024-06-01T18:45:43Z,,2024-06-03T12:13:52Z,5,APPROVED,41.469166666666666,2,1403,Closed
+Replace lambda with method reference,2024-06-03T07:55:45Z,,2024-06-11T20:32:41Z,3,CHANGES_REQUESTED,204.61555555555555,40,64,Closed
+"Polish code to use 'switch' instead of 'if', remove unessary unboxing and redundant cast",2024-06-04T08:11:59Z,,2024-06-11T19:31:54Z,2,,179.33194444444445,5,99,Closed
+Auto-configure SpringLiquibase with Liquibase Customizer,2024-06-04T08:18:35Z,,2024-06-21T10:58:46Z,2,CHANGES_REQUESTED,410.6697222222222,3,158,Closed
+Long Method Update,2024-06-16T23:43:45Z,,2024-06-17T21:47:29Z,1,CHANGES_REQUESTED,22.06222222222222,1,296,Closed
+Update Kotlin DSL examples that configure the environment of bootBuildImage to be additive,2024-06-20T07:05:15Z,,2024-06-28T11:52:22Z,5,,196.78527777777776,3,149,Closed
+Add SslInfoContributor and SslHealthIndicator,2024-06-21T22:18:50Z,,2024-08-19T08:46:50Z,3,,1402.4666666666667,24,7211,Closed
+Polish gh-40023,2024-06-22T14:37:51Z,,2024-06-28T10:24:58Z,3,,139.78527777777776,8,52,Closed
+Add auto-configuration for OTLP gRPC format when using tracing,2024-06-24T09:55:26Z,,2024-09-06T08:04:11Z,6,,1774.1458333333333,6,327,Closed
+Update plexus-build-api as to not use plexus-utils 1.5.8,2024-06-26T13:27:14Z,,2024-06-26T15:26:17Z,1,CHANGES_REQUESTED,1.9841666666666666,2,2193,Closed
+Publish an AuditEvent on logout,2024-06-30T11:17:42Z,,2024-07-03T08:45:10Z,1,CHANGES_REQUESTED,69.45777777777778,2,1286,Closed
+Support service connections for redis/redis-stack and redis/redis-stack-server,2024-07-05T04:00:12Z,,2024-07-17T10:38:00Z,1,,294.63,10,206,Closed
+Fix typos in javadoc of BootstrapContext,2024-07-10T20:12:39Z,,2024-07-11T12:18:29Z,3,CHANGES_REQUESTED,16.09722222222222,1,1383,Closed
+Add support for Postgres trust host auth method with Docker Compose,2024-07-16T03:27:37Z,,2024-07-16T18:43:13Z,2,APPROVED,15.26,2,13,Closed
+Add hint for new dependencies required for Flyway,2024-07-22T10:42:25Z,,2024-07-23T15:22:00Z,2,CHANGES_REQUESTED,28.65972222222222,1,944,Closed
+Use activemq-bom,2024-08-08T07:39:36Z,,2024-08-15T10:18:34Z,4,,170.64944444444444,1,38,Closed
+Add documentation for configuring OpenTelemetry SDK logs,2024-08-12T08:11:18Z,,2024-09-05T15:12:24Z,5,,583.0183333333333,1,347,Closed
+Add support for Pulsar default tenant/namespace,2024-08-14T00:56:56Z,,2024-08-20T10:08:54Z,4,,153.19944444444445,9,1775,Closed
+Refactor BasicJsonParser to simplify JSON parsing logic,2024-08-15T13:03:17Z,,2024-08-21T11:37:15Z,3,,142.5661111111111,1,574,Closed
+Skip redundant LoggerContext reset,2024-08-16T20:39:33Z,,2024-08-19T13:45:12Z,4,CHANGES_REQUESTED,65.09416666666667,1,1761,Closed
+Polish,2024-08-20T07:05:41Z,,2024-08-20T09:58:21Z,2,CHANGES_REQUESTED,2.8777777777777778,2,95,Closed
+Add support for configuring Pulsar listener container concurrency,2024-08-30T05:06:24Z,,2024-09-04T04:05:10Z,6,,118.97944444444444,7,340,Closed
+Polish,2024-09-03T09:07:42Z,,2024-09-03T13:57:46Z,3,APPROVED,4.834444444444444,2,91,Closed
+Add Graylog Extended Log Format (GELF) for structured logging,2024-09-05T15:18:31Z,,2024-09-10T11:34:00Z,2,,116.25805555555556,12,7546,Closed
+Add Pulsar config props for startup policy,2024-09-08T15:49:29Z,,2024-09-09T14:33:52Z,2,CHANGES_REQUESTED,22.739722222222223,6,1660,Closed
+Add Pulsar container factory customizers,2024-09-08T20:29:26Z,,2024-09-10T10:35:56Z,3,,38.108333333333334,10,2463,Closed
+Polish,2024-09-09T13:25:18Z,,2024-09-10T10:54:20Z,1,CHANGES_REQUESTED,21.483888888888888,4,138,Closed
+Add tests to ensure private constructor is not used for value object binding,2024-09-12T09:38:55Z,,2024-09-13T01:57:18Z,5,CHANGES_REQUESTED,16.30638888888889,1,533,Closed
+Add statsd graceful shutdown support,2024-09-18T05:19:26Z,,2024-09-18T07:13:57Z,2,,1.908611111111111,1,1311,Closed
+Code cleanup,2024-09-20T13:52:39Z,,2024-09-20T18:33:59Z,2,CHANGES_REQUESTED,4.688888888888889,3,0,Closed
+Make OtlpMeterRegistry virtual thread aware,2024-09-21T08:06:47Z,,2024-09-26T11:52:29Z,3,CHANGES_REQUESTED,123.76166666666667,3,1372,Closed
+Provide service connection support for Hazelcast,2024-09-22T17:50:14Z,,2024-09-26T14:53:57Z,2,,93.06194444444445,23,8,Closed
+Polish documentation,2024-09-25T11:22:46Z,,2024-09-26T12:03:03Z,4,,24.671388888888888,3,0,Closed
+Provide a configuration property for configuring Jetty's max form keys,2024-09-25T15:53:36Z,,2024-10-03T04:26:14Z,5,CHANGES_REQUESTED,180.5438888888889,4,1699,Closed
