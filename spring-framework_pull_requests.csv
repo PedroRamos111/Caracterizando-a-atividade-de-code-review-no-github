@@ -1,0 +1,561 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Fix typos,2015-10-20T04:42:07Z,,2018-09-03T08:25:38Z,2,APPROVED,25179.72527777778,1,0,Closed
+Improve explanation for how to customization default error page of the Servlet Container,2015-10-31T13:31:59Z,,2019-11-08T09:51:15Z,2,,35252.32111111111,1,508,Closed
+SPR-13657 Buffered AsyncClientHttpResponse,2015-11-08T18:53:28Z,,2018-02-05T14:10:51Z,1,,19675.289722222224,4,305,Closed
+Simpler solution to provide hints,2016-09-13T10:11:23Z,,2016-09-16T10:56:29Z,3,,72.75166666666667,10,352,Closed
+SPR-14664 Add byte range requests support,2016-09-14T21:14:28Z,2016-09-20T15:08:16Z,2016-09-20T15:08:16Z,3,,137.89666666666668,14,82,Merged
+Add reactive multipart request support,2016-10-12T09:24:06Z,,2017-05-01T18:38:14Z,4,CHANGES_REQUESTED,4833.235555555556,37,314,Closed
+Add FormHttpMessageReader/Writer,2016-10-25T22:57:55Z,,2016-10-28T18:30:19Z,1,,67.54,4,1214,Closed
+Add HttpHeaders#get/setContentDisposition(),2016-10-26T12:47:20Z,,2016-11-08T00:12:08Z,5,CHANGES_REQUESTED,299.41333333333336,4,516,Closed
+Add RedirectView to Spring Web Reactive,2016-11-21T10:25:00Z,,2016-11-28T18:21:49Z,2,,175.94694444444445,4,472,Closed
+Add twice to ExpectedCount as convenience method,2016-12-01T04:00:27Z,,2016-12-02T21:29:17Z,2,,41.480555555555554,4,0,Closed
+Javadoc fix,2016-12-02T06:51:44Z,,2016-12-02T21:29:31Z,1,,14.629722222222222,1,0,Closed
+SPR-12031 Support @ContextConfiguration at method level,2016-12-06T13:35:29Z,,2017-06-12T19:02:10Z,1,CHANGES_REQUESTED,4517.4447222222225,21,366,Closed
+SPR-14988: [Spring 5] @GetMapping method annotation uses consumes attribute from @RequestMapping class annotation,2016-12-07T00:15:50Z,,2016-12-07T22:53:04Z,3,,22.620555555555555,3,355,Closed
+Allow HandlerFunction to return Mono<ServerResponse>,2016-12-13T16:14:24Z,,2016-12-14T15:53:20Z,2,APPROVED,23.648888888888887,27,1535,Closed
+SPR-14544 Introduce PathPatternParser for optimized path matching,2017-01-11T22:03:10Z,2017-02-09T10:29:30Z,2017-02-09T10:29:30Z,2,,684.4388888888889,62,0,Merged
+Cache the invocation of Annotation.annotationType(),2017-02-06T19:05:34Z,,2017-04-06T10:34:25Z,1,,1407.4808333333333,4,0,Closed
+Implement reactive HiddenHttpMethodFilter,2017-02-06T19:58:55Z,,2017-02-09T21:40:40Z,3,APPROVED,73.69583333333334,2,108,Closed
+Refactor with String#isEmpty(),2017-02-21T15:25:06Z,,2017-02-22T10:57:07Z,1,,19.53361111111111,17,65,Closed
+Doc fix for example of GenericApplicationContext & representation of ConditionalGenericConverter,2017-03-05T06:42:39Z,,2017-03-05T08:34:58Z,1,APPROVED,1.8719444444444444,2,230,Closed
+Fix a typo in ValidationUtils.java,2017-03-13T03:55:59Z,,2017-03-27T08:12:52Z,1,,340.2813888888889,1,13,Closed
+Extract CompositeHttpHandler functionality,2017-03-14T17:30:53Z,,2017-03-15T21:22:19Z,2,,27.857222222222223,15,254,Closed
+Fixed a bug where gradle build would fail on windows.,2017-03-19T14:15:28Z,,2017-05-17T20:22:40Z,1,CHANGES_REQUESTED,1422.12,1,92,Closed
+Use a WebClient instead of a RestTemplate,2017-03-22T01:23:09Z,,2017-03-24T20:26:10Z,1,,67.05027777777778,1,42,Closed
+HttpOnly Cookie Result Matcher,2017-04-04T17:53:13Z,2017-04-27T13:20:07Z,2017-04-27T13:20:07Z,1,,547.4483333333334,2,437,Merged
+Use Java 8 forEach method on Map,2017-04-25T22:03:19Z,,2017-04-28T09:08:30Z,1,,59.08638888888889,8,62,Closed
+Remove redundant slashes in URI-string before it's URI will be resolve.,2017-05-09T00:09:27Z,,2017-05-22T16:49:37Z,3,,328.6694444444444,1,85,Closed
+SPR-15543: Fix duplicate subscriptionId for destination-sessionId key,2017-05-14T16:01:21Z,,2017-05-19T19:21:11Z,2,,123.33055555555555,1,496,Closed
+Timeout Overrides in Messaging Templates,2017-05-26T17:33:10Z,,2017-05-30T21:21:45Z,4,,99.80972222222222,2,781,Closed
+Doc update,2017-05-31T18:10:36Z,,2021-01-08T17:06:11Z,6,CHANGES_REQUESTED,31630.92638888889,1,50,Closed
+SPR-15604 Fixed cron expression validation method in CronSequenceGenerator,2017-05-31T19:55:43Z,,2017-06-29T20:24:10Z,2,,696.4741666666666,2,221,Closed
+Refact iterator of Map with Java 8 forEach,2017-06-04T01:23:14Z,,2017-06-05T13:08:07Z,1,,35.74805555555555,18,0,Closed
+Use the diamond syntax,2017-06-05T11:22:33Z,,2017-06-12T07:19:59Z,1,APPROVED,163.9572222222222,16,0,Closed
+Refact iterator of Map with Java 8 forEach,2017-06-05T17:04:44Z,,2017-06-12T06:59:10Z,1,APPROVED,157.90722222222223,37,0,Closed
+Remove duplicate code,2017-06-07T07:09:40Z,,2018-12-21T14:10:54Z,2,APPROVED,13495.020555555555,1,120,Closed
+use lambda to refact the code,2017-06-07T16:40:15Z,,2017-06-13T08:15:06Z,1,APPROVED,135.58083333333335,53,0,Closed
+"add EditorConfig file, help to unified code style",2017-06-09T03:08:05Z,,2017-06-12T06:08:57Z,4,APPROVED,75.01444444444445,1,0,Closed
+add @FunctionalInterface annotation,2017-06-10T05:01:01Z,,2017-06-12T11:53:25Z,3,CHANGES_REQUESTED,54.873333333333335,3,0,Closed
+Add onError callback to DeferredResult,2017-06-23T19:54:46Z,,2017-06-26T18:53:31Z,1,,70.97916666666667,27,16,Closed
+SPR-15708 - Add debug logging for CORS rejections,2017-06-28T01:15:26Z,,2017-07-03T07:50:12Z,2,CHANGES_REQUESTED,126.57944444444445,2,44,Closed
+Make getters and setters null-safety consistent,2017-07-10T16:56:16Z,,2017-07-19T07:17:59Z,8,,206.36194444444445,207,297,Closed
+Support instantiating Kotlin classes with optional parameters,2017-07-19T15:25:46Z,,2017-07-20T08:52:11Z,2,,17.440277777777776,7,277,Closed
+SPR-15819 - URI variables with MockRestRequestMatchers requestTo,2017-07-25T01:27:42Z,,2017-08-15T13:11:45Z,4,,515.7341666666666,2,78,Closed
+Update RestTemplate.java,2017-08-05T03:14:22Z,,2017-11-03T05:26:52Z,2,,2162.2083333333335,1,459,Closed
+Proofreading of the webflux chapter in the reference guide,2017-08-31T17:15:08Z,,2017-09-04T05:39:06Z,1,,84.39944444444444,3,32,Closed
+Spr 15950 PathMatchingResourcePatternResolver.java cannot find any resources in jar file in weblogic and websphere,2017-09-11T01:38:35Z,,2021-12-03T09:46:02Z,1,,37064.12416666667,1,433,Closed
+SPR-15993: Revisit meaning of response.close() in HTTP client,2017-09-25T16:09:54Z,2017-09-27T12:03:56Z,2017-09-27T12:03:56Z,1,,43.900555555555556,6,459,Merged
+spring-jdk9-hello-world,2017-10-12T07:44:52Z,,2017-10-16T20:57:25Z,1,,109.20916666666666,4,35,Closed
+Handle parameters of Kotlin extension methods correctly.,2017-10-26T13:13:32Z,,2017-11-13T14:54:56Z,3,CHANGES_REQUESTED,433.69,2,312,Closed
+SPR-16138 - MockHttpServletRequest: use computed serverName,2017-10-27T20:01:49Z,,2017-11-05T15:03:13Z,1,,211.02333333333334,1,84,Closed
+SPR-16170 Spring-jdbc : Improve memory allocations when substituting named parameters.,2017-11-07T17:27:16Z,2017-11-08T22:54:39Z,2017-11-08T22:54:39Z,2,,29.45638888888889,1,4179,Merged
+SPR-16098: Fix Reactive JsonView + HttpEntity handling,2017-11-14T17:22:17Z,,2017-11-16T14:16:51Z,2,,44.909444444444446,5,246,Closed
+Updating WebClient's javadocs,2017-11-14T17:25:09Z,,2017-11-23T04:29:00Z,2,,203.06416666666667,1,244,Closed
+UndertowServerHttpRequest: suspend reading when no demand,2017-11-15T10:57:28Z,,2017-11-16T15:19:00Z,2,,28.358888888888888,3,267,Closed
+AbstractListenerWebSocketSession: suspend the channel when there is no demand,2017-11-17T08:49:54Z,,2017-11-22T04:20:52Z,2,,115.51611111111112,5,17,Closed
+"[Obvious Fix] Fix typos, formatting and escaping in reference documentation",2017-11-19T06:00:20Z,,2018-03-30T14:09:10Z,2,,3152.1472222222224,6,376,Closed
+SPR-16245 make it easy to manipulate payload,2017-11-29T23:05:40Z,,2018-01-09T21:52:58Z,5,,982.7883333333333,1,0,Closed
+Support identical minPort and maxPort in SocketUtils,2017-12-04T22:56:26Z,2017-12-07T00:38:47Z,2017-12-07T00:38:47Z,2,APPROVED,49.70583333333333,2,86,Merged
+Fix a  obvious typo in javadoc,2017-12-22T02:07:38Z,,2017-12-23T13:21:14Z,1,,35.22666666666667,1,16,Closed
+Refactor getMethodIfAvailable to not cause NoSuchMethodExceptions,2017-12-22T19:29:14Z,,2017-12-31T07:09:30Z,2,,203.67111111111112,1,217,Closed
+Refactor AnnotatedElementUtils to not cause NoSuchMethodExceptions,2017-12-22T19:33:20Z,,2017-12-31T07:09:43Z,2,,203.6063888888889,1,202,Closed
+SPR-14818: Added MissingHeaderException type,2018-01-26T08:01:00Z,,2018-07-18T16:44:08Z,4,,4160.718888888889,2,0,Closed
+SPR-16425 - Remove square brackets around stringified collections,2018-01-27T14:06:29Z,,2021-01-08T17:04:17Z,1,,25850.963333333333,1,0,Closed
+Fixes typos - Obvious Fix,2018-01-31T20:08:05Z,,2018-02-01T07:45:39Z,1,APPROVED,11.626111111111111,1,40,Closed
+Polish SqlParameter.sqlTypesToAnonymousParameterList(),2018-02-01T05:09:29Z,,2018-02-01T08:16:07Z,1,APPROVED,3.1105555555555555,1,67,Closed
+MockHttpServletRequestBuilder decodes pathInfo,2018-02-01T19:26:01Z,,2018-02-02T20:19:34Z,3,,24.8925,2,274,Closed
+SPR-15083: Improve WebFlux exception logging,2018-02-05T10:07:21Z,,2018-02-05T15:25:20Z,1,APPROVED,5.299722222222222,2,395,Closed
+Polish: unused method parameters should be removed.,2018-02-12T22:57:02Z,,2018-02-13T10:13:42Z,1,CHANGES_REQUESTED,11.277777777777779,9,71,Closed
+"Polish: anonymous inner classes containing only one method should become lambdas,",2018-02-16T07:03:27Z,2018-02-16T08:38:20Z,2018-02-16T08:38:20Z,1,,1.581388888888889,11,127,Merged
+Return correct return type for Kotlin suspending functions in MethodParameter.,2018-02-19T10:45:43Z,,2019-03-06T09:59:49Z,4,CHANGES_REQUESTED,9119.235,3,417,Closed
+SPR-16519 - Adding new acknowledge method version,2018-02-27T15:48:41Z,,2018-02-27T20:47:42Z,2,,4.983611111111111,2,51,Closed
+"Polish: to get rid of ""magic"" time constants",2018-03-08T18:31:16Z,2018-03-08T19:37:49Z,2018-03-08T19:37:49Z,3,,1.1091666666666666,7,0,Merged
+" Polish ""Use Java 8 forEach method on Map""",2018-03-09T16:04:05Z,,2018-11-05T15:34:34Z,1,,5783.508055555556,1,0,Closed
+Optimize ClassUtils.forName() for more cases,2018-03-29T15:47:13Z,,2018-03-30T10:53:02Z,1,,19.096944444444443,1,46,Closed
+Fix docs formatting,2018-04-05T12:30:02Z,2018-04-06T00:11:08Z,2018-04-06T00:11:08Z,1,APPROVED,11.685,2,109,Merged
+Add support for Jetty Reactive Streams HTTP client,2018-04-10T12:36:35Z,,2018-07-18T12:56:57Z,14,,2376.3394444444443,7,666,Closed
+ Throw exception from user code in SpringFailOnTimeout even if a timeout occurs,2018-04-10T21:00:20Z,2018-04-12T08:37:13Z,2018-04-12T08:37:13Z,3,CHANGES_REQUESTED,35.61472222222222,2,0,Merged
+SPR-16738 Introduce new interface CacheDecorator.,2018-04-17T18:19:24Z,,2018-05-03T13:37:42Z,2,CHANGES_REQUESTED,379.305,7,745,Closed
+Handle null as null in Yaml,2018-04-18T20:44:04Z,,2018-05-28T14:54:39Z,1,CHANGES_REQUESTED,954.1763888888889,2,39,Closed
+Fix typo,2018-04-21T12:50:18Z,,2018-04-24T08:08:23Z,1,APPROVED,67.3013888888889,1,30,Closed
+Avoid message listener recovery in case of persistence exceptions from external transaction manager,2018-04-25T11:40:05Z,,2022-01-19T13:01:41Z,3,,32761.36,1,282,Closed
+Added Basic Authorization for UrlResource,2018-05-08T12:09:26Z,,2023-08-22T14:43:45Z,2,,46370.57194444445,1,135,Closed
+Fix a typo in javadoc,2018-05-10T06:57:44Z,,2018-05-10T15:33:31Z,1,APPROVED,8.596388888888889,1,24,Closed
+"SPR-16809 - Use ""internalSet"" instead of normal setter.",2018-05-10T08:06:34Z,,2021-04-27T05:06:43Z,1,,25989.0025,1,225,Closed
+SPR-16831 Allow null value for second attribute for ConcurrentModel.a…,2018-05-17T08:47:34Z,,2018-05-17T11:05:21Z,2,,2.296388888888889,1,59,Closed
+Merge class-level and method-level @Sql declarations,2018-05-25T13:35:11Z,,2019-07-21T14:26:40Z,2,APPROVED,10128.858055555556,5,23,Closed
+Prevent instantiation of AnnotatedElementUtils,2018-06-03T17:44:47Z,,2018-06-11T06:35:15Z,2,APPROVED,180.8411111111111,1,129,Closed
+Fix format typos in webmvc.adoc,2018-06-04T17:36:34Z,,2018-06-04T18:57:28Z,1,APPROVED,1.3483333333333334,1,0,Closed
+Fix the link to CONTRIBUTING.md,2018-06-19T04:19:54Z,,2018-06-19T07:08:23Z,1,APPROVED,2.8080555555555557,1,0,Closed
+SPR-16958 - Introduce GSON based MessageConverter,2018-06-21T06:19:59Z,,2021-11-24T14:37:55Z,5,,30056.29888888889,8,143,Closed
+Add checkstyle,2018-06-21T18:37:17Z,2018-06-28T08:28:45Z,2018-06-28T08:28:45Z,14,,157.85777777777778,1587,0,Merged
+Polish build script,2018-08-06T18:25:21Z,,2018-08-10T06:49:15Z,1,APPROVED,84.39833333333333,1,749,Closed
+Add backslash escape support to containsSqlScriptDelimiters,2018-08-06T19:56:27Z,,2018-08-13T12:57:58Z,2,APPROVED,161.02527777777777,2,277,Closed
+WIP: CaffeineCacheManager: Allow configuration of custom caches ,2018-08-18T13:45:55Z,,2019-01-07T08:18:26Z,1,,3402.5419444444447,1,970,Closed
+Fix usage of deprecated functionality in docs,2018-08-20T03:32:42Z,,2018-08-20T07:44:54Z,1,APPROVED,4.203333333333333,1,159,Closed
+Polish,2018-08-22T15:41:09Z,,2018-08-23T07:49:20Z,11,APPROVED,16.136388888888888,2,52,Closed
+Spr-17211 - async tests refactoring,2018-08-24T06:36:37Z,,2018-09-04T12:53:37Z,2,APPROVED,270.28333333333336,5,322,Closed
+SPR-17215 - prevent instantiation of utility classes,2018-08-26T14:42:07Z,2018-08-27T13:35:01Z,2018-08-27T13:35:01Z,6,APPROVED,22.881666666666668,1,371,Merged
+Add Kotlin DSL for working with MockMvc,2018-09-06T13:06:24Z,,2019-03-04T17:02:16Z,2,,4299.931111111111,5,784,Closed
+Option to create Exception response to MockRestResponseCreators,2018-09-09T21:09:13Z,,2019-11-08T18:11:06Z,1,,10197.031388888889,2,1199,Closed
+Fix trivial errors in core-beans documentation,2018-09-25T16:56:48Z,,2018-09-25T18:22:45Z,1,APPROVED,1.4325,1,71,Closed
+SPR-17321,2018-10-01T20:48:55Z,2018-10-02T10:18:45Z,2018-10-02T10:18:45Z,1,,13.497222222222222,2,49,Merged
+Leverage ObjectProvider instead of autowired containers,2018-10-03T09:24:48Z,,2018-10-03T12:17:05Z,1,,2.8713888888888888,2,822,Closed
+Optimize HTTP headers parsing,2018-10-03T19:32:25Z,2018-10-11T11:06:31Z,2018-10-11T11:06:31Z,9,,183.56833333333333,20,1954,Merged
+Fix formatting,2018-10-04T17:52:49Z,,2018-10-05T07:22:12Z,1,APPROVED,13.489722222222222,14,176,Closed
+Update core-beans.adoc: fix bullet list layout,2018-10-06T18:56:02Z,,2018-10-07T11:47:45Z,1,APPROVED,16.861944444444443,1,0,Closed
+Replace nested conditional with guard clauses,2018-10-11T15:51:24Z,,2018-10-26T08:25:36Z,1,,352.57,1,142,Closed
+SPR-17458 Documentation explicit Executor usage on @Async section,2018-11-04T21:24:19Z,,2018-11-06T07:33:25Z,2,,34.151666666666664,1,70,Closed
+SPR-17459 Catering for comma being part of the media/mime type as double quoted,2018-11-06T23:07:35Z,,2018-11-14T04:10:28Z,2,,173.04805555555555,4,291,Closed
+Fix typos,2018-11-19T04:28:24Z,,2018-11-19T07:51:57Z,1,APPROVED,3.3925,76,0,Closed
+The name of the parameter is misleading,2018-11-24T10:18:43Z,,2018-11-25T08:26:06Z,4,,22.123055555555556,2,198,Closed
+SPR-17540 JavaMailSenderImpl does not show proper message when recipient list is empty,2018-11-27T08:57:43Z,,2018-12-03T18:26:42Z,3,,153.48305555555555,1,39,Closed
+Join together identical catch branches,2018-12-13T23:05:20Z,,2018-12-25T08:47:47Z,3,APPROVED,273.7075,5,0,Closed
+Optimize `CharSequence` writing to `DataBuffer` instances,2018-12-14T09:51:14Z,,2018-12-20T20:36:05Z,5,,154.7475,9,256,Closed
+Use try-with-resources language construct where feasible,2018-12-28T21:29:26Z,,2020-06-16T20:58:47Z,1,APPROVED,12863.489166666666,30,0,Closed
+Fix typo in cache abstraction chapter,2019-01-15T07:45:02Z,,2019-01-15T11:25:56Z,1,APPROVED,3.6816666666666666,1,12,Closed
+Unify declaration dependent version,2019-01-19T17:23:01Z,,2019-12-13T14:53:28Z,3,,7869.5075,19,119,Closed
+Polish AutowireUtils.EXECUTABLE_COMPARATOR,2019-01-20T01:28:21Z,,2019-01-20T16:38:55Z,1,APPROVED,15.176111111111112,1,61,Closed
+Load-time weaving support for WildFly 13+,2019-01-23T10:02:24Z,2019-02-04T22:31:22Z,2019-02-04T22:31:22Z,1,,300.48277777777776,1,173,Merged
+Small fix in DeferredResultReturnValueHandlerTests regarding CompletableFuture tests,2019-02-03T20:55:23Z,,2019-02-04T09:35:33Z,1,APPROVED,12.669444444444444,1,260,Closed
+Added configurable maxFramePayloadLength to ReactorNettyWebSocketClient,2019-02-06T20:56:25Z,,2019-03-12T20:00:39Z,3,,815.0705555555555,1,999,Closed
+Ensure indexer output is deterministic and repeatable,2019-02-07T21:11:19Z,,2019-06-11T14:55:43Z,2,,2969.74,3,450,Closed
+Ensure indexer gracefully handle missing meta annotations,2019-02-07T22:26:34Z,,2019-02-14T09:19:52Z,1,,154.88833333333332,4,1922,Closed
+Provide support for publishing test execution life-cycle events,2019-02-26T19:57:01Z,,2019-03-01T14:28:48Z,5,APPROVED,66.52972222222222,22,253,Closed
+Fix javadoc for AbstractApplicationContext.registerBeanPostProcessors(),2019-03-05T16:29:37Z,2019-03-06T11:12:17Z,2019-03-06T11:12:17Z,4,APPROVED,18.711111111111112,1,86,Merged
+Introduce WebMvc.fn,2019-03-07T11:13:29Z,2019-03-20T15:56:38Z,2019-03-20T15:56:38Z,2,APPROVED,316.7191666666667,43,357,Merged
+ISO-8859-1 as default for application/x-www-form-urlencoded,2019-03-08T19:10:56Z,,2019-03-11T19:25:32Z,1,,72.24333333333334,6,730,Closed
+Avoid calling other bean methods in web config,2019-03-14T17:59:47Z,2019-04-03T09:26:38Z,2019-04-03T09:26:38Z,1,,471.4475,8,292,Merged
+Add paging and sorting mechanism with the JdbcTemplate,2019-04-05T19:30:39Z,,2023-08-20T07:25:09Z,2,,38339.90833333333,2,392,Closed
+Update Scheduled.java Javadoc to explicitly include cron element order,2019-04-09T15:57:11Z,2019-04-09T17:03:30Z,2019-04-09T17:03:30Z,3,APPROVED,1.1052777777777778,1,320,Merged
+Add Nohttp Checks,2019-04-25T16:11:20Z,,2019-07-11T16:15:25Z,21,APPROVED,1848.0680555555555,41,0,Closed
+Extend MultipartBodyBuilder methods so they accept a filename parameter,2019-05-07T20:11:10Z,,2019-06-04T18:51:51Z,2,,670.6780555555556,2,159,Closed
+Cannot enhance @Configuration bean definition,2019-05-18T14:58:54Z,,2023-08-23T13:46:30Z,1,,37390.793333333335,2,145,Closed
+Update webflux.adoc,2019-05-19T00:41:14Z,,2019-05-22T12:54:19Z,3,CHANGES_REQUESTED,84.21805555555555,1,150,Closed
+Add FreeMarker macro support in spring-webflux,2019-05-20T16:35:35Z,,2019-06-10T13:16:29Z,6,APPROVED,500.6816666666667,6,23,Closed
+Update kotlin.adoc,2019-05-30T00:00:05Z,,2019-05-31T12:18:22Z,2,,36.304722222222225,1,142,Closed
+ nice to have : add empty value check,2019-06-04T12:24:02Z,,2019-10-05T06:32:45Z,3,,2946.1452777777777,2,37,Closed
+Simplify comparison of primitives,2019-06-07T12:42:45Z,2019-06-07T16:14:05Z,2019-06-07T16:14:05Z,2,APPROVED,3.522222222222222,2,50,Merged
+Use try with resources,2019-06-09T12:17:13Z,,2019-06-12T10:37:02Z,4,CHANGES_REQUESTED,70.33027777777778,1,0,Closed
+Support target type in MockMvcResultMatchers.jsonPath(),2019-06-15T18:43:07Z,,2019-06-18T16:04:57Z,5,,69.3638888888889,4,270,Closed
+Handle absolute path on Windows in PathEditor,2019-06-25T16:02:21Z,,2022-09-26T09:39:06Z,1,,28529.6125,2,71,Closed
+Generalize ServerResponse and WebClient body methods,2019-06-28T22:17:58Z,,2019-07-07T20:29:55Z,4,,214.19916666666666,25,880,Closed
+convertList method added,2019-07-09T09:12:29Z,,2021-11-16T13:26:30Z,7,,20668.23361111111,2,239,Closed
+Polish DisposableBeanAdapter,2019-07-10T05:52:46Z,,2021-11-30T15:58:00Z,1,,20986.08722222222,1,41,Closed
+Add multi-prefix comment support for SQL scripts,2019-07-14T11:19:37Z,,2019-07-15T17:13:39Z,9,CHANGES_REQUESTED,29.900555555555556,4,361,Closed
+Fix the bug for method mergeProperties().,2019-07-14T12:56:26Z,,2022-09-26T09:29:23Z,1,CHANGES_REQUESTED,28076.549166666668,1,186,Closed
+Fix dataMimeType and metadataMimeType mixup in precondition check,2019-07-15T20:27:22Z,,2019-07-16T09:14:29Z,2,CHANGES_REQUESTED,12.785277777777777,1,94,Closed
+Use StringJoiner where possible to simplify String joining,2019-07-16T17:47:08Z,,2019-07-24T08:19:53Z,2,APPROVED,182.54583333333332,3,66,Closed
+Support @TestPropertySource as a repeatable annotation,2019-07-20T07:18:52Z,,2019-07-27T21:30:32Z,2,APPROVED,182.19444444444446,24,443,Closed
+Use Arrays.copyOf and Arrays.copyOfRange where possible,2019-07-31T16:20:33Z,,2019-08-27T17:31:07Z,1,,649.1761111111111,5,0,Closed
+Preserve the originalMessage when creating an ErrorMessage in MessageBuilder,2019-08-05T10:46:35Z,,2019-11-08T15:04:51Z,3,,2284.3044444444445,2,460,Closed
+Avoid storing unnecessary beanName in ApplicationListenerDetector,2019-08-13T02:22:12Z,,2019-10-07T12:34:49Z,3,,1330.2102777777777,1,98,Closed
+ Use lambda expressions instead of anonymous classes in spring-aop tests,2019-08-13T13:15:43Z,2019-08-27T10:01:30Z,2019-08-27T10:01:30Z,7,,332.7630555555556,8,31,Merged
+Replacing netty-all with specific dependencies,2019-08-15T15:27:36Z,,2019-11-08T13:02:19Z,1,,2037.578611111111,1,880,Closed
+Use enum instance instead of instantiating AutowiredArgumentMarker,2019-08-16T10:18:55Z,,2019-08-25T20:45:27Z,2,,226.44222222222223,1,141,Closed
+Simplify String concatenation,2019-08-16T10:38:29Z,2019-08-27T16:22:45Z,2019-08-27T16:22:45Z,2,,269.73777777777775,4,0,Merged
+Use Collections.addAll where feasible,2019-08-17T14:31:17Z,2019-08-29T11:59:14Z,2019-08-29T11:59:15Z,10,APPROVED,285.4658333333333,2,100,Merged
+Use Collections.addAll() where feasible,2019-08-18T11:40:50Z,,2019-12-13T15:22:56Z,2,CHANGES_REQUESTED,2811.701666666667,6,121,Closed
+"Fix ""array index out of bounds"" problem reported by LGTM.com",2019-08-19T18:20:36Z,,2019-09-03T11:32:23Z,3,,353.19638888888886,2,397,Closed
+Adding Kotlin code examples to Testing documentation.,2019-08-30T00:38:02Z,,2019-08-31T09:45:04Z,1,CHANGES_REQUESTED,33.117222222222225,2,69,Closed
+Omit cancellation of transactional Monos in TransactionOperator,2019-09-02T10:01:43Z,2019-09-20T18:48:40Z,2019-09-20T18:48:40Z,5,APPROVED,440.7825,3,748,Merged
+Log HTTP method in logging filters and revise log message format,2019-09-02T17:42:45Z,,2019-09-16T09:38:23Z,2,APPROVED,327.9272222222222,2,958,Closed
+Add support for X-Forwarded-For and Forwarded for,2019-09-04T08:43:29Z,,2020-06-22T06:02:26Z,1,,7005.315833333333,7,13,Closed
+Enhanced form data request support in MockRestServiceServer,2019-09-19T18:19:16Z,,2020-06-18T07:12:26Z,1,,6540.886111111111,3,581,Closed
+Fix DataSize class according to ISO/IEC 80000,2019-09-23T19:41:01Z,,2019-09-25T08:06:04Z,1,,36.4175,3,126,Closed
+Ensure spring-core jar task is UP-TO-DATE,2019-09-30T12:20:34Z,,2019-11-04T09:45:09Z,5,,837.4097222222222,2,1503,Closed
+Code improvement in `for` statement to use lambda expression,2019-10-01T11:11:28Z,,2019-10-01T12:48:59Z,2,,1.6252777777777778,7,61,Closed
+Multipart request support in MockRestServiceServer,2019-10-09T09:46:45Z,,2020-06-18T06:54:24Z,2,,6069.1275,4,1495,Closed
+Fix typo,2019-10-13T07:33:15Z,,2019-11-01T12:30:40Z,1,,460.95694444444445,1,0,Closed
+Updates Tomcat to 9.0.27,2019-10-15T14:19:47Z,,2019-10-21T07:39:35Z,1,,137.33,1,291,Closed
+Improve the performance of the method MethodParameter.getParameterType,2019-10-15T18:08:03Z,,2019-10-29T19:02:45Z,2,,336.9116666666667,1,86,Closed
+Make Kotlin functions accessible in CoroutinesUtils,2019-10-21T12:34:59Z,,2022-02-14T09:53:22Z,1,,20325.30638888889,5,740,Closed
+MockHttpServletResponse now checks for committed responses,2019-10-27T23:42:29Z,,2019-11-08T09:46:27Z,1,,274.0661111111111,2,12,Closed
+Reorder date formatting converter in registrar,2019-10-30T13:01:30Z,2019-10-30T16:17:30Z,2019-10-30T16:17:30Z,2,APPROVED,3.2666666666666666,2,811,Merged
+Ensure InstantFormatter can properly deserialize ISO-formatted dates,2019-10-30T14:18:19Z,,2019-11-14T09:02:31Z,2,APPROVED,354.7366666666667,2,354,Closed
+Update AbstractNestablePropertyAccessor.java,2019-11-07T01:34:22Z,,2019-11-28T12:38:01Z,3,,515.0608333333333,2,80,Closed
+Simplify AbstractAsyncConfiguration,2019-11-14T22:06:07Z,,2023-08-23T13:41:21Z,4,,33063.587222222224,2,144,Closed
+Fix errors in documentation,2019-11-15T16:37:33Z,2019-11-17T12:50:50Z,2019-11-17T12:50:50Z,2,,44.22138888888889,5,0,Merged
+Support quoted identifiers in `SimpleJdbcInsert`,2019-11-18T07:27:56Z,,2023-09-05T11:32:44Z,5,CHANGES_REQUESTED,33292.08,7,481,Closed
+Support the feature that combine multiple SqlParameterSource,2019-11-19T17:08:14Z,,2023-08-23T14:18:04Z,1,,32949.16388888889,2,14,Closed
+Add protobuf MessageConverter,2019-11-26T18:33:04Z,,2019-11-29T15:56:20Z,9,CHANGES_REQUESTED,69.38777777777777,18,250,Closed
+Add fast-path for no-args constructor in BeanUtils.instantiateClass,2019-11-29T15:48:40Z,,2022-09-26T08:25:40Z,6,,24760.616666666665,1,214,Closed
+Supplement Test Cases In XmlBeanFactoryTests,2019-12-11T15:46:08Z,,2019-12-13T15:14:26Z,3,APPROVED,47.471666666666664,2,44,Closed
+Reuse InputStream for ResourceRegionHttpMessageConverter,2019-12-15T03:38:51Z,,2019-12-19T12:56:18Z,1,CHANGES_REQUESTED,105.29083333333334,1,728,Closed
+Introduce AnnotationConfigGenericWebApplicationContext,2019-12-20T09:16:44Z,,2021-12-07T10:59:39Z,1,,17233.715277777777,1,550,Closed
+Honor generic type information in BeanUtils.copyProperties(),2020-01-02T14:24:45Z,,2020-04-28T11:32:25Z,6,,2805.1277777777777,2,200,Closed
+Polish ResolvableType equals implementation,2020-01-06T12:26:40Z,,2020-01-07T01:39:48Z,1,CHANGES_REQUESTED,13.21888888888889,1,729,Closed
+Expose property for handling of Ping frames with Reactor Netty WebSocket client and server,2020-01-15T14:53:46Z,,2020-01-16T16:04:09Z,1,,25.173055555555557,2,113,Closed
+Polish constants name in jta transaction manager factory bean,2020-01-16T18:31:40Z,,2020-01-17T09:34:43Z,1,,15.050833333333333,1,73,Closed
+Use dedicated catch block for ScriptException,2020-01-17T10:56:58Z,2020-02-04T13:45:52Z,2020-02-04T13:45:52Z,1,,434.815,1,15,Merged
+Add more lambda expressions in data-access code examples,2020-01-20T00:55:04Z,,2020-03-17T14:07:03Z,4,CHANGES_REQUESTED,1381.1997222222221,1,66,Closed
+Support URI templates in RequestEntity,2020-01-20T18:06:01Z,,2020-06-15T13:33:01Z,11,CHANGES_REQUESTED,3523.45,3,59,Closed
+Improve deleteRecursively() method in FileSystemUtil,2020-01-21T11:57:48Z,,2021-04-16T08:57:18Z,1,,10820.991666666667,1,52,Closed
+odata uses MERGE method for updating Entity,2020-01-26T13:00:13Z,,2020-01-28T07:35:39Z,1,CHANGES_REQUESTED,42.590555555555554,1,590,Closed
+Remove mention of non-existent local bean attribute from documentation,2020-01-26T14:58:05Z,,2020-01-27T17:48:33Z,1,APPROVED,26.84111111111111,1,203,Closed
+Support message conversion with kotlinx.serialization,2020-01-27T13:01:08Z,,2020-09-14T21:28:22Z,9,,5552.453888888889,5,355,Closed
+Update integration.adoc,2020-01-27T14:57:24Z,2020-01-27T16:21:17Z,2020-01-27T16:21:17Z,1,APPROVED,1.3980555555555556,1,8,Merged
+Improve ConcurrentLruCache performance,2020-02-03T09:38:17Z,,2020-03-22T20:56:58Z,4,,1163.3113888888888,1,410,Closed
+ExecutorConfigurationSupport to allow millisecond precision for await termination period,2020-02-10T07:53:49Z,,2020-02-11T14:03:58Z,1,CHANGES_REQUESTED,30.169166666666666,1,493,Closed
+MapSqlParameterSource.getValue Handling of null values,2020-02-14T13:26:18Z,,2023-08-23T14:36:27Z,1,,30865.169166666667,1,131,Closed
+PartsHttpMessageWriter introduced,2020-02-17T07:52:06Z,,2020-05-08T08:40:08Z,1,CHANGES_REQUESTED,1944.8005555555555,5,157,Closed
+Simplify code in spring-test by using Collections.addAll,2020-02-19T12:57:46Z,2020-02-19T16:28:23Z,2020-02-19T16:28:23Z,1,CHANGES_REQUESTED,3.5102777777777776,2,30,Merged
+Turn off useSuffixPatternMatching by default,2020-02-23T23:42:10Z,,2020-05-05T17:25:16Z,1,CHANGES_REQUESTED,1721.7183333333332,7,25,Closed
+Simplify some redundant code,2020-02-25T02:00:03Z,2020-02-26T11:29:10Z,2020-02-26T11:29:10Z,1,CHANGES_REQUESTED,33.485277777777775,9,306,Merged
+Support wildcards in @PropertySource,2020-02-25T14:13:29Z,,2020-06-09T14:47:24Z,1,,2520.5652777777777,2,10,Closed
+Add support for explicit generic type in PayloadApplicationEvent,2020-02-26T12:01:50Z,,2021-12-02T09:23:44Z,2,,15477.365,3,694,Closed
+Polish mergeArrayIntoCollection of CollectionUtils,2020-03-04T04:07:33Z,,2021-12-21T08:50:36Z,1,,15772.7175,1,26,Closed
+Sort detected PersistenceExceptionTranslator beans,2020-03-05T01:53:18Z,,2020-08-07T10:08:56Z,2,,3728.2605555555556,2,81,Closed
+Introduce getContentAsString and getContentAsByteArray to Resource,2020-03-06T05:44:49Z,,2023-02-14T14:14:59Z,6,,25808.50277777778,4,258,Closed
+Support user-defined key type in JDBC KeyHolder,2020-03-07T10:45:48Z,,2020-06-16T12:18:55Z,6,APPROVED,2425.5519444444444,3,211,Closed
+Optimize global advisor registration in ProxyFactoryBean,2020-03-10T08:18:44Z,,2020-03-23T23:09:15Z,1,,326.84194444444444,1,404,Closed
+Extract traceEnabled for reuse in RuleBasedTransactionAttribute,2020-03-11T14:27:38Z,,2020-03-13T10:39:26Z,2,,44.196666666666665,1,110,Closed
+Improve javadoc in RollbackRuleAttribute regarding nested classes,2020-03-12T01:46:25Z,2020-03-15T11:06:17Z,2020-03-15T11:06:17Z,3,CHANGES_REQUESTED,81.33111111111111,2,420,Merged
+Extract isDebugEnabled() checks to local variables,2020-03-12T06:12:48Z,2020-03-16T14:25:05Z,2020-03-16T14:25:06Z,3,CHANGES_REQUESTED,104.20472222222222,1,54,Merged
+Fix exception message in getMergedBeanDefinition,2020-03-13T01:13:15Z,2020-03-13T08:47:58Z,2020-03-13T08:47:58Z,1,CHANGES_REQUESTED,7.578611111111111,1,98,Merged
+Improve Javadoc in AutoProxyRegistrar,2020-03-13T06:36:48Z,2020-03-13T09:01:59Z,2020-03-13T09:01:59Z,1,CHANGES_REQUESTED,2.419722222222222,1,212,Merged
+Integrate Apache Http client with WebClient,2020-03-14T22:32:16Z,,2020-04-29T13:22:29Z,18,,1094.8369444444445,14,374,Closed
+Remove obsolete comment in BeanDefinitionParserDelegate,2020-03-26T12:11:52Z,2020-03-26T14:48:49Z,2020-03-26T14:48:49Z,2,APPROVED,2.6158333333333332,1,0,Merged
+Fix broken link in Javadoc for DynamicPropertySource,2020-03-26T14:10:34Z,2020-03-26T15:20:56Z,2020-03-26T15:20:56Z,2,APPROVED,1.1727777777777777,1,167,Merged
+Remove incorrect @Nullable in DynamicPropertiesContextCustomizer,2020-03-27T04:01:03Z,2020-03-28T14:29:02Z,2020-03-28T14:29:02Z,2,CHANGES_REQUESTED,34.466388888888886,1,470,Merged
+Use autoboxing instead of explicit wrapping,2020-03-27T15:47:47Z,,2020-04-01T12:45:17Z,2,,116.95833333333333,45,294,Closed
+Improve usage of ByteArrayOutputStream/ByteArrayInputStream,2020-03-28T17:40:57Z,,2020-03-30T11:48:33Z,5,,42.126666666666665,10,4566,Closed
+Fix Javadoc in PathPattern,2020-04-01T21:07:34Z,2020-04-02T14:29:28Z,2020-04-02T14:29:28Z,1,CHANGES_REQUESTED,17.365,1,0,Merged
+Add Encoder and Decoder for Netty ByteBuf,2020-04-05T18:03:21Z,,2020-05-05T17:22:34Z,6,CHANGES_REQUESTED,719.3202777777777,4,63,Closed
+Fixed typos,2020-04-11T11:24:56Z,2020-04-15T13:20:36Z,2020-04-15T13:20:36Z,1,,97.92777777777778,1,43,Merged
+Simplify some control flow code,2020-04-14T11:20:22Z,,2020-04-17T16:17:58Z,1,CHANGES_REQUESTED,76.96,0,46,Closed
+Avoid unnecessary String instantiation in StringUtils.deleteAny(),2020-04-17T13:57:15Z,2020-04-17T16:44:17Z,2020-04-17T16:44:17Z,1,,2.783888888888889,1,4660,Merged
+Simplify substring() usage in MimeTypeUtils,2020-04-19T14:17:32Z,2020-04-19T15:39:06Z,2020-04-19T15:39:06Z,1,CHANGES_REQUESTED,1.3594444444444445,1,72,Merged
+Aggregate TestExecutionListener orders,2020-04-26T12:56:31Z,,2021-01-17T17:06:12Z,1,,6388.161388888889,8,368,Closed
+Preserve Http Response Info When MessageConverter Not Found Case,2020-04-29T21:18:12Z,,2020-05-04T09:57:47Z,1,CHANGES_REQUESTED,108.65972222222223,3,130,Closed
+Add missing @PathVariable declarations in examples in webmvc.adoc,2020-05-03T06:05:35Z,,2020-05-04T09:56:37Z,2,,27.850555555555555,1,178,Closed
+Fix typo in RmiSupportTests,2020-05-12T04:39:48Z,2020-05-12T12:19:17Z,2020-05-12T12:19:17Z,1,,7.658055555555555,1,0,Merged
+Avoid unnecessary boxing/unboxing of primitives,2020-05-14T14:14:41Z,,2020-05-15T16:13:55Z,2,CHANGES_REQUESTED,25.987222222222222,4,108,Closed
+Polish StringHttpMessageConverter.getContentTypeCharset(),2020-05-26T03:01:45Z,,2020-05-26T16:58:57Z,2,APPROVED,13.953333333333333,1,398,Closed
+Refactoring for MockServerHttpRequest,2020-05-28T10:11:22Z,,2020-05-29T17:12:48Z,2,,31.023888888888887,3,1118,Closed
+Introduce tests for MultiValueMap,2020-05-28T22:56:54Z,,2023-08-25T09:50:19Z,2,APPROVED,28402.890277777777,2,815,Closed
+Wrap ternary operator within parentheses as outlined in Code Style,2020-06-10T16:41:46Z,,2020-06-11T13:21:24Z,4,,20.660555555555554,7,46,Closed
+"Add tests for Assert.noNullElements(Collection, ...)",2020-06-11T14:45:06Z,2020-06-12T07:37:27Z,2020-06-12T07:37:27Z,2,APPROVED,16.8725,1,228,Merged
+DefaultSubscriptionRegistry: Reduced thread contention,2020-06-22T08:49:28Z,,2020-07-16T20:02:00Z,13,APPROVED,587.2088888888889,4,459,Closed
+SpEL: cannot call methods declared in `java.lang.Object` on a JDK proxy,2020-06-25T11:42:20Z,,2023-03-14T16:31:18Z,2,APPROVED,23812.81611111111,2,149,Closed
+Improve Random seed in SocketUtils,2020-06-26T18:19:58Z,,2020-07-03T10:05:46Z,1,,159.76333333333332,1,169,Closed
+Use Math.min() in ExponentialBackOff,2020-07-12T09:11:41Z,,2020-07-13T10:00:55Z,1,,24.820555555555554,2,146,Closed
+Fix typo in javadoc,2020-07-16T01:17:24Z,2020-07-16T06:41:39Z,2020-07-16T06:41:39Z,1,,5.404166666666667,1,0,Merged
+Fix links in Javadoc,2020-07-21T15:52:31Z,2020-07-22T08:24:55Z,2020-07-22T08:24:55Z,2,APPROVED,16.54,9,8,Merged
+Simplify if-statements with instanceof checks,2020-07-21T15:53:26Z,2020-07-22T08:34:28Z,2020-07-22T08:34:28Z,3,APPROVED,16.683888888888887,10,8,Merged
+Use StringBuilder instead of StringBuffer in tests,2020-07-21T15:54:18Z,2020-07-22T08:21:06Z,2020-07-22T08:21:06Z,3,APPROVED,16.446666666666665,1,0,Merged
+Use Comparable instead of dedicated implementations,2020-07-27T16:33:08Z,,2023-08-25T12:48:43Z,4,,26972.25972222222,7,0,Closed
+AnnotationTypeMappings does not filter repeatable annotations,2020-07-28T07:40:33Z,,2020-07-30T12:05:50Z,5,,52.42138888888889,2,178,Closed
+Updated as per standard design practice,2020-07-28T19:20:11Z,,2020-08-09T08:13:45Z,8,,276.8927777777778,1,182,Closed
+specify null and zero length data,2020-07-29T10:08:32Z,,2021-07-17T07:29:13Z,2,,8469.344722222222,1,422,Closed
+Optimize DefaultLifecycleProcessor::startBeans,2020-08-02T02:41:39Z,,2020-08-10T12:26:56Z,3,,201.75472222222223,1,34,Closed
+CloseStatus implements Serializable,2020-08-03T00:56:13Z,,2020-08-28T21:20:32Z,1,,620.4052777777778,1,162,Closed
+Fix comment syntax in xml examples,2020-08-06T01:20:37Z,,2020-08-06T07:10:56Z,1,APPROVED,5.838611111111111,2,0,Closed
+Let the DataSize.toString method returns the closest unit to represen…,2020-08-07T03:04:43Z,,2021-12-10T23:04:29Z,2,CHANGES_REQUESTED,11779.996111111112,2,122,Closed
+fix for issue #25323 with test,2020-08-07T08:04:24Z,,2020-08-17T20:06:22Z,3,,252.03277777777777,4,0,Closed
+Consistently resolve `ClassPathResource` for `classpath:` prefix in `PathMatchingResourcePatternResolver`,2020-08-21T16:10:10Z,,2023-04-01T16:18:49Z,1,,22872.144166666665,1,18,Closed
+Simplify code in AbstractFallbackJCacheOperationSource,2020-08-23T06:03:07Z,,2020-09-18T13:11:20Z,1,,631.1369444444445,1,94,Closed
+Remove never use code in AbstractNestablePropertyAccessor,2020-08-24T02:58:24Z,,2021-12-10T22:53:33Z,1,,11371.919166666667,1,136,Closed
+Change field configurationClasses type to set in ConfigurationClassParser,2020-08-25T09:46:47Z,,2021-12-10T22:56:34Z,2,,11341.163055555555,1,208,Closed
+Avoid use of String's for ContentDisposition type,2020-08-26T08:33:18Z,,2020-10-23T17:28:30Z,1,CHANGES_REQUESTED,1400.92,6,165,Closed
+Add logPrefix to the log statement,2020-08-26T13:38:29Z,2020-08-28T09:53:08Z,2020-08-28T09:53:08Z,1,APPROVED,44.244166666666665,1,73,Merged
+Fix Issue #25557,2020-09-06T17:51:08Z,,2020-09-12T15:03:36Z,8,,141.20777777777778,2,18,Closed
+Resolve Principal argument only when not annotated,2020-09-16T13:31:22Z,,2020-09-25T20:55:04Z,12,,223.395,2,899,Closed
+Support custom TimeUnits in StopWatch,2020-09-24T19:47:57Z,,2023-08-07T14:57:22Z,4,,25123.156944444443,2,211,Closed
+Update javax.mail reference to jakarta.mail,2020-10-03T16:59:10Z,2020-11-17T10:49:02Z,2020-11-17T10:49:02Z,2,,1073.831111111111,1,165,Merged
+Allows Jackson2 encoders to log Throwable reason for not being able to serialize or deserialize,2020-10-09T23:56:35Z,,2020-11-02T17:27:09Z,1,,569.5094444444444,4,1058,Closed
+Close Body after reading,2020-10-12T11:18:56Z,,2022-01-11T11:55:34Z,1,,10944.610555555555,1,224,Closed
+Avoid multiple volatile reads/writes in a row where only one is enough,2020-10-12T17:12:11Z,2020-11-05T11:25:24Z,2020-11-05T11:25:24Z,5,,570.2202777777778,3,401,Merged
+Improve ResourceArrayPropertyEditor time complexity,2020-10-16T21:01:31Z,,2020-12-03T18:42:41Z,1,,1149.6861111111111,1,263,Closed
+Support Optional for query parameters in UriBuilder and UriComponentsBuilder,2020-10-21T16:36:46Z,,2020-10-23T17:28:29Z,3,CHANGES_REQUESTED,48.86194444444445,4,316,Closed
+Improve URI/query strings sanitization,2020-11-02T11:37:12Z,2020-11-04T15:28:52Z,2020-11-04T15:28:52Z,8,APPROVED,51.861111111111114,6,114,Merged
+"Add ""application/java-archive"" MediaType",2020-11-13T00:53:21Z,,2020-11-13T05:39:58Z,1,,4.776944444444444,1,97,Closed
+Support hints for codec on client and server side,2020-12-05T18:45:34Z,,2021-01-12T15:33:34Z,1,CHANGES_REQUESTED,908.8,10,6,Closed
+remove not necessary judge and fields,2020-12-08T10:34:55Z,,2021-12-10T23:13:48Z,1,,8820.648055555555,1,214,Closed
+Make set operator for MapSqlParameterSource accept nullable value,2020-12-16T17:47:45Z,,2021-02-15T16:16:32Z,1,APPROVED,1462.4797222222223,1,190,Closed
+Optimize memory allocations in StringUtils#cleanPath,2020-12-23T21:33:00Z,,2021-08-30T16:32:06Z,1,,5994.985,2,1563,Closed
+fix issue 26317,2021-01-04T13:04:33Z,,2021-01-07T12:08:11Z,2,,71.06055555555555,1,481,Closed
+Add Revved up by Gradle Enterprise badge to Readme,2021-01-05T16:25:37Z,,2021-01-11T08:41:02Z,1,,136.25694444444446,1,70,Closed
+Make ExceptionHandler invokable when matching deeply nested cause,2021-01-11T00:48:47Z,,2021-01-11T10:12:52Z,3,,9.401388888888889,4,14,Closed
+Add support for java.util.Optional to GenericHttpMessageConverter #24498,2021-01-16T13:09:38Z,,2023-01-24T12:18:59Z,4,,17711.155833333334,5,441,Closed
+ Introduce `IndexAccessor` SPI to customize the SpEL `Indexer`,2021-01-30T09:24:55Z,,2024-04-10T14:23:04Z,5,APPROVED,27988.969166666666,7,16,Closed
+URL and HTTP method in rest client exception message,2021-01-31T12:58:01Z,,2021-02-11T21:33:05Z,10,,272.58444444444444,3,1364,Closed
+Expose HttpHandler Decoration as a bean,2021-02-03T10:00:31Z,,2021-02-08T18:46:27Z,1,,128.76555555555555,3,545,Closed
+Correctly set auto-growing array's element,2021-02-24T03:38:42Z,,2021-02-25T10:43:08Z,2,APPROVED,31.073888888888888,2,551,Closed
+Message and stream level data  and accept  mime,2021-02-28T14:29:44Z,,2023-09-08T13:42:40Z,2,CHANGES_REQUESTED,22127.215555555555,13,273,Closed
+Fix `@BootstrapWith` inheritance override issues,2021-03-06T15:11:01Z,,2023-10-24T10:04:50Z,1,CHANGES_REQUESTED,23082.896944444445,2,724,Closed
+check file with realPath is existing,2021-03-21T08:52:37Z,,2022-09-26T20:35:30Z,1,,13307.714722222223,2898,223,Closed
+Introduce `reverse` methods in AOP `MethodMatchers` and `ClassFilters`,2021-03-25T07:10:26Z,,2023-08-28T13:07:21Z,1,,21269.94861111111,4,243,Closed
+Allow `PropertySourcesPlaceholderConfigurer` subclass to customize `PropertyResolver`,2021-04-05T09:08:07Z,,2023-08-26T08:18:16Z,2,,20951.169166666667,1,1873,Closed
+Handle removal of query param when a single (null) value is sent to `replaceQueryParam`,2021-04-05T18:34:44Z,,2023-08-29T11:52:48Z,5,,21017.301111111112,4,513,Closed
+Fix @Scope documentation in ref docs,2021-04-07T15:41:07Z,2021-04-29T16:08:54Z,2021-04-29T16:08:54Z,1,,528.4630555555556,1,358,Merged
+Add handleErrorFrame callback for STOMP handler,2021-04-09T10:37:46Z,,2021-04-12T09:22:36Z,1,,70.74722222222222,5,403,Closed
+Avoid exceptions when evaluating validation hints,2021-04-11T07:56:33Z,,2021-04-22T09:26:58Z,4,APPROVED,265.50694444444446,5,1193,Closed
+fix : fix invalid annotation on reference doc,2021-04-14T14:22:40Z,,2021-04-15T07:24:14Z,1,,17.02611111111111,1,223,Closed
+Easier policy setters for ThreadPoolTaskScheduler.,2021-04-15T21:00:56Z,,2021-07-13T07:25:58Z,3,,2122.4172222222223,1,221,Closed
+WebMvcConfigurer support Order,2021-04-20T11:53:25Z,,2021-04-20T14:29:22Z,1,CHANGES_REQUESTED,2.5991666666666666,1,0,Closed
+Fix SpEL selection description in ref docs,2021-04-23T07:18:52Z,2021-04-28T13:47:16Z,2021-04-28T13:47:16Z,4,APPROVED,126.47333333333333,1,210,Merged
+Use HttpMethod enum constants instead of strings in DispatcherServlet,2021-04-24T00:04:33Z,,2021-05-04T11:14:23Z,3,APPROVED,251.1638888888889,1,137,Closed
+Optimize the assignment of UnsatisfiedServletRequestParameterException paramConditions,2021-04-25T15:29:51Z,,2021-04-26T13:33:48Z,2,,22.065833333333334,1,0,Closed
+Avoid memory leak when PropertyComparator is reused,2021-04-27T12:56:57Z,,2021-04-30T13:11:40Z,1,,72.24527777777777,1,88,Closed
+Add ApplicationEvent constructor for specifying timestamp,2021-04-28T10:48:56Z,2021-05-26T12:32:41Z,2021-05-26T12:32:41Z,1,,673.7291666666666,1,354,Merged
+Improve readability of MessageSourceSupport Javadoc,2021-04-29T07:45:34Z,2021-04-29T15:42:42Z,2021-04-29T15:42:42Z,1,,7.952222222222222,1,363,Merged
+Fix findAnnotationOnBean Kotlin extension return type,2021-05-07T16:18:37Z,,2022-03-15T17:40:40Z,1,CHANGES_REQUESTED,7489.3675,1,0,Closed
+Resolve Values from Mapping Path for Mvc Uri Builder,2021-05-09T11:20:11Z,,2023-08-26T10:36:14Z,1,CHANGES_REQUESTED,20135.2675,1,13,Closed
+Introduce soft assertions for MockMvc,2021-05-09T21:58:55Z,,2021-08-23T13:27:57Z,4,,2535.483888888889,3,249,Closed
+Improve support for port numbers in allowedOriginPattern of CorsConfiguration,2021-05-10T22:28:53Z,,2021-05-17T16:29:15Z,2,CHANGES_REQUESTED,162.00611111111112,2,180,Closed
+Add option to get WebSession instance only if a session exists #26958,2021-05-21T09:42:35Z,,2021-05-25T11:01:38Z,4,,97.3175,5,4836,Closed
+Introduce soft assertions for WebTestClient,2021-05-23T11:32:12Z,,2021-09-06T12:57:17Z,3,,2545.4180555555554,3,563,Closed
+Add more test cases for SimpleAliasRegistry,2021-05-27T06:19:34Z,,2021-06-04T13:33:31Z,4,APPROVED,199.2325,1,71,Closed
+Add tests for MessageBodyClientHttpResponseWrapper,2021-05-27T08:42:47Z,,2021-09-07T12:26:25Z,1,CHANGES_REQUESTED,2475.7272222222223,2,151,Closed
+Allow multiple destinations per subscription in DefaultSubscriptionRegistry,2021-05-27T12:21:53Z,,2021-09-07T15:37:34Z,3,,2475.261388888889,2,213,Closed
+Reducing the level of code nesting for some methods,2021-06-15T17:29:40Z,,2021-12-02T12:25:40Z,2,,4074.9333333333334,1,76,Closed
+Add maxAttempts to ExponentialBackOff,2021-06-16T17:22:09Z,,2023-08-26T10:55:36Z,1,,19217.5575,2,471,Closed
+Delete unnecessary variable,2021-06-27T08:54:29Z,,2021-07-02T06:10:25Z,1,,117.26555555555555,1,167,Closed
+Optimize HttpStatus value resolution from code,2021-07-03T16:10:14Z,,2021-07-06T07:19:38Z,1,,63.156666666666666,2,170,Closed
+Expand relative URI for RestTemplate if possible,2021-07-19T09:08:51Z,,2023-09-29T11:56:16Z,1,,19250.790277777778,2,1045,Closed
+Clarify that ClientRequest.from(..) also copies body,2021-07-28T19:13:48Z,,2021-08-04T09:33:13Z,5,APPROVED,158.32361111111112,2,158,Closed
+Polish test classes,2021-08-07T12:12:56Z,,2021-08-08T09:40:14Z,1,APPROVED,21.455,36,0,Closed
+Introduce class-level execution phases for `@Sql`,2021-08-16T07:38:13Z,,2023-10-04T15:42:18Z,12,APPROVED,18704.068055555555,8,1383,Closed
+Propagate `CoroutineContext` in reactive transaction,2021-08-21T11:47:04Z,,2023-02-13T14:34:56Z,15,,12986.797777777778,3,450,Closed
+Support `TimeUnit` in the `@Scheduled` annotation,2021-08-21T16:05:05Z,,2021-08-25T18:57:30Z,9,APPROVED,98.87361111111112,3,177,Closed
+simplify if statement,2021-08-30T08:00:41Z,,2021-11-11T09:15:35Z,1,,1753.2483333333332,2,45,Closed
+Merge AopTestUtils into AopUtils,2021-09-01T07:09:48Z,,2023-06-20T09:15:20Z,1,,15770.092222222222,2,12,Closed
+Migrate CoroutinesUtils from Kotlin to Java,2021-09-10T00:57:46Z,,2021-09-13T15:40:44Z,1,APPROVED,86.7161111111111,11,304,Closed
+Feat/fix java doc,2021-09-28T09:47:21Z,,2021-09-28T11:13:53Z,2,,1.4422222222222223,1,116,Closed
+SimpleCacheResolver resolves templated SpEL expressions,2021-09-29T10:27:06Z,,2021-12-02T13:53:11Z,2,,1539.4347222222223,11,1578,Closed
+Avoid duplicate JCacheOperationSource bean registration in <cache:annotation-driven />,2021-09-30T19:42:09Z,,2021-10-12T10:35:07Z,3,,278.8827777777778,1,678,Closed
+"Add ParameterNamesModule to ""well known"" jackson modules",2021-10-02T17:52:29Z,,2023-08-28T07:45:26Z,1,APPROVED,16669.8825,3,264,Closed
+Use Arrays.hashCode() in ByteArrayResource.hashCode(),2021-10-11T07:59:16Z,,2021-10-11T19:05:33Z,1,,11.104722222222222,1,257,Closed
+Avoid rollback after a commit failure in `TransactionalOperator`,2021-10-18T10:32:28Z,,2023-03-06T09:08:14Z,11,APPROVED,12094.596111111112,7,533,Closed
+Support comma-delimited list of origin patterns in @CrossOrigin,2021-10-25T06:13:50Z,,2022-09-27T13:49:30Z,2,CHANGES_REQUESTED,8095.594444444445,6,347,Closed
+ Simplify default locale/timezone resolution in cookie/session locale resolvers,2021-10-25T22:53:20Z,,2022-06-03T12:02:02Z,2,,5293.145,7,1097,Closed
+Fix typo,2021-11-19T00:59:11Z,,2021-11-22T09:31:53Z,1,,80.545,1,0,Closed
+Use InputStream's new methods instead of StreamUtils,2021-11-19T08:33:43Z,,2022-09-12T08:28:04Z,10,,7127.905833333333,4,194,Closed
+Support bytes literals in SpEL expressions,2021-11-21T11:17:11Z,,2024-02-11T13:26:34Z,2,CHANGES_REQUESTED,19490.15638888889,6,471,Closed
+DataAccessUtils result accessors with Optional return value,2021-11-26T00:46:59Z,2023-07-14T09:37:09Z,2023-07-14T09:37:09Z,18,,14288.836111111112,2,253,Merged
+Expose headers from native client request after request is committed,2021-12-06T09:40:53Z,,2022-01-11T18:49:47Z,2,CHANGES_REQUESTED,873.1483333333333,5,182,Closed
+Adding observability of application context startup,2021-12-07T11:15:56Z,,2022-01-25T09:03:53Z,2,,1173.7991666666667,6,4254,Closed
+Use try-with-resources for AutoClosables,2021-12-16T06:28:55Z,,2022-01-04T14:18:01Z,7,APPROVED,463.8183333333333,6,71,Closed
+Add CacheErrorHandler implementation that logs exceptions rather than rethrowing them,2021-12-16T10:18:35Z,,2022-01-26T13:12:58Z,4,CHANGES_REQUESTED,986.9063888888888,2,229,Closed
+Use String.repeat() and pattern matching instanceof,2021-12-17T18:33:34Z,,2022-01-03T16:12:07Z,4,,405.6425,3,100,Closed
+Fix typo and use of componentry,2021-12-24T03:16:12Z,,2021-12-29T10:06:32Z,6,,126.83888888888889,4,32,Closed
+Optimize initialization of HttpMessageConverter's,2021-12-24T13:40:28Z,,2022-09-27T10:50:06Z,1,CHANGES_REQUESTED,6645.160555555555,3,199,Closed
+Make `H2SequenceMaxValueIncrementer` compatible with H2 database 2.0.x,2022-01-01T22:10:40Z,,2022-01-07T13:41:09Z,2,,135.50805555555556,8,967,Closed
+Simplify debugging of Undertow transferTo issue #25310,2022-01-09T14:51:47Z,,2022-01-14T14:59:03Z,5,CHANGES_REQUESTED,120.1211111111111,1,139,Closed
+Instrument webmvc,2022-01-15T00:11:21Z,,2022-09-06T12:23:14Z,3,,5628.198055555556,15,301,Closed
+Upgrade to Gradle Enterprise 3.8.1,2022-01-17T14:19:21Z,,2022-01-17T17:05:59Z,5,APPROVED,2.777222222222222,1,0,Closed
+Port GroovyDynamicElementReader to Java,2022-01-18T12:13:09Z,,2022-01-21T10:18:19Z,11,APPROVED,70.08611111111111,9,113,Closed
+Fix the ServletRequestPathUtils PATH_ATTRIBUTE is a runtime constant,2022-01-19T02:31:57Z,,2022-02-14T15:23:13Z,1,,636.8544444444444,1,107,Closed
+Adds customization option for Executors coming from AsyncConfigurers,2022-01-19T13:48:40Z,,2023-08-22T10:03:03Z,3,,13916.239722222223,2,175,Closed
+"Modify status code 103 to (""Early Hints"")",2022-01-20T09:09:31Z,,2023-01-16T10:22:45Z,1,CHANGES_REQUESTED,8665.220555555556,4,236,Closed
+Ignore identical BeanDefinition registration when allowBeanDefinitionOverriding is false,2022-01-28T21:38:11Z,,2023-06-02T15:44:58Z,1,,11754.113055555556,4,12,Closed
+Update to OkHttp 4.9.3,2022-01-30T22:13:05Z,,2022-02-01T13:19:43Z,1,,39.11055555555556,2,0,Closed
+Use enhanced switch expressions where feasible,2022-02-07T17:53:19Z,,2022-02-19T13:49:42Z,1,,283.9397222222222,38,0,Closed
+Support dollar sign quoting and parentheses in `ScriptUtils`,2022-02-22T23:15:17Z,,2023-09-08T13:07:24Z,1,,13501.868611111111,4,329,Closed
+Update Javadoc since for BeanDefinitionValueResolver,2022-02-23T03:37:30Z,,2022-07-29T16:12:33Z,1,,3756.5841666666665,1,95,Closed
+Add GraalVM native JSON configuration generation,2022-03-03T14:37:29Z,,2022-03-16T15:23:47Z,3,,312.77166666666665,15,631,Closed
+Batch update return generated keys,2022-03-03T22:26:49Z,,2023-09-15T14:47:10Z,1,,13456.339166666667,5,867,Closed
+"Initial version with TX, Context Propagation and Observation",2022-03-10T16:15:47Z,,2024-01-09T08:57:04Z,1,,16072.688055555556,18,9,Closed
+Improve documentation of Caching annotations,2022-03-15T15:17:52Z,,2022-07-29T16:07:59Z,3,,3264.8352777777777,1,160,Closed
+"Apply ""instanceof pattern matching"" in spring-core",2022-03-16T16:13:58Z,,2022-05-30T17:39:17Z,5,CHANGES_REQUESTED,1801.4219444444445,34,0,Closed
+@Async aspect should clear cached executors when different BeanFactory set,2022-03-19T20:46:15Z,,2023-11-23T15:15:38Z,3,CHANGES_REQUESTED,14730.489722222223,2,317,Closed
+Fix property binding issue for spring beans when default value is null,2022-03-23T19:21:51Z,,2023-01-17T10:12:47Z,1,,7190.848888888889,5,1134,Closed
+Avoid duplicate `ApplicationListener` firing (proxy vs. target),2022-04-11T07:53:12Z,2023-10-10T15:01:00Z,2023-10-10T15:01:00Z,2,APPROVED,13135.13,7,408,Merged
+Upgrade to Reactor 2022.0.0-M2,2022-04-21T13:36:34Z,,2022-05-09T15:39:54Z,2,,434.05555555555554,1,229,Closed
+Customization for ObjectReader and ObjectWriter,2022-04-30T01:18:09Z,,2022-09-23T15:55:50Z,7,,3518.6280555555554,6,1134,Closed
+Polish Javadoc and inline comments,2022-05-08T15:27:47Z,2022-05-09T18:26:06Z,2022-05-09T18:26:06Z,6,APPROVED,26.971944444444443,2,40,Merged
+Polishing regarding JDK baseline upgrade,2022-05-10T13:33:52Z,,2022-05-10T15:02:44Z,6,APPROVED,1.481111111111111,10,0,Closed
+jdbc related new features and test cases,2022-05-12T06:22:19Z,,2023-02-09T13:26:08Z,1,,6559.063611111111,6,282,Closed
+Improve test coverage of RdbmsOperation,2022-05-18T02:53:54Z,,2022-07-29T15:37:46Z,1,,1740.7311111111112,1,38,Closed
+add two more test cases for jdbc,2022-05-19T05:43:01Z,,2022-07-29T15:22:52Z,1,,1713.6641666666667,2,160,Closed
+Support coroutines suspending in @HttpExchange interface,2022-05-23T04:31:39Z,,2023-03-27T15:18:28Z,1,CHANGES_REQUESTED,7402.780277777778,7,112,Closed
+Optimize SpEL and property placeholder support for @Async qualifiers,2022-05-31T23:54:50Z,,2022-10-07T14:39:46Z,2,APPROVED,3086.748888888889,2,44,Closed
+Fix DataSourceUtils inconsistent exception handling,2022-06-21T09:52:06Z,,2022-06-23T07:05:48Z,6,,45.22833333333333,3,184,Closed
+Expose headers from STOMP RECEIPT frame to registered callbacks,2022-06-27T18:55:53Z,,2022-09-12T11:28:15Z,1,CHANGES_REQUESTED,1840.5394444444444,4,1145,Closed
+Expose Locale to SpringValidator for validation message interpolator in Spring WebFlux,2022-07-01T07:42:03Z,,2023-06-13T20:23:16Z,1,APPROVED,8340.686944444444,2,126,Closed
+Fix GenericApplicationContextTests on Microsoft Windows,2022-07-02T14:34:39Z,,2022-07-03T12:56:07Z,1,CHANGES_REQUESTED,22.357777777777777,1,155,Closed
+Simplify @EneabledIfRuntimeHintsAgent support,2022-07-03T18:36:03Z,,2022-07-15T12:37:14Z,5,,282.01972222222224,2,524,Closed
+Support `@Value` for record injection,2022-07-08T03:08:44Z,,2023-02-28T12:13:37Z,3,,5649.081388888889,2,134,Closed
+Revise `CookieLocaleResolver` to use `ResponseCookie`,2022-07-08T18:59:34Z,,2022-09-28T15:24:28Z,1,,1964.415,4,1256,Closed
+"Fix and improve Javadoc in spring-messaging, spring-jms and spring-expression",2022-07-12T13:58:37Z,,2022-07-13T12:07:15Z,3,,22.14388888888889,55,0,Closed
+Fix and improve Javadoc in spring-core and spring-context,2022-07-12T15:28:53Z,,2022-07-13T12:58:48Z,1,,21.49861111111111,126,0,Closed
+Fix and improve Javadoc in spring-beans and spring-aop,2022-07-12T16:00:29Z,,2022-07-13T14:14:33Z,1,,22.234444444444446,48,0,Closed
+Fix typos in test code,2022-07-12T18:26:50Z,,2022-07-13T14:36:36Z,1,,20.162777777777777,25,75,Closed
+Remove clear() call to release method of WeakEntryReference and SoftEntryReference,2022-07-25T05:25:12Z,,2023-01-17T13:47:08Z,1,,4232.365555555555,1,1236,Closed
+Use URL and HTTP method in DefaultResponseErrorHandler,2022-08-12T18:42:23Z,,2024-04-30T09:37:28Z,1,,15038.918055555556,4,1728,Closed
+Increase StreamUtils.BUFFER_SIZE to 8192,2022-08-15T23:13:06Z,,2022-09-09T20:16:54Z,1,,597.0633333333334,1,141,Closed
+Apply minor polishing in `spring-aop`,2022-08-21T15:28:37Z,,2023-01-29T12:42:20Z,4,,3861.228611111111,34,0,Closed
+Use switch expressions in SpEL's `CodeFlow`,2022-08-26T10:55:43Z,,2023-02-02T14:18:37Z,4,APPROVED,3843.3816666666667,1,130,Closed
+Introduce registerResource(Resource) in ResourceHints,2022-09-05T15:10:08Z,,2022-09-10T17:53:02Z,6,,122.715,4,72,Closed
+Protect JMS connection creation against prepareConnection errors,2022-09-09T08:28:40Z,2023-02-28T15:10:06Z,2023-02-28T15:10:06Z,3,APPROVED,4134.690555555556,2,265,Merged
+ Introduce TestSocketUtils as a replacement for SocketUtils,2022-09-11T04:27:49Z,,2022-11-14T19:37:07Z,5,APPROVED,1551.155,3,283,Closed
+Consistent use of Stream#toList(),2022-09-26T12:08:59Z,,2022-09-26T18:32:57Z,2,,6.399444444444445,49,0,Closed
+Set reason for WebSocket `CloseStatus.SESSION_NOT_RELIABLE`,2022-09-29T10:42:47Z,,2023-02-13T12:10:06Z,1,,3289.4552777777776,1,112,Closed
+Remove unnecessary synchronization blocks on maps and refactor,2022-09-29T15:16:54Z,,2023-08-27T15:21:46Z,1,,7968.081111111111,4,0,Closed
+"Apply ""instanceof pattern matching"" and minor refactorings in `spring-context`",2022-09-29T15:35:19Z,,2023-01-29T13:21:39Z,2,CHANGES_REQUESTED,2925.7722222222224,13,0,Closed
+Remove classpath detection of ChannelOperationsId,2022-09-30T08:36:23Z,,2022-09-30T12:04:13Z,1,APPROVED,3.463888888888889,2,98,Closed
+Allow `BeanNameViewResolver` to optionally use a supplied `ApplicationContext`,2022-10-27T18:16:58Z,,2023-06-29T06:50:54Z,1,,5868.565555555556,23,894,Closed
+Minor improvements in spring-test,2022-11-01T21:39:04Z,,2022-11-08T18:35:56Z,15,APPROVED,164.9477777777778,33,2347,Closed
+EMFU#doGetTransactionalEntityManager to check for actual transaction,2022-11-04T13:54:15Z,,2023-10-05T00:36:37Z,1,,8026.706111111111,0,1002,Closed
+Polish ServletWebRequest and DefaultServerWebExchange,2022-11-10T13:53:34Z,,2022-11-22T13:36:46Z,7,APPROVED,287.72,2,85,Closed
+Removed unnecessary function call in Mono.switchIfEmpty(),2022-11-11T13:38:51Z,,2023-01-24T12:30:31Z,1,,1774.861111111111,2,376,Closed
+Polish `AbstractAutowireCapableBeanFactory` and apply `instanceof` pattern matching,2022-11-16T10:45:31Z,,2022-11-18T14:25:48Z,3,CHANGES_REQUESTED,51.67138888888889,1,621,Closed
+Update `LogAdapter` to allow build-time code removal,2022-11-17T08:54:14Z,,2022-11-22T08:46:41Z,1,APPROVED,119.87416666666667,2,837,Closed
+Normalize and optimize internals of CGLIB `ParallelSorter`,2022-11-18T07:59:26Z,,2023-01-31T11:21:28Z,1,,1779.3672222222222,1,0,Closed
+Make GeneratorStrategy.generate unreachable on native,2022-11-18T16:05:51Z,,2022-11-21T12:13:19Z,1,CHANGES_REQUESTED,68.12444444444445,2,3337,Closed
+Fix link to WebFlux section in reference manual,2022-11-19T02:15:33Z,,2022-11-19T13:43:50Z,2,,11.471388888888889,1,355,Closed
+Support coroutine for HttpServiceProxyFactory,2022-11-19T13:52:51Z,,2023-02-07T10:10:19Z,2,CHANGES_REQUESTED,1916.2911111111111,4,16,Closed
+Deprecate `LocalVariableTableParameterNameDiscoverer` completely (avoiding its exposure in native images),2022-11-20T15:52:06Z,,2022-11-22T18:27:15Z,1,APPROVED,50.58583333333333,1,137,Closed
+Restrict forwards in MockMvcWebConnection to 100,2022-11-23T06:38:01Z,2023-02-07T15:23:56Z,2023-02-07T15:23:56Z,2,APPROVED,1832.7652777777778,3,428,Merged
+Set detail from reason in both constructors of ResponseStatusException,2022-11-29T13:43:55Z,,2022-12-02T14:20:52Z,2,CHANGES_REQUESTED,72.61583333333333,4,397,Closed
+Apply 'instanceof pattern matching' in spring-webflux,2022-12-04T13:58:50Z,,2022-12-06T17:39:44Z,2,,51.681666666666665,22,96,Closed
+Provide method with `ContextView` instead of `Context` in `ServerWebExchangeContextFilter`,2022-12-15T04:20:12Z,,2023-02-27T17:38:48Z,1,CHANGES_REQUESTED,1789.31,2,378,Closed
+Small fixes and improvements to the reference documentation,2022-12-15T15:54:23Z,,2022-12-17T13:01:57Z,6,APPROVED,45.12611111111111,15,946,Closed
+Extract ResourceEntityResolver HTTPS schema resolution fallback,2022-12-16T10:57:32Z,,2022-12-17T10:17:59Z,5,APPROVED,23.340833333333332,2,407,Closed
+Release R2DBC connection when cleanup fails in transaction,2022-12-16T19:05:28Z,2023-02-03T16:33:55Z,2023-02-03T16:33:55Z,3,APPROVED,1173.4741666666666,2,829,Merged
+Add ExecutingResponseCreator to delegate request and response,2022-12-20T15:44:41Z,,2023-01-09T17:02:35Z,3,CHANGES_REQUESTED,481.29833333333335,5,545,Closed
+Add Kotlin DSL support for MockMVC andExpectAll,2022-12-21T16:12:03Z,2023-01-03T17:26:26Z,2023-01-03T17:26:26Z,2,APPROVED,313.2397222222222,3,356,Merged
+Avoid wasted memory on empty maps and sets,2022-12-26T09:40:25Z,,2023-01-10T15:13:13Z,7,,365.5466666666667,2,267,Closed
+"Use new Java features (switch expressions, text blocks, new JDK methods)",2022-12-28T08:01:03Z,,2023-01-11T13:11:06Z,1,,341.1675,53,304,Closed
+Fix wrong asserted code in SQLExceptionSubclassTranslatorTests,2022-12-28T11:58:46Z,2023-01-03T09:57:03Z,2023-01-03T09:57:03Z,1,APPROVED,141.9713888888889,1,53,Merged
+Polish #29727: Mention Kotlin andExpectAll in reference manual,2023-01-04T14:19:55Z,2023-01-04T18:11:54Z,2023-01-04T18:11:54Z,1,APPROVED,3.866388888888889,1,121,Merged
+Fix AbstractMessageConverter not delegating to ContentTypeResolver when message header is null,2023-01-05T04:33:36Z,,2023-06-20T16:19:05Z,1,APPROVED,3995.7580555555555,3,1542,Closed
+Log `CglibAopProxy` errors as `WARN` instead of `INFO`,2023-01-05T17:07:40Z,,2023-09-18T06:28:54Z,1,,6133.353888888889,1,15,Closed
+Optimize initial size in ContentCachingRequestWrapper when contentCacheLimit set,2023-01-05T20:50:35Z,,2023-09-11T09:33:55Z,2,,5964.722222222223,2,678,Closed
+Increase number of TOC levels in generated PDF documentation,2023-01-07T08:13:30Z,,2023-01-24T14:32:22Z,1,,414.31444444444446,2,326,Closed
+Fix R2dbcTransactionManager debug log: don't log a Mono,2023-01-11T06:28:28Z,2023-01-16T10:29:44Z,2023-01-16T10:29:44Z,1,APPROVED,124.02111111111111,1,363,Merged
+Add support for JSR-330 and Jakarta `@Inject` for autowiring test constructors,2023-01-18T22:20:36Z,,2023-09-08T17:34:52Z,1,APPROVED,5587.237777777777,5,2171,Closed
+`Validator` factory methods with `BiConsumer`,2023-01-27T07:07:09Z,,2023-04-19T13:27:25Z,7,,1974.3377777777778,3,1648,Closed
+Support `@Scheduled` on Reactive methods and Kotlin suspending functions,2023-02-03T15:58:07Z,,2023-06-05T12:32:19Z,7,APPROVED,2924.57,7,1353,Closed
+Allow MockRest to match header/queryParam value list with one Matcher,2023-02-09T16:28:36Z,2023-02-13T16:51:01Z,2023-02-13T16:51:01Z,1,APPROVED,96.37361111111112,2,591,Merged
+Propagate WebClient attributes into underlying HTTP client request where possible,2023-02-11T14:20:40Z,,2024-03-12T10:43:40Z,3,CHANGES_REQUESTED,9476.383333333333,26,1648,Closed
+reactive ControllerMethodResolver - introduce InvocableHandlerMethod cache,2023-02-15T19:46:40Z,,2023-03-07T12:12:25Z,1,,472.4291666666667,1,524,Closed
+Added examples for containsWhitespace and trimAllWhitespace methods,2023-02-16T18:57:19Z,,2023-02-23T17:35:18Z,1,,166.63305555555556,1,94,Closed
+Added examples for capitalize & uncapitalize methods,2023-02-16T22:12:35Z,,2023-02-23T17:34:17Z,1,,163.36166666666668,1,79,Closed
+Added examples for startsWithIgnoreCase and endsWithIgnoreCase,2023-02-16T22:30:38Z,,2023-02-23T17:39:49Z,1,,163.15305555555557,1,89,Closed
+Use `readNBytes` in ByteArrayHttpMessageConverter when contentLength is available,2023-02-22T04:26:16Z,,2023-03-02T11:29:41Z,1,,199.05694444444444,2,648,Closed
+Update comment in Javadoc of ServletRequestPathFilter DispatcherServlet relating to DispatcherServlet,2023-02-22T17:28:58Z,,2023-02-27T17:38:46Z,1,,120.16333333333333,1,565,Closed
+"Apply ""instanceof pattern matching"" in `spring-tx`",2023-02-23T14:26:36Z,,2023-02-28T15:05:13Z,1,APPROVED,120.64361111111111,8,0,Closed
+Add SpEL support for registered MethodHandles,2023-02-27T19:05:37Z,2023-05-05T14:18:25Z,2023-05-05T14:18:25Z,1,,1603.2133333333334,9,817,Merged
+Avoid duplicate URI construction in ReactorServerHttpRequest,2023-02-28T04:03:53Z,,2023-02-28T19:00:11Z,1,,14.938333333333333,2,415,Closed
+Ensure all packages declare `package-info.java` with null-safety annotations,2023-03-06T06:23:09Z,,2023-03-10T16:41:48Z,3,CHANGES_REQUESTED,106.31083333333333,2,1164,Closed
+Resolve type variable recursively in `GenericTypeResolver`,2023-03-08T04:58:22Z,2024-02-15T15:28:45Z,2024-02-15T15:28:45Z,5,APPROVED,8266.506388888889,5,18,Merged
+Ensure reactive transaction rollback on commit error,2023-03-09T16:17:36Z,,2023-03-10T11:24:55Z,1,APPROVED,19.121944444444445,4,610,Closed
+Refactor AssertJ assertions into more idiomatic ones,2023-03-11T14:24:14Z,2023-04-04T15:34:07Z,2023-04-04T15:34:07Z,11,APPROVED,577.1647222222222,371,245,Merged
+Fix IllegalArgumentException that prevents STOMP DISCONNECT from reaching the client,2023-03-15T06:24:50Z,,2023-04-11T10:44:37Z,1,CHANGES_REQUESTED,652.3297222222222,1,2866,Closed
+CaffeineCacheManager supports async refreshing value,2023-03-15T16:58:59Z,,2023-05-22T15:55:57Z,1,,1630.9494444444445,2,1213,Closed
+Optimize some iterations in BodyExtractor and BodyInserter,2023-03-18T20:15:59Z,2023-03-22T10:04:55Z,2023-03-22T10:04:55Z,2,APPROVED,85.81555555555556,3,581,Merged
+Lenient handling of unencoded URIs in ForwardedHeaderTransformer,2023-03-18T20:37:43Z,,2023-09-20T17:52:06Z,1,,4461.239722222223,2,293,Closed
+Fixed circular reference exception using @Async annotation,2023-03-21T15:22:48Z,,2023-04-12T01:17:03Z,1,CHANGES_REQUESTED,513.9041666666667,2,1530,Closed
+Replace `Collections.unmodifiableList(new ArrayList(..))` with `List.copyOf()`,2023-03-22T14:16:26Z,2023-04-12T11:07:21Z,2023-04-12T11:07:21Z,1,,500.8486111111111,4,266,Merged
+Minor refactoring in PayloadMethodArgumentResolver,2023-03-22T15:05:40Z,,2023-04-11T10:44:35Z,2,,475.6486111111111,1,22,Closed
+Improve performance of canRead() in HttpMessageReader's,2023-03-25T16:36:58Z,,2023-04-11T10:44:34Z,5,,402.12666666666667,6,1047,Closed
+Enhance MockMvcWebTestClient to allow applying RequestPostProcessors,2023-03-30T06:25:14Z,,2023-09-21T15:03:42Z,1,CHANGES_REQUESTED,4208.641111111111,8,1778,Closed
+Rename MockMVC matcher methods to prevent regression in user tests,2023-03-30T13:00:02Z,2023-04-04T13:06:15Z,2023-04-04T13:06:15Z,1,APPROVED,120.1036111111111,2,938,Merged
+Quote '?' in Quoted Printable filename,2023-03-31T06:30:47Z,,2023-04-18T13:38:25Z,1,,439.1272222222222,2,921,Closed
+Polish `ClassUtils` and `TypeUtils`,2023-04-04T14:27:44Z,,2023-04-20T14:25:10Z,4,APPROVED,383.95722222222224,2,0,Closed
+Replace switch statements with enhanced switch statements for consistency,2023-04-04T14:49:50Z,,2023-06-07T11:42:38Z,2,APPROVED,1532.88,3,433,Closed
+Fix comparison of `title` in `equals()` and `hashCode()` of `ProblemDetail`,2023-04-06T09:03:08Z,,2023-04-12T14:39:54Z,2,CHANGES_REQUESTED,149.61277777777778,2,57,Closed
+Check ResponseStatusException reason as MessageSource code for ProblemDetail,2023-04-07T01:04:46Z,,2024-01-08T10:33:18Z,2,,6633.475555555556,2,58,Closed
+Update documentation to clarify Elvis operator semantics,2023-04-11T19:44:43Z,,2023-04-18T15:37:45Z,1,,163.8838888888889,1,230,Closed
+Clarify behavior of the Elvis SpEL operator in documentation,2023-04-18T15:35:51Z,2023-05-05T14:13:06Z,2023-05-05T14:13:06Z,1,CHANGES_REQUESTED,406.62083333333334,2,401,Merged
+Wrap ternary operator within parentheses as outlined in Code Style,2023-04-19T17:32:34Z,,2023-07-15T16:24:22Z,1,,2086.8633333333332,1,158,Closed
+Optimize DefaultLifecycleProcessor::stopBeans,2023-04-21T09:13:42Z,2023-04-24T14:45:24Z,2023-04-24T14:45:24Z,1,APPROVED,77.52833333333334,1,294,Merged
+Fix `@link` in Javadoc of `PassThroughFilterChain`,2023-04-22T17:48:19Z,,2023-04-23T10:39:14Z,1,,16.84861111111111,0,132,Closed
+Add ReloadableResourceBundleMessageSource Resource selection hook,2023-04-24T14:30:56Z,2023-04-24T15:57:45Z,2023-04-24T15:57:45Z,1,APPROVED,1.4469444444444444,1,242,Merged
+Support multiple style of parsing/printing Durations,2023-04-28T15:15:53Z,,2024-07-23T10:05:07Z,1,,10842.820555555556,13,974,Closed
+Use suspending style filter function in Kotlin code sample,2023-04-30T16:27:28Z,,2023-06-12T10:44:20Z,6,CHANGES_REQUESTED,1026.2811111111112,1,141,Closed
+HTTP interface client should not have blockingTimeout set and leave it to the underlying client by default,2023-04-30T18:16:43Z,,2023-05-05T19:55:05Z,1,APPROVED,121.63944444444445,6,15,Closed
+Switch the reference documentation to Antora,2023-05-03T06:13:41Z,,2023-05-04T14:47:15Z,7,APPROVED,32.559444444444445,486,528,Closed
+Fix wording in r2dbc Statement Filters section of ref docs,2023-05-12T13:24:43Z,,2023-05-15T13:10:13Z,2,CHANGES_REQUESTED,71.75833333333334,1,15,Closed
+Introduce a method in `MockHttpServletRequestBuilder` to set remote address,2023-05-16T14:59:26Z,,2023-05-23T09:30:16Z,3,APPROVED,162.51388888888889,2,125,Closed
+Port BeanPropertyRowMapper and DataClassRowMapper for r2dbc,2023-05-23T16:39:39Z,2023-05-25T15:40:52Z,2023-05-25T15:40:52Z,1,,47.02027777777778,4,0,Merged
+Support parsing `long` dates in `InstantFormatter`,2023-05-25T11:16:07Z,2023-05-26T10:08:26Z,2023-05-26T10:08:26Z,1,,22.871944444444445,3,18,Merged
+Introduce `ObservationThreadLocalTestExecutionListener` in the TestContext framework,2023-06-12T18:28:33Z,,2023-06-13T14:07:21Z,12,CHANGES_REQUESTED,19.64666666666667,8,457,Closed
+Remove redundant assertion in `ReactorServerHttpResponse` constructor,2023-06-20T04:56:21Z,,2023-06-23T11:54:16Z,4,APPROVED,78.96527777777777,2,42,Closed
+Add MultipartFile support for MultipartBuilder,2023-06-20T12:18:37Z,,2023-06-21T11:48:05Z,1,,23.49111111111111,2,0,Closed
+Add MultipartFileArgumentResolver for HTTP interface client,2023-06-22T16:38:33Z,,2023-06-27T09:52:43Z,2,APPROVED,113.23611111111111,4,40,Closed
+Increase code coverage in `spring-core` `serializer` package,2023-06-25T09:37:55Z,,2023-08-13T15:08:25Z,7,APPROVED,1181.5083333333334,3,298,Closed
+Allows JdkClientHttpRequest.DISALLOWED_HEADERS to be customized.,2023-06-30T20:32:47Z,,2023-07-03T10:44:17Z,3,,62.19166666666667,2,147,Closed
+Support `@RSocketExchange` for responding,2023-07-24T14:58:57Z,,2023-07-28T09:49:54Z,2,CHANGES_REQUESTED,90.84916666666666,3,15,Closed
+Update documentation for HTTP Interface return values,2023-07-27T16:03:57Z,,2023-07-31T11:54:28Z,1,APPROVED,91.84194444444445,1,0,Closed
+"Fixed an error connecting to another database ignoring the ""spring.datasource.url"" setting in ""application.properties""",2023-08-08T11:59:45Z,,2023-08-19T12:47:05Z,1,,264.7888888888889,1,731,Closed
+Use notEmpty() to check whether the collection/array is empty or not.,2023-08-26T09:40:08Z,,2023-08-27T13:00:03Z,1,,27.331944444444446,3,195,Closed
+Avoid @Async create Future object when return value is not instance of Future type,2023-08-29T12:41:44Z,,2023-08-30T07:08:33Z,2,,18.446944444444444,1,108,Closed
+Consolidate HTTP Interface client support for MultipartFile and `@RequestPart`,2023-09-03T21:45:28Z,,2023-09-11T10:28:54Z,1,CHANGES_REQUESTED,180.7238888888889,5,411,Closed
+Add status handler to recognize unknown status codes outside of 4xx/5…,2023-09-11T15:14:51Z,,2023-11-02T11:32:21Z,3,CHANGES_REQUESTED,1244.2916666666667,3,1384,Closed
+Introduce `initialize()` method in `AbstractRoutingDataSource` and `AbstractRoutingConnectionFactory`,2023-09-16T14:40:54Z,,2023-09-26T13:13:27Z,3,APPROVED,238.5425,4,1492,Closed
+Simplify `ServerRequestExtensions.queryParamOrNull()`,2023-09-18T23:08:33Z,,2023-09-20T14:04:32Z,2,,38.933055555555555,1,1170,Closed
+Optimize MessageSourceSupport,2023-09-19T09:42:55Z,,2023-09-27T07:17:05Z,2,,189.56944444444446,1,0,Closed
+Stop sharing `GenericConversionService` between test methods,2023-09-22T02:56:47Z,,2023-09-22T14:46:34Z,1,,11.829722222222221,1,104,Closed
+Support `BigInteger` and `BigDecimal` literals in SpEL expressions,2023-09-23T11:20:07Z,,2024-02-11T14:03:38Z,2,CHANGES_REQUESTED,3386.7252777777776,9,1581,Closed
+Make `CorsConfiguration.OriginPattern` public,2023-10-02T08:47:20Z,,2023-10-16T15:07:12Z,1,,342.3311111111111,1,127,Closed
+EMFU#doGetTransactionalEntityManager to check for actual transaction,2023-10-05T02:11:04Z,,2023-10-11T13:10:48Z,2,,154.99555555555557,4,1064,Closed
+Ensure CGLIB proxy is created for mixin with `IntroductionInterceptor`,2023-10-09T16:16:10Z,,2024-09-26T10:47:08Z,3,CHANGES_REQUESTED,8466.516111111112,2,226,Closed
+"Support ""--"" end of options in SimpleCommandLineArgsParser",2023-10-27T12:52:42Z,,2024-02-15T14:09:43Z,3,APPROVED,2665.283611111111,2,577,Closed
+Use switch expression instead of If-Else,2023-11-02T07:30:02Z,,2023-11-03T14:39:29Z,1,,31.1575,3,1444,Closed
+Change an existing switch statement to the newer syntax,2023-11-03T00:59:44Z,,2023-11-03T08:50:35Z,1,CHANGES_REQUESTED,7.8475,1,184,Closed
+Link to KDoc API documentation from Javadoc overview,2023-11-09T15:28:24Z,2023-11-10T10:36:27Z,2023-11-10T10:36:28Z,2,APPROVED,19.134166666666665,3,292,Merged
+Extract recurring asciidoc links to attributes,2023-11-17T12:29:55Z,2023-11-21T14:59:24Z,2023-11-21T14:59:24Z,8,CHANGES_REQUESTED,98.49138888888889,202,538,Merged
+Add BearerAuthenticationInterceptor,2023-11-21T01:19:18Z,,2023-11-21T08:16:17Z,2,,6.949722222222222,1,580,Closed
+Link to `spring.factories` used in the TestContext framework in the reference manual,2023-11-30T09:40:01Z,,2023-12-04T14:19:27Z,5,CHANGES_REQUESTED,100.65722222222222,2,316,Closed
+Introduce `toString(Charset)` in `FastByteArrayOutputStream`,2023-12-01T20:53:40Z,,2023-12-02T15:33:07Z,2,,18.6575,3,227,Closed
+Polish Javadoc,2023-12-02T12:24:01Z,,2023-12-02T14:33:17Z,1,APPROVED,2.1544444444444446,3,266,Closed
+Exclude `Part` from nested constructor binding in WebFlux,2023-12-07T07:04:48Z,,2023-12-12T16:02:58Z,3,APPROVED,128.96944444444443,2,345,Closed
+Ensure `DataBinder` once again binds null values for nullable/optional constructor arguments,2023-12-09T14:17:06Z,,2023-12-13T18:04:59Z,1,,99.79805555555555,2,257,Closed
+Replace deprecated use of `project.buildDir` in `framework-api` Gradle script,2023-12-14T13:17:44Z,,2023-12-18T15:24:18Z,1,CHANGES_REQUESTED,98.10944444444445,1,223,Closed
+Complete frame callback when opcode is not PONG,2023-12-20T10:21:09Z,,2023-12-21T16:57:21Z,1,,30.60333333333333,1,139,Closed
+Cleanup java sources,2023-12-28T09:05:12Z,,2023-12-28T12:47:39Z,1,,3.7075,106,41,Closed
+Use UTF-8 by default for JSON multipart content in `ContentRequestMatchers`,2023-12-29T18:29:12Z,,2024-03-12T10:43:39Z,1,CHANGES_REQUESTED,1768.2408333333333,2,259,Closed
+Add error handling function in R2DBC `DatabaseClient`,2024-01-03T16:36:05Z,,2024-01-22T13:15:58Z,3,APPROVED,452.6647222222222,4,1310,Closed
+Support sending large STOMP messages as fragmented frames on `WebSocketStompClient`,2024-01-07T16:22:39Z,,2024-03-12T10:43:38Z,4,,1554.3497222222222,6,894,Closed
+Document exception handling for HTTP Interface client with `RestClient` and `RestTemplate`,2024-01-09T15:50:52Z,,2024-01-10T12:17:27Z,1,CHANGES_REQUESTED,20.443055555555556,1,15,Closed
+Exclude URI query from remaining WebClient checkpoints,2024-01-09T23:38:59Z,,2024-01-10T12:17:26Z,1,,12.640833333333333,3,583,Closed
+Update docs on server side use of `@HttpExchange` to make it more clear when it is a good fit,2024-01-10T17:18:09Z,,2024-01-12T15:16:26Z,1,CHANGES_REQUESTED,45.97138888888889,2,0,Closed
+Fix `DefaultDataBuffer#getNativeBuffer()` to set correct limit,2024-01-10T17:24:14Z,,2024-02-20T11:20:56Z,2,,977.945,2,690,Closed
+Fix `RestClient` to use defaultRequest on `RestClient.Builder`,2024-01-15T16:57:52Z,,2024-01-17T10:30:56Z,1,,41.55111111111111,3,406,Closed
+Remove unnecessary semicolons in enum declarations,2024-01-20T11:37:28Z,,2024-01-20T14:05:03Z,1,CHANGES_REQUESTED,2.459722222222222,2,0,Closed
+Implement Eclipse Jetty core HTTP handler adapter,2024-01-24T06:08:57Z,,2024-07-08T16:40:47Z,24,,3994.5305555555556,34,166,Closed
+Fix double encoding of query parameters in UriComponentsBuilder (#32234),2024-02-10T09:36:22Z,,2024-02-12T16:49:45Z,1,,55.223055555555554,3,0,Closed
+Add ThreadLocalAccessor for LocaleContext and RequestAttributes,2024-02-12T02:58:59Z,,2024-02-15T14:58:11Z,3,,83.98666666666666,7,134,Closed
+Ignore trailing semicolons when parsing Accept-Language header,2024-02-13T15:52:06Z,,2024-06-12T10:31:30Z,3,,2874.6566666666668,2,667,Closed
+Correct documentation for `userDestinationPrefix` in `MessageBrokerRegistry`,2024-02-14T18:20:17Z,,2024-03-12T11:43:55Z,2,,641.3938888888889,1,281,Closed
+Use Spliterator of underlying collection in MutablePropertyValues / MutablePropertySources,2024-02-15T17:48:42Z,,2024-02-16T07:36:34Z,1,,13.797777777777778,2,470,Closed
+Avoid resizing of fixed-size `HashSet`/`LinkedHashSet` variants,2024-02-18T22:10:09Z,,2024-02-21T15:23:50Z,4,,65.22805555555556,47,395,Closed
+Use `ConcurrentHashMap.newKeySet` where feasible,2024-02-19T18:06:19Z,,2024-02-21T13:09:38Z,1,,43.055277777777775,14,179,Closed
+"Introduce ""autowireCandidate"" and ""defaultCandidate"" for stereotype annotations",2024-02-21T04:55:10Z,,2024-02-21T18:32:17Z,1,,13.618611111111111,12,93,Closed
+Resolve property-dependent parameter names for exception messages,2024-03-16T11:39:04Z,,2024-03-20T16:40:58Z,2,APPROVED,101.03166666666667,9,489,Closed
+Consistent handling of undeclared checked exceptions in CGLIB proxies,2024-03-18T02:31:35Z,2024-04-10T10:11:33Z,2024-04-10T10:11:33Z,2,,559.6661111111111,5,3916,Merged
+Fix typos and improve wording in reference documentation,2024-03-31T10:00:03Z,,2024-04-02T07:34:51Z,1,,45.58,7,138,Closed
+Handle DataBufferLimitException as HTTP 413 responses,2024-03-31T11:29:41Z,,2024-05-13T12:18:47Z,2,,1032.8183333333334,3,687,Closed
+Fix typos in comment and test,2024-04-12T12:56:50Z,,2024-04-12T15:41:07Z,2,,2.7380555555555555,3,0,Closed
+Modify error message when timeout is less than TIMEOUT_DEFAULT,2024-04-14T14:58:27Z,,2024-04-16T14:47:16Z,1,APPROVED,47.81361111111111,1,411,Closed
+Include actual cause's message in various parsing exception messages,2024-04-14T15:34:28Z,,2024-04-16T14:30:12Z,4,APPROVED,46.92888888888889,2,937,Closed
+Make BodyBuilder.bodyValueAndAwait() a reified type of function,2024-04-16T17:54:27Z,,2024-04-26T08:46:11Z,2,,230.86222222222221,3,1534,Closed
+Remove redundant conditions,2024-04-19T03:10:30Z,,2024-04-19T09:00:11Z,1,,5.828055555555555,1,111,Closed
+Support varargs invocations in SpEL for varargs array subtype,2024-04-25T01:48:43Z,,2024-05-03T14:13:26Z,2,APPROVED,204.41194444444446,3,1899,Closed
+Fix MockHttpServletRequest.java,2024-04-27T15:46:51Z,,2024-06-06T12:10:21Z,1,,956.3916666666667,1,2021,Closed
+Support varargs invocations in SpEL for varargs array subtype in compiled expressions,2024-05-13T01:13:21Z,,2024-05-14T12:15:56Z,5,APPROVED,35.043055555555554,2,630,Closed
+Add update-antora-ui-spring.yml workflow,2024-05-23T12:34:53Z,,2024-05-24T12:30:31Z,2,,23.927222222222223,1,456,Closed
+Use error handler for reactive cache aspect,2024-06-20T06:24:21Z,,2024-07-02T09:41:10Z,2,,291.28027777777777,2,49,Closed
+Use only one request timeout mechanism in JdkClientHttpRequest,2024-06-24T12:11:47Z,,2024-09-25T15:09:10Z,1,CHANGES_REQUESTED,2234.956388888889,2,246,Closed
+Fix ClassCastException from return value validation with proxy when adaptConstraintViolations=true,2024-06-27T03:07:30Z,,2024-06-28T14:36:50Z,1,CHANGES_REQUESTED,35.48888888888889,2,210,Closed
+Fix adaptation of violations on Set method parameter,2024-07-04T20:23:10Z,,2024-07-09T06:00:29Z,1,,105.62194444444444,2,1466,Closed
+Allow formatting of Collection values for `@RequestParam` with HTTP interface client,2024-07-15T13:04:13Z,,2024-07-30T10:16:02Z,6,APPROVED,357.19694444444445,2,699,Closed
+Improve optional parameter checks for HTTP Interface argument,2024-08-07T19:00:17Z,,2024-08-12T18:01:41Z,3,APPROVED,119.02333333333333,14,15,Closed
+Add content disposition setter to ResponseEntity,2024-08-08T01:15:07Z,,2024-08-20T16:20:07Z,1,,303.0833333333333,2,68,Closed
+Replace String.join with String.repeat for generating placeholders,2024-08-10T15:03:06Z,,2024-08-12T09:24:11Z,1,CHANGES_REQUESTED,42.35138888888889,1,502,Closed
+Merge Expires and Max-Age attributes,2024-08-12T06:43:08Z,,2024-09-13T13:58:51Z,6,,775.2619444444445,5,860,Closed
+Recommend use of self injection instead of `AopContext.currentProxy()`,2024-08-30T02:29:20Z,,2024-08-30T13:57:58Z,1,,11.477222222222222,1,68,Closed
+Expand acronyms `FQN` and `FQCN`,2024-08-30T07:11:11Z,2024-09-03T15:30:27Z,2024-09-03T15:30:27Z,1,CHANGES_REQUESTED,104.32111111111111,9,102,Merged
+Add exception message when logging resolved exceptions,2024-09-04T05:22:03Z,,2024-09-06T14:04:29Z,2,,56.70722222222222,1,125,Closed
+Avoid storing duplicate empty array in MethodParameter field,2024-09-06T06:43:45Z,,2024-09-06T08:03:07Z,1,,1.3227777777777778,1,200,Closed
+Avoid empty array allocations in AnnotationTypeMapping,2024-09-09T06:46:54Z,,2024-09-11T07:50:57Z,1,,49.0675,1,287,Closed
+Replace `e.g.` with `for example`,2024-09-10T01:25:26Z,,2024-09-26T12:12:04Z,1,CHANGES_REQUESTED,394.77722222222224,724,67,Closed
+Replace deprecated references in WebSocketMessageBrokerStats.toString(),2024-09-16T11:19:43Z,,2024-09-26T12:22:55Z,1,,241.05333333333334,1,105,Closed
+ZoneIdEditor Add catch exception,2024-09-17T14:43:33Z,,2024-09-18T10:55:53Z,1,,20.205555555555556,2,70,Closed
+Add read timeout setter on HttpComponentsClientHttpRequestFactory,2024-09-17T19:05:31Z,,2024-09-18T09:51:11Z,1,APPROVED,14.761111111111111,1,340,Closed
+Polish,2024-09-19T05:58:52Z,,2024-09-20T08:58:47Z,2,,26.99861111111111,13,23,Closed
+Use encoded resource path  instead of input path validation in spring-webflux,2024-09-19T11:34:07Z,,2024-09-20T08:56:50Z,1,APPROVED,21.378611111111113,1,391,Closed
+Consistently use `CharSequence.isEmpty()` for emptiness checks,2024-09-21T03:41:27Z,,2024-09-23T15:22:40Z,2,,59.68694444444444,6,0,Closed

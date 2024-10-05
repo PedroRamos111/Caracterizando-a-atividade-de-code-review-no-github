@@ -1,0 +1,116 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Spelling,2016-10-20T15:39:34Z,2016-10-20T19:03:13Z,2016-10-20T19:03:13Z,2,,3.3941666666666666,2,0,Merged
+WIP - Deep functionality for omit and pick ,2016-11-06T22:55:50Z,2016-11-07T00:43:26Z,2016-11-07T00:43:26Z,2,,1.7933333333333332,2,295,Merged
+ make the documentation about _.isEqual clearer,2016-11-24T20:09:28Z,2016-11-24T21:12:14Z,2016-11-24T21:12:14Z,2,,1.0461111111111112,1,11,Merged
+Add related function links for each function,2017-01-13T18:51:25Z,2017-01-16T00:27:42Z,2017-01-16T00:27:43Z,1,,53.60472222222222,85,168,Merged
+unescape broken after remove semicolons action,2017-02-09T10:58:22Z,2017-02-09T16:19:32Z,2017-02-09T16:19:32Z,1,,5.352777777777778,1,5,Merged
+Use parentheses around arrow function argument having a body with cur…,2017-02-09T12:40:14Z,,2017-02-09T16:18:21Z,1,,3.6352777777777776,3,154,Closed
+Remove duplicate check symbol type,2017-02-11T16:24:13Z,2017-02-11T19:42:20Z,2017-02-11T19:42:20Z,1,,3.3019444444444446,1,160,Merged
+_.update() docs grammar fix,2017-07-16T22:16:42Z,2017-07-17T01:11:00Z,2017-07-17T01:11:00Z,1,,2.905,1,35,Merged
+Replacing a regex with a quick character check,2017-08-08T19:42:34Z,,2017-08-10T14:30:35Z,1,,42.80027777777778,1,85,Closed
+Update compareMultiple.js,2017-08-23T15:43:53Z,,2017-08-23T16:52:19Z,2,,1.1405555555555555,1,804,Closed
+function checking.,2017-10-09T15:26:55Z,,2017-10-09T16:36:30Z,1,,1.1597222222222223,1,139,Closed
+Workaround memory leak issue caused by slice method,2017-11-01T22:24:22Z,,2017-11-02T17:49:53Z,3,,19.42527777777778,1,626,Closed
+Tiny performance improvement by not compiling regular expression each time,2017-11-07T06:13:40Z,2017-11-07T14:28:18Z,2017-11-07T14:28:18Z,5,,8.24388888888889,1,209,Merged
+Allow compareMultiple/orderBy to accept compare functions,2018-04-22T22:16:54Z,2018-05-01T19:22:50Z,2018-05-01T19:22:50Z,1,,213.0988888888889,2,996,Merged
+Fix/fix merge,2018-06-20T20:28:54Z,,2018-08-31T06:58:55Z,2,,1714.5002777777777,17,73,Closed
+Update `filterObject` docs to reference `pickBy`,2018-07-10T04:58:18Z,2018-07-10T16:47:20Z,2018-07-10T16:47:20Z,1,,11.817222222222222,1,186,Merged
+Prevent ReDoS,2018-08-28T23:10:42Z,,2018-08-31T06:59:18Z,2,,55.81,2,289,Closed
+Added arrow function in below files,2018-11-14T04:18:49Z,2018-11-18T03:33:36Z,2018-11-18T03:33:36Z,24,,95.24638888888889,4,42,Merged
+createRound 12x faster using pure arithmetic only,2018-11-29T05:05:50Z,,2018-11-30T00:59:15Z,1,,19.89027777777778,1,2081,Closed
+sortBy: Only evaluate iteratees when needed,2019-01-07T06:08:41Z,,2019-07-09T17:20:11Z,5,,4403.191666666667,2,1948,Closed
+Fix _.isFunction for async generator functions,2019-01-17T01:27:45Z,,2019-01-29T08:49:48Z,1,,295.3675,2,308,Closed
+Add optional resolveEmpty parameter to defaultTo,2019-04-15T15:05:38Z,,2023-01-04T03:42:36Z,1,,32628.61611111111,2,637,Closed
+Round Infinity with a precision argument returns Infinity,2019-04-17T00:22:23Z,2019-04-18T20:04:18Z,2019-04-18T20:04:18Z,1,,43.69861111111111,2,366,Merged
+realNames failing to check .hasOwnProperty(),2019-05-08T20:55:55Z,2019-05-09T20:54:13Z,2019-05-09T20:54:13Z,4,,23.971666666666668,1,363,Merged
+fix: prototype pollution in several npm packages,2019-06-19T11:45:48Z,2019-06-24T16:18:29Z,2019-06-24T16:18:29Z,4,,124.54472222222222,3,308,Merged
+Prevent prototype pollution chaining to code execution via _.template,2019-07-08T14:23:44Z,2019-07-09T16:09:56Z,2019-07-09T16:09:56Z,2,,25.77,1,2017,Merged
+Update map.js,2019-07-15T04:31:08Z,,2019-07-15T07:47:29Z,1,,3.2725,1,92,Closed
+lint files,2019-08-17T16:30:03Z,2019-08-17T17:44:54Z,2019-08-17T17:44:54Z,3,,1.2475,10,28,Merged
+Enable create tests and adapt it for the new primitive prototype behavior,2019-08-17T19:25:57Z,2019-08-22T23:07:44Z,2019-08-22T23:07:44Z,5,,123.69638888888889,1,317,Merged
+Lint tests,2019-08-17T20:06:41Z,,2022-04-21T19:41:22Z,1,,23471.578055555554,91,385,Closed
+Ensure escapeRegExp returns an empty string when passing falsy values ,2019-08-21T23:32:09Z,2019-08-22T23:08:14Z,2019-08-22T23:08:14Z,2,,23.601388888888888,2,29,Merged
+Simplify toString,2019-08-24T23:39:53Z,2019-08-25T20:25:43Z,2019-08-25T20:25:43Z,2,,20.76388888888889,2,93,Merged
+fix: allowing orderBy iteratees to be arrays like _.get,2019-08-25T12:44:53Z,,2019-08-30T16:42:40Z,2,,123.96305555555556,2,6,Closed
+add order by behaviour with array similar to get method,2019-08-30T13:45:51Z,2019-08-30T20:38:49Z,2019-08-30T20:38:49Z,2,,6.882777777777778,2,63,Merged
+Added filler option for chunk method,2019-09-12T14:07:21Z,,2023-01-04T03:42:58Z,1,,29029.59361111111,1,345,Closed
+avoid +0/-0 compare when key not in object,2019-09-25T06:20:54Z,,2019-10-03T21:02:49Z,1,,206.69861111111112,1,50,Closed
+Add _.getWith function,2019-10-01T17:36:32Z,,2019-10-03T21:01:58Z,1,,51.42388888888889,1,57,Closed
+"Fix issue where _getTag() fails with ""TypeError: Expected at least one argument""",2019-10-07T21:33:18Z,,2023-09-16T18:46:33Z,1,,34557.22083333333,1,392,Closed
+Document matches* shorthands for over* methods (#4510),2019-10-11T14:35:29Z,2019-10-13T17:54:27Z,2019-10-13T17:54:27Z,2,,51.31611111111111,1,528,Merged
+Add _.insert function for arrays,2019-10-17T02:27:55Z,,2023-01-04T03:43:36Z,3,,28201.261388888888,3,168,Closed
+Updated the checks of isEmpty and isBoolean methods,2019-11-19T18:59:03Z,,2019-11-21T18:32:26Z,1,,47.55638888888889,2,0,Closed
+Fix uniqueId prefix coercion,2020-01-08T20:47:10Z,2020-01-22T21:07:55Z,2020-01-22T21:07:55Z,1,,336.34583333333336,2,48,Merged
+Re-add isEqual function,2020-01-08T20:50:09Z,,2023-09-16T18:46:35Z,1,,32325.940555555557,3,49,Closed
+"Fix prototype pollution vulnerabilities, fix failing tests",2020-01-10T19:15:53Z,2020-01-10T21:29:52Z,2020-01-10T21:29:52Z,3,,2.2330555555555556,2,0,Merged
+using === in the type-check in isSymbol,2020-02-25T15:01:03Z,,2023-09-16T18:46:16Z,1,,31179.75361111111,1,0,Closed
+Changing font-style to monospace for '--save' option in README.md,2020-02-28T14:44:35Z,2020-06-04T05:35:28Z,2020-06-04T05:35:28Z,1,,2318.8480555555557,1,59,Merged
+suggesting a cycle of arguments to a method,2020-03-08T16:03:06Z,,2020-05-05T20:38:58Z,1,,1396.5977777777778,2,489,Closed
+No need lastIndex,2020-03-27T13:02:57Z,,2023-09-16T18:46:18Z,1,,30437.7225,2,0,Closed
+Jsdoc fixes,2020-04-05T09:42:59Z,,2023-09-16T18:46:18Z,2,,30225.055277777778,4,244,Closed
+fix: fix the params of Hash#delete in in jsdoc,2020-04-26T14:51:52Z,2020-05-06T08:42:50Z,2020-05-06T08:42:50Z,1,,233.84944444444446,1,62,Merged
+Update links in CONTRIBUTING.md,2020-04-29T03:07:39Z,2020-05-05T20:03:06Z,2020-05-05T20:03:06Z,1,,160.92416666666668,1,29,Merged
+add Checks if `value` is classified as a `BigInt` primitive.,2020-05-06T17:36:22Z,,2020-05-14T10:52:38Z,6,,185.2711111111111,1,14,Closed
+zipObjectDeep: fix prototype pollution,2020-05-07T16:46:50Z,2020-07-02T21:47:50Z,2020-07-02T21:47:50Z,1,,1349.0166666666667,2,206,Merged
+Simplify isPlainObject,2020-05-25T10:27:40Z,,2023-09-16T18:46:20Z,2,,29024.31111111111,1,741,Closed
+feat: add type module for esm,2020-06-20T07:02:24Z,,2020-12-20T06:51:48Z,8,,4391.823333333334,1,50,Closed
+Update links in CONTRIBUTING.md & README.md,2020-06-23T09:42:38Z,2020-10-28T20:24:25Z,2020-10-28T20:24:25Z,2,,3058.696388888889,2,488,Merged
+"perf: Improved performance of flow, trim, trimStart, trimEnd",2020-07-01T16:07:19Z,,2020-07-26T10:43:45Z,5,,594.6072222222223,5,279,Closed
+Jsdoc nullity,2020-07-04T15:09:16Z,,2023-09-16T18:46:23Z,1,,28059.618611111113,7,277,Closed
+Fix typo in _.reduce documentation,2020-07-16T10:33:46Z,,2023-07-11T16:46:28Z,1,,26166.211666666666,1,25,Closed
+Import of keysIn is missing,2020-07-17T01:35:14Z,,2020-08-13T17:02:55Z,1,,663.4613888888889,1,139,Closed
+Added duplicates method,2020-07-22T07:59:43Z,,2020-07-27T05:18:45Z,1,,117.31722222222223,2,61,Closed
+catching undefined and null meanBy,2020-08-18T00:59:56Z,,2020-12-20T06:54:40Z,1,,2981.912222222222,1,92,Closed
+Optimization: avoid checking null proto twice,2020-08-18T08:38:01Z,,2022-11-04T09:36:42Z,2,,19392.978055555555,1,228,Closed
+feat(Math): add square function,2020-10-08T21:59:08Z,,2021-03-23T23:56:58Z,1,,3985.963888888889,1,0,Closed
+Update filter.js,2020-10-21T11:57:02Z,,2020-12-20T15:45:33Z,1,,1443.808611111111,1,0,Closed
+refactor: use internal functions in _.words,2020-11-23T16:58:15Z,,2023-09-16T18:45:55Z,2,,24649.794444444444,1,78,Closed
+async gen support + wrong `isFunction` tests fixes,2020-12-03T11:36:52Z,,2023-09-16T18:45:58Z,1,,24415.15166666667,2,637,Closed
+Add increment function,2021-01-15T18:45:57Z,,2023-09-16T18:46:06Z,1,,23376.0025,2,0,Closed
+Remove duplicate code,2021-01-16T10:56:27Z,,2023-09-16T18:46:07Z,2,,23359.827777777777,1,69,Closed
+"perf: improve performance of `toNumber`, `trim` and `trimEnd` on large input strings",2021-01-26T22:27:35Z,,2021-02-20T09:20:31Z,1,,586.8822222222223,1,87,Closed
+Prevent command injection through the variable option,2021-02-17T11:45:15Z,,2021-02-20T09:21:01Z,2,,69.59611111111111,2,377,Closed
+New feature: capitalizeWord,2021-02-26T18:06:28Z,,2023-09-16T18:45:37Z,1,,22368.6525,2,394,Closed
+add: titleize and integerDivide functions,2021-06-06T20:22:25Z,,2023-09-16T18:45:43Z,1,,19966.388333333332,2,227,Closed
+Create reorder.js,2021-07-02T18:42:02Z,,2023-09-16T18:45:44Z,1,,19344.06166666667,1,746,Closed
+feat: Add copyArrayWithOwnProperty to clone array property,2021-08-07T16:49:54Z,,2023-09-16T18:45:45Z,10,,18481.930833333332,3,57,Closed
+Add _.count,2021-08-11T04:07:39Z,,2023-09-16T18:45:46Z,4,,18398.63527777778,1,353,Closed
+4.17,2021-08-16T09:12:38Z,,2021-08-29T17:30:24Z,2,,320.2961111111111,21,49,Closed
+added findLongest function,2021-08-16T10:36:51Z,,2022-07-29T16:32:15Z,29,,8333.923333333334,2,53,Closed
+Turkish language add support capitalize,2021-08-18T19:58:39Z,,2023-09-16T18:45:46Z,1,,18214.785277777777,1,144,Closed
+add separate method,2021-08-24T21:04:20Z,,2023-09-16T18:45:47Z,12,,18069.690833333334,2,554,Closed
+Fill array,2021-08-26T21:09:40Z,,2023-09-16T18:45:47Z,2,,18021.601944444443,2,228,Closed
+Added flattenObject function,2021-08-27T07:43:08Z,,2023-09-16T18:45:48Z,1,,18011.044444444444,2,69,Closed
+Enable groupBy tests,2021-10-31T17:53:14Z,,2023-09-16T18:45:02Z,1,,16440.863333333335,2,172,Closed
+add isLowerCase(string),2021-11-14T11:43:12Z,,2023-09-16T18:45:03Z,1,,16111.030833333334,2,305,Closed
+Added toBoolean convertion,2021-12-03T13:23:35Z,,2022-11-08T00:41:53Z,1,,8147.305,2,89,Closed
+Fix: Fix split function to return [] whenever string is undefined,2021-12-09T12:04:17Z,,2022-02-26T13:38:12Z,5,,1897.5652777777777,1,12,Closed
+Feature: add Array/splitAt function,2021-12-10T13:36:29Z,,2023-09-16T18:45:06Z,2,,15485.14361111111,2,600,Closed
+Update has.js,2021-12-25T00:00:24Z,,2023-07-30T19:44:01Z,1,,13987.726944444445,1,0,Closed
+remove unnecessary brackets,2022-01-07T11:39:05Z,,2022-06-09T03:31:59Z,1,,3663.8816666666667,1,0,Closed
+Fix TypeError: expected at least one argument,2022-01-10T18:11:17Z,,2023-09-16T18:45:08Z,1,,14736.564166666667,1,13,Closed
+Add dropEndsWhile,2022-02-11T20:45:28Z,,2023-08-09T18:06:13Z,1,,13053.345833333333,4,677,Closed
+Update compact.js for equal sign,2022-02-18T02:57:25Z,,2023-09-16T18:45:09Z,1,,13815.795555555556,1,25,Closed
+Fix isEqual for Maps and Sets,2022-03-02T23:33:55Z,,2023-09-16T18:45:10Z,4,,13507.1875,2,50,Closed
+typo fix in the Readme file,2022-03-13T03:41:29Z,,2023-09-16T18:45:10Z,1,,13263.06138888889,1,57,Closed
+⚡️reduction of lodash size at import,2022-06-21T20:56:33Z,,2023-01-04T04:04:47Z,1,,4711.137222222223,1,168,Closed
+feat: Add weighted sample size function,2022-07-02T06:07:18Z,,2023-09-16T18:44:47Z,1,,10596.624722222223,2,381,Closed
+Create reverse.js,2022-08-03T10:13:44Z,,2023-09-16T18:44:50Z,1,,9824.518333333333,1,43,Closed
+isEmpty support Symbol,2022-08-05T03:27:51Z,,2023-09-16T18:44:50Z,1,,9783.283055555556,2,0,Closed
+Added JSON Object sorting function,2022-08-15T14:14:05Z,,2023-09-16T18:44:51Z,1,,9532.512777777778,1,119,Closed
+Remove meaningless allocation,2022-10-11T02:58:15Z,,2023-09-16T18:44:25Z,5,,8175.769444444444,1,29,Closed
+Update NPM lockfile to version 2,2022-10-25T03:18:58Z,,2023-09-16T18:44:26Z,1,,7839.424444444445,1,0,Closed
+fix big int issue,2022-10-28T15:27:41Z,,2023-09-16T18:44:26Z,2,,7755.279166666666,1,63,Closed
+fix: isEmpty returns false when some date is given,2022-12-06T02:25:23Z,,2023-09-16T18:44:27Z,1,,6832.317777777777,2,127,Closed
+Changed `baseFlatten` implementation to use `Array.prototype.concat` to avoid stack limits,2022-12-27T12:39:12Z,,2023-07-20T10:51:52Z,1,,4918.211111111111,1,116,Closed
+chore: fix isSymbol equal,2022-12-28T07:58:21Z,,2023-09-16T18:44:29Z,1,,6298.768888888889,1,0,Closed
+fix: deleted test/concat.js,2023-01-10T19:46:12Z,,2023-09-16T18:44:30Z,1,,5974.971666666666,1,85,Closed
+Adding a check for the type that gets passed to map,2023-03-06T23:36:20Z,,2023-08-10T15:38:39Z,1,,3760.038611111111,1,162,Closed
+chore: use === instead of ==,2023-05-16T20:55:32Z,,2023-09-16T18:44:34Z,1,,2949.8172222222224,116,75,Closed
+removed semicolon that was blocking npm validate,2023-07-11T14:35:07Z,,2023-09-16T18:44:03Z,1,,1612.148888888889,1,138,Closed
+fix(sumBy): Handle string-to-number conversion and prevent concatenation in baseSum function,2023-07-28T11:40:03Z,,2023-09-16T18:44:04Z,3,,1207.0669444444445,2,361,Closed
+Add default rules description to words(),2023-07-28T18:03:41Z,,2023-09-16T18:44:05Z,1,,1200.6733333333334,1,15,Closed
+Run trailing debounce when browser tab is closed,2023-08-04T02:22:54Z,,2023-09-16T18:44:05Z,1,,1048.3530555555556,1,530,Closed
+Modified ternary operator.,2023-09-24T14:11:05Z,,2023-09-25T17:44:13Z,2,,27.552222222222223,1,0,Closed
+Fixes #5751,2023-10-14T21:07:42Z,,2024-07-10T21:12:30Z,1,,6480.08,1,446,Closed
+chore: combine the if statements into one,2023-12-11T13:52:28Z,2024-07-10T20:56:04Z,2024-07-10T20:56:04Z,1,APPROVED,5095.06,1,263,Merged

@@ -1,0 +1,33 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+serve sourcemap for socket.io-client,2016-03-10T09:26:07Z,2016-11-24T22:39:43Z,2016-11-24T22:39:43Z,1,,6229.2266666666665,1,753,Merged
+Update the chat example,2016-09-10T13:34:10Z,2016-11-18T00:52:45Z,2016-11-18T00:52:45Z,1,,1643.3097222222223,3,127,Merged
+Use client function to unify `client` in test script,2016-10-17T05:32:17Z,,2016-10-21T01:29:23Z,1,,91.95166666666667,1,111,Closed
+Use client function to unify `client` in test script,2016-10-21T01:34:51Z,2016-10-24T00:35:01Z,2016-10-24T00:35:01Z,6,,71.00277777777778,1,51,Merged
+Don't drop query variables on handshake,2016-11-08T16:23:06Z,2016-11-16T00:17:20Z,2016-11-16T00:17:20Z,3,,175.9038888888889,2,415,Merged
+Feature - added support for Server#close(callback),2016-11-12T22:26:59Z,2016-11-15T20:52:56Z,2016-11-15T20:52:56Z,3,,70.4325,2,442,Merged
+Serve slim client,2016-12-01T21:04:10Z,,2021-01-14T23:36:53Z,1,,36122.545277777775,2,563,Closed
+Add the hasBinary flag,2017-01-26T01:14:15Z,,2017-06-03T12:47:51Z,1,,3083.56,4,1324,Closed
+Update slack badge as it's broken.,2017-06-03T22:14:20Z,2017-06-08T10:28:57Z,2017-06-08T10:28:57Z,2,,108.24361111111111,1,1207,Merged
+Added Touch Support,2017-11-02T19:10:07Z,2018-11-20T07:01:10Z,2018-11-20T07:01:10Z,2,,9179.850833333334,1,316,Merged
+Improve the chat example with more ES6 features,2018-05-07T16:01:49Z,2021-01-14T23:36:17Z,2021-01-14T23:36:17Z,5,,23599.574444444443,1,793,Merged
+Update API.md,2019-11-09T22:57:44Z,,2020-09-19T01:02:31Z,1,,7538.079722222222,1,84,Closed
+"Make sure correct client files are served, fixes #3555",2020-02-23T13:33:12Z,,2021-01-14T23:31:58Z,5,,7833.979444444444,1,629,Closed
+Exports the Namespace and Socket type v3,2020-11-18T04:44:52Z,2021-01-14T23:28:21Z,2021-01-14T23:28:21Z,1,,1386.7247222222222,1,606,Merged
+Fixes behavior typo in PR template,2020-11-18T04:52:42Z,2020-11-25T10:09:18Z,2020-11-25T10:09:18Z,1,,173.27666666666667,1,332,Merged
+Add strictly typed events,2021-03-01T21:46:45Z,,2021-03-09T23:27:14Z,7,,193.67472222222221,11,2634,Closed
+[4.x] Allow RemoteSocket to emit to current rooms,2021-04-21T20:29:15Z,,2021-08-30T06:36:30Z,7,,3130.1208333333334,1,1995,Closed
+feat: ignore the query string when serving client JavaScript,2021-07-17T21:01:49Z,2021-08-30T05:59:47Z,2021-08-30T05:59:47Z,1,,1040.966111111111,2,463,Merged
+update wrapper.mjs so it provides the same `default` as for CommonJS users,2021-09-17T05:59:23Z,,2021-09-20T06:41:47Z,1,,72.70666666666666,2,873,Closed
+chore(types): make `RemoteSocket.data` type safe,2022-01-03T16:06:01Z,2022-01-06T06:14:56Z,2022-01-06T06:14:56Z,4,,62.14861111111111,5,78,Merged
+Socket.IO show last seen time,2022-02-13T04:05:33Z,,2022-04-20T20:23:10Z,1,,1600.2936111111112,6,284,Closed
+Add example for private messaging in React,2023-01-18T02:58:06Z,,2023-10-10T18:06:15Z,1,,6375.135833333334,91,440,Closed
+feat: add details to the disconnecting and disconnect events,2023-02-03T12:24:18Z,,2023-02-04T08:04:13Z,1,,19.665277777777778,2,364,Closed
+fix NodeNext module resolution compatibility,2023-02-09T18:05:25Z,,2023-02-20T00:17:18Z,1,,246.19805555555556,1,492,Closed
+fix(client): auth init error,2023-03-28T08:41:03Z,,2023-08-11T11:44:43Z,1,,3267.061111111111,1,452,Closed
+Clean up namespaces after client is rejected in middleware,2023-07-19T08:06:04Z,2023-07-21T06:33:46Z,2023-07-21T06:33:46Z,4,,46.461666666666666,3,277,Merged
+improve emit types,2023-09-02T20:54:13Z,2023-10-11T08:37:13Z,2023-10-11T08:37:13Z,2,,923.7166666666667,11,612,Merged
+[FIX] BroadcastWithAck behavior,2023-11-25T00:40:42Z,2024-01-02T16:43:10Z,2024-01-02T16:43:10Z,2,,928.0411111111111,1,468,Merged
+docs: fix conjunction with fastify example,2024-06-24T05:36:52Z,,2024-07-22T09:33:51Z,2,,675.9497222222222,1,1259,Closed
+fix: Check if missed heartbeat synchronously before sending message,2024-07-15T13:25:18Z,,2024-09-24T08:16:59Z,14,,1698.861388888889,3,1747,Closed
+fix: track socket before run middlewares,2024-08-07T09:35:40Z,,2024-09-21T06:20:59Z,1,,1076.7552777777778,1,423,Closed
+remove prettier v2,2024-08-12T13:44:05Z,2024-09-16T06:43:08Z,2024-09-16T06:43:08Z,2,,832.9841666666666,68,370,Merged

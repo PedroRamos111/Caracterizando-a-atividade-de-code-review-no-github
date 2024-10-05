@@ -1,0 +1,112 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Rename README on tweepcred to README.md,2023-03-31T19:01:41Z,,2023-03-31T22:41:39Z,1,,3.6661111111111113,1,40,Closed
+feature: give a little boost to elon's friends and add more details in the README.md,2023-03-31T19:03:39Z,,2023-03-31T22:41:49Z,2,,3.636111111111111,1,2450,Closed
+Sick Engineering Role!,2023-03-31T19:06:40Z,,2023-03-31T22:41:47Z,1,,3.585277777777778,1,851,Closed
+feat: improve algorithm to provide better performance,2023-03-31T19:09:46Z,,2023-03-31T22:41:42Z,3,,3.5322222222222224,3000,65,Closed
+Consistent usage of punctuation in README.md,2023-03-31T19:10:02Z,,2023-03-31T22:41:34Z,1,,3.5255555555555556,1,79,Closed
+fix: Vastly improve quality of tweet predicates (#121),2023-03-31T19:13:50Z,,2023-03-31T22:42:13Z,2,,3.4730555555555553,2,0,Closed
+Remove the code in the algorithm that boosts the tweets of Elon,2023-03-31T19:18:15Z,,2023-03-31T22:42:19Z,3,,3.401111111111111,1,33,Closed
+an actual fix.,2023-03-31T19:19:49Z,,2023-03-31T22:41:56Z,1,,3.368611111111111,1,75,Closed
+🛑 Remove Political bias from Twitter,2023-03-31T19:21:56Z,,2023-03-31T22:42:12Z,1,,3.3377777777777777,1,219,Closed
+algorithm edits,2023-03-31T19:22:52Z,,2023-03-31T21:05:58Z,2,,1.7183333333333333,3000,0,Closed
+Initialize Rust project 🦀,2023-03-31T19:27:07Z,,2023-03-31T22:41:56Z,2,,3.2469444444444444,2,58,Closed
+Refactor query_keys function for improved efficiency,2023-03-31T19:28:35Z,,2023-03-31T22:41:40Z,1,,3.2180555555555554,1,0,Closed
+feat: add more political bias,2023-03-31T19:28:49Z,,2023-03-31T22:42:28Z,4,,3.2275,3,112,Closed
+"Added me as author, lol",2023-03-31T20:36:15Z,,2023-03-31T22:41:34Z,3,,2.088611111111111,1,39,Closed
+Can u pwease merge my pwull wequest senpai?!! UwU,2023-03-31T20:40:34Z,,2023-03-31T22:41:38Z,3,,2.017777777777778,1,278,Closed
+Fixed grammar issues in README,2023-03-31T20:41:13Z,,2023-03-31T22:41:32Z,1,,2.0052777777777777,1,0,Closed
+Update readme.md,2023-03-31T20:43:13Z,,2023-03-31T22:41:32Z,1,,1.9719444444444445,1,34,Closed
+remove useless code,2023-03-31T20:44:07Z,,2023-03-31T22:41:45Z,2,,1.9605555555555556,1440,33,Closed
+replace elon with joe,2023-03-31T20:47:02Z,,2023-03-31T22:41:43Z,7,,1.9113888888888888,1,105,Closed
+Create Jestem Janek,2023-03-31T20:49:03Z,,2023-03-31T22:41:33Z,1,,1.875,1,0,Closed
+Add cta,2023-03-31T20:54:13Z,,2023-03-31T22:41:34Z,3,,1.7891666666666666,1,65,Closed
+Remove Elon bias,2023-03-31T21:01:19Z,,2023-03-31T22:41:44Z,1,,1.6736111111111112,1,0,Closed
+Missing hyphens in home-mixer README.md,2023-03-31T21:11:13Z,,2023-03-31T22:41:30Z,1,,1.5047222222222223,1,0,Closed
+minimum toxicity,2023-03-31T21:13:10Z,,2023-03-31T22:41:39Z,2,,1.4747222222222223,1,33,Closed
+refactor: use more descriptive language,2023-03-31T21:18:59Z,,2023-03-31T22:41:33Z,1,,1.376111111111111,1,204,Closed
+"✏️❗️ fix: add missing dots to 'i.e.' and 'e.g.', grammar",2023-03-31T21:22:17Z,,2023-03-31T22:41:33Z,1,,1.3211111111111111,1,227,Closed
+remove all bias,2023-03-31T21:25:26Z,,2023-03-31T22:41:41Z,8,,1.2708333333333333,0,37,Closed
+Puppy vs Bbq ribs? ,2023-03-31T21:26:50Z,,2023-03-31T22:41:33Z,1,,1.2452777777777777,1,316,Closed
+Make the world slightly less annoying,2023-03-31T21:29:15Z,,2023-03-31T22:41:33Z,3,,1.205,3000,298,Closed
+❗️ Optimize Twitter for the Future: A Revolutionary Change,2023-03-31T21:29:17Z,,2023-03-31T22:41:41Z,1,,1.2066666666666668,1,1005,Closed
+feat: save dozens of kilobytes of space by minifying all python,2023-03-31T21:32:31Z,,2023-03-31T22:41:35Z,1,,1.1511111111111112,140,0,Closed
+Refactor `navi/dr_transform`,2023-03-31T23:10:11Z,2023-04-04T18:06:35Z,2023-04-04T18:06:35Z,1,,90.94,3,156,Merged
+Remove all files,2023-03-31T23:20:18Z,,2023-04-03T13:45:52Z,2,,62.42611111111111,3000,92,Closed
+Update constants.py,2023-03-31T23:22:02Z,,2023-04-01T09:39:10Z,1,,10.285555555555556,1,20,Closed
+remove unnecessary braces and indentation,2023-03-31T23:32:18Z,,2023-04-06T20:12:38Z,1,,140.67222222222222,1,39,Closed
+April fools joke,2023-03-31T23:49:50Z,,2023-04-04T03:01:38Z,1,,75.19666666666667,3000,88,Closed
+:),2023-04-01T00:18:57Z,,2023-04-01T02:05:43Z,2,,1.7794444444444444,1,2,Closed
+Update validator.rs,2023-04-01T00:30:09Z,,2023-04-04T21:28:03Z,1,,92.965,1,198,Closed
+( ͡° ͜ʖ ͡°),2023-04-01T00:36:39Z,,2023-04-01T01:51:31Z,3,,1.2477777777777779,1,11,Closed
+an actual fix,2023-04-01T00:45:50Z,,2023-04-04T03:00:30Z,1,,74.24444444444444,3000,0,Closed
+(docs): Improve README file for Navi,2023-04-01T00:57:23Z,2023-04-04T16:30:12Z,2023-04-04T16:30:12Z,2,,87.54694444444445,1,789,Merged
+Fix 10k favs check,2023-04-01T01:31:42Z,,2023-04-04T01:48:05Z,6,,72.27305555555556,1,146,Closed
+home_mixer: fix has_gte_10k_favs boolean,2023-04-01T01:34:06Z,,2023-04-01T23:04:12Z,1,,21.501666666666665,1,40,Closed
+replace twitter with funny jpeg,2023-04-01T02:27:49Z,,2023-04-04T02:59:34Z,2,,72.52916666666667,3000,13,Closed
+"add support for ""Spamming"" reason",2023-04-01T02:30:24Z,,2023-07-21T16:18:13Z,1,,2677.7969444444443,1,0,Closed
+🔥🔥🔥🔥PLEASE MERGE IMMEDIATELY🔥🔥🔥🔥FIXED AN EXPLOIT DO NOT LOOK AT CODE 🔥🔥🔥🔥,2023-04-01T03:27:56Z,,2023-04-03T13:45:37Z,41,,58.29472222222222,1,0,Closed
+Make changes to the algorithim,2023-04-01T03:41:56Z,,2023-04-04T22:58:56Z,4,,91.28333333333333,2,129,Closed
+"Important company-related fixes, please merge ASAP",2023-04-01T04:49:40Z,,2023-04-04T02:57:06Z,1,,70.12388888888889,29,9,Closed
+chore: update formatting for READMEs,2023-04-01T06:47:52Z,,2023-04-02T10:06:05Z,4,,27.30361111111111,8,216,Closed
+Value typo in has_gte_10k_favs,2023-04-01T07:11:47Z,,2023-04-04T01:48:06Z,2,,66.60527777777777,1,54,Closed
+‍‍​‌‌‍,2023-04-01T07:34:28Z,,2023-04-04T02:54:10Z,1,,67.32833333333333,1,6,Closed
+formatting README on tweepcred and renaming to README.md,2023-04-01T07:53:02Z,,2023-04-03T15:21:41Z,1,,55.4775,1,134,Closed
+Humra change merge karo!,2023-04-01T08:23:58Z,,2023-04-04T02:54:55Z,4,,66.51583333333333,2,25,Closed
+ඞඞඞඞඞඞඞඞ Add Among Us Amogi Sussy Baka ඞඞඞඞඞඞඞඞ,2023-04-01T08:46:59Z,,2023-04-04T02:53:50Z,6,,66.11416666666666,3000,0,Closed
+Maybe the real algorithm was inside us all along,2023-04-01T09:20:27Z,,2023-04-04T02:52:57Z,1,,65.54166666666667,3000,0,Closed
+Refactoring Python code for better readability.,2023-04-01T09:35:36Z,,2023-04-01T19:43:26Z,2,,10.130555555555556,22,72,Closed
+Fixed Typo,2023-04-01T09:44:50Z,,2023-04-04T21:24:24Z,3,,83.65944444444445,1,6,Closed
+Make the CI great again,2023-04-01T09:47:11Z,,2023-04-04T02:51:12Z,2,,65.06694444444445,1,32,Closed
+:warning: Fixes *all*  twitter issues :warning: ,2023-04-01T09:47:26Z,,2023-04-03T13:46:32Z,4,,51.985,3000,161,Closed
+perf: Add error handling to load_data method,2023-04-01T10:21:13Z,,2023-04-02T04:54:54Z,2,,18.56138888888889,1,436,Closed
+(fix): Remove biased home-mixer module,2023-04-01T12:52:30Z,,2023-04-03T17:01:35Z,1,,52.15138888888889,3000,870,Closed
+fix comment,2023-04-01T14:10:32Z,,2023-04-16T04:51:38Z,1,,350.685,1,55,Closed
+optimized the algorithm,2023-04-01T15:22:45Z,,2024-10-01T14:51:53Z,2,,13175.485555555555,1782,70,Closed
+jira tickets from comment removed,2023-04-01T16:43:48Z,,2023-04-07T14:14:36Z,2,,141.51333333333332,6,0,Closed
+Rust a Rewrite,2023-04-01T17:41:11Z,,2023-04-01T20:31:00Z,2,,2.830277777777778,3000,58,Closed
+Fix: src deleted to increase algorithm performance,2023-04-01T18:12:09Z,,2023-04-04T02:41:58Z,1,,56.496944444444445,1441,90,Closed
+✌(⌒_⌒)🌸 make it kawaii,2023-04-01T18:31:02Z,,2023-04-03T13:46:17Z,6,,43.25416666666667,61,16,Closed
+Add support for quantum computers in java implementation,2023-04-01T18:47:59Z,,2023-04-05T02:24:45Z,2,,79.61277777777778,544,198,Closed
+fix scoreTweet algorithm,2023-04-01T18:58:05Z,,2023-04-02T16:52:07Z,1,,21.900555555555556,1,0,Closed
+fix(tweet): favs ranked range,2023-04-01T19:11:00Z,,2023-04-04T01:48:07Z,1,,54.618611111111115,1,57,Closed
+Why should russia's illegal invasion of ukraine be singled out in SpaceSafety?,2023-04-01T20:40:53Z,,2023-04-03T13:44:39Z,1,,41.062777777777775,1,396,Closed
+speed up the algorinthm by 20000%,2023-04-01T20:49:22Z,,2023-04-03T13:46:27Z,5,,40.951388888888886,3000,309,Closed
+[fix] 🗿,2023-04-01T21:36:48Z,,2023-04-04T02:39:36Z,3,,53.04666666666667,1,0,Closed
+ Refactor import statements to explicitly specify packages in NativeUtils.java,2023-04-02T02:33:02Z,,2023-04-02T05:54:26Z,1,,3.3566666666666665,1,57,Closed
+Horny Mode,2023-04-02T04:50:46Z,,2023-04-04T02:29:06Z,3,,45.638888888888886,21,129,Closed
+Algorithm overhaul.,2023-04-02T05:06:40Z,,2023-04-04T02:37:57Z,1,,45.521388888888886,3000,17,Closed
+Add zip bomb,2023-04-02T10:29:33Z,,2023-04-03T13:45:46Z,2,,27.27027777777778,1,24,Closed
+Remove unnesecary code.,2023-04-02T13:21:10Z,,2023-04-04T02:36:18Z,2,,37.25222222222222,3000,185,Closed
+Update README: improve spelling and grammar consistency,2023-04-02T17:22:06Z,,2023-05-01T23:52:15Z,1,,702.5025,1,551,Closed
+Remove unnecessary line,2023-04-02T17:27:15Z,,2023-04-03T18:52:30Z,1,,25.420833333333334,1,24,Closed
+fix typo in ranking.thrift,2023-04-02T17:51:11Z,,2023-04-04T21:24:30Z,1,,51.555277777777775,1,20,Closed
+Blazingly fast C code for performance improvement,2023-04-03T03:45:58Z,,2023-04-03T13:41:30Z,5,,9.925555555555556,1,129,Closed
+Fix Ukraine censorship,2023-04-03T07:12:14Z,,2023-04-03T13:41:55Z,2,,6.494722222222222,2,0,Closed
+Fixed Ukraine being downranked,2023-04-03T07:30:01Z,,2023-04-05T01:41:15Z,1,,42.187222222222225,1,0,Closed
+Optimized mapper.rs,2023-04-03T07:57:06Z,,2023-04-04T21:22:47Z,2,,37.42805555555555,1,63,Closed
+Constant Renamed For Better Understanding,2023-04-03T10:24:12Z,,2023-04-04T09:16:17Z,1,,22.868055555555557,12,0,Closed
+Few Typo fixes,2023-04-03T11:18:03Z,,2023-04-04T21:24:32Z,5,,34.10805555555555,7,0,Closed
+navi project dependencies updates and minor refactoring,2023-04-03T19:24:24Z,,2023-04-14T22:59:47Z,1,,267.58972222222224,38,305,Closed
+Variable name typo Corrections ,2023-04-03T23:12:39Z,,2023-05-14T04:32:53Z,1,,965.3372222222222,5,157,Closed
+Fixed mispositioned comment,2023-04-04T00:36:41Z,,2023-04-04T21:24:32Z,1,,20.7975,1,60,Closed
+Minor fixes,2023-04-04T05:09:20Z,,2024-06-08T03:54:08Z,1,,10342.746666666666,3000,17,Closed
+Create doge.html.json.java.js.lua.rblx.css.cs.py,2023-04-04T19:11:28Z,,2023-04-05T01:59:46Z,5,,6.805,1,51,Closed
+Fix unknown typos,2023-04-04T19:54:25Z,,2023-04-23T20:05:19Z,1,,456.1816666666667,2,18,Closed
+Replaced the source code with Doom 1993,2023-04-05T10:44:19Z,,2023-04-05T19:07:41Z,18,,8.389444444444445,3000,22,Closed
+Removing commented-out elements,2023-04-06T11:41:43Z,,2024-04-06T05:52:30Z,1,,8778.179722222223,1,92,Closed
+.gitignore,2023-04-06T12:44:01Z,,2024-02-11T01:27:15Z,3,,7452.720555555556,1,0,Closed
+"Algorithm takes anger management course, replaces source code with angry birds",2023-04-06T15:40:52Z,,2023-04-07T09:44:53Z,2,,18.066944444444445,3000,185,Closed
+Fix 400+ typos,2023-04-08T02:21:06Z,,2023-07-31T19:40:35Z,13,,2753.324722222222,241,63,Closed
+Deleted All bad practiced code,2023-04-08T13:58:20Z,,2023-04-12T12:04:36Z,3,,94.10444444444444,3000,64,Closed
+[docs] Add CTF Night flag,2023-04-13T14:37:29Z,,2023-07-27T04:00:37Z,1,,2509.3855555555556,1,51,Closed
+Fixed Python Code,2023-04-17T04:29:43Z,,2024-01-19T06:03:43Z,1,,6649.566666666667,139,690,Closed
+fixed a small typo error,2023-04-23T19:02:36Z,,2023-06-04T17:52:07Z,1,,1006.8252777777777,1,26,Closed
+NSFW filter adjustment,2023-05-04T16:55:25Z,,2023-05-17T02:28:19Z,1,,297.54833333333335,1,48,Closed
+Add more social crimes,2023-05-08T16:45:10Z,,2023-05-17T02:27:29Z,2,,201.70527777777778,1,113,Closed
+typo fix,2023-05-21T06:55:09Z,,2023-05-24T04:10:17Z,1,,69.25222222222222,1,0,Closed
+Removed all unused imports,2023-05-23T04:29:40Z,,2024-06-07T08:59:24Z,1,,9148.495555555555,5,27,Closed
+Xification the algorithm code,2023-07-30T20:24:41Z,,2023-09-23T07:38:21Z,5,,1307.2277777777779,3000,181,Closed
+?????????????????,2023-08-28T08:27:34Z,,2024-07-07T04:22:37Z,1,,7531.9175,1,1,Closed
+fix https://github.com/twitter/the-algorithm/issues/871,2023-12-18T01:20:29Z,,2024-03-20T17:41:17Z,1,,2248.346666666667,1511,1,Closed
+remove pronouns,2024-04-16T02:43:07Z,,2024-07-12T04:45:33Z,1,,2090.0405555555553,3000,18,Closed
+Create ayy lmao,2024-08-26T20:23:41Z,,2024-09-04T05:38:58Z,1,,201.25472222222223,1,0,Closed

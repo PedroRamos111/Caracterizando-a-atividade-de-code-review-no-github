@@ -1,0 +1,5 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+"Added Harvard CS 224 and CS229r, Stanford 261.",2016-09-29T14:35:53Z,2016-09-29T18:19:18Z,2016-09-29T18:19:18Z,3,,3.723611111111111,1,221,Merged
+"UoUtah and CMU courses on ML, Algorithms, Database",2016-10-21T16:07:24Z,,2016-10-21T17:27:25Z,3,,1.333611111111111,1,140,Closed
+Added Computer Graphic course,2017-01-02T12:11:19Z,2017-01-03T01:49:03Z,2017-01-03T01:49:03Z,1,,13.62888888888889,1,35,Merged
+Added course on principles of programming languages,2021-01-26T11:12:17Z,2022-11-12T13:05:10Z,2022-11-12T13:05:11Z,1,,15721.881388888889,1,96,Merged

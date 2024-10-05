@@ -5,7 +5,7 @@ import time
 import os  # Import necessário para verificar a existência do arquivo
 
 # Token de autenticação do GitHub
-GITHUB_TOKEN = ""
+GITHUB_TOKEN = "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"
 GITHUB_API_URL = "https://api.github.com/graphql"
 
 # Cabeçalhos para a requisição GraphQL

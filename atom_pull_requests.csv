@@ -1,0 +1,617 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Disable middle mouse paste,2015-05-09T11:34:49Z,,2021-01-15T04:07:26Z,1,,49864.54361111111,3,188,Closed
+:bug: `BufferedProcess.kill` now fully kills any child-process-eption that happens,2015-10-11T06:37:20Z,,2021-06-21T13:02:09Z,1,,49926.413611111115,2,134,Closed
+Fix bug in grammar path scoring,2015-12-21T22:54:11Z,,2018-11-19T18:30:03Z,3,,25531.597777777777,2,183,Closed
+add TextEditor::onDidPasteText,2016-01-16T15:09:05Z,,2021-01-12T19:51:37Z,2,,43756.70888888889,2,73,Closed
+Periodically save state and store in indexedDB,2016-01-27T18:20:10Z,2016-02-16T19:58:04Z,2016-02-16T19:58:04Z,1,,481.63166666666666,17,524,Merged
+Add link to article on glob patterns,2016-02-09T23:12:32Z,2016-09-29T19:10:51Z,2016-09-29T19:10:51Z,1,,5587.9719444444445,1,237,Merged
+cli: Open stdin as a file when present,2016-03-17T15:28:12Z,,2021-09-01T16:51:47Z,1,,47857.393055555556,1,1186,Closed
+Package URL handlers - mapping atom:// URIs to package functions,2016-04-07T22:52:17Z,2017-10-17T23:29:28Z,2017-10-17T23:29:28Z,9,,13392.619722222222,15,1837,Merged
+:memo: [ci skip] add notes on 'apm' path in Windows,2016-04-20T15:48:09Z,2016-10-31T17:05:35Z,2016-10-31T17:05:35Z,2,,4657.290555555555,1,48,Merged
+Use an async dialog box,2016-04-22T23:00:13Z,,2018-01-21T21:39:49Z,1,,15334.66,1,350,Closed
+fix spec toShow(),2016-05-18T22:17:52Z,2021-05-24T04:23:46Z,2021-05-24T04:23:46Z,1,,43950.098333333335,1,466,Merged
+Remove unused variables (advanced),2016-07-18T07:49:36Z,,2017-11-29T23:52:14Z,2,,11992.04388888889,29,1058,Closed
+Pass the menu item when executing menu command,2016-08-16T03:28:21Z,,2021-09-06T03:24:15Z,1,,44327.931666666664,1,394,Closed
+Simplify Environment Patching,2016-08-31T06:16:37Z,2016-09-08T19:55:19Z,2016-09-08T19:55:20Z,1,,205.645,3,675,Merged
+Simplify Windows build instructions,2016-09-15T02:58:14Z,2016-09-22T03:09:15Z,2016-09-22T03:09:15Z,3,,168.1836111111111,1,10,Merged
+Use inline source maps when transpiling coffee-script,2016-09-17T18:52:23Z,2016-10-01T21:52:43Z,2016-10-01T21:52:43Z,5,,339.00555555555553,3,371,Merged
+Adds support for variable-width terminals,2016-09-27T18:41:29Z,2016-09-29T18:36:54Z,2016-09-29T18:36:54Z,2,,47.923611111111114,2,370,Merged
+Add textEditors.getActiveTextEditor() method,2016-09-28T09:41:57Z,2021-01-27T06:54:05Z,2021-01-27T06:54:05Z,2,,37965.20222222222,3,444,Merged
+Fix for #10474,2016-10-09T20:01:22Z,2016-10-26T23:35:43Z,2016-10-26T23:35:43Z,2,,411.5725,3,490,Merged
+6075 focus tab on save prompt,2016-10-10T11:05:46Z,,2016-11-18T08:07:59Z,1,,933.0369444444444,1,1465,Closed
+Optimize menu sorting,2016-10-11T06:09:13Z,,2016-10-28T03:55:06Z,1,,405.76472222222225,2,160,Closed
+Update atom.desktop.in,2016-10-12T08:26:01Z,,2021-05-28T15:30:44Z,4,,40543.07861111111,1,463,Closed
+make script/build parse args first and supports -h options,2016-10-14T06:48:35Z,,2016-10-17T02:42:26Z,4,,67.8975,1,275,Closed
+README.md Tranlation to Simplified Chinese,2016-10-14T09:49:23Z,,2021-05-21T20:09:24Z,1,,40330.33361111111,1,361,Closed
+Fix keystroke resolution problems on Linux,2016-10-14T13:59:10Z,2016-10-25T01:29:12Z,2016-10-25T01:29:12Z,1,,251.50055555555556,3,118,Merged
+Convert ConfigSchema to JS,2016-10-15T21:06:49Z,2016-10-16T21:47:56Z,2016-10-16T21:47:56Z,4,,24.685277777777777,1,217,Merged
+Update keybinding,2016-10-17T13:28:26Z,2017-01-10T20:31:41Z,2017-01-10T20:31:41Z,2,,2047.0541666666666,4,0,Merged
+Added `scrollBounce` to `webPreferences`,2016-10-19T20:07:41Z,,2021-01-25T16:58:11Z,2,,37412.84166666667,1,0,Closed
+macOS: Let atom.sh find itself when run from an .app,2016-10-21T07:40:37Z,2016-12-08T18:11:35Z,2016-12-08T18:11:35Z,1,,1162.516111111111,1,608,Merged
+Update transpilation pipeline,2016-10-27T18:13:22Z,,2016-10-28T20:26:37Z,1,,26.220833333333335,2,1542,Closed
+Introduce follow through behavior for tooltips,2016-10-29T02:14:40Z,2016-11-02T14:31:19Z,2016-11-02T14:31:19Z,2,,108.2775,3,821,Merged
+Per-package transpilation,2016-10-29T21:46:38Z,2016-11-01T16:58:02Z,2016-11-01T16:58:02Z,5,,67.19,5,2338,Merged
+Convert a bunch of small files to JS,2016-10-31T03:14:18Z,,2016-12-24T03:13:00Z,2,,1295.9783333333332,26,130,Closed
+Raising exceptions in test mode (Issue: #10079) ,2016-10-31T20:14:48Z,,2017-01-18T18:46:44Z,5,,1894.5322222222221,1,0,Closed
+Consolidate log files,2016-11-01T04:51:19Z,2021-01-19T04:13:59Z,2021-01-19T04:13:59Z,2,,36959.37777777778,1,35,Merged
+"Timeout when invoking the shell, log information to the console",2016-11-10T21:24:35Z,2016-11-10T22:48:41Z,2016-11-10T22:48:41Z,1,,1.4016666666666666,1,28,Merged
+fix text selection and cursor position in lines with rtl text,2016-11-11T11:03:20Z,2016-12-15T22:37:54Z,2016-12-15T22:37:54Z,1,,827.5761111111111,2,608,Merged
+Use spawn instead of execFile and clean up running processes on process exit,2016-11-13T14:34:40Z,2016-11-15T09:15:58Z,2016-11-15T09:15:58Z,3,,42.68833333333333,4,316,Merged
+Flush DOM before displaying context menu,2016-11-18T18:30:03Z,2016-12-06T13:04:30Z,2016-12-06T13:04:30Z,2,,426.57416666666666,2,1693,Merged
+"Move ""Fold all"" menu entry to above the ""Unfold all"" entry",2016-11-20T01:35:20Z,2016-11-20T05:20:51Z,2016-11-20T05:20:51Z,1,,3.758611111111111,3,71,Merged
+Call `openDevTools` on `WebContents` rather than on `BrowserWindow`,2016-11-21T17:46:18Z,2016-11-21T19:01:03Z,2016-11-21T19:01:03Z,1,,1.2458333333333333,1,152,Merged
+Add Flatpak support,2016-11-21T22:22:45Z,,2017-11-03T19:00:47Z,2,,8324.63388888889,6,2300,Closed
+Add initialize() hook to packages,2016-11-30T00:36:56Z,2016-12-01T08:53:43Z,2016-12-01T08:53:43Z,4,,32.27972222222222,3,457,Merged
+Specs: test reliability & auto temp clean-up,2016-12-01T05:54:20Z,2016-12-01T21:24:12Z,2016-12-01T21:24:12Z,2,,15.497777777777777,21,470,Merged
+Activate packages immediately if hook had already been triggered,2016-12-02T12:25:48Z,2016-12-05T14:53:54Z,2016-12-05T14:53:54Z,1,,74.46833333333333,3,1119,Merged
+Added context menu for cinnamon desktop enviroment (Linux),2016-12-09T16:36:35Z,2021-09-03T09:49:18Z,2021-09-03T09:49:18Z,2,,41489.21194444445,2,93,Merged
+Allow build script to specify install prefix.,2016-12-14T15:04:55Z,,2017-04-17T22:05:24Z,1,,2983.0080555555555,2,133,Closed
+Use new text-buffer version with a more efficient DisplayLayer,2016-12-14T20:12:13Z,2016-12-16T18:25:10Z,2016-12-16T18:25:10Z,2,,46.215833333333336,9,1002,Merged
+"""open with"" fix for context menu",2016-12-19T00:52:21Z,,2021-09-06T05:14:33Z,2,,41332.37,1,38,Closed
+Add atom.tooltips.findTooltips(target),2016-12-22T23:43:25Z,2016-12-23T01:49:13Z,2016-12-23T01:49:13Z,2,,2.0966666666666667,2,304,Merged
+Updated documentation about keys outside config schema,2017-01-07T07:09:10Z,2017-01-28T02:13:24Z,2017-01-28T02:13:24Z,1,,499.07055555555553,1,666,Merged
+Normalize disk drive letter in path on Windows,2017-01-13T19:25:23Z,,2017-02-01T15:35:40Z,1,,452.1713888888889,4,1549,Closed
+Check whether state store is connected when prompting to save files,2017-01-18T00:23:20Z,2017-01-19T19:29:15Z,2017-01-19T19:29:15Z,3,,43.09861111111111,2,868,Merged
+Don't transform deprecated selectors containing malformed CSS,2017-01-20T14:14:07Z,2017-01-23T12:36:24Z,2017-01-23T12:36:24Z,1,,70.37138888888889,2,313,Merged
+Allow building on Node 7+,2017-01-25T01:03:50Z,2017-05-31T01:17:08Z,2017-05-31T01:17:08Z,4,,3024.221666666667,33,928,Merged
+Allow code signing cert to be specified at a local path,2017-01-25T19:01:36Z,2017-01-26T18:37:19Z,2017-01-26T18:37:19Z,3,,23.595277777777778,7,418,Merged
+Normalize disk drive letter in path on Windows,2017-02-01T15:39:27Z,2017-02-05T01:51:41Z,2017-02-05T01:51:41Z,2,,82.20388888888888,4,1547,Merged
+Normalize disk drive letter in path on Windows,2017-02-06T16:56:28Z,2017-02-20T17:54:19Z,2017-02-20T17:54:19Z,7,,336.96416666666664,4,1547,Merged
+Disable soft wrap on mini editors,2017-02-07T03:43:40Z,2017-03-29T21:38:48Z,2017-03-29T21:38:48Z,1,,1217.918888888889,2,897,Merged
+Added prevent option to ::onWillDestroyPaneItem(),2017-02-14T10:16:06Z,,2021-09-06T06:41:45Z,1,,39956.4275,3,1754,Closed
+:memo: Clarify that stack only has an effect if detail is present as well,2017-02-15T02:31:14Z,2021-09-03T04:40:40Z,2021-09-03T04:40:40Z,2,,39866.157222222224,1,745,Merged
+Upgrade to Babel 6 and apply fewer transformations when transpiling babel files,2017-02-15T16:24:42Z,2017-02-17T10:10:00Z,2017-02-17T10:10:00Z,7,,41.755,5,837,Merged
+Updating requires for linux to support 32bit build,2017-02-16T23:01:27Z,,2017-03-02T21:05:51Z,1,,334.0733333333333,1,430,Closed
+Convert workspace to JavaScript,2017-03-03T01:22:23Z,2017-03-03T21:03:36Z,2017-03-03T21:03:36Z,4,,19.686944444444446,4,554,Merged
+Add encoding auto-detection logic,2017-03-06T17:34:38Z,,2021-09-29T23:35:29Z,3,,40038.01416666667,3,2060,Closed
+Make an option to always restore the last session,2017-03-07T08:28:50Z,2017-05-08T16:33:24Z,2017-05-08T16:33:24Z,5,,1496.076111111111,3,1782,Merged
+Restore atom environment when adding project folders to a fresh window,2017-03-09T00:03:24Z,2017-03-27T17:56:38Z,2017-03-27T17:56:38Z,1,,449.88722222222225,7,3694,Merged
+Docks,2017-03-10T18:58:09Z,2017-03-30T20:16:26Z,2017-03-30T20:16:26Z,21,,481.3047222222222,20,4190,Merged
+Enhancement: More detailed snippets file,2017-03-11T19:38:02Z,,2020-04-04T19:03:57Z,2,,26879.431944444445,1,999,Closed
+src/config.coffee should use _.deepClone from underscore-plus,2017-03-12T11:10:56Z,,2021-05-24T18:59:13Z,2,,36823.80472222222,1,156,Closed
+More reliable way of stopping Babel stderr output on Windows,2017-03-16T19:18:24Z,,2017-03-20T21:19:44Z,3,,98.02222222222223,2,364,Closed
+"Add `saveFocusedPaneItem()` and call it in ""core:save"" command",2017-03-18T01:15:47Z,2017-03-31T19:57:51Z,2017-03-31T19:57:51Z,3,,330.7011111111111,3,694,Merged
+Always add opened items to the workspace,2017-03-31T21:23:28Z,2017-04-03T21:42:11Z,2017-04-03T21:42:11Z,1,,72.31194444444445,3,802,Merged
+:bug: Fix observation of moved items,2017-03-31T23:49:54Z,2017-04-04T17:20:25Z,2017-04-04T17:20:25Z,1,,89.50861111111111,2,59,Merged
+Update build to pre-compile packages with per-package transpilation configs,2017-04-04T14:54:19Z,2017-04-06T07:39:50Z,2017-04-06T07:39:50Z,1,,40.75861111111111,5,345,Merged
+Don't store default locations,2017-04-04T20:50:28Z,2017-04-05T16:59:02Z,2017-04-05T16:59:02Z,1,,20.142777777777777,4,290,Merged
+Document pane item interface on Workspace,2017-04-04T23:23:58Z,2017-04-12T02:20:01Z,2017-04-12T02:20:01Z,1,,170.93416666666667,1,129,Merged
+Add `atom.whenShellEnvironmentLoaded()`,2017-04-10T22:47:38Z,2017-04-12T18:53:51Z,2017-04-12T18:53:51Z,2,,44.103611111111114,3,179,Merged
+Ensure that atom-panel tags can be created via HTML,2017-04-10T23:23:17Z,2017-04-11T17:32:07Z,2017-04-11T17:32:07Z,3,,18.147222222222222,8,139,Merged
+Avoid errors deserializing 1.17 workspace state in prior Atom versions,2017-04-11T16:06:52Z,2017-04-11T17:10:51Z,2017-04-11T17:10:51Z,1,,1.0663888888888888,1,418,Merged
+Prevent the resize handle from covering the center,2017-04-12T05:42:54Z,2017-04-13T16:17:10Z,2017-04-13T16:17:10Z,1,,34.57111111111111,3,385,Merged
+Reduce dock initial size lookups,2017-04-14T22:17:46Z,2017-04-17T17:06:09Z,2017-04-17T17:06:09Z,2,,66.80638888888889,2,563,Merged
+Show correct beta commands in installer dialog,2017-04-19T00:47:58Z,,2018-08-30T12:37:10Z,1,,11963.82,1,170,Closed
+Fix folding key bindings,2017-04-19T23:02:56Z,,2017-05-21T07:06:19Z,1,,752.0563888888889,0,1039,Closed
+Update apm to use async keytar with libsecret,2017-04-20T16:34:01Z,2017-04-30T15:35:46Z,2017-04-30T15:35:46Z,1,,239.02916666666667,6,0,Merged
+Do not treat packages in unusual locations as bundled despite name,2017-04-20T22:01:34Z,2017-04-20T23:38:08Z,2017-04-20T23:38:08Z,2,,1.6094444444444445,1,0,Merged
+"Fix bundled package path check to use path, not name",2017-04-21T16:42:30Z,2017-04-21T18:13:41Z,2017-04-21T18:13:41Z,2,,1.5197222222222222,1,95,Merged
+Recalculate Tooltip positions when their contents change,2017-04-26T22:57:05Z,2017-04-30T15:38:59Z,2017-04-30T15:38:59Z,1,,88.69833333333334,1,701,Merged
+Unbreak URL handlers in Atom 1.17-beta,2017-04-28T17:42:23Z,2017-04-28T18:53:38Z,2017-04-28T18:53:38Z,1,,1.1875,1,353,Merged
+Adding an event for Code-Folding to TextEditor class,2017-04-28T22:22:26Z,,2020-07-02T10:10:55Z,1,,27851.808055555557,1,882,Closed
+Minor changes to compile-cache.js for atom-in-orbit.,2017-05-04T06:27:17Z,,2021-09-21T16:57:23Z,1,,38434.50166666666,1,1361,Closed
+Ensure that win_delay_load_hook.cc is included in the bundled app,2017-05-06T14:45:54Z,2017-05-07T13:05:46Z,2017-05-07T13:05:46Z,1,,22.33111111111111,1,1711,Merged
+🎉,2017-05-08T05:54:14Z,2017-05-11T08:03:29Z,2017-05-11T08:03:29Z,2,,74.15416666666667,6,654,Merged
+Migrate squirrel-update to JS,2017-05-10T15:46:59Z,,2018-04-11T23:28:28Z,6,,8071.6913888888885,2,548,Closed
+Pane shouldn't steal focus from its children,2017-05-12T20:51:03Z,2017-05-15T14:15:22Z,2017-05-15T14:15:22Z,1,,65.40527777777778,1,301,Merged
+Don't show restore dialog for non-editor dock items,2017-05-15T23:14:49Z,2017-05-24T15:43:36Z,2017-05-24T15:43:36Z,1,,208.47972222222222,2,178,Merged
+⬆ github@0.0.10,2017-05-16T06:37:11Z,2017-05-18T15:10:58Z,2017-05-18T15:10:58Z,1,,56.56305555555556,5,0,Merged
+Fix the atom:// URL handler for real (with tests this time),2017-05-16T18:41:02Z,2017-05-24T15:41:43Z,2017-05-24T15:41:43Z,1,,189.0113888888889,4,241,Merged
+Use new native text-buffer implementation,2017-05-17T00:46:37Z,2017-06-08T23:50:54Z,2017-06-08T23:50:54Z,4,,551.0713888888889,24,6844,Merged
+Install dev dependencies when transpiling,2017-05-17T11:20:16Z,2017-05-17T15:39:19Z,2017-05-17T15:39:19Z,2,,4.3175,3,210,Merged
+Move git refresh status task to long running task (Bug #9544),2017-05-17T18:01:59Z,,2017-09-28T05:03:47Z,3,,3203.03,9,1695,Closed
+Implement Paste without formatting/indentation,2017-05-17T20:04:38Z,,2021-09-21T18:05:29Z,2,,38110.01416666667,9,961,Closed
+Fix ability to activate next/previous pane in a dock,2017-05-17T21:17:04Z,2017-05-22T14:03:27Z,2017-05-22T14:03:27Z,4,,112.77305555555556,3,4224,Merged
+Enable MAX_SCREEN_LINE_LENGTH to now be set via a config option,2017-05-19T04:11:46Z,2017-09-12T18:32:42Z,2017-09-12T18:32:42Z,3,,2798.3488888888887,5,1552,Merged
+Teach directional pane navigation commands to support docks,2017-05-25T14:24:50Z,2017-06-08T23:15:33Z,2017-06-08T23:15:33Z,7,,344.84527777777777,8,10869,Merged
+Atomicons,2017-05-27T09:39:07Z,2017-06-02T02:47:51Z,2017-06-02T02:47:51Z,2,,137.14555555555555,5,1469,Merged
+Bring back ASAR archives,2017-05-30T17:58:58Z,2017-08-15T08:43:29Z,2017-08-15T08:43:29Z,1,,1838.7419444444445,2,571,Merged
+Provide API for observing the active text editor,2017-06-01T14:51:36Z,2017-06-06T14:09:53Z,2017-06-06T14:09:53Z,2,,119.30472222222222,5,5221,Merged
+Updated legal-eagle to 0.15.0,2017-06-07T02:36:43Z,,2018-11-19T17:22:36Z,1,,12734.764722222222,1,36,Closed
+Fix Docks docs,2017-06-07T03:43:30Z,2017-06-07T15:23:50Z,2017-06-07T15:23:51Z,3,,11.672222222222222,3,1183,Merged
+Add verticalScrollMargin to configurable settings.,2017-06-08T06:14:01Z,,2021-09-21T16:56:15Z,7,,37594.703888888886,4,1227,Closed
+Update CSP to allow using eval from JavaScript,2017-06-12T16:21:25Z,2017-06-20T09:34:26Z,2017-06-20T09:34:26Z,2,,185.21694444444444,1,1480,Merged
+:bug: Don't prefix resource path if package path is already absolute,2017-06-20T01:48:56Z,,2021-01-27T06:50:50Z,1,,31613.031666666666,1,338,Closed
+Filesystem watcher API,2017-06-20T20:18:39Z,2017-08-08T18:04:40Z,2017-08-08T18:04:40Z,5,,1173.7669444444443,32,5357,Merged
+Add instructions for local development,2017-06-24T11:21:58Z,2017-06-29T18:20:49Z,2017-06-29T18:20:49Z,2,,126.98083333333334,1,1109,Merged
+"Fixed the path for invalid reference, when copying resource.",2017-06-26T06:21:31Z,,2021-01-28T08:12:05Z,1,,31489.842777777776,1,7,Closed
+Only expect a single 'did-destroy' event,2017-06-27T23:20:16Z,2017-06-28T16:51:20Z,2017-06-28T16:51:20Z,1,,17.517777777777777,10,171,Merged
+Invalidate block decoration dimensions automatically when their size changes,2017-06-30T12:20:21Z,2017-07-03T09:39:37Z,2017-07-03T09:39:37Z,3,,69.32111111111111,2,852,Merged
+Make atom.commands.dispatch return a promise that resolves after listeners complete,2017-06-30T22:08:16Z,2018-01-09T13:12:46Z,2018-01-09T13:12:46Z,2,,4623.075,2,1345,Merged
+Create Windows installer after tests,2017-07-12T21:15:25Z,2017-07-17T22:54:06Z,2017-07-17T22:54:06Z,1,,121.64472222222223,2,0,Merged
+Use npm 5.3.0 for building Atom,2017-07-17T13:27:31Z,2017-07-17T15:34:47Z,2017-07-17T15:34:47Z,2,,2.121111111111111,4,1359,Merged
+Try an apm that depends on node-gyp explicitly,2017-07-18T22:21:44Z,2017-07-19T02:27:09Z,2017-07-19T02:27:09Z,1,,4.090277777777778,1,332,Merged
+Independent Atom instances (per $ATOM_HOME),2017-07-24T08:36:49Z,2017-12-18T00:52:21Z,2017-12-18T00:52:21Z,7,,3520.258888888889,1,1688,Merged
+Move pane to very far direction(to immediate child of root paneAxis),2017-07-30T07:52:27Z,,2021-09-20T16:53:41Z,1,,36321.02055555556,5,1435,Closed
+Ensure custom gutter decoration elements fill their container,2017-08-03T02:41:20Z,2017-08-03T14:11:04Z,2017-08-03T14:11:04Z,1,,11.495555555555555,3,1195,Merged
+Fix flaky test re: blinking cursor,2017-08-03T16:38:44Z,2017-08-04T00:19:08Z,2017-08-04T00:19:08Z,3,,7.673333333333333,1,1751,Merged
+Recognize Windows cmd or powershell environment in updateProcessEnv,2017-08-04T10:34:02Z,2018-04-25T14:44:30Z,2018-04-25T14:44:30Z,1,,6340.174444444445,2,1205,Merged
+Fix flaky test re: flashing highlight decorations,2017-08-04T18:37:45Z,2017-08-05T02:28:07Z,2017-08-05T02:28:07Z,1,,7.839444444444444,1,2140,Merged
+Fix regression re: closing tabs via middle mouse click on Linux,2017-08-07T14:39:21Z,2017-08-07T17:24:14Z,2017-08-07T17:24:15Z,2,,2.7480555555555557,2,1744,Merged
+Generate AppImage for Linux,2017-08-08T20:21:37Z,,2017-10-13T21:47:19Z,1,,1585.4283333333333,3,2039,Closed
+Separate tests and installer creation on AppVeyor,2017-08-09T13:22:05Z,2017-08-09T20:45:13Z,2017-08-09T20:45:13Z,4,,7.385555555555555,1,183,Merged
+Bring master up to date with recent changes in 1.20-release branch,2017-08-10T12:53:55Z,2017-08-10T15:41:54Z,2017-08-10T15:41:54Z,1,,2.799722222222222,1,274,Merged
+Simplify `didFocus` logic in `TextEditorComponent`,2017-08-15T09:38:57Z,2021-01-26T03:26:04Z,2021-01-26T03:26:04Z,1,,30233.785277777777,1,693,Merged
+Fix folding for lines that contain a comment,2017-08-17T08:42:52Z,2017-08-17T15:15:39Z,2017-08-17T15:15:40Z,1,,6.546388888888889,3,416,Merged
+Drop use of GPU tiles for lines and line numbers,2017-08-18T14:02:11Z,2017-08-21T08:44:59Z,2017-08-21T08:44:59Z,7,,66.71333333333334,2,557,Merged
+[Commands] Add support for rich listener objects with first-class metadata,2017-08-18T22:10:45Z,2017-08-29T15:54:42Z,2017-08-29T15:54:42Z,4,,257.7325,2,1659,Merged
+Don't select when typing while also holding the left mouse button,2017-08-22T10:17:14Z,2017-08-22T17:47:18Z,2017-08-22T17:47:18Z,2,,7.501111111111111,2,1279,Merged
+Adding option to skip main process tests. Cleaning up resources in tests,2017-08-23T02:08:38Z,2017-11-15T17:42:39Z,2017-11-15T17:42:39Z,5,,2031.5669444444445,3,334,Merged
+Don't attempt to move undefined items when splitting panes,2017-08-24T17:28:24Z,2017-08-28T19:56:23Z,2017-08-28T19:56:23Z,1,,98.46638888888889,2,1010,Merged
+Move highlight decorations outside of tiles,2017-08-29T09:53:45Z,2017-08-31T09:26:15Z,2017-08-31T09:26:15Z,2,,47.541666666666664,3,739,Merged
+Always honor scroll intent on mousewheel,2017-08-29T11:43:26Z,2017-08-31T09:28:17Z,2017-08-31T09:28:17Z,1,,45.7475,2,278,Merged
+Fix rendering of block decorations for invalid markers,2017-08-30T12:27:23Z,2017-08-31T09:29:15Z,2017-08-31T09:29:15Z,2,,21.031111111111112,3,656,Merged
+Allow Promises to be returned by a packages deactivate method,2017-09-06T00:28:51Z,2017-09-09T17:57:25Z,2017-09-09T17:57:25Z,2,,89.47611111111111,12,0,Merged
+replace async/await with promises,2017-09-06T04:13:14Z,,2017-09-06T15:26:41Z,1,,11.224166666666667,1,193,Closed
+Use the Node version bundled in Electron to verify snapshot script,2017-09-06T09:10:27Z,2017-09-06T17:11:12Z,2017-09-06T17:11:12Z,2,,8.0125,2,904,Merged
+Allow atom:// urls to be opened from the command line,2017-09-18T19:35:20Z,2017-09-19T03:04:03Z,2017-09-19T03:04:03Z,1,,7.478611111111111,1,1080,Merged
+Finish up #14456 (Git refresh backgrounding),2017-09-20T20:19:32Z,,2017-09-27T22:09:38Z,4,,169.835,8,231,Closed
+Update the stale markComment message,2017-09-29T16:43:16Z,2017-10-05T16:36:48Z,2017-10-05T16:36:49Z,9,,143.89222222222222,1,163,Merged
+Fix slowness in Cursor.getCurrentWordBufferRange,2017-09-29T21:40:19Z,2017-10-01T17:18:07Z,2017-10-01T17:18:07Z,2,,43.63,3,156,Merged
+Clear dimensions cache when approximate screen line count changes,2017-10-05T11:54:47Z,2017-10-05T19:04:18Z,2017-10-05T19:04:19Z,2,,7.158611111111111,6,772,Merged
+Handle edits that scroll up due to hiding the horizontal scrollbar,2017-10-05T23:01:20Z,2018-02-15T22:32:20Z,2018-02-15T22:32:21Z,4,,3191.516666666667,2,645,Merged
+forceHideTitleBar,2017-10-11T22:21:01Z,,2021-05-21T17:40:00Z,1,,31627.31638888889,1,1238,Closed
+rpm: Use /usr/bin/atom with desktop file,2017-10-13T16:06:52Z,,2018-06-13T14:20:13Z,1,,5830.2225,1,894,Closed
+Fix overlay resizing infinite loop,2017-10-15T01:25:19Z,2017-10-16T19:31:52Z,2017-10-16T19:31:52Z,1,,42.10916666666667,1,1235,Merged
+Decaffeinate `src/project.coffee`,2017-10-15T20:31:03Z,2017-10-17T01:23:15Z,2017-10-17T01:23:15Z,4,,28.87,2,101,Merged
+1.22 releases,2017-10-17T10:37:04Z,,2020-09-11T03:52:52Z,1,,25433.263333333332,16,1211,Closed
+Stop dragging only when user interacts with keyboard,2017-10-17T16:58:12Z,2017-10-18T09:38:53Z,2017-10-18T09:38:53Z,1,,16.678055555555556,2,1130,Merged
+Add core URI handlers,2017-10-18T23:02:57Z,2017-11-03T01:40:00Z,2017-11-03T01:40:01Z,2,,362.6175,7,391,Merged
+:arrow_up: language-perl@0.38.0,2017-10-20T14:08:41Z,2017-10-31T08:29:09Z,2017-10-31T08:29:09Z,1,,258.3411111111111,1,119,Merged
+Only update overlay instead of text editor when resize occurs,2017-10-20T21:47:06Z,2017-10-23T23:05:57Z,2017-10-23T23:05:58Z,8,,73.31416666666667,2,1039,Merged
+Add custom start tiles,2017-10-23T20:00:14Z,2021-09-01T14:30:35Z,2021-09-01T14:30:35Z,4,,33810.505833333336,16,1942,Merged
+Add command to paste without reformatting,2017-10-23T23:21:38Z,2017-10-24T02:21:38Z,2017-10-24T02:21:38Z,1,,3.0,11,876,Merged
+Preserve folds that are fully contained by the selection when changing selection ranges,2017-10-25T18:51:44Z,2017-10-25T22:36:37Z,2017-10-25T22:36:38Z,1,,3.7480555555555557,5,694,Merged
+Config file concurrency and async,2017-10-25T22:09:29Z,,2017-12-13T20:51:29Z,1,,1174.7,8,2011,Closed
+☠☕ Decaffeinate `src/theme-manager.coffee`,2017-10-30T13:20:06Z,2017-11-01T12:50:52Z,2017-11-01T12:50:52Z,3,,47.51277777777778,2,108,Merged
+Make notifications.clear public and emit event,2017-11-02T15:47:27Z,2017-12-08T22:20:33Z,2017-12-08T22:20:33Z,2,,870.5516666666666,2,1247,Merged
+Allow directory providers to implement a custom onDidChangeFiles,2017-11-02T18:49:38Z,2017-11-03T01:31:00Z,2017-11-03T01:31:00Z,1,,6.689444444444445,2,1397,Merged
+Autoscroll to cursor position after folding or unfolding,2017-11-03T15:59:26Z,2017-11-07T18:33:23Z,2017-11-07T18:33:23Z,1,,98.56583333333333,2,381,Merged
+Allow you to tab through modal text box,2017-11-08T08:56:30Z,,2018-01-05T15:02:39Z,1,,1398.1025,1,2565,Closed
+"Autoscroll after folding from keyboard, take 2",2017-11-14T19:35:20Z,2017-11-15T15:19:15Z,2017-11-15T15:19:15Z,1,,19.731944444444444,3,358,Merged
+Convert Package to JS,2017-11-15T23:20:31Z,2017-11-29T19:45:39Z,2017-11-29T19:45:40Z,7,,332.4188888888889,2,0,Merged
+Enable default editor keymaps for editors located outside atom-workspace,2017-11-16T08:15:14Z,2021-05-21T20:13:10Z,2021-05-21T20:13:10Z,2,,30779.965555555555,2,682,Merged
+Make atom.confirm async,2017-11-18T01:03:08Z,2018-01-09T22:19:52Z,2018-01-09T22:19:52Z,3,,1269.2788888888888,11,2512,Merged
+Do not clobber recent project history when running specs,2017-11-21T20:26:28Z,2017-11-21T21:32:31Z,2017-11-21T21:32:31Z,1,,1.1008333333333333,3,1126,Merged
+Add `readonly` attribute to text editor element,2017-11-29T05:29:39Z,2017-12-06T18:49:46Z,2017-12-06T18:49:46Z,9,,181.33527777777778,5,416,Merged
+Add event handler for window resizing.,2017-11-29T15:46:35Z,2018-01-06T01:01:16Z,2018-01-06T01:01:16Z,1,,897.2447222222222,2,2764,Merged
+Allow Tree-sitter parsers to be used for syntax highlighting and code folding,2017-11-30T01:24:22Z,2018-01-08T01:24:32Z,2018-01-08T01:24:32Z,3,,936.0027777777777,21,3101,Merged
+Select current paragraph,2017-12-06T16:38:47Z,,2021-05-19T18:35:59Z,1,,30241.953333333335,9,3720,Closed
+Resolve Uncaught TypeError,2017-12-15T21:33:44Z,2021-02-01T08:04:33Z,2021-02-01T08:04:33Z,4,,27442.51361111111,1,504,Merged
+Update Linux installation instructions in README.md,2017-12-21T18:10:11Z,2017-12-21T19:31:49Z,2017-12-21T19:31:49Z,2,,1.3605555555555555,1,739,Merged
+Resize pane,2017-12-22T00:04:52Z,2018-03-09T07:38:44Z,2018-03-09T07:38:44Z,2,,1855.5644444444445,2,702,Merged
+Docs: Update HTTP -> HTTPS,2017-12-26T06:57:54Z,2017-12-31T00:36:56Z,2017-12-31T00:36:56Z,1,,113.65055555555556,4,1324,Merged
+"Add ""Verification Process"" section to pull request template",2018-01-03T15:50:32Z,2018-01-05T14:29:51Z,2018-01-05T14:29:51Z,1,,46.655277777777776,1,1532,Merged
+Allow you to tab through modal text box,2018-01-04T19:44:09Z,2018-01-05T14:51:02Z,2018-01-05T14:51:02Z,1,,19.114722222222223,3,1642,Merged
+Update protocol client installation,2018-01-08T23:19:20Z,2018-01-09T01:37:46Z,2018-01-09T01:37:46Z,1,,2.3072222222222223,1,55,Merged
+"If protocol handler set to never, unregister it on Windows",2018-01-09T19:38:59Z,2018-01-09T21:34:42Z,2018-01-09T21:34:42Z,2,,1.928611111111111,2,183,Merged
+Elevate installation step for Linux during 'script/build --install',2018-01-10T04:54:26Z,,2018-10-25T19:38:13Z,1,,6926.729722222222,1,1891,Closed
+Teach AppVeyor to run installer task for master branch,2018-01-10T22:47:04Z,2018-01-11T15:40:56Z,2018-01-11T15:40:57Z,3,,16.897777777777776,1,1825,Merged
+Preserve some TextEditor settings when language mode changes,2018-01-11T21:46:33Z,2018-01-12T21:52:47Z,2018-01-12T21:52:47Z,6,,24.10388888888889,2,1778,Merged
+Add async implementation of GitRepositoryProvider.repositoryForDirectory,2018-01-14T17:02:13Z,2019-02-21T17:29:54Z,2019-02-21T17:29:54Z,1,,9672.461388888889,3,3918,Merged
+Restore selectionsMarkerLayer of different editor,2018-01-15T09:38:04Z,2018-03-21T15:12:33Z,2018-03-21T15:12:33Z,2,,1565.5747222222221,2,3231,Merged
+decaffeinate config.coffee and config-spec.coffee,2018-01-18T23:08:52Z,2018-01-24T06:52:43Z,2018-01-24T06:52:43Z,15,,127.73083333333334,4,2038,Merged
+Fix #14716: Error when deserializing TreeView for project,2018-01-22T22:53:52Z,2018-01-23T01:26:31Z,2018-01-23T01:26:31Z,1,,2.5441666666666665,3,477,Merged
+Fix #16538: Middle-click pastes into read only editor on Linux,2018-01-23T02:50:56Z,2018-01-23T15:41:02Z,2018-01-23T15:41:02Z,2,,12.835,2,762,Merged
+Revert change to move mouse cursor on right-click,2018-01-24T16:27:33Z,2018-01-27T04:52:59Z,2018-01-27T04:52:59Z,2,,60.42388888888889,2,769,Merged
+WIP: Add support for project and path specific configs. ,2018-01-30T23:24:41Z,,2018-02-17T05:06:14Z,3,,413.6925,10,3019,Closed
+Enable packages to control order of context menu items,2018-02-01T00:38:35Z,2018-02-22T17:36:44Z,2018-02-22T17:36:44Z,1,,520.9691666666666,5,3938,Merged
+Optimize process kill by pid,2018-02-02T00:22:39Z,2018-03-03T00:39:46Z,2018-03-03T00:39:47Z,9,,696.2852777777778,1,230,Merged
+ Document TextEditor::bufferRangeForScopeAtBufferPosition,2018-02-03T09:04:51Z,,2021-05-24T14:40:31Z,1,,28949.594444444443,1,1009,Closed
+RFC-001: Project-Specific Configuration,2018-02-07T23:53:13Z,,2021-09-03T06:17:41Z,5,,31278.40777777778,1,206,Closed
+add `configurable: true` to browserwindow.loadSettingsJSON,2018-02-08T19:07:59Z,2018-02-08T22:07:57Z,2018-02-08T22:07:57Z,2,,2.9994444444444444,1,993,Merged
+Add custom properties to atom-workspace to track editor properties,2018-02-14T05:59:30Z,2018-02-22T03:02:15Z,2018-02-22T03:02:15Z,6,,189.04583333333332,3,1654,Merged
+Prefer package name from metadata,2018-02-14T20:03:27Z,2018-02-14T21:20:38Z,2018-02-14T21:20:39Z,1,,1.2863888888888888,1,159,Merged
+Replace csslint with stylelint,2018-02-21T08:11:21Z,2018-02-22T00:20:21Z,2018-02-22T00:20:21Z,4,,16.15,5,912,Merged
+Add additional dependencies for linux,2018-02-21T22:13:51Z,2018-03-05T18:12:15Z,2018-03-05T18:12:15Z,4,,283.97333333333336,1,566,Merged
+Handle empty username,2018-02-22T21:24:12Z,2018-02-23T01:21:47Z,2018-02-23T01:21:47Z,2,,3.959722222222222,1,1303,Merged
+Convert PaneContainerElement and PaneElement to JS,2018-02-23T22:44:15Z,2018-02-24T00:04:48Z,2018-02-24T00:04:48Z,1,,1.3425,4,0,Merged
+Add a new keybinding for window:reload Fixes #1794,2018-02-25T14:10:36Z,,2020-06-03T13:09:49Z,1,,19894.986944444445,1,833,Closed
+Add the concept of an `atomproject` file to atom. ,2018-02-27T01:04:36Z,2018-03-12T03:41:36Z,2018-03-12T03:41:36Z,26,,314.6166666666667,8,3380,Merged
+Add 'await' keyword at async function call and remove unnecessary parameter,2018-02-28T10:35:56Z,2018-02-28T15:29:29Z,2018-02-28T15:29:29Z,1,,4.8925,2,731,Merged
+Fix dock dragging and dropping,2018-03-01T02:21:32Z,2018-03-05T22:45:28Z,2018-03-05T22:45:29Z,3,,116.39888888888889,2,363,Merged
+Convert Dock class to Etch,2018-03-01T02:48:19Z,2018-03-30T18:59:09Z,2018-03-30T18:59:09Z,1,,712.1805555555555,3,810,Merged
+GitHub package Q1 roadmap,2018-03-01T13:22:45Z,2018-03-01T18:32:34Z,2018-03-01T18:32:34Z,1,,5.163611111111111,1,425,Merged
+Fix shaking editor when typing,2018-03-05T16:41:49Z,2018-03-06T10:28:42Z,2018-03-06T10:28:42Z,2,,17.781388888888888,1,1135,Merged
+Move GitHub package plans,2018-03-08T13:32:33Z,2018-03-08T20:54:55Z,2018-03-08T20:54:55Z,1,,7.372777777777777,1,276,Merged
+Publish Teletype plans,2018-03-09T14:27:37Z,2018-03-12T13:21:38Z,2018-03-12T13:21:39Z,2,,70.90027777777777,1,225,Merged
+Update languages,2018-03-09T18:08:16Z,2018-03-09T19:30:57Z,2018-03-09T19:30:57Z,1,,1.3780555555555556,1,783,Merged
+Fix bug caused by dragging file from desktop through dock handle,2018-03-12T18:42:21Z,2018-03-30T22:31:56Z,2018-03-30T22:31:56Z,1,,435.8263888888889,1,503,Merged
+Recognize .tsx source as Typescript,2018-03-13T12:35:22Z,2018-03-13T13:54:44Z,2018-03-13T13:54:44Z,1,,1.3227777777777778,1,1905,Merged
+Uninstall blacklisted packages automatically,2018-03-14T15:23:06Z,,2018-04-17T20:35:15Z,1,,821.2025,6,2976,Closed
+Fix documentation for the Config class,2018-03-16T06:59:07Z,2018-03-16T12:42:19Z,2018-03-16T12:42:20Z,1,,5.72,1,1293,Merged
+Weekly Focus: 2018-03-19,2018-03-16T14:58:57Z,2018-03-19T19:18:30Z,2018-03-19T19:18:30Z,1,,76.32583333333334,4,298,Merged
+Add Probot lock configuration,2018-03-27T20:46:05Z,2018-03-29T18:26:16Z,2018-03-29T18:26:16Z,6,,45.66972222222222,1,851,Merged
+Remove duplicate command bindings for undo and redo,2018-03-29T20:36:25Z,2018-03-30T00:48:25Z,2018-03-30T00:48:25Z,1,,4.2,1,348,Merged
+Add --generate-api-docs to build script,2018-03-30T18:23:25Z,2018-06-01T17:55:07Z,2018-06-01T17:55:07Z,5,,1511.5283333333334,1,1099,Merged
+Defer component initialization until element is requested,2018-04-03T00:13:08Z,2018-04-03T13:13:03Z,2018-04-03T13:13:03Z,1,,12.998611111111112,1,224,Merged
+:arrow_up: tree-view@0.224.0,2018-04-05T20:54:28Z,2018-08-21T00:41:29Z,2018-08-21T00:41:29Z,1,,3291.783611111111,2,1038,Merged
+Migration To CircleCI 2.0,2018-04-09T09:51:47Z,,2018-08-06T15:17:25Z,1,,2861.427222222222,3,1408,Closed
+Convert arguments to absolute paths,2018-04-10T05:30:45Z,2021-09-03T06:20:37Z,2021-09-03T06:20:37Z,1,,29808.83111111111,1,1492,Merged
+Separate keyboard enablement from read-only editor state,2018-04-12T15:56:54Z,2018-04-13T11:51:38Z,2018-04-13T11:51:39Z,1,,19.912222222222223,2,360,Merged
+Tab Length Detection,2018-04-13T19:59:06Z,,2018-05-03T16:57:49Z,1,,476.9786111111111,0,3626,Closed
+Pane id conflicts,2018-04-14T23:19:43Z,,2021-05-21T20:46:32Z,1,,27189.446944444444,1,2504,Closed
+Remove FreeBSD build instructions since they don't work,2018-04-18T20:30:53Z,2018-04-18T21:57:51Z,2018-04-18T21:57:51Z,2,,1.4494444444444445,3,771,Merged
+Weekly focus: 2018-04-23,2018-04-23T00:43:08Z,2018-04-24T14:43:39Z,2018-04-24T14:43:39Z,1,,38.00861111111111,3,281,Merged
+Update existing editors' language modes when toggling tree-sitter feature flag,2018-04-25T19:59:22Z,2018-04-25T21:22:35Z,2018-04-25T21:22:35Z,1,,1.3869444444444445,3,68,Merged
+Create file recovery directory if it doesn't already exist,2018-05-01T13:53:36Z,2018-05-01T19:46:31Z,2018-05-01T19:46:32Z,4,,5.881944444444445,1,1639,Merged
+Use the configuration from AtomApplication in the main process,2018-05-05T02:16:57Z,,2021-02-01T14:18:56Z,1,,24084.033055555556,1,270,Closed
+Add new listener for config change,2018-05-09T16:25:55Z,,2021-05-26T06:41:10Z,2,,26702.254166666666,1,1807,Closed
+Fire grammar activation hooks after emitting new editors,2018-05-11T03:19:22Z,2018-05-15T21:22:39Z,2018-05-15T21:22:39Z,3,,114.05472222222222,2,1116,Merged
+Update near-term Atom team plans,2018-05-16T19:19:12Z,2018-05-16T21:01:22Z,2018-05-16T21:01:22Z,2,,1.7027777777777777,14,411,Merged
+Upgrade to Electron 1.7.15 in Atom 1.27,2018-05-18T20:04:46Z,2018-05-18T22:49:29Z,2018-05-18T22:49:29Z,1,,2.745277777777778,1,193,Merged
+⬆️ electron@2.0.1,2018-05-18T20:06:52Z,2018-05-18T21:55:50Z,2018-05-18T21:55:50Z,1,,1.816111111111111,1,52,Merged
+Fix deprecated hidden-inset title bar style,2018-05-20T13:58:25Z,2018-05-24T14:34:48Z,2018-05-24T14:34:48Z,1,,96.60638888888889,1,189,Merged
+Add proposed RFC 'Updateable Bundled Packages',2018-05-21T13:56:56Z,2018-06-13T23:23:10Z,2018-06-13T23:23:10Z,33,,561.4372222222222,1,436,Merged
+Restore color rendering following Electron 2.0 update,2018-05-21T17:00:07Z,2018-06-04T19:40:51Z,2018-06-04T19:40:51Z,4,,338.6788888888889,4,4402,Merged
+Prevent creation of files with reserved names on Windows,2018-05-24T09:55:34Z,,2021-06-03T16:59:25Z,1,,26551.064166666667,1,1475,Closed
+Change atom.sh not to spawn a sleep process every second on --wait,2018-05-24T13:47:09Z,2018-05-29T21:30:51Z,2018-05-29T21:30:51Z,8,,127.72833333333334,1,1086,Merged
+"Add proposed RFC ""Atom Nightly Releases""",2018-06-01T21:11:47Z,2018-06-14T17:20:34Z,2018-06-14T17:20:34Z,15,,308.1463888888889,2,546,Merged
+Extend the color profile PR (#17380),2018-06-04T15:14:00Z,2018-06-04T20:29:02Z,2018-06-04T20:29:02Z,4,,5.250555555555556,1,1125,Merged
+Don't allow vertical scrollbar to affect soft wrap column,2018-06-05T21:03:26Z,2018-06-07T22:37:33Z,2018-06-07T22:37:33Z,2,,49.56861111111111,3,3440,Merged
+Blacklist `yauzl` from snapshot,2018-06-06T21:27:27Z,2018-06-06T22:32:29Z,2018-06-06T22:32:29Z,1,,1.083888888888889,2,764,Merged
+.Desktop SCL compat by setting exec path,2018-06-13T14:00:19Z,2018-09-06T15:42:09Z,2018-09-06T15:42:09Z,1,,2041.6972222222223,1,1220,Merged
+Support activation hooks by grammar scope,2018-06-16T11:43:12Z,2018-06-26T19:13:47Z,2018-06-26T19:13:47Z,5,,247.50972222222222,2,404,Merged
+"Enable ""File -> Open"" to work on macOS when no windows are open",2018-06-17T15:53:21Z,2019-02-07T23:34:32Z,2019-02-07T23:34:32Z,4,,5647.686388888889,2,260,Merged
+Implement RFC 002: Atom Nightly Releases,2018-06-19T13:09:31Z,2018-07-11T17:28:27Z,2018-07-11T17:28:27Z,7,,532.3155555555555,38,4856,Merged
+Add Tree-sitter grammar injections,2018-06-22T00:44:51Z,2018-07-16T22:15:24Z,2018-07-16T22:15:25Z,2,,597.5091666666667,10,3698,Merged
+Fix getEnvFromShell() to correctly handle newlines in env vars,2018-07-05T06:34:58Z,2021-09-03T19:28:47Z,2021-09-03T19:28:47Z,1,,27756.896944444445,2,1396,Merged
+Reset goal column on all cursor changes,2018-07-06T03:15:08Z,2018-07-06T18:39:37Z,2018-07-06T18:39:37Z,2,,15.408055555555556,2,332,Merged
+Tooltip should fade on keybaord event 17431,2018-07-09T02:17:56Z,2018-07-10T20:11:53Z,2018-07-10T20:11:54Z,2,,41.899166666666666,2,943,Merged
+RFC 003: Consolidate Core Atom Packages,2018-07-12T00:02:16Z,2018-07-19T22:36:34Z,2018-07-19T22:36:34Z,22,,190.57166666666666,1,516,Merged
+Use a consistent app naming strategy across non-stable channels,2018-07-12T17:26:17Z,2018-07-12T21:46:34Z,2018-07-12T21:46:34Z,2,,4.338055555555556,7,1729,Merged
+RFC: Pre-transpile apm packages,2018-07-12T18:18:01Z,2021-09-03T06:26:32Z,2021-09-03T06:26:32Z,15,,27564.141944444444,1,307,Merged
+Enable repo-local core packages in the 'packages' folder,2018-07-13T22:45:39Z,2018-08-21T17:08:40Z,2018-08-21T17:08:40Z,12,,930.3836111111111,8,4426,Merged
+Introduce `observeRepositories` and `onDidAddRepository`,2018-07-20T18:26:51Z,2018-07-20T21:06:40Z,2018-07-20T21:06:40Z,2,,2.663611111111111,2,399,Merged
+Add TreeSitterLanguageMode::getSyntaxNodeContainingRange and TreeSitterLanguageMode::getSyntaxNodeAtPosition,2018-07-20T21:29:49Z,2018-07-24T20:00:55Z,2018-07-24T20:00:55Z,9,,94.51833333333333,4,760,Merged
+"Multiple, custom line number gutters",2018-07-24T13:52:37Z,2018-08-21T22:17:31Z,2018-08-21T22:17:31Z,2,,680.415,6,1505,Merged
+Teach Pane to always look for a pane item's onDidTerminatePendingState function,2018-07-25T15:28:27Z,2018-07-26T12:44:50Z,2018-07-26T12:44:50Z,1,,21.273055555555555,2,3593,Merged
+Fix errors causing tests to fail when run from the UI,2018-07-26T17:27:53Z,2018-08-10T19:22:55Z,2018-08-10T19:22:55Z,1,,361.9172222222222,3,661,Merged
+Fix repository tests that fail when run in fork of atom/atom,2018-07-27T13:50:27Z,2018-07-27T20:05:48Z,2018-07-27T20:05:48Z,1,,6.255833333333333,2,1028,Merged
+Write config file atomically,2018-08-03T00:27:05Z,2018-08-06T18:36:45Z,2018-08-06T18:36:45Z,2,,90.16111111111111,1,1596,Merged
+Add VSTS CI badge to README.md,2018-08-03T13:14:49Z,2018-08-06T13:34:09Z,2018-08-06T13:34:09Z,1,,72.32222222222222,1,153,Merged
+Don't take destructive action on esc,2018-08-03T20:24:30Z,2018-08-15T13:41:37Z,2018-08-15T13:41:37Z,1,,281.28527777777776,1,690,Merged
+Remove CircleCI configuration,2018-08-06T13:58:28Z,2018-08-06T15:01:44Z,2018-08-06T15:01:44Z,1,,1.0544444444444445,4,1006,Merged
+Use npm and apm ci in CI builds,2018-08-08T13:05:46Z,2018-08-08T17:51:02Z,2018-08-08T17:51:02Z,2,,4.754444444444444,12,677,Merged
+:arrow-up: github on dev,2018-08-13T15:34:37Z,2018-08-14T13:11:29Z,2018-08-14T13:11:29Z,1,,21.614444444444445,2,330,Merged
+Updates atom near term roadmap,2018-08-14T15:17:04Z,2018-08-14T18:13:58Z,2018-08-14T18:13:58Z,1,,2.9483333333333333,1,309,Merged
+:arrow_up: `metrics` to 1.6.1,2018-08-14T21:42:21Z,2018-08-14T22:57:06Z,2018-08-14T22:57:06Z,1,,1.2458333333333333,2,0,Merged
+"During quit, close unloaded windows",2018-08-16T17:50:19Z,2018-08-28T00:32:27Z,2018-08-28T00:32:27Z,1,,270.70222222222225,2,1386,Merged
+Turn tree-sitter on by default,2018-08-19T16:31:25Z,2018-09-05T21:59:37Z,2018-09-05T21:59:37Z,1,,413.47,8,608,Merged
+Improve repo-local packages implementation,2018-08-21T19:09:23Z,2018-08-21T22:26:19Z,2018-08-21T22:26:19Z,1,,3.2822222222222224,6,1466,Merged
+Always provide a devResourcePath in load settings,2018-08-22T18:53:10Z,2018-08-22T23:38:28Z,2018-08-22T23:38:28Z,3,,4.755,3,1305,Merged
+➡️ Migrate core package 'one-light-ui' into ./packages,2018-08-24T17:06:04Z,2018-08-24T18:35:17Z,2018-08-24T18:35:17Z,1,,1.4869444444444444,43,203,Merged
+Minify the startup snapshot script with terser,2018-08-25T00:36:59Z,2018-08-27T17:14:04Z,2018-08-27T17:14:04Z,3,,64.61805555555556,3,1875,Merged
+Fix: Added capturing to keydown events when hiding tooltips,2018-08-30T22:44:35Z,2018-09-06T15:18:56Z,2018-09-06T15:18:56Z,1,,160.5725,2,845,Merged
+VSTS CI Schema Change,2018-09-04T18:27:18Z,2018-09-06T18:52:53Z,2018-09-06T18:52:53Z,1,,48.42638888888889,7,780,Merged
+➡️ Migrate core package 'one-light-syntax' into ./packages,2018-09-05T13:21:54Z,2018-09-06T23:01:08Z,2018-09-06T23:01:08Z,1,,33.653888888888886,26,211,Merged
+Migrate core package 'one-dark-syntax' into ./packages,2018-09-05T20:10:54Z,2018-09-05T21:27:05Z,2018-09-05T21:27:05Z,1,,1.2697222222222222,26,48,Merged
+Disallow OS text selection in atom buffers.,2018-09-06T00:58:47Z,2018-09-06T23:58:33Z,2018-09-06T23:58:33Z,2,,22.996111111111112,3,382,Merged
+Migrate one-dark-ui package into packages directory,2018-09-06T18:23:37Z,2018-09-06T19:36:56Z,2018-09-06T19:36:56Z,1,,1.2219444444444445,48,13,Merged
+Update to Electron 2.0.9,2018-09-10T16:36:29Z,2018-09-10T19:10:32Z,2018-09-10T19:10:32Z,1,,2.5675,1,102,Merged
+➡️ Migrate core package 'autoflow' into ./packages,2018-09-10T22:02:59Z,2018-09-11T21:41:37Z,2018-09-11T21:41:37Z,2,,23.64388888888889,19,171,Merged
+Fix bug with keyboard input in click tooltips,2018-09-13T00:21:20Z,2018-09-14T23:39:11Z,2018-09-14T23:39:11Z,2,,47.2975,3,2869,Merged
+📝 Provide separate pull request templates based on the type of change being contributed,2018-09-17T15:35:00Z,2018-09-18T16:38:06Z,2018-09-18T16:38:06Z,1,,25.051666666666666,6,3212,Merged
+Add Probot no-response configuration,2018-09-20T18:04:42Z,2018-09-20T20:27:49Z,2018-09-20T20:27:49Z,2,,2.3852777777777776,1,2749,Merged
+➡️ Migrate core package 'atom-dark-ui' into ./packages,2018-09-24T15:49:51Z,2018-09-24T21:05:12Z,2018-09-24T21:05:12Z,1,,5.255833333333333,27,179,Merged
+➡️ Migrate core package 'atom-dark-syntax' into ./packages,2018-09-24T16:06:19Z,2018-09-24T21:07:10Z,2018-09-24T21:07:10Z,1,,5.014166666666667,10,187,Merged
+➡️ Migrate core package 'atom-light-ui' into ./packages,2018-09-24T23:29:02Z,2018-09-25T17:45:12Z,2018-09-25T17:45:12Z,3,,18.269444444444446,25,181,Merged
+➡️ Migrate core package 'atom-light-syntax' into ./packages,2018-09-24T23:41:12Z,2018-09-25T16:23:36Z,2018-09-25T16:23:36Z,1,,16.706666666666667,10,189,Merged
+➡️ Migrate core package 'incompatible-packages' into ./packages,2018-09-25T19:28:16Z,2018-09-26T13:38:57Z,2018-09-26T13:38:57Z,1,,18.178055555555556,16,197,Merged
+➡️ Migrate core package 'link' into ./packages,2018-09-25T19:29:56Z,2018-09-26T19:18:10Z,2018-09-26T19:18:10Z,1,,23.80388888888889,13,163,Merged
+" Add a simple server for testing Atom updates, enable Atom to use it via environment variable",2018-09-26T14:58:03Z,2019-05-21T16:38:38Z,2019-05-21T16:38:38Z,2,,5689.676388888889,8,1093,Merged
+"Fix #18118 by reverting PR #17774: ""Write config file atomically""",2018-09-27T23:52:22Z,2018-09-28T00:53:17Z,2018-09-28T00:53:17Z,1,,1.0152777777777777,1,1177,Merged
+Configure probot/no-response to allow 28 days when requesting more info on an issue,2018-09-28T14:57:03Z,2018-10-02T12:12:56Z,2018-10-02T12:12:56Z,1,,93.26472222222222,1,1905,Merged
+➡️ Migrate core package 'exception-reporting' into ./packages,2018-09-28T14:57:08Z,2018-09-28T16:48:48Z,2018-09-28T16:48:49Z,1,,1.8611111111111112,10,297,Merged
+➡️ Migrate core package 'deprecation-cop' into ./packages,2018-10-01T23:43:28Z,2018-10-02T17:53:45Z,2018-10-02T17:53:45Z,1,,18.171388888888888,16,187,Merged
+➡️ Migrate core package 'dalek' into ./packages,2018-10-01T23:44:33Z,2018-10-02T16:29:10Z,2018-10-02T16:29:10Z,4,,16.74361111111111,11,167,Merged
+➡️ Migrate core package 'base16-tomorrow-light-theme' into ./packages,2018-10-02T19:13:47Z,2018-10-02T23:11:47Z,2018-10-02T23:11:47Z,1,,3.966666666666667,13,216,Merged
+➡️ Migrate core package 'base16-tomorrow-dark-theme' into ./packages,2018-10-02T19:14:47Z,2018-10-02T23:19:23Z,2018-10-02T23:19:23Z,1,,4.076666666666667,13,209,Merged
+Add libcurl3 and libcurl4 as deps for .deb package,2018-10-05T20:51:39Z,2018-10-25T19:34:04Z,2018-10-25T19:34:04Z,2,,478.70694444444445,1,405,Merged
+:arrow_up: github@0.20.1,2018-10-05T21:41:03Z,2018-10-05T23:11:08Z,2018-10-05T23:11:09Z,1,,1.5013888888888889,2,54,Merged
+➡ Migrate core package 'go-to-line' into ./packages,2018-10-16T00:08:35Z,2018-10-16T15:35:20Z,2018-10-16T15:35:20Z,1,,15.445833333333333,12,177,Merged
+➡️ Migrate core package 'line-ending-selector' into ./packages,2018-10-16T17:38:02Z,2018-10-16T21:37:00Z,2018-10-16T21:37:00Z,1,,3.9827777777777778,15,232,Merged
+Add a command to log the syntax tree,2018-10-17T16:21:07Z,2018-10-18T22:32:44Z,2018-10-18T22:32:44Z,5,,30.19361111111111,6,2957,Merged
+Migrate core package 'grammar-selector' into ./packages,2018-10-17T22:22:39Z,2018-10-18T16:02:16Z,2018-10-18T16:02:16Z,2,,17.66027777777778,15,48,Merged
+Update deprecation-cop.less,2018-10-19T05:04:00Z,2018-11-01T04:14:05Z,2018-11-01T04:14:05Z,3,,311.16805555555555,1,455,Merged
+WIP: Turn on render process tests on Linux in script/test,2018-10-19T14:01:52Z,,2021-05-17T20:11:40Z,1,,22590.163333333334,6,66,Closed
+Don't soft-wrap spaces and '/' to new lines,2018-10-19T23:38:41Z,2018-10-20T17:11:09Z,2018-10-20T17:11:10Z,1,,17.54111111111111,2,1025,Merged
+:arrow_up: language-java@0.31.0,2018-10-24T16:14:59Z,2018-10-24T17:28:36Z,2018-10-24T17:28:36Z,1,,1.2269444444444444,3,151,Merged
+Implementing tree-sitter based indentation logic,2018-10-25T04:46:45Z,2021-05-31T18:30:01Z,2021-05-31T18:30:01Z,1,,22789.72111111111,11,3950,Merged
+maintainGrammar -> maintainLanguageMode,2018-10-26T19:48:16Z,2018-10-26T20:54:50Z,2018-10-26T20:54:50Z,1,,1.1094444444444445,1,178,Merged
+Style operators in typescript and flow in one-dark/light-syntax,2018-10-26T20:28:44Z,2018-11-01T05:22:08Z,2018-11-01T05:22:08Z,1,,128.89,4,815,Merged
+"Add ""Release Notes"" section to PR templates",2018-10-29T17:06:38Z,2018-10-30T16:09:02Z,2018-10-30T16:09:02Z,1,,23.04,4,417,Merged
+Color variable.language differently from other variables,2018-11-01T19:00:45Z,,2021-05-24T04:31:18Z,1,,22425.509166666667,2,1439,Closed
+Adjust cursor scope when at end of line,2018-11-20T13:51:31Z,2018-11-21T04:20:58Z,2018-11-21T04:20:58Z,3,,14.490833333333333,2,3518,Merged
+Toggle comment cursor placement,2018-11-21T06:35:53Z,2019-04-10T16:10:43Z,2019-04-10T16:10:43Z,2,,3369.5805555555557,3,2678,Merged
+⬆️ github package,2018-11-21T16:41:42Z,2018-11-21T20:04:12Z,2018-11-21T20:04:12Z,1,,3.375,2,59,Merged
+Avoid sending async updates on config update,2018-12-05T22:45:55Z,2018-12-06T18:35:03Z,2018-12-06T18:35:03Z,1,,19.81888888888889,1,1115,Merged
+➡ Migrate core package 'solarized-light-syntax,2018-12-06T17:36:09Z,2019-01-03T06:48:18Z,2019-01-03T06:48:18Z,1,,661.2025,24,199,Merged
+➡ Migrate core package 'solarized-dark-syntax' into ./packages,2018-12-07T00:37:39Z,2019-01-03T09:14:26Z,2019-01-03T09:14:26Z,1,,656.6130555555555,24,197,Merged
+Only deref top-level symlinks in node_modules when copying assets,2018-12-11T21:35:50Z,2018-12-13T18:58:13Z,2018-12-13T18:58:14Z,1,,45.37305555555555,2,2049,Merged
+Update GitHub package on beta,2018-12-18T14:28:38Z,2018-12-19T06:00:52Z,2018-12-19T06:00:52Z,1,,15.537222222222223,3,94,Merged
+"When only a file is specified, don't open and index the parent directory",2018-12-20T21:17:47Z,2019-01-15T18:33:05Z,2019-01-15T18:33:05Z,1,,621.255,8,5039,Merged
+Move getBuffer out of Event Subscription section,2018-12-29T01:06:34Z,2019-01-08T22:07:24Z,2019-01-08T22:07:24Z,1,,261.0138888888889,1,734,Merged
+Document the reversed option to Selection.setBufferRange,2019-01-08T07:35:56Z,2019-04-26T15:01:57Z,2019-04-26T15:01:57Z,3,,2599.433611111111,1,400,Merged
+README fixes,2019-01-10T21:44:45Z,,2019-01-17T23:48:46Z,1,,170.06694444444443,1,585,Closed
+[wip] RFC: Session Management,2019-01-15T21:37:10Z,,2021-09-03T06:32:29Z,9,,23072.921944444446,1,576,Closed
+Update windows atom.sh launch script to support WSL changes in 1809,2019-01-15T23:44:25Z,2021-09-03T06:36:59Z,2021-09-03T06:36:59Z,1,,23070.876111111113,1,708,Merged
+Update how softWrap option behaves,2019-01-16T03:28:30Z,,2021-06-03T16:45:03Z,2,,20869.275833333333,7,1984,Closed
+Enable autoFocus option to accept an element to focus on pane creation,2019-01-16T04:30:45Z,2019-04-27T20:05:33Z,2019-04-27T20:05:33Z,2,,2439.58,3,2127,Merged
+Show Tree-sitter grammars in grammar selector,2019-01-24T06:33:45Z,2019-06-21T16:37:34Z,2019-06-21T16:37:35Z,10,,3562.063611111111,8,4037,Merged
+Improve behavior when restoring session that references a missing project folder,2019-01-24T19:18:06Z,2019-01-24T23:11:30Z,2019-01-24T23:11:30Z,1,,3.89,3,3524,Merged
+RFC: Block decoration ordering,2019-01-28T20:08:56Z,2019-02-01T19:58:45Z,2019-02-01T19:58:45Z,5,,95.83027777777778,1,333,Merged
+Build performance improvements,2019-02-06T21:01:09Z,,2021-02-01T14:15:35Z,2,,17417.240555555556,20,2069,Closed
+RFC: Grammar comment delims,2019-02-08T03:52:20Z,2021-09-03T09:05:16Z,2021-09-03T09:05:16Z,2,,22517.215555555555,1,245,Merged
+Add linter to packages/ folder,2019-02-21T14:37:03Z,2019-02-25T12:35:04Z,2019-02-25T12:35:04Z,6,,93.96694444444445,73,1919,Merged
+Add linter to spec/ folder,2019-02-22T11:45:31Z,2019-02-28T19:39:34Z,2019-02-28T19:39:34Z,6,,151.90083333333334,58,885,Merged
+Revert to Electron 2 until we can overcome crashes on Electron 3,2019-02-25T21:59:51Z,2019-02-26T18:25:06Z,2019-02-26T18:25:06Z,3,,20.420833333333334,21,2166,Merged
+⬆️ Electron 3 (Take Two),2019-02-26T22:23:23Z,2019-05-20T13:20:13Z,2019-05-20T13:20:14Z,2,,1982.9472222222223,7,1219,Merged
+Override global jasmine spec functions,2019-02-26T22:47:35Z,2019-02-28T15:35:58Z,2019-02-28T15:35:58Z,3,,40.80638888888889,1,2599,Merged
+Update versions of fuzzy-finder and snippets,2019-02-28T11:15:59Z,2019-02-28T12:37:32Z,2019-02-28T12:37:32Z,1,,1.3591666666666666,1,183,Merged
+Stop using jasmine test functions from async-spec-helpers.js,2019-03-01T11:12:22Z,2019-03-01T18:26:23Z,2019-03-01T18:26:23Z,1,,7.233611111111111,42,277,Merged
+⬆️ settings-view@0.260.1,2019-03-08T16:32:56Z,2019-03-08T18:41:32Z,2019-03-08T18:41:32Z,1,,2.1433333333333335,2,227,Merged
+Clean up documentation folders,2019-03-13T17:19:33Z,2019-03-14T13:32:52Z,2019-03-14T13:32:52Z,1,,20.221944444444443,1,227,Merged
+Convert line endings when copy and pasting,2019-03-20T20:15:07Z,2021-09-30T09:42:36Z,2021-09-30T09:42:36Z,1,,22189.458055555555,3,1824,Merged
+Revert launch scenario changes,2019-03-21T23:23:07Z,2019-03-27T14:02:06Z,2019-03-27T14:02:06Z,1,,134.6497222222222,4,5422,Merged
+Do not delete global scope setting when resetting user settings,2019-03-26T13:20:14Z,2019-03-27T08:47:57Z,2019-03-27T08:47:58Z,1,,19.461944444444445,2,1869,Merged
+Fix reopen project when there are no open windows,2019-03-26T15:58:52Z,2019-03-27T15:21:46Z,2019-03-27T15:21:46Z,1,,23.381666666666668,4,851,Merged
+Update tree-sitter to v0.14.0,2019-03-27T00:59:17Z,2019-04-07T21:26:12Z,2019-04-07T21:26:12Z,1,,284.4486111111111,4,1919,Merged
+⬆️ underscore-plus@1.7.0,2019-03-29T17:15:56Z,2019-04-27T17:13:01Z,2019-04-27T17:13:01Z,1,,695.9513888888889,8,166,Merged
+Update CI scripts to lint early and fail fast,2019-04-02T23:50:25Z,2019-04-04T00:49:18Z,2019-04-04T00:49:18Z,1,,24.98138888888889,5,6892,Merged
+"""Open file"" in existing window",2019-04-10T21:02:09Z,2019-04-10T23:00:54Z,2019-04-10T23:00:55Z,2,,1.9791666666666667,1,2183,Merged
+Atom launch scenario descriptions,2019-04-15T17:11:20Z,,2019-06-18T18:45:26Z,13,,1537.5683333333334,1,1283,Closed
+go-to-line: Support for jumping to relative line,2019-04-15T20:14:44Z,,2021-05-19T18:11:48Z,1,,18357.95111111111,2,1470,Closed
+Improve launch behavior,2019-04-16T19:05:31Z,2019-04-23T00:39:29Z,2019-04-23T00:39:29Z,2,,149.5661111111111,9,6863,Merged
+Upload Windows crash reports on Azure build pipelines for pull requests only,2019-04-16T21:31:36Z,2019-04-18T18:17:52Z,2019-04-18T18:17:52Z,2,,44.77111111111111,1,741,Merged
+Teach CI to use versions specified in package-lock.json,2019-04-17T15:58:47Z,2019-04-19T21:13:39Z,2019-04-19T21:13:39Z,1,,53.24777777777778,7,1752,Merged
+Use a simpler condition to determine whether to publish crash reports,2019-04-18T18:30:19Z,2019-04-18T23:25:14Z,2019-04-18T23:25:14Z,1,,4.915277777777778,1,595,Merged
+Remove apm's node-gyp dependency,2019-04-20T22:03:10Z,2019-05-13T04:08:00Z,2019-05-13T04:08:00Z,1,,534.0805555555555,4,461,Merged
+"""Reopen projects"" in a new window",2019-04-23T15:29:03Z,2019-04-23T21:35:13Z,2019-04-23T21:35:14Z,1,,6.102777777777778,4,5750,Merged
+Only store directories in serialized application state,2019-04-24T14:57:45Z,2019-04-24T21:22:11Z,2019-04-24T21:22:11Z,1,,6.407222222222222,6,5012,Merged
+Use async randomBytes API to speedup Windows startup,2019-04-30T16:27:57Z,2019-05-01T13:43:44Z,2019-05-01T13:43:44Z,3,,21.263055555555557,2,370,Merged
+Avoid AppVeyor build failures due to problem uploading JUnit XML,2019-04-30T20:36:30Z,2019-05-01T14:38:42Z,2019-05-01T14:38:42Z,1,,18.036666666666665,1,1527,Merged
+Default to @atom/notify for file system notifications,2019-04-30T21:48:52Z,2019-05-11T01:58:28Z,2019-05-11T01:58:29Z,5,,244.16,9,6892,Merged
+Do not wait until config watcher is ready in order to launch the Atom window,2019-05-01T09:05:08Z,2019-05-02T11:26:22Z,2019-05-02T11:26:22Z,4,,26.35388888888889,1,189,Merged
+Improve positioning when opening file at line,2019-05-06T18:11:33Z,2019-05-07T14:53:53Z,2019-05-07T14:53:53Z,5,,20.705555555555556,2,4194,Merged
+Improve handling of comment characters in ERB and EJS,2019-05-07T16:57:58Z,2019-05-08T19:53:17Z,2019-05-08T19:53:17Z,6,,26.921944444444446,2,3663,Merged
+Fix atom.open() when it has no arguments,2019-05-07T17:16:19Z,2019-05-07T18:50:57Z,2019-05-07T18:50:58Z,1,,1.5772222222222223,2,211,Merged
+Add markers for more granular logging of startup time,2019-05-09T18:26:27Z,2019-05-10T21:16:58Z,2019-05-10T21:16:58Z,7,,26.841944444444444,8,3711,Merged
+Use eslint + prettier for linting,2019-05-10T12:10:28Z,2019-05-13T19:13:26Z,2019-05-13T19:13:27Z,6,,79.04944444444445,12,2409,Merged
+Integrate packager improvements from https://github.com/atom/atom/pull/15431,2019-05-13T18:26:26Z,2019-05-13T20:18:45Z,2019-05-13T20:18:45Z,3,,1.8719444444444444,1,149,Merged
+Add .atom-socket-secret-* to .atom's .gitignore,2019-05-14T22:14:26Z,2019-05-14T23:43:05Z,2019-05-14T23:43:06Z,1,,1.4775,1,73,Merged
+Allow escaped quote literals in the SyntaxScopeMap,2019-05-14T23:18:09Z,2019-05-15T14:47:04Z,2019-05-15T14:47:04Z,1,,15.481944444444444,2,1626,Merged
+Re-enable draft release automation for builds on release branches,2019-05-15T19:54:21Z,2019-05-21T18:27:38Z,2019-05-21T18:27:38Z,2,,142.5547222222222,2,1724,Merged
+Add a directory searcher that uses `ripgrep` as the backend,2019-05-16T18:42:06Z,2019-05-23T07:39:47Z,2019-05-23T07:39:48Z,3,,156.96138888888888,10,2153,Merged
+Wait for config file to load before prompting to restart in config.onDidChange callback,2019-05-17T11:25:02Z,2019-05-17T15:41:14Z,2019-05-17T15:41:14Z,1,,4.27,1,602,Merged
+:arrow_up: language-c,2019-05-17T18:11:27Z,2019-05-17T19:15:18Z,2019-05-17T19:15:18Z,1,,1.0641666666666667,2,47,Merged
+Update .deb package dependencies,2019-05-17T22:31:38Z,2019-05-23T20:17:32Z,2019-05-23T20:17:32Z,1,,141.765,1,5673,Merged
+🚱 Fix leak of LanguageMode objects in tests,2019-05-17T22:55:38Z,2019-05-18T18:14:27Z,2019-05-18T18:14:27Z,1,,19.31361111111111,3,2652,Merged
+Upgrade to Electron 4,2019-05-20T21:47:34Z,2019-07-19T16:38:24Z,2019-07-19T16:38:24Z,12,,1434.8472222222222,6,804,Merged
+autoflow: Do not reflow selections that contain only LaTeX tags,2019-05-23T22:30:25Z,2019-06-10T21:56:33Z,2019-06-10T21:56:34Z,1,,431.43555555555554,2,1525,Merged
+Upgrade webdriverio,2019-05-23T22:37:39Z,2019-05-31T21:29:05Z,2019-05-31T21:29:05Z,1,,190.85722222222222,6,278,Merged
+Fix handling of binary files when using ripgrep scanner,2019-05-24T17:01:59Z,2019-05-27T09:51:35Z,2019-05-27T09:51:35Z,2,,64.82666666666667,3,655,Merged
+Enable eslint rules that got disabled,2019-05-27T10:18:46Z,2019-05-31T16:29:32Z,2019-05-31T16:29:32Z,1,,102.17944444444444,15,827,Merged
+Don't create a promise when preloading package settings in snapshot,2019-05-29T15:49:15Z,2019-05-30T06:36:17Z,2019-05-30T06:36:17Z,1,,14.783888888888889,1,620,Merged
+Display multi-keystroke key bindings in menu item's label,2019-05-31T13:29:14Z,2019-06-03T08:57:27Z,2019-06-03T08:57:28Z,1,,67.47027777777778,4,1214,Merged
+Cache node_modules on Azure Pipelines,2019-06-03T09:11:24Z,2019-06-04T11:45:54Z,2019-06-04T11:45:55Z,1,,26.575,5,1972,Merged
+Improvements to ripgrep scanner,2019-06-04T10:38:36Z,2019-06-06T14:35:37Z,2019-06-06T14:35:37Z,1,,51.95027777777778,3,1392,Merged
+Parallelize macOS tests,2019-06-04T12:03:00Z,2019-06-06T07:08:44Z,2019-06-06T07:08:44Z,1,,43.095555555555556,4,2075,Merged
+Don't listen for arguments from new processes in test or benchmarks,2019-06-06T08:32:59Z,2019-06-06T12:10:39Z,2019-06-06T12:10:39Z,1,,3.6277777777777778,1,1224,Merged
+Add delay to watch-path tests to make them less flaky,2019-06-06T14:52:27Z,2019-06-06T19:21:13Z,2019-06-06T19:21:13Z,1,,4.479444444444445,1,607,Merged
+Update Node.js version used in CI systems,2019-06-12T09:45:56Z,2019-06-12T16:25:56Z,2019-06-12T16:25:56Z,1,,6.666666666666667,8,431,Merged
+Rely on Azure Pipelines instead of AppVeyor for Windows builds,2019-06-12T14:30:40Z,2019-06-17T18:19:33Z,2019-06-17T18:19:33Z,1,,123.81472222222222,4,639,Merged
+Increase timeout for atom-application.test.js on CI,2019-06-13T14:39:07Z,2019-06-13T16:58:02Z,2019-06-13T16:58:03Z,1,,2.3152777777777778,1,901,Merged
+Use organization level templates,2019-06-13T21:39:15Z,2019-06-14T18:36:18Z,2019-06-14T18:36:18Z,2,,20.950833333333332,10,2848,Merged
+⬆️ electron-winstaller@3.0.4,2019-06-14T17:56:30Z,2019-06-17T21:39:27Z,2019-06-17T21:39:27Z,1,,75.71583333333334,3,2049,Merged
+Remove delays that we no longer need in watch-path tests,2019-06-17T14:21:50Z,2019-06-17T17:16:03Z,2019-06-17T17:16:04Z,1,,2.903611111111111,1,1180,Merged
+"⬆️ git-utils@5.6.0, scandal@3.2.0",2019-06-17T16:20:39Z,2019-06-17T17:31:57Z,2019-06-17T17:31:57Z,2,,1.1883333333333332,2,315,Merged
+Improve logic to generate nightly release notes,2019-06-17T18:42:55Z,2019-06-18T16:50:14Z,2019-06-18T16:50:14Z,3,,22.121944444444445,1,1846,Merged
+Add a new injection point setting to support parsing Rust macros via language injection,2019-06-17T22:50:38Z,2019-06-18T23:08:31Z,2019-06-18T23:08:31Z,7,,24.298055555555557,7,4493,Merged
+Use a different polkit policy name for each Atom channel on Linux,2019-06-20T12:30:11Z,2019-06-20T15:46:28Z,2019-06-20T15:46:28Z,2,,3.2713888888888887,3,192,Merged
+Rely on Azure Pipelines instead of Travis for Linux builds,2019-06-25T20:31:55Z,2019-06-26T15:46:06Z,2019-06-26T15:46:06Z,1,,19.23638888888889,4,392,Merged
+Add ripgrep pcre2 search support,2019-06-30T15:26:45Z,2019-07-01T16:18:37Z,2019-07-01T16:18:37Z,3,,24.864444444444445,3,1275,Merged
+RFC: Evaluating scope name additions to built-in grammars,2019-07-03T03:59:31Z,2021-09-03T14:35:53Z,2021-09-03T14:35:53Z,1,,19042.606111111112,1,588,Merged
+Only cover scope boundaries in the parent layer if there is a scope boundary in the injected layer,2019-07-30T03:44:37Z,2019-07-30T16:39:26Z,2019-07-30T16:39:27Z,2,,12.913611111111111,2,1968,Merged
+Use class colors for inherited classes in One syntax themes,2019-07-31T15:30:52Z,2019-08-01T09:37:55Z,2019-08-01T09:37:55Z,1,,18.1175,2,1075,Merged
+Recognize git worktree directories as valid git repositories,2019-08-23T17:33:48Z,2019-11-01T22:03:11Z,2019-11-01T22:03:11Z,1,,1684.4897222222223,6,1528,Merged
+Add overlay when resizing panels to prevent panes stealing focus,2019-09-01T09:13:06Z,2020-03-31T20:26:12Z,2020-03-31T20:26:12Z,1,,5099.218333333333,3,5115,Merged
+⬆️ language-gfm@0.90.7,2019-09-13T15:14:00Z,2019-09-13T16:48:33Z,2019-09-13T16:48:33Z,1,,1.5758333333333334,2,478,Merged
+1.20 releases,2019-09-16T07:42:17Z,,2019-09-16T15:53:40Z,1,,8.189722222222223,16,639,Closed
+Fix base16 project link,2019-09-24T11:42:31Z,2019-09-24T15:59:02Z,2019-09-24T15:59:02Z,1,,4.275277777777778,1,333,Merged
+Fix js colors in Solarized Dark Package,2019-10-02T18:53:07Z,2021-01-26T04:56:27Z,2021-01-26T04:56:27Z,2,,11554.055555555555,1,2326,Merged
+Minor Punctutation fix on Readme,2019-10-19T08:25:15Z,,2019-10-22T04:23:40Z,1,,67.97361111111111,1,729,Closed
+⬆️ language-php@0.443,2019-10-21T15:04:22Z,2019-10-22T11:32:09Z,2019-10-22T11:32:09Z,6,,20.463055555555556,2,365,Merged
+Fix language-typescript version in package.json,2019-10-22T13:34:55Z,2019-10-22T16:21:56Z,2019-10-22T16:21:56Z,1,,2.783611111111111,1,562,Merged
+Update tree-sitter to 0.15.13,2019-10-24T19:59:08Z,2019-10-29T00:12:13Z,2019-10-29T00:12:13Z,1,,100.21805555555555,2,645,Merged
+⬆️ find-and-replace@0.219.1,2019-11-01T18:16:08Z,2019-11-01T19:53:12Z,2019-11-01T19:53:12Z,2,,1.6177777777777778,2,357,Merged
+Update License for One Dark Theme from 2016 to 2019,2019-11-02T10:27:29Z,,2021-01-29T05:40:35Z,3,,10891.218333333334,1,1560,Closed
+⬆️ language-css@0.44.2,2019-11-12T14:56:39Z,2019-11-13T19:49:15Z,2019-11-13T19:49:15Z,1,,28.876666666666665,2,328,Merged
+MacOS App Notarization,2019-11-13T22:28:33Z,,2019-12-27T07:44:18Z,1,,1041.2625,3,402,Closed
+Upgrade to electron 5.0.12,2019-11-22T16:48:44Z,2020-03-16T15:22:44Z,2020-03-16T15:22:44Z,2,,2758.5666666666666,20,19793,Merged
+⬆️ language-java@0.31.4,2019-11-28T20:46:06Z,2020-02-06T19:53:44Z,2020-02-06T19:53:44Z,1,,1679.1272222222221,2,1182,Merged
+⬆️ Bump npm from 6.2.0 to 6.13.4 in /script,2019-12-13T17:40:39Z,,2020-05-12T03:15:23Z,1,,3609.5788888888887,2,11310,Closed
+Skip shell functions when parsing env,2020-02-08T22:03:42Z,2020-10-20T12:58:55Z,2020-10-20T12:58:55Z,3,,6110.920277777778,1,1455,Merged
+⬆️archive-view@0.65.2,2020-02-10T19:29:27Z,2020-02-10T22:46:23Z,2020-02-10T22:46:23Z,1,,3.2822222222222224,2,133,Merged
+Fix .deb install on ubuntu 20.04,2020-02-12T09:51:27Z,2020-04-02T20:19:37Z,2020-04-17T18:37:52Z,3,,1210.4694444444444,1,45,Merged
+feat: add setting to disable multi cursor on click,2020-02-24T20:26:18Z,2020-05-13T11:29:17Z,2020-05-13T11:29:18Z,1,,1887.0497222222223,3,2611,Merged
+Implement naming conventions in default themes,2020-03-17T16:45:59Z,2021-02-19T05:55:26Z,2021-02-19T05:55:26Z,1,,8125.1575,100,1809,Merged
+Line ending selector update,2020-03-22T06:58:34Z,2021-01-25T16:10:31Z,2021-01-25T16:10:32Z,3,,7425.199166666666,2,1169,Merged
+Use UI variables on container,2020-03-22T12:03:00Z,2020-08-27T16:13:57Z,2020-08-27T16:13:57Z,4,,3796.1825,1,663,Merged
+Await configuration loading on Windows,2020-03-22T21:08:50Z,2020-06-06T03:53:10Z,2020-06-06T03:53:10Z,1,,1806.7388888888888,1,3233,Merged
+Bump https-proxy-agent from 2.2.1 to 2.2.4 in /script/vsts,2020-04-16T11:18:42Z,2020-09-16T07:59:51Z,2020-09-16T07:59:51Z,1,,3668.6858333333334,1,7664,Merged
+📝Update Contributing.md,2020-05-07T14:49:24Z,2021-01-19T03:34:40Z,2021-01-19T03:34:40Z,2,,6156.754444444445,2,207,Merged
+Enable WebView on main-process in electron options,2020-05-15T19:24:28Z,2020-05-19T20:32:55Z,2020-05-19T20:32:56Z,2,,97.14083333333333,1,49,Merged
+⬆️ Electron@6.1.12,2020-05-20T15:40:02Z,,2020-07-16T16:35:01Z,26,,1368.9163888888888,11,49,Closed
+Fixes crash on linux,2020-05-21T20:35:13Z,,2020-05-29T13:50:43Z,1,,185.25833333333333,3,48,Closed
+Fix `chrome-sandbox` file permissions,2020-05-23T16:33:02Z,2020-06-03T11:31:47Z,2020-06-03T11:31:47Z,1,,258.9791666666667,2,13,Merged
+Miscellaneous python3-related updates and fixes,2020-05-30T21:30:09Z,2020-07-10T19:01:21Z,2020-07-10T19:01:21Z,1,,981.52,7,6040,Merged
+"Use the ""ELECTRON_CUSTOM_VERSION"" env var in build scripts",2020-06-03T19:04:45Z,2020-06-05T14:39:19Z,2020-06-05T14:39:19Z,2,,43.57611111111111,5,6267,Merged
+Use HTML native preventScroll for textEditorComponent focus,2020-06-06T11:19:16Z,2020-10-19T18:31:38Z,2020-10-19T18:31:38Z,1,,3247.206111111111,1,1028,Merged
+Faster atom.packages.getAvailablePackages,2020-06-07T06:30:53Z,2020-07-10T20:35:38Z,2020-07-10T20:35:38Z,4,,806.0791666666667,1,1098,Merged
+⬆️ snippets@1.6.0,2020-06-18T09:46:38Z,,2021-01-29T18:40:39Z,1,,5408.900277777778,2,117,Closed
+⬆️ electron-notarize@1.0.0,2020-06-24T00:47:05Z,2020-09-11T03:38:20Z,2020-09-11T03:38:20Z,3,,1898.8541666666667,2,43,Merged
+Automate dependency bumps,2020-06-29T12:18:18Z,2020-07-06T19:27:50Z,2020-07-06T19:27:50Z,1,,175.1588888888889,18,104,Merged
+Test @aminya/electron link,2020-06-29T23:58:29Z,,2020-07-02T14:40:59Z,1,,62.708333333333336,3,167,Closed
+Adding support for RTL languages,2020-07-03T14:01:29Z,,2021-09-03T14:30:07Z,26,,10248.477222222222,10,2319,Closed
+Fix backslash issue in paths in CI,2020-07-03T20:17:35Z,,2020-08-05T14:52:44Z,1,,786.5858333333333,3,5045,Closed
+Makes code-sign optional,2020-07-04T06:05:23Z,2020-08-24T18:54:53Z,2020-08-24T18:54:53Z,3,,1236.825,3,646,Merged
+⬆️ etch@0.14.0,2020-07-07T03:11:33Z,2020-09-10T18:50:36Z,2020-09-10T18:50:36Z,1,,1575.6508333333334,2,32,Merged
+⬆️ scrollbar-style@3.2.1,2020-07-07T03:12:20Z,2020-09-17T17:28:50Z,2020-09-17T17:28:50Z,1,,1742.275,2,41,Merged
+⬆️ vscode-ripgrep@1.7.0,2020-07-07T03:12:39Z,,2020-09-09T06:22:05Z,1,,1539.1572222222221,2,40,Closed
+Bump npm from 6.14.4 to 6.14.6 in /script,2020-07-07T19:28:35Z,,2020-09-16T08:04:54Z,1,,1692.6052777777777,2,10885,Closed
+"Added Keyword `auto`, which might be used with `trait`, and `macro`.",2020-07-08T01:09:14Z,,2021-02-01T16:19:54Z,1,,5007.177777777778,1,574,Closed
+CI: Use Cache@2 task in place of the old SaveCache@1,2020-07-09T09:02:51Z,2020-08-26T14:38:20Z,2020-08-26T14:38:20Z,2,,1157.5913888888888,4,8683,Merged
+remove redundant CS require,2020-07-10T14:42:14Z,2020-09-11T09:20:27Z,2020-09-11T09:20:27Z,1,,1506.6369444444445,1,1089,Merged
+detect symbolic link packages,2020-07-11T08:04:20Z,2020-09-08T13:04:48Z,2020-09-08T13:04:48Z,1,,1421.0077777777778,3,706,Merged
+WIP: Structure build scripts,2020-07-12T12:47:28Z,,2020-09-13T11:46:25Z,5,,1510.9825,43,8099,Closed
+Electron 6 Take Two,2020-07-16T08:08:33Z,2020-08-20T09:16:38Z,2020-08-20T09:16:39Z,6,,841.1347222222222,15,15477,Merged
+Cross-platform CI scripts,2020-07-16T11:43:49Z,2020-09-14T14:34:43Z,2020-09-14T14:34:43Z,4,,1442.8483333333334,8,1728,Merged
+use `performance` instead of `Date` for measuring package load time,2020-07-24T05:20:42Z,2020-08-25T15:47:11Z,2020-08-25T15:47:11Z,1,,778.4413888888889,1,426,Merged
+Parallelize Tests in CI (+ Refactor and Improvements),2020-07-25T13:13:05Z,2020-09-16T10:56:40Z,2020-09-16T10:56:40Z,3,,1269.7263888888888,7,658,Merged
+Update LICENSE.md,2020-07-25T15:38:59Z,,2020-07-25T17:43:25Z,1,,2.073888888888889,1,731,Closed
+support ES6 default require for packages,2020-07-25T17:11:17Z,2020-11-18T07:57:22Z,2020-11-18T07:57:22Z,11,,2774.7680555555557,2,1653,Merged
+Avoid replacing : in filename,2020-07-29T11:19:23Z,,2021-02-19T04:12:52Z,5,,4912.891388888889,2,1461,Closed
+Show appropriate error when running test without building,2020-07-30T10:12:57Z,2020-08-12T18:02:49Z,2020-08-12T18:02:49Z,7,,319.8311111111111,1,363,Merged
+enable multi-threading on Atom,2020-08-02T04:25:21Z,2021-01-25T16:05:34Z,2021-01-25T16:05:34Z,2,,4235.670277777778,1,591,Merged
+"CI: Faster ""GetReleaseVersion"" ""Release"", and ""Upload Artifacts"" jobs",2020-08-04T15:58:34Z,2020-08-21T18:19:50Z,2020-08-21T18:19:50Z,2,,410.3544444444444,3,6360,Merged
+[Don't Close] Comment out activating packages,2020-08-13T12:00:09Z,,2020-08-21T17:48:26Z,7,,197.8047222222222,1,43,Closed
+Ci preparation template,2020-08-26T22:01:58Z,2020-08-27T11:58:12Z,2020-08-27T11:58:12Z,3,,13.937222222222223,4,131,Merged
+CI bootstrap template,2020-08-28T06:18:51Z,2020-08-28T14:25:11Z,2020-08-28T14:25:11Z,1,,8.105555555555556,4,129,Merged
+CI build template,2020-08-29T00:54:35Z,2020-09-04T12:19:41Z,2020-09-04T12:19:41Z,1,,155.41833333333332,4,125,Merged
+Allow Title Bar to be Hidden (closes #13249),2020-08-30T22:34:51Z,2020-09-07T18:41:02Z,2020-09-07T18:41:02Z,17,,188.10305555555556,3,1555,Merged
+Ci publish template,2020-09-05T15:46:47Z,2020-09-10T20:01:40Z,2020-09-10T20:01:40Z,4,,124.24805555555555,4,127,Merged
+CI build template patch,2020-09-05T16:31:00Z,2020-09-06T06:09:47Z,2020-09-06T06:09:47Z,4,,13.64638888888889,1,194,Merged
+WIP: Add logging support to build script,2020-09-10T08:12:30Z,,2021-06-03T18:31:33Z,1,,6394.3175,41,458,Closed
+Tests: retry timed out steps automatically,2020-09-10T18:59:18Z,2020-09-18T06:21:46Z,2020-09-18T06:21:46Z,1,,179.37444444444444,1,452,Merged
+⬆️ fs-extra@9.0.1 (build script),2020-09-13T05:54:23Z,,2020-09-14T10:55:31Z,1,,29.01888888888889,12,1608,Closed
+Async bootstrap,2020-09-13T07:49:56Z,,2021-06-03T18:32:15Z,3,,6322.705277777778,5,2037,Closed
+Parallel Bootstrap,2020-09-14T12:32:48Z,,2021-06-03T18:32:46Z,21,,6293.999444444445,10,1076,Closed
+Define npm_config_jobs env variable in build scripts,2020-09-15T15:33:34Z,2021-01-22T20:03:31Z,2021-01-22T20:03:31Z,4,,3100.4991666666665,1,2525,Merged
+Don't reinstall npm in CI,2020-09-16T01:01:02Z,,2020-10-19T12:58:42Z,2,,803.9611111111111,2,3148,Closed
+Update the macOS Azure CI image to macos-10.15,2020-09-16T01:41:07Z,2020-11-18T11:01:58Z,2020-11-18T11:01:58Z,3,,1521.3475,2,1588,Merged
+Separate lint into own job,2020-09-16T12:53:46Z,2020-10-08T19:42:14Z,2020-10-08T19:42:14Z,8,,534.8077777777778,7,2053,Merged
+⬆️ tree-sitter@0.16.2,2020-09-18T03:12:45Z,2020-09-18T06:15:30Z,2020-09-18T06:15:30Z,1,,3.0458333333333334,2,39,Merged
+linux dpkg-deb: speed up build,2020-09-18T09:29:40Z,,2021-01-29T17:40:33Z,3,,3200.1813888888887,2,839,Closed
+Support sync condition in spec - timeout fixer,2020-09-18T18:05:04Z,2021-01-21T18:20:45Z,2021-01-21T18:20:45Z,1,,3000.261388888889,2,517,Merged
+⬆️ color@3.1.2,2020-09-19T03:11:00Z,,2020-09-25T13:30:04Z,1,,154.3177777777778,5,31,Closed
+Delete .eslintrc.json uptdate,2020-09-19T12:36:20Z,,2020-10-19T11:35:29Z,1,,718.9858333333333,1,638,Closed
+Remove electron configuration,2020-09-20T06:53:46Z,2020-10-08T17:14:44Z,2020-10-08T17:14:45Z,6,,442.34944444444443,3,637,Merged
+⬆️ postcss@8.0.8,2020-09-23T03:11:38Z,2020-09-23T17:48:04Z,2020-09-23T17:48:04Z,1,,14.607222222222223,2,33,Merged
+Fix version information,2020-09-23T12:04:09Z,2020-09-23T14:00:07Z,2020-09-23T14:00:08Z,1,,1.9327777777777777,4,647,Merged
+⬆️ tree-sitter@0.17.0,2020-09-24T03:11:51Z,2020-09-24T07:22:09Z,2020-09-24T07:22:09Z,1,,4.171666666666667,2,39,Merged
+Use the built-in Visual Studio instead of windows-build-tools v4,2020-09-24T08:57:55Z,2021-04-29T20:01:57Z,2021-04-29T20:01:57Z,1,,5219.067222222222,5,1593,Merged
+⬆️ babel-core@6.26.3,2020-09-25T03:10:35Z,,2020-09-25T11:21:20Z,1,,8.179166666666667,2,38,Closed
+Fixes issue with re-opening closed PRs,2020-09-25T07:58:10Z,2020-09-25T10:24:52Z,2020-09-25T10:24:52Z,1,,2.445,1,87,Merged
+Appendable scopes in Tree-sitter grammars,2020-09-27T06:40:37Z,,2021-09-27T08:33:37Z,1,,8761.883333333333,5,7053,Closed
+exclude test folders from the packaged app,2020-09-28T00:17:30Z,2020-09-29T08:57:20Z,2020-09-29T08:57:20Z,1,,32.66388888888889,1,589,Merged
+script/bootstrap: Make `apm --version` print the Atom version currently being bootstrapped,2020-09-30T17:00:41Z,2020-10-08T19:31:53Z,2020-10-08T19:31:53Z,7,,194.52,1,4889,Merged
+Parallel copy-assets,2020-10-01T11:41:05Z,,2021-06-03T18:33:18Z,1,,5886.870277777778,16,519,Closed
+"Update Debian dependencies, fixes Ubuntu Groovy",2020-10-01T21:22:07Z,2020-10-05T08:25:53Z,2020-10-05T08:25:54Z,1,,83.06277777777778,1,406,Merged
+script executables should be LF,2020-10-02T00:21:33Z,2021-01-29T18:56:12Z,2021-01-29T18:56:12Z,1,,2874.5775,1,820,Merged
+Merge dependency bumps,2020-10-02T17:17:45Z,2020-10-05T12:19:50Z,2020-10-05T12:19:50Z,1,,67.03472222222223,2,75,Merged
+Fix WSL uname test,2020-10-07T17:43:18Z,2020-10-19T08:11:36Z,2020-10-19T08:11:36Z,2,,278.4716666666667,1,183,Merged
+Create node.js.yml,2020-10-10T12:13:13Z,,2020-10-19T11:07:19Z,1,,214.90166666666667,1,638,Closed
+CI: Get 32-bit Node via the official NodeTool task,2020-10-12T17:58:16Z,2020-10-30T12:26:45Z,2020-10-30T12:26:45Z,16,,426.4747222222222,6,7377,Merged
+Add defaultFontSize setting,2020-10-13T15:07:34Z,2020-10-14T13:01:55Z,2020-10-14T13:01:55Z,7,,21.905833333333334,3,134,Merged
+⬆️ prebuild-install@5.3.6,2020-10-21T03:15:23Z,,2021-01-18T16:46:54Z,2,,2149.525277777778,2,42,Closed
+⬆️ text-buffer@13.18.0,2020-10-21T03:15:26Z,,2021-01-18T16:48:13Z,2,,2149.546388888889,2,41,Closed
+performance: add more CSS containment to text-editor,2020-10-21T21:20:19Z,2021-01-29T17:22:01Z,2021-01-29T17:22:01Z,5,,2396.028333333333,2,3233,Merged
+Fixed atom.confirm and internal use of dialog.showMessageBox,2020-10-25T16:12:31Z,2020-10-29T17:44:04Z,2020-10-29T17:44:05Z,1,,97.52583333333334,5,3412,Merged
+⬆️ sinon@9.2.1,2020-10-29T03:17:24Z,2020-10-29T17:47:56Z,2020-10-29T17:47:56Z,1,,14.508888888888889,2,31,Merged
+Refactor TextEditor updating,2020-10-31T02:47:11Z,2021-01-20T20:37:51Z,2021-01-20T20:37:51Z,1,,1961.8444444444444,1,1543,Merged
+git-diff: Fix subfolder git detection,2020-11-01T20:03:01Z,,2022-01-10T12:57:06Z,10,,10432.90138888889,3,1150,Closed
+Upgrade the GitHub package,2020-11-06T13:28:58Z,2020-11-06T16:16:10Z,2020-11-06T16:16:10Z,1,,2.7866666666666666,2,121,Merged
+check if testRunner is es module,2020-11-06T22:55:56Z,,2020-11-18T07:58:03Z,1,,273.03527777777776,1,3352,Closed
+⬆️ mocha-multi-reporters@1.5.1,2020-11-07T03:15:38Z,,2021-01-18T16:47:38Z,1,,1741.5333333333333,2,47,Closed
+deprecate minimap in favor of minimap-plus,2020-11-10T13:23:20Z,,2020-11-20T15:46:41Z,1,,242.38916666666665,1,472,Closed
+check if testRunner is es module,2020-11-18T15:58:20Z,2020-12-11T08:57:48Z,2020-12-11T08:57:48Z,1,,544.9911111111111,2,2542,Merged
+Update .gitignore,2020-11-22T18:41:26Z,,2021-01-07T21:38:18Z,1,,1106.9477777777777,1,638,Closed
+Upgrade to electron 9.3.5,2020-12-01T17:42:33Z,2021-03-05T04:48:46Z,2021-03-05T04:48:46Z,2,,2243.103611111111,20,13929,Merged
+GitHub 0.36.5 to dev,2020-12-04T21:00:40Z,,2021-01-29T21:02:15Z,1,,1344.026388888889,3,72,Closed
+GitHub 0.36.5 to beta,2020-12-04T21:06:34Z,,2021-01-29T21:02:43Z,2,,1343.9358333333332,2,69,Closed
+⬆️  tree-sitter-rust@0.17.0,2020-12-10T14:08:37Z,2021-01-19T02:10:00Z,2021-01-19T02:10:00Z,1,,948.0230555555555,2,126,Merged
+Bump minidump @aminya/minidump@0.19.0-8,2020-12-10T23:10:22Z,2021-01-27T18:51:07Z,2021-01-27T18:51:07Z,2,,1147.6791666666666,2,614,Merged
+⬆️ Bump ini from 1.3.5 to 1.3.7 in /script/vsts,2020-12-10T23:51:13Z,2021-01-18T16:44:31Z,2021-01-18T16:44:32Z,1,,928.8883333333333,1,3992,Merged
+set app.allowRendererProcessReuse to false + fix package.json + fix remote/shell deprecation,2020-12-16T22:46:52Z,2020-12-17T04:45:28Z,2020-12-17T04:45:28Z,1,,5.976666666666667,9,176,Merged
+Drop libgconf dependency for electron7+,2020-12-17T12:54:24Z,2020-12-20T18:02:19Z,2020-12-20T18:02:19Z,1,,77.13194444444444,2,179,Merged
+"Revert ""set app.allowRendererProcessReuse to false + fix package.json + fix remote/shell deprecation""",2020-12-17T17:17:16Z,,2021-01-12T18:48:37Z,1,,625.5225,4,23,Closed
+Add toBeNear in text-editor-component-spec,2020-12-19T02:57:47Z,2020-12-21T14:41:51Z,2020-12-21T14:41:51Z,1,,59.73444444444444,2,2699,Merged
+Electron todo cleanups,2020-12-21T13:38:22Z,2021-01-18T16:29:35Z,2021-01-18T16:29:35Z,21,,674.8536111111111,4,163,Merged
+🍎 Don't quit upon 'window-all-closed' event on macOS,2021-01-04T07:07:31Z,2021-01-07T19:39:32Z,2021-01-07T19:39:32Z,19,,84.53361111111111,1,5026,Merged
+Fix buggy partial startup on macOS due to flag added by Gatekeeper/XProtect,2021-01-12T21:23:47Z,2021-01-18T16:22:22Z,2021-01-18T16:22:23Z,4,,138.9763888888889,3,7398,Merged
+fixed the catch statement causing an error,2021-01-19T09:39:37Z,,2021-01-20T21:46:20Z,1,,36.11194444444445,1,266,Closed
+CI: Cache the packages/ directory (fixes broken `language-rust-bundled` test),2021-01-21T03:38:25Z,2021-01-21T17:53:15Z,2021-01-21T17:53:16Z,1,,14.247222222222222,2,5516,Merged
+"Update the ""welcome"" package's package-lock.json (eliminates some warnings in CI)",2021-01-22T20:16:15Z,2021-01-25T18:35:40Z,2021-01-25T18:35:40Z,1,,70.3236111111111,1,4761,Merged
+script/test: Add another timeout message to retry for,2021-01-27T21:43:02Z,2021-01-28T18:01:58Z,2021-01-28T18:01:58Z,2,,20.315555555555555,1,4224,Merged
+Move GitHub tests to their own CI job (workaround for failing tests in github 0.36.5+),2021-01-28T02:21:21Z,,2021-01-28T20:38:51Z,6,,18.291666666666668,5,5188,Closed
+"Update the ""open a file"" dialog to use promises (doesn't take callbacks as of Electron 7) (for Electron 9 PR)",2021-02-04T04:11:48Z,,2021-02-10T18:08:45Z,5,,157.94916666666666,1,4146,Closed
+fix: require .node files directly to detect incompatible native modules,2021-02-04T04:39:57Z,2021-03-13T11:51:11Z,2021-03-13T11:51:11Z,4,,895.1872222222222,8,1250,Merged
+added license to line 84 in readme.md,2021-02-07T10:39:03Z,,2021-02-08T16:06:35Z,1,,29.45888888888889,1,1137,Closed
+Update the usage of showSaveDialog to use the Promise. ( Electron 9 upgrade PR ),2021-02-07T13:42:06Z,2021-02-08T16:18:32Z,2021-02-08T16:18:32Z,2,,26.607222222222223,1,3731,Merged
+Electron update related: fix showSaveDialog elector api for deprecated callback,2021-02-07T16:59:54Z,2021-02-08T18:06:04Z,2021-02-08T18:06:04Z,5,,25.102777777777778,1,3731,Merged
+performance: CSS containment for workspace,2021-02-09T03:25:19Z,2021-02-09T06:06:53Z,2021-02-09T06:06:53Z,1,,2.6927777777777777,1,255,Merged
+Update use of session.resolveProxy() with a Promise instead of passing a callback (for Electron 9 PR),2021-02-09T22:38:25Z,,2021-02-10T18:10:03Z,8,,19.52722222222222,1,3904,Closed
+⬆️ tree-sitter-rust@0.17.0 (doing #21790 over again),2021-02-10T22:42:27Z,2021-02-15T03:50:53Z,2021-02-15T03:50:53Z,1,,101.14055555555555,2,337,Merged
+Backport GitHub release to Atom 1.55,2021-02-11T16:50:02Z,2021-02-19T04:47:41Z,2021-02-19T04:47:41Z,1,,179.96083333333334,2,2333,Merged
+Bump version of language-css,2021-02-11T20:39:35Z,,2021-02-19T04:44:04Z,1,,176.07472222222222,2,487,Closed
+Still a draft: Try to fix #21937,2021-02-13T11:13:15Z,,2021-02-14T11:16:01Z,1,,24.04611111111111,1,329,Closed
+Disable Fedora's shebang mangling script when building the .rpm,2021-02-14T22:54:29Z,2021-02-15T03:54:12Z,2021-02-15T03:54:12Z,1,,4.995277777777778,1,6176,Merged
+Fix  git diff subscriptions,2021-02-15T06:33:53Z,2021-03-08T18:12:07Z,2021-03-08T18:12:07Z,51,,515.6372222222222,8,4084,Merged
+Add libxkbfile.so.1 to RPM Requires,2021-02-18T19:14:29Z,2021-02-23T04:00:08Z,2021-02-23T04:00:08Z,2,,104.76083333333334,1,64,Merged
+Update .gitignore,2021-02-21T10:14:50Z,,2021-02-22T15:41:28Z,1,,29.44388888888889,1,638,Closed
+Update .npmignore,2021-02-21T15:05:15Z,,2021-02-22T15:40:57Z,1,,24.595,1,638,Closed
+Update LICENSE.md,2021-02-28T21:51:43Z,2021-03-02T07:24:09Z,2021-03-02T07:24:09Z,2,,33.54055555555556,1,202,Merged
+⬆️ Bump dompurify from 1.0.11 to 2.2.6,2021-03-05T04:49:57Z,,2021-03-21T19:40:13Z,1,,398.8377777777778,1,8040,Closed
+"Don't merge, just a test: Electron to 11.3.0",2021-03-07T14:44:54Z,,2021-07-02T20:01:31Z,1,,2813.2769444444443,1,246,Closed
+Update required dependencies for Debian/Ubuntu,2021-03-08T22:53:31Z,2021-05-21T15:55:25Z,2021-05-21T15:55:25Z,6,,1769.0316666666668,1,241,Merged
+Fix typo in menu-sort-helpers-spec.js,2021-03-14T08:40:08Z,2021-03-26T05:33:44Z,2021-03-26T05:33:44Z,1,,284.8933333333333,1,60,Merged
+Added Github Discussions for discussions,2021-03-15T17:52:40Z,2021-03-25T19:05:58Z,2021-03-25T19:05:58Z,1,,241.22166666666666,1,1512,Merged
+Fix: remove unused parser instance,2021-03-21T04:44:03Z,2021-05-19T19:29:28Z,2021-05-19T19:29:28Z,1,,1430.7569444444443,1,760,Merged
+utils.less: Update comment to reflect final PR wording,2021-03-21T22:37:22Z,2021-03-25T19:03:48Z,2021-03-25T19:03:48Z,1,,92.44055555555556,1,2131,Merged
+Fix RPM dependencies,2021-03-23T13:58:54Z,2021-05-19T05:31:42Z,2021-05-19T05:31:42Z,3,,1359.5466666666666,1,294,Merged
+Fix tree-sitter-language-mode null highlight iterators,2021-03-24T14:03:41Z,2021-04-09T15:09:35Z,2021-04-09T15:09:35Z,8,,385.09833333333336,1,3736,Merged
+Fix tree-sitter-language-mode null highlight iterators (Atom 1.56 backport),2021-03-25T09:24:10Z,2021-03-25T18:53:02Z,2021-03-25T18:53:02Z,2,,9.481111111111112,1,46,Merged
+fix: update language-python for beta,2021-03-29T21:27:47Z,2021-03-30T18:46:25Z,2021-03-30T18:46:25Z,1,,21.310555555555556,2,400,Merged
+New syntax and extra,2021-03-30T02:27:41Z,,2021-03-31T12:03:32Z,17,,33.5975,81,2208,Closed
+Bump y18n from 3.2.1 to 3.2.2 in /script/vsts,2021-03-30T13:32:35Z,,2021-05-17T19:22:01Z,1,,1157.8238888888889,1,2865,Closed
+Convert var to const/let in src files,2021-03-30T15:17:22Z,2021-05-19T04:29:47Z,2021-05-19T04:29:47Z,3,,1189.2069444444444,16,968,Merged
+Bump dompurify from 1.0.11 to 2.2.7,2021-03-30T18:43:34Z,,2021-05-17T19:09:12Z,1,,1152.4272222222223,1,8207,Closed
+New operators,2021-03-31T14:01:42Z,,2021-05-18T14:59:57Z,11,,1152.9708333333333,15,397,Closed
+Fix app icons on Windows,2021-04-03T13:01:06Z,2021-05-18T17:36:24Z,2021-05-18T17:36:24Z,2,,1084.5883333333334,4,815,Merged
+1st part of upgrading registerElement to customElement,2021-04-03T14:24:14Z,,2021-07-24T13:07:48Z,6,,2686.726111111111,8,544,Closed
+Update vm image to windows-2019,2021-04-27T19:30:18Z,,2021-05-07T11:40:35Z,2,,232.17138888888888,7,31,Closed
+Fix typo in text-editor-spec.js,2021-04-28T17:33:18Z,2021-05-18T16:02:32Z,2021-05-18T16:02:32Z,2,,478.4872222222222,1,65,Merged
+Replaced OS X Yosemite-era icon with macOS Big Sur icon for Atom for Macs,2021-04-30T00:43:41Z,2021-05-12T19:09:34Z,2021-05-12T19:09:34Z,3,,306.4313888888889,4,1671,Merged
+Update stylelint.config.js,2021-05-02T04:49:12Z,,2021-05-04T17:36:38Z,1,,60.79055555555556,1,638,Closed
+Bump underscore from 1.9.1 to 1.13.1,2021-05-06T19:00:04Z,,2021-05-17T19:13:14Z,1,,264.21944444444443,1,4935,Closed
+Bump lodash from 4.17.20 to 4.17.21 in /packages/about,2021-05-07T16:13:23Z,2021-05-10T11:31:45Z,2021-05-10T11:31:45Z,1,,67.30611111111111,1,3288,Merged
+Ubuntu 18.04 upgrade for CI,2021-05-13T11:29:55Z,,2021-05-15T17:53:57Z,1,,54.400555555555556,1,133,Closed
+Replaced the old Atom document icon with the Big Sur icon,2021-05-13T21:17:38Z,2021-05-19T06:16:42Z,2021-05-19T06:16:42Z,3,,128.98444444444445,1,1791,Merged
+Get rpm from bionic,2021-05-15T17:52:59Z,2021-05-17T12:27:18Z,2021-05-17T12:27:18Z,13,,42.57194444444445,1,358,Merged
+Update readme install libraries instructions,2021-05-18T20:40:25Z,2021-05-21T20:32:52Z,2021-05-21T20:32:52Z,4,,71.87416666666667,1,142,Merged
+script: Let bootstrap install `apm` with `npm ci`,2021-05-19T18:42:59Z,2021-05-20T03:55:46Z,2021-05-20T03:55:46Z,1,,9.213055555555556,1,5817,Merged
+Recreate #15175,2021-06-04T12:06:00Z,2021-06-07T05:05:53Z,2021-06-07T05:05:53Z,3,,64.99805555555555,1,66,Merged
+git-diff: Fix typo in code,2021-06-04T13:38:24Z,2021-06-07T05:05:05Z,2021-06-07T05:05:06Z,2,,63.444722222222225,1,620,Merged
+Fix/not update menu with i18n (#22594),2021-06-14T13:21:07Z,2021-07-08T08:31:06Z,2021-07-08T08:31:06Z,12,,571.1663888888888,7,1948,Merged
+Bump `async` dependency to 3.2.0 in /script,2021-06-25T21:59:14Z,2021-07-02T19:24:37Z,2021-07-02T19:24:37Z,1,,165.42305555555555,5,1229,Merged
+Update build-status.md,2021-06-28T01:43:17Z,2021-09-03T20:31:50Z,2021-09-03T20:31:50Z,2,,1626.8091666666667,1,1992,Merged
+Make sure path is not undefined (#20871),2021-07-02T08:23:38Z,2021-08-31T09:43:20Z,2021-08-31T09:43:20Z,4,,1441.3283333333334,1,757,Merged
+Fixed command to install Atom dependencies on Ubuntu,2021-07-06T09:02:46Z,2021-07-14T05:00:54Z,2021-07-14T05:00:54Z,3,,187.9688888888889,1,564,Merged
+Try removing marked,2021-07-11T18:48:04Z,2021-07-19T16:28:45Z,2021-07-19T16:28:45Z,1,,189.67805555555555,2,70,Merged
+For glibc compatibility use Ubuntu 18.04 as environment,2021-07-16T21:11:21Z,2021-07-19T15:45:56Z,2021-07-19T15:45:56Z,1,,66.57638888888889,2,128,Merged
+Use custom elements on TestPanelContainerItemElement,2021-07-27T16:35:59Z,2021-07-28T15:18:13Z,2021-07-28T15:18:13Z,1,,22.70388888888889,1,52,Merged
+Updates tree-view package to v0.229.0,2021-08-01T21:22:24Z,2021-08-03T19:10:47Z,2021-08-03T19:10:47Z,1,,45.80638888888889,2,472,Merged
+Upgrade to electron 11.4.12 for security fixes,2021-08-05T10:44:56Z,2021-08-31T06:14:44Z,2021-08-31T06:14:44Z,3,,619.4966666666667,1,77,Merged
+Update atom.sh,2021-08-07T06:12:25Z,,2021-08-10T08:37:00Z,1,,74.40972222222223,1,47,Closed
+[atom.sh] Remove REDIRECT_STDERR -h/-v flags,2021-08-12T11:43:07Z,,2021-09-20T15:57:23Z,1,,940.2377777777778,1,1579,Closed
+Add prevent option to ::onWillDestroyPaneItem,2021-09-06T07:20:11Z,2021-09-07T07:48:33Z,2021-09-07T07:48:33Z,1,,24.47277777777778,3,4453,Merged
+Remove deprecated code strings,2021-09-07T19:41:37Z,2021-09-20T15:52:48Z,2021-09-20T15:52:48Z,3,,308.18638888888887,4,174,Merged
+Remove duplicate `to`,2021-09-18T18:27:50Z,2021-09-20T15:49:06Z,2021-09-20T15:49:06Z,1,,45.35444444444445,1,733,Merged
+Remove `if (reason === crashed)`,2021-10-27T01:44:27Z,2021-11-18T19:26:11Z,2021-11-18T19:26:11Z,1,,545.6955555555555,1,393,Merged
+Bump path-parse from 1.0.6 to 1.0.7 in /packages/dalek,2021-11-22T17:22:31Z,2021-11-25T11:05:52Z,2021-11-25T11:05:52Z,1,,65.7225,1,2702,Merged
+Fix `git-diff` nested repositories REDUX,2022-01-03T00:56:47Z,2022-01-10T12:54:30Z,2022-01-10T12:54:31Z,1,,179.96194444444444,2,1014,Merged
+fix/deps: min versions of electron-chromedriver...,2022-02-07T14:39:35Z,2022-02-07T17:45:31Z,2022-02-07T17:45:31Z,1,,3.098888888888889,3,889,Merged
+decaffenate compile-cache-spec.coffee,2022-02-16T16:38:37Z,,2022-06-16T00:35:49Z,1,,2863.9533333333334,2,259,Closed
+Bump async from 3.2.0 to 3.2.2,2022-04-13T10:23:39Z,,2022-09-13T17:45:00Z,1,,3679.3558333333335,2,5860,Closed
+Update for bundle packages - Doc Fix,2022-04-30T08:28:52Z,,2022-09-13T17:44:45Z,1,,3273.264722222222,1,837,Closed

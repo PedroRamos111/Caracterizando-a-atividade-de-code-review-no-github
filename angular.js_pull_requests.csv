@@ -1,0 +1,493 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+feat(shutdown): Add the ability for an app to shutdown,2014-06-27T10:22:46Z,,2018-06-20T20:00:38Z,4,,34905.63111111111,11,351,Closed
+sec(http): JSONP should require trusted resource URLs,2015-04-16T21:06:46Z,,2016-09-15T20:32:10Z,2,,12431.423333333334,4,458,Closed
+Add hasBody to ngResource action configuration,2015-06-21T09:50:33Z,,2017-03-21T10:46:26Z,18,,15336.931388888888,2,764,Closed
+feat(angular.info): optionally store and access additional info on mo…,2015-07-29T22:19:27Z,,2016-10-07T13:03:55Z,1,,10454.74111111111,7,387,Closed
+Add request and requestError interception in ngResource,2015-11-07T00:07:56Z,,2017-02-06T19:39:42Z,1,,10987.529444444444,2,559,Closed
+feat($q): report promises with non rejection callback,2016-01-02T15:41:07Z,,2016-03-27T13:08:34Z,4,,2037.4575,13,314,Closed
+feat(ngAsDirective): new as directive to publish component controllers into current scope ,2016-02-18T17:57:16Z,,2018-06-01T09:03:38Z,33,,20007.106111111112,4,6338,Closed
+fix(ngRoute): make route.resolve count as a pending request,2016-03-02T00:26:00Z,,2017-01-11T22:15:40Z,15,,7581.827777777778,6,1521,Closed
+"feat($sce): handle URLs through the $sce service, plus allow concatenation in that $sce contexts.",2016-03-16T14:04:10Z,,2017-12-19T15:06:39Z,8,,15433.041388888889,12,3909,Closed
+chore(travis): test on IE Edge,2016-04-09T12:28:01Z,2017-04-19T11:05:26Z,2017-04-19T11:05:26Z,3,,8998.62361111111,5,14,Merged
+perf(ngClass): refactor to optimize the case of static map of classes with large objects,2016-04-09T22:06:39Z,,2016-12-09T10:00:36Z,12,,5843.899166666667,2,1449,Closed
+"fix(input): listen on ""change"" for radio and checkbox",2016-05-27T09:33:18Z,2017-10-13T13:39:53Z,2017-10-13T13:39:54Z,1,,12100.109722222222,6,2805,Merged
+feat(ngAria): add support for ignoring a specific element,2016-06-27T21:59:03Z,,2018-06-08T08:14:15Z,1,,17050.253333333334,2,1076,Closed
+feat($http): support sending XSRF token to whitelisted origins,2016-07-10T08:19:36Z,,2018-04-04T18:08:10Z,8,,15201.809444444445,6,977,Closed
+fix($resource): allow params in `hostname` (except for IPv6 addresses),2016-07-13T12:37:43Z,,2016-12-03T08:01:14Z,2,,3427.3919444444446,2,1078,Closed
+fix($animate): improve detection and handling of invalid `classNameFilter` RegExp,2016-07-15T11:03:21Z,,2017-02-17T09:29:30Z,1,,5206.435833333333,3,1405,Closed
+feat($animate): add support for `customFilter`,2016-07-15T11:16:29Z,,2017-04-28T09:52:37Z,12,,6886.602222222222,4,1095,Closed
+fix($parse): treat falsy values as defined in assignment expressions,2016-08-06T00:05:19Z,,2016-10-12T07:17:58Z,2,,1615.2108333333333,2,171,Closed
+feat($route): add support for the `reloadOnUrl` configuration option,2016-08-07T16:54:38Z,,2018-06-08T08:02:02Z,18,,16071.123333333333,2,1290,Closed
+refactor($q): separate Deferred out of Promise implementation,2016-08-29T05:37:10Z,,2016-10-07T09:14:33Z,1,,939.6230555555555,1,390,Closed
+feat(currencyFilter): trim whitespace around an empty currency symbol,2016-09-07T21:21:01Z,,2017-12-19T09:33:17Z,1,,11220.204444444444,2,1182,Closed
+refactor(compileSpec): make tests consistent,2016-09-15T11:07:16Z,2016-10-14T09:39:21Z,2016-10-14T09:39:21Z,6,,694.5347222222222,1,330,Merged
+feat(http): JSONP requests now require trusted resource URLs,2016-09-15T20:31:41Z,,2016-09-20T09:05:54Z,14,,108.57027777777778,6,1934,Closed
+fix($sce): Consider document base URL for 'self' URL policy.,2016-09-15T22:38:18Z,,2017-01-10T12:50:45Z,11,,2798.2075,9,677,Closed
+Updated README.md - Add additional introductory paragraph,2016-09-16T18:32:09Z,,2016-10-08T18:42:54Z,2,,528.1791666666667,1,622,Closed
+feat($httpBackend): JSONP requests now require trusted resource ,2016-09-20T09:04:59Z,,2016-10-05T13:42:40Z,36,,364.62805555555553,6,378,Closed
+docs(guide/Filters): Fix incorrect wording,2016-09-21T21:53:35Z,,2016-09-25T13:19:52Z,7,,87.43805555555555,1,955,Closed
+Align jqLite's attr method with jQuery,2016-09-23T11:50:18Z,2016-10-06T10:48:48Z,2016-10-06T10:48:48Z,24,,310.975,2,1394,Merged
+Patch 14734 boolean sync validators,2016-10-03T09:03:36Z,,2016-10-05T19:43:16Z,4,,58.66111111111111,2,1198,Closed
+fix($q): treat thrown errors as regular rejections,2016-10-04T08:17:36Z,,2016-10-05T11:49:56Z,10,,27.538888888888888,9,3053,Closed
+Module info,2016-10-07T13:03:29Z,,2017-03-02T08:23:16Z,27,,3499.3297222222222,18,1059,Closed
+ngClass[Odd/Even] overhaul,2016-10-08T07:37:19Z,,2016-10-11T18:40:56Z,11,,83.06027777777778,2,1780,Closed
+feat(input): add opt-in support for `input[range]`,2016-10-08T09:06:16Z,,2016-10-10T17:30:49Z,6,,56.409166666666664,5,794,Closed
+docs($controller): deprecate the use of $controllerProvider#allowGlobals,2016-10-08T19:25:42Z,,2016-10-20T06:50:44Z,3,,275.4172222222222,3,245,Closed
+fix($location): prevent infinite digest with IDN urls in Edge,2016-10-09T20:20:04Z,2016-10-17T10:21:29Z,2016-10-17T10:21:29Z,2,,182.0236111111111,2,801,Merged
+feat(jqLite): implement jqLite(f) as alias to jqLite(document).ready(f) (also: deprecate the latter in the second commit),2016-10-09T22:55:59Z,,2016-10-12T17:33:08Z,16,,66.61916666666667,8,771,Closed
+refactor(data): camelCase keys in jqLite#data,2016-10-10T00:01:13Z,,2016-10-13T06:47:45Z,6,,78.77555555555556,6,1050,Closed
+chore(benchpress): add a ngClass benchmark,2016-10-10T16:59:33Z,,2016-12-09T10:21:29Z,4,,1433.3655555555556,3,4001,Closed
+fix($resource): Delete $cancelRequest from toJSON(),2016-10-11T03:57:26Z,,2016-12-29T08:02:07Z,7,,1900.0780555555555,2,758,Closed
+ngClass[Odd/Even] overhaul (2),2016-10-11T17:14:14Z,,2016-12-09T10:00:36Z,2,,1408.7727777777777,2,889,Closed
+refactor(*): separate jqLite/compile/sce camelCasing logic,2016-10-12T12:26:21Z,,2016-10-13T06:54:49Z,11,,18.474444444444444,6,1825,Closed
+docs($rootScope.Scope): grammar,2016-10-13T12:23:33Z,,2016-10-14T22:18:11Z,3,,33.910555555555554,1,0,Closed
+fix(input): fix `step` validation for `input[number]`/`input[range]`,2016-10-13T17:58:58Z,,2016-10-19T11:55:52Z,10,,137.94833333333332,2,1475,Closed
+fix(docsApp): show correct version number in api index,2016-10-14T10:21:40Z,2016-11-02T12:22:39Z,2016-11-02T12:22:39Z,4,,458.0163888888889,1,992,Merged
+fix($parse): allow watching object/array literals,2016-10-16T10:54:24Z,,2017-01-27T08:59:40Z,6,,2470.087777777778,3,1145,Closed
+chore(docs-app): allow switching to newer versions,2016-10-17T14:35:58Z,,2016-10-19T13:02:50Z,4,,46.44777777777778,3,1212,Closed
+fix($compile): Cleanup attribute-binding observers,2016-10-19T16:36:58Z,,2016-10-20T16:26:49Z,2,,23.830833333333334,2,726,Closed
+"fix+perf($parse): allow watching array/object literal values, disable deep watch for one-way bindings",2016-10-20T09:18:37Z,,2017-01-27T10:07:08Z,5,,2376.808611111111,4,1741,Closed
+docs(orderBy): Clarify behavior of default comparator,2016-10-20T17:57:20Z,,2016-10-25T21:05:09Z,4,,123.13027777777778,2,248,Closed
+docs($rootScope.Scope): correct a typing error,2016-10-21T01:35:31Z,,2016-10-21T06:50:32Z,1,,5.250277777777778,1,703,Closed
+Changes test,2016-10-24T20:41:52Z,2016-10-26T16:53:43Z,2016-10-26T16:53:43Z,21,,44.1975,4,622,Merged
+style: Spelling fixes,2016-10-27T23:41:08Z,2016-10-29T15:40:21Z,2016-10-29T15:40:21Z,10,,39.98694444444445,36,228,Merged
+docs(CONTRIBUTING.md): add note about scope wildcard,2016-10-28T13:16:10Z,2016-11-01T10:32:04Z,2016-11-01T10:32:04Z,1,,93.265,1,636,Merged
+docs(guide/Conceptual Overview): fix external api example,2016-10-29T16:58:22Z,2016-10-31T09:29:28Z,2016-10-31T09:29:28Z,2,,40.51833333333333,1,372,Merged
+docs(CONTRIBUTING.md): Updated commit types.,2016-10-31T20:35:24Z,2016-11-17T21:17:42Z,2016-11-17T21:17:42Z,2,,408.705,1,1081,Merged
+perf(ngOptions): avoid calls to element.value,2016-11-01T03:57:51Z,,2016-11-01T10:42:54Z,2,,6.7508333333333335,1,1577,Closed
+perf(*): don't trigger digests after enter/leave of structural directives,2016-11-01T12:58:13Z,2016-11-23T12:30:41Z,2016-11-23T12:30:41Z,21,,527.5411111111111,8,661,Merged
+fix(security): do not auto-bootstrap when loaded from an extension.,2016-11-01T18:15:21Z,,2016-11-02T13:33:45Z,13,,19.30666666666667,3,682,Closed
+chore(docs-gen): create plnkr examples with the correct version,2016-11-03T13:48:28Z,2016-11-05T12:18:49Z,2016-11-05T12:18:49Z,4,,46.505833333333335,1,531,Merged
+fix($location): don't remove multiple slashes from urls,2016-11-03T14:15:45Z,,2016-11-04T13:53:20Z,9,,23.62638888888889,2,656,Closed
+Location path 2,2016-11-04T14:57:26Z,2016-11-09T10:45:04Z,2016-11-09T10:45:04Z,7,,115.79388888888889,3,888,Merged
+docs(guide/Controllers): remove the word 'hides',2016-11-08T03:06:51Z,,2016-11-14T10:11:45Z,2,,151.08166666666668,1,920,Closed
+chore(docs): improve version picker,2016-11-10T21:58:00Z,2016-11-15T12:13:16Z,2016-11-15T12:13:16Z,11,,110.25444444444445,17,1020,Merged
+Ng model options extend,2016-11-14T19:15:18Z,,2016-11-16T13:47:10Z,24,,42.53111111111111,6,860,Closed
+docs($compile): add double compilation known issue,2016-11-15T09:03:38Z,2016-11-23T12:52:48Z,2016-11-23T12:52:48Z,11,,195.81944444444446,2,0,Merged
+chore(docs): deprecation notices for methods and properties,2016-11-15T16:15:15Z,,2016-11-18T13:52:38Z,8,,69.62305555555555,51,669,Closed
+"WIP - docs(guide/migration): add ""Migrate 1.5 to 1.6"" section",2016-11-16T16:21:28Z,,2016-11-19T08:48:41Z,11,,64.45361111111112,2,802,Closed
+Ng model options fix,2016-11-16T22:37:48Z,,2016-11-17T23:39:25Z,3,,25.026944444444446,3,654,Closed
+chore(ngAnimate): cleanup vendor prefixes handling in tests,2016-11-17T11:55:19Z,,2016-11-23T13:30:56Z,1,,145.5936111111111,1,1036,Closed
+chore(*): cleanup msie handling; add support comments,2016-11-17T13:54:17Z,,2016-11-23T14:42:40Z,11,,144.80638888888888,17,811,Closed
+feat(ngModel): add `$overrideModelOptions` support,2016-11-21T10:56:35Z,2017-02-01T12:21:09Z,2017-02-01T12:20:42Z,3,,1729.4094444444445,0,782,Merged
+fix(select): let ngValue take precedence over option text with multip…,2016-11-22T22:32:39Z,2016-11-23T12:27:41Z,2016-11-23T12:27:41Z,1,,13.917222222222222,2,666,Merged
+feat(security): do not bootstrap from unknown schemes with a different origin,2016-11-24T00:52:56Z,,2016-12-01T11:30:50Z,10,,178.63166666666666,2,150,Closed
+feat(minErr):  set max depth for angular error JSON stringify,2016-11-24T21:29:29Z,,2017-02-08T17:08:30Z,24,,1819.6502777777778,9,726,Closed
+chore(*): use Yarn for dependency management,2016-11-25T15:53:26Z,2016-11-29T14:31:13Z,2016-11-29T14:31:13Z,44,,94.62972222222223,69,654,Merged
+chore(docs): use correct script-URL for plnkr on snapshot,2016-11-26T21:22:34Z,,2016-11-28T10:16:28Z,5,,36.89833333333333,1,891,Closed
+chore(*): silence ng-closure-runner warnings during `grunt minall`,2016-11-26T22:42:31Z,,2018-05-23T19:12:19Z,1,,13028.496666666666,10,873,Closed
+docs($rootScope): add note about watching File objects,2016-11-27T07:36:31Z,,2016-11-28T17:51:40Z,2,,34.2525,1,104,Closed
+Remove angular.uppercase/lowercase,2016-11-28T20:55:50Z,2017-03-08T13:33:35Z,2017-03-08T13:33:35Z,3,,2392.6291666666666,8,662,Merged
+chore(doc-gen): render @example tag for ngdoc @method,2016-11-29T22:48:34Z,2016-12-01T15:11:25Z,2016-12-01T15:11:25Z,2,,40.380833333333335,2,488,Merged
+docs(error/areq): describe your change...,2016-11-30T11:23:49Z,,2016-12-01T11:41:42Z,2,,24.298055555555557,1,891,Closed
+fix(ngOptions): ignore comment nodes when removing 'selected' attribute,2016-11-30T21:14:47Z,2016-12-02T17:20:44Z,2016-12-02T17:20:44Z,1,,44.09916666666667,2,910,Merged
+test($compile): work around Chrome issue with reported size for `<foreignObject>`,2016-12-01T10:37:41Z,,2016-12-01T12:30:51Z,2,,1.886111111111111,1,1187,Closed
+fix(ngOptions): ignore comment nodes when removing 'selected' attribute,2016-12-01T11:07:26Z,2016-12-02T17:48:49Z,2016-12-02T17:48:49Z,4,,30.689722222222223,3,800,Merged
+chore(docs): don't use bower for docs dependencies,2016-12-01T13:28:25Z,2017-01-30T14:10:46Z,2017-01-30T14:10:46Z,2,,1440.7058333333334,10,721,Merged
+feat($compile): support expansion of special `ngBindon` attributes,2016-12-02T18:21:59Z,,2020-06-04T13:35:54Z,1,,30715.231944444444,3,1128,Closed
+fix(select): do not break when removing the element (e.g. via `ngIf`),2016-12-03T21:00:34Z,,2016-12-06T10:48:05Z,3,,61.79194444444445,2,1048,Closed
+Clarify where ngDisabled should be used,2016-12-07T13:19:41Z,,2017-01-25T19:15:48Z,4,,1181.9352777777779,1,811,Closed
+fix(jqLite): silently ignore `after()` if element has no parent,2016-12-08T09:20:40Z,,2016-12-08T16:13:39Z,6,,6.883055555555556,2,984,Closed
+fix(ngOptions): do not unset the `selected` property unless necessary,2016-12-08T17:33:48Z,,2016-12-19T20:50:47Z,2,,267.28305555555556,2,1339,Closed
+refactor(*): replace `HashMap` with `NgMap`,2016-12-09T13:28:21Z,,2017-01-25T21:57:16Z,10,,1136.4819444444445,16,984,Closed
+docs(ngMessageExp): Better description,2016-12-09T20:31:01Z,,2016-12-11T19:02:47Z,1,,46.529444444444444,1,785,Closed
+fix(ngModelOptions): work correctly when on the template of `replace` directives,2016-12-11T20:30:20Z,,2016-12-12T22:10:51Z,3,,25.67527777777778,3,2085,Closed
+fix($rootScope): correctly propagate async changes after local `$digest()`,2016-12-12T21:46:20Z,,2016-12-13T09:57:27Z,2,,12.185277777777777,2,1237,Closed
+docs($interval): improve fn description,2016-12-13T11:01:08Z,,2016-12-13T12:16:40Z,3,,1.258888888888889,1,620,Closed
+fix(ngAnimate): correctly animate transcluded clones with `templateUrl`,2016-12-16T09:03:26Z,,2017-01-24T21:55:59Z,16,,948.8758333333334,6,1725,Closed
+docs(guide/Migrating from Previous Versions): improve grammar in jque…,2016-12-18T13:24:55Z,,2016-12-19T15:16:28Z,1,,25.859166666666667,1,705,Closed
+"Add traceback to unhandled promise rejections, Fixes: #14631",2016-12-19T23:04:57Z,,2016-12-21T19:13:17Z,21,,44.138888888888886,2,795,Closed
+fix($$cookieReader): safe get cookie,2016-12-20T14:08:48Z,,2016-12-20T21:33:30Z,1,,7.411666666666667,2,804,Closed
+feat(isArray): make angular.isArray support Array subclasses,2016-12-22T16:32:30Z,,2018-02-01T21:22:21Z,6,,9748.830833333333,2,1163,Closed
+docs(guide/Forms): update an old example to remove gender bias,2016-12-23T01:35:27Z,,2016-12-23T09:44:34Z,1,,8.151944444444444,1,73,Closed
+fix($compile): support transcluding multi-element directives,2016-12-29T18:28:34Z,2018-05-26T14:11:09Z,2018-05-26T14:11:10Z,2,,12307.709722222222,2,1039,Merged
+fix($location): correctly handle external URL change during `$digest`,2016-12-30T15:29:51Z,,2017-01-09T22:02:59Z,1,,246.5522222222222,4,3033,Closed
+fix(angularInit): allow auto-bootstraping from inline script,2017-01-03T15:04:07Z,,2017-01-03T17:24:09Z,2,,2.3338888888888887,2,1082,Closed
+refactor($interpolate): remove unnecessary else,2017-01-04T14:50:05Z,2017-01-05T12:57:57Z,2017-01-05T12:57:57Z,2,,22.13111111111111,1,670,Merged
+WIP - feat($route): wait for resolves,2017-01-09T14:07:55Z,,2017-01-10T09:50:30Z,1,,19.709722222222222,6,36,Closed
+docs($log): describe your change...,2017-01-10T15:10:47Z,2017-06-30T09:58:31Z,2017-06-30T09:58:31Z,4,,4098.795555555555,1,866,Merged
+"fix($compile): allow the usage of ""$"" in isolated scope property alias",2017-01-11T00:08:14Z,,2017-01-11T09:45:48Z,4,,9.626111111111111,2,1056,Closed
+fix($compile) : Add base#href to the list of RESOURCE_URL context attrs,2017-01-11T14:24:05Z,,2017-01-18T10:44:26Z,2,,164.33916666666667,3,743,Closed
+fix(ngMockE2E): ensure that mocked $httpBackend uses correct $browser,2017-01-12T09:47:41Z,2017-01-12T11:00:02Z,2017-01-12T11:00:02Z,5,,1.2058333333333333,2,1079,Merged
+fix(ngValue): setting binding to undefined should update the DOM value to an empty string,2017-01-12T22:32:33Z,,2017-01-18T17:07:48Z,13,,138.5875,2,974,Closed
+"$http: allow differentiation between Request Error, Abort and Timeout",2017-01-19T13:43:51Z,,2017-04-20T10:15:22Z,1,,2180.525277777778,3,909,Closed
+fix (ngResource) dynamic params escaping fix,2017-01-19T16:56:23Z,,2017-01-27T16:18:56Z,3,,191.37583333333333,2,1074,Closed
+fix(ngResource): do not eat exceptions in success callback,2017-01-19T20:19:40Z,,2017-02-04T19:01:29Z,4,,382.69694444444445,2,1270,Closed
+fix(select): keep ngModel when selected option is recreated with ngRe…,2017-01-20T17:10:13Z,2017-01-26T12:29:12Z,2017-01-26T12:29:12Z,2,,139.3163888888889,2,23,Merged
+fix($snifferProvider): allow history for nwjs applications,2017-01-20T22:06:36Z,,2017-01-26T22:16:15Z,5,,144.16083333333333,2,873,Closed
+component architecture results in many isolate scopes,2017-01-23T11:08:29Z,,2017-02-06T16:30:57Z,1,,341.37444444444446,1,671,Closed
+fix($parse): Make sure ES6 object computed property to be watched,2017-01-24T07:58:30Z,,2017-02-04T14:12:27Z,4,,270.2325,2,824,Closed
+docs(*): ensure naming is correct for Angular(JS) versions,2017-01-24T15:16:09Z,,2017-01-25T09:23:19Z,7,,18.119444444444444,176,654,Closed
+docs(ngClass): Add docs for ngClassOdd and ngClassEven regarding anim…,2017-01-30T21:59:39Z,,2018-02-06T20:00:01Z,1,,8926.006111111112,2,963,Closed
+fix(filter): Don't throw `key.charAt is not a function` when object's keys are not of type `string`.,2017-02-01T07:22:43Z,,2017-02-08T21:18:08Z,3,,181.92361111111111,1,900,Closed
+docs(guide/Components): should reference Angular 2,2017-02-02T07:58:43Z,,2017-02-02T09:46:47Z,2,,1.801111111111111,1,97,Closed
+docs app style updates,2017-02-02T12:03:53Z,2017-02-15T14:53:52Z,2017-02-15T14:53:53Z,2,,314.8330555555556,9,2059,Merged
+Add casts to avoid some 'non-existent property' warnings from Closure…,2017-02-02T17:32:28Z,,2017-02-02T20:39:03Z,1,,3.109722222222222,3,669,Closed
+feat($resource): add support for `request` and `requestError` interceptors,2017-02-03T13:56:05Z,2017-12-18T12:48:15Z,2017-12-18T12:48:16Z,15,,7630.8694444444445,2,33,Merged
+fix(select): keep original selection when using shift to add options …,2017-02-03T16:32:12Z,2017-02-08T16:44:48Z,2017-02-08T16:44:49Z,7,,120.21,2,1328,Merged
+"refactor($rootScope): asyncQueue is pre-$parsed, no need to call $eval",2017-02-06T11:41:29Z,,2017-02-09T21:40:14Z,6,,81.97916666666667,2,160,Closed
+fix($window): allow $window to be mocked in unit tests,2017-02-07T17:51:17Z,,2017-02-08T16:10:42Z,4,,22.323611111111113,2,719,Closed
+test($http): ensure json deserialization errors are forwarded to erro…,2017-02-08T14:45:51Z,2017-02-08T16:41:24Z,2017-02-08T16:41:24Z,1,,1.9258333333333333,1,726,Merged
+fix(angular.copy): copy own non-enumerable properties,2017-02-08T21:08:53Z,,2017-07-04T12:59:05Z,2,,3495.8366666666666,2,331,Closed
+fix(angular.copy) support for Map and Set,2017-02-09T18:27:33Z,,2019-01-21T14:50:52Z,4,,17060.38861111111,2,911,Closed
+fix($sanitize): prevent clobbered elements from freezing the browser,2017-02-10T12:14:35Z,2017-02-24T17:42:44Z,2017-02-24T17:42:44Z,13,,341.4691666666667,3,728,Merged
+feat(errorHandlingConfig): make the length of URL refrence in error m…,2017-02-13T23:09:49Z,,2018-06-06T13:03:12Z,8,,11461.889722222222,6,1573,Closed
+fix($http): JSON parse failure,2017-02-19T10:32:58Z,,2017-03-14T12:50:02Z,10,,554.2844444444445,3,686,Closed
+doc($sce): Overhaul the $sce service's documentation.,2017-02-21T14:20:56Z,,2017-03-21T15:36:45Z,25,,673.2636111111111,1,511,Closed
+feat($compile): Lower the security context of SVG's a and image xlink:href,2017-02-21T16:39:31Z,,2017-03-04T22:58:14Z,6,,270.31194444444446,2,1544,Closed
+docs(ngAnimate): Improve Staggering config for animations,2017-02-23T09:59:54Z,,2017-03-07T19:21:23Z,1,,297.35805555555555,1,875,Closed
+Autobootstrap fixes,2017-02-24T12:33:09Z,,2017-02-24T15:45:09Z,10,,3.2,2,654,Closed
+fix(Angular): do not autobootstrap if the `src` exists but is empty,2017-02-27T11:56:07Z,2017-02-27T20:47:22Z,2017-02-27T20:47:22Z,2,,8.854166666666666,2,802,Merged
+fix(ngTouch): remove ngClick override and $touchProvider.ngClickOverr…,2017-02-28T17:27:19Z,2017-03-14T10:48:55Z,2017-03-14T10:48:55Z,8,,329.36,5,1840,Merged
+fix($controller): remove the option to instantiate controllers from c…,2017-02-28T17:40:56Z,2017-03-01T12:27:18Z,2017-03-01T12:27:18Z,3,,18.772777777777776,5,887,Merged
+docs(guide/Migrating from Previous Versions): add info for 1.4 ngPatt…,2017-03-01T09:54:02Z,2017-03-07T19:13:25Z,2017-03-07T19:13:25Z,2,,153.32305555555556,1,85,Merged
+fix($log): don't parse error stacks manually outside of IE/Edge,2017-03-01T14:05:13Z,,2017-03-03T10:39:47Z,6,,44.57611111111111,2,1516,Closed
+test(errorHandlingConfig): add test for errorHandlingConfig() to be i…,2017-03-02T16:11:48Z,,2017-03-04T22:46:50Z,2,,54.583888888888886,2,953,Closed
+Fix: set $submitted on child forms when form is submitted,2017-03-06T12:20:22Z,2017-12-13T18:23:50Z,2017-12-13T18:23:50Z,9,,6774.057777777778,2,1004,Merged
+fix($compile): remove the preAssignBindingsEnabled flag,2017-03-06T21:40:13Z,,2017-03-15T14:39:32Z,1,,208.9886111111111,4,1759,Closed
+Fix newline bug in date-filter,2017-03-09T20:32:06Z,,2017-03-13T18:23:15Z,3,,93.8525,2,1058,Closed
+perf(ngOptions): prevent initial options repaiting,2017-03-14T17:22:03Z,,2017-06-29T08:52:37Z,8,,2559.5094444444444,2,972,Closed
+docs(faq): document the AngularJS/jqLite deprecation strategy,2017-03-15T15:48:47Z,2017-03-22T10:32:29Z,2017-03-22T10:32:29Z,2,,162.72833333333332,1,624,Merged
+chore(github): update the issue template,2017-03-16T22:18:06Z,2017-03-22T16:03:45Z,2017-03-22T16:03:45Z,4,,137.76083333333332,1,407,Merged
+docs(filter): clarify the comparator parameter,2017-03-17T11:56:44Z,,2017-03-23T14:52:41Z,2,,146.9325,1,844,Closed
+docs ($compile): add error documentation for noslot error in $compile,2017-03-17T14:22:04Z,2017-03-22T10:51:56Z,2017-03-22T10:51:56Z,1,,116.49777777777778,1,735,Merged
+Allow NgModelController to be copied,2017-03-21T05:58:05Z,2017-03-28T05:45:48Z,2017-03-28T05:45:48Z,11,,167.79527777777778,2,1319,Merged
+refactor($controller): remove unused injected $window,2017-03-22T05:37:35Z,2017-03-22T10:54:56Z,2017-03-22T10:54:56Z,1,,5.289166666666667,1,67,Merged
+refactor($parse): move duplicate $parse interpreter/compiler logic into common location,2017-03-22T06:01:12Z,2017-03-28T06:29:04Z,2017-03-28T06:29:04Z,1,,144.46444444444444,1,45,Merged
+refactor($parse): make use of local variable instead of refetching property,2017-03-22T06:10:37Z,2017-03-28T05:53:14Z,2017-03-28T05:53:14Z,2,,143.71027777777778,1,178,Merged
+refactor($compile): reuse shared simpleCompare method,2017-03-22T06:33:03Z,2017-03-28T06:25:23Z,2017-03-28T06:25:23Z,2,,143.87222222222223,3,78,Merged
+"test(jQuery): run tests with jQuery 2.1, 2.2 & 3.2",2017-03-22T10:19:27Z,,2017-03-27T09:26:57Z,6,,119.125,4,802,Closed
+Warn for missing / obsolete error docs,2017-03-22T10:49:22Z,2017-03-24T09:44:53Z,2017-03-24T09:44:53Z,2,,46.92527777777778,2,772,Merged
+docs(faq): clarify the versioning strategy,2017-03-22T11:11:30Z,2017-03-24T11:45:28Z,2017-03-24T11:45:28Z,10,,48.56611111111111,1,635,Merged
+fix(jqLite): make jqLite invoke jqLite.cleanData as a method,2017-03-22T11:42:19Z,,2017-03-27T09:57:13Z,4,,118.24833333333333,2,1361,Closed
+"feature($http): allow differentiation between Request Error, Abort and Timeout ",2017-03-22T11:43:34Z,,2017-07-04T12:25:36Z,14,,2496.7005555555556,6,74,Closed
+"chore(yarn): rely on Travis built-in Yarn support, update Yarn in Jenkins",2017-03-22T16:05:09Z,2017-03-22T21:49:52Z,2017-03-22T21:49:52Z,1,,5.745277777777778,3,901,Merged
+fix($rootScope): provide correct value of one-time bindings in watchGroup,2017-03-23T07:11:05Z,2017-03-31T05:22:23Z,2017-03-31T05:22:23Z,7,,190.18833333333333,2,131,Merged
+fix($parse): standardize one-time literal vs non-literal and interceptors,2017-03-24T08:52:46Z,2017-03-31T07:36:20Z,2017-03-31T07:36:20Z,12,,166.72611111111112,3,654,Merged
+fix($parse): fix infinite digest errors when watching objects with .valueOf in literals,2017-03-29T06:50:13Z,2017-03-31T07:17:55Z,2017-03-31T07:17:55Z,1,,48.461666666666666,2,419,Merged
+provide isError and use it in place of instanceof Error,2017-03-30T08:54:57Z,,2017-05-22T11:10:07Z,10,,1274.2527777777777,8,872,Closed
+"fix(angular-loader): do not depend on ""closure"" globals that may not be available",2017-04-02T17:08:59Z,,2017-04-27T19:47:16Z,3,,602.6380555555555,6,852,Closed
+docs(uppercase): Added an example,2017-04-03T19:49:34Z,2017-04-07T15:23:20Z,2017-04-07T15:23:20Z,1,,91.56277777777778,1,876,Merged
+chore(*): remove manualLowercase & manualUppercase functions,2017-04-05T10:10:35Z,2018-04-13T07:43:38Z,2018-04-13T07:43:39Z,3,,8949.550833333333,4,1969,Merged
+docs($http): correct and clarify default transforms,2017-04-10T14:11:23Z,2017-04-12T09:21:10Z,2017-04-12T09:21:11Z,3,,43.16305555555556,2,214,Merged
+"chore(browserstack): Update OS X, make iOS 8-10 available to test",2017-04-12T11:59:38Z,2017-04-12T14:00:58Z,2017-04-12T14:00:58Z,2,,2.022222222222222,2,1070,Merged
+"refactor(*): remove workarounds for IE <9, log all parameters in IE 9",2017-04-12T12:21:37Z,2017-04-25T19:33:13Z,2017-04-25T19:33:13Z,8,,319.1933333333333,21,1234,Merged
+Update(orderBy): Guaranteed stable sort,2017-04-13T07:16:17Z,,2017-05-19T11:42:44Z,7,,868.4408333333333,2,1698,Closed
+"Fixes to select and ngOptions - ""required"" validation and behavior with empty / unknown option",2017-04-18T18:12:54Z,2017-04-21T18:38:58Z,2017-04-21T18:38:58Z,7,,72.43444444444444,5,1557,Merged
+"chore: unit test latest + latest-1 version of FF, Chrome, Edge",2017-04-20T15:34:59Z,2017-10-18T11:52:48Z,2017-10-18T11:52:48Z,1,,4340.296944444444,3,222,Merged
+feat(ngMocks): Describe unflushed http requests,2017-04-20T15:57:19Z,2017-04-21T11:39:37Z,2017-04-21T11:39:37Z,2,,19.705,2,1636,Merged
+chore: completely remove the ng scenario runner,2017-04-21T13:07:34Z,2017-12-14T10:50:37Z,2017-12-14T10:50:37Z,6,,5685.7175,46,899,Merged
+Feat: select api,2017-04-26T10:55:03Z,2017-04-27T19:35:27Z,2017-04-27T19:35:27Z,3,,32.67333333333333,4,717,Merged
+docs(currency): Add sample of currency from scope,2017-04-27T08:50:16Z,,2017-07-05T07:26:33Z,1,,1654.6047222222223,1,958,Closed
+perf(ngStyleDirective): use $watchCollection,2017-04-28T03:50:37Z,2017-07-27T04:25:49Z,2017-07-27T04:25:49Z,2,,2160.5866666666666,2,520,Merged
+test($rootScope): add $watch/$watchCollection tests,2017-04-29T05:39:40Z,2017-05-10T04:54:16Z,2017-05-10T04:54:16Z,9,,263.24333333333334,1,120,Merged
+fix($interval): change $interval ngMock service to handle second argu…,2017-05-02T02:47:18Z,,2017-06-06T10:36:41Z,18,,847.8230555555556,2,1033,Closed
+"Revert ""fix($parse): standardize one-time literal vs non-literal and interceptors""",2017-05-03T03:23:21Z,2017-06-20T02:20:44Z,2017-06-20T02:20:44Z,1,,1150.9563888888888,3,127,Merged
+docs(guide/Templates): describe your change...,2017-05-03T19:30:15Z,,2017-05-04T11:21:18Z,2,,15.850833333333334,1,694,Closed
+chore(*): update all Karma-related packages except Karma,2017-05-05T08:45:23Z,2017-05-06T15:50:42Z,2017-05-06T15:50:42Z,1,,31.08861111111111,2,959,Merged
+test(*): run class-related tests everywhere; fix eval syntax,2017-05-06T20:16:45Z,2017-05-09T13:08:36Z,2017-05-09T13:08:36Z,1,,64.86416666666666,5,1167,Merged
+fix(httpParamSerializerJQLike): Follow jQuery for `null` and `undefined`,2017-05-07T16:12:34Z,,2017-05-07T18:25:18Z,1,,2.212222222222222,2,1038,Closed
+docs(form): improve the docs for `FormController.$setValidity()`,2017-05-11T14:29:18Z,,2017-05-12T15:13:18Z,1,,24.733333333333334,4,727,Closed
+fix($parse): always re-evaluate filters within literals when an input is an object,2017-05-15T18:47:36Z,2017-05-25T04:42:22Z,2017-05-25T04:42:22Z,23,,225.9127777777778,3,394,Merged
+test($log): run all $log tests in IE9 & non-IE9 logging mode,2017-05-19T09:30:37Z,2017-05-24T08:14:29Z,2017-05-24T08:14:29Z,1,,118.7311111111111,1,1313,Merged
+chore(i18n): fix and update CLDR to v30.0.1,2017-05-19T17:39:57Z,,2017-06-06T10:13:27Z,7,,424.55833333333334,444,808,Closed
+"docs($rootScope.Scope): clarify $watchGroup ""oldValues"" argument",2017-05-22T14:50:14Z,2017-06-29T16:18:33Z,2017-06-29T16:18:33Z,2,,913.4719444444445,1,783,Merged
+test(support): verify support tests results in all tested browsers,2017-05-24T13:04:07Z,2017-05-25T14:14:32Z,2017-05-25T14:14:32Z,6,,25.17361111111111,4,821,Merged
+perf($rootScope): do not mark $watchCollectionInterceptor as $stateful,2017-05-25T07:07:26Z,2017-09-18T19:50:34Z,2017-09-18T19:50:34Z,5,,2796.718888888889,2,666,Merged
+fix($sanitize): use appropriate inert document strategy for Firefox and Safari,2017-05-25T10:08:34Z,2017-06-05T20:02:04Z,2017-06-05T20:02:04Z,8,,273.89166666666665,2,284,Merged
+fix($parse): respect the interceptor.$stateful flag,2017-05-26T06:49:09Z,2017-07-17T05:01:41Z,2017-07-17T05:01:41Z,22,,1246.2088888888889,5,141,Merged
+fix($parse): do not shallow-watch inputs when wrapped in an interceptor fn,2017-05-27T07:40:42Z,2017-06-13T04:30:37Z,2017-06-13T04:30:38Z,8,,404.83194444444445,3,1382,Merged
+docs($compile): add more info about optional bindings,2017-05-31T18:52:08Z,2017-06-05T18:23:12Z,2017-06-05T18:23:13Z,7,,119.51777777777778,2,816,Merged
+fix: bootstrap check with alternate anchor properties,2017-06-03T04:23:25Z,,2017-06-05T18:25:56Z,2,,62.04194444444445,2,914,Closed
+chore(jenkins): do not publish to code.angularjs.org snapshot,2017-06-05T20:17:16Z,2017-06-06T11:26:06Z,2017-06-06T11:26:06Z,1,,15.147222222222222,1,91,Merged
+fix(Angular): deprecate angular.merge,2017-06-06T08:58:50Z,2017-06-12T13:59:20Z,2017-06-12T13:59:21Z,4,,149.00833333333333,1,1129,Merged
+fix($resource): Check if timeoutDeferred is null inside $cancelRequest,2017-06-06T18:23:45Z,,2017-07-27T07:41:01Z,8,,1213.2877777777778,2,670,Closed
+test(ngMock): fix Firefox crashes on Travis,2017-06-07T21:43:11Z,,2017-06-12T11:46:29Z,1,,110.055,1,298,Closed
+Fix broken link - point to list of Pluralsight courses on AngularJS,2017-06-08T18:23:16Z,,2017-06-12T12:04:44Z,2,,89.69111111111111,1,342,Closed
+test($parse): add one-time/interceptor tests,2017-06-09T05:43:29Z,2017-06-13T05:07:01Z,2017-06-13T05:07:01Z,3,,95.39222222222222,1,1299,Merged
+Improve readability of logging on Travis,2017-06-10T21:39:33Z,2017-06-13T09:40:10Z,2017-06-13T09:40:10Z,3,,60.01027777777778,6,356,Merged
+docs(tutorial/4 - Directory and File Organization): describe your cha…,2017-06-15T14:39:17Z,,2017-06-16T10:20:02Z,1,,19.679166666666667,1,701,Closed
+fix(copy): support copying MediaStream object,2017-06-17T03:27:01Z,,2019-01-21T14:41:25Z,1,,14003.24,2,1067,Closed
+"benchmarks - remove no longer applicable, add $watchCollection",2017-06-20T06:08:28Z,2017-06-28T04:42:29Z,2017-06-28T04:42:29Z,1,,190.56694444444443,2,238,Merged
+fix($timeout/$interval): do not trigger a digest when cancelling a $timeout/$interval,2017-06-21T05:35:48Z,2017-07-03T09:04:18Z,2017-07-03T09:04:18Z,8,,291.475,8,301,Merged
+perf(ngOptions): prevent initial options repainting,2017-06-27T15:41:53Z,2017-06-29T08:51:10Z,2017-06-29T08:51:10Z,1,,41.15472222222222,2,461,Merged
+"fix($http) No error for json-like repsonses without ""application/json"" content-type",2017-06-29T11:38:17Z,,2017-07-11T15:51:56Z,5,,292.2275,2,490,Closed
+"refactor($parse): do not pass scope,locals to interceptor fns",2017-07-11T07:50:27Z,2017-07-14T08:53:49Z,2017-07-14T08:53:49Z,1,,73.05611111111111,2,576,Merged
+chore: deploy docs|code .angularjs.org to Firebase via Travis,2017-07-11T12:26:51Z,2017-07-13T09:14:55Z,2017-07-13T09:14:55Z,5,,44.80111111111111,19,819,Merged
+feat($http): Added the ability to save a response from POST request with x-www-form-urlencoded ,2017-07-11T16:19:11Z,,2017-07-18T11:15:20Z,2,,162.93583333333333,2,975,Closed
+chore(travis): add commitplease validation to ci-checks,2017-07-11T17:06:27Z,2017-07-12T10:02:19Z,2017-07-12T10:02:19Z,2,,16.93111111111111,3,598,Merged
+chore(doc-gen): insert current tagged version if missing from list of…,2017-07-11T18:57:14Z,2017-07-12T09:15:10Z,2017-07-12T09:15:10Z,1,,14.29888888888889,1,1086,Merged
+feat($sanitize): Added support for the sftp protocol in $$ SanitizeUriProvider and linky filter,2017-07-12T10:27:41Z,2017-10-11T13:10:08Z,2017-10-11T13:10:08Z,4,,2186.7075,6,798,Merged
+docs: Clarify documentation of input[week],2017-07-12T20:15:18Z,2017-07-13T09:13:10Z,2017-07-13T09:13:10Z,2,,12.964444444444444,1,1198,Merged
+feature($resource): Add Resource To Response For Error Interceptors,2017-07-13T17:52:09Z,,2017-07-18T14:11:59Z,2,,116.33055555555555,2,1090,Closed
+make 1.6.x build steps like master,2017-07-14T08:14:12Z,2017-07-14T10:57:56Z,2017-07-14T10:57:56Z,3,,2.7288888888888887,27,654,Merged
+refactor($parse): remove unnecessary .constant if when collecting inputs,2017-07-17T06:07:22Z,2017-07-18T05:11:43Z,2017-07-18T05:11:43Z,1,,23.0725,1,116,Merged
+fix($parse): support constants in computed keys,2017-07-17T06:13:57Z,2017-07-18T03:54:44Z,2017-07-18T03:54:44Z,1,,21.67972222222222,2,176,Merged
+fix($parse): do not shallow-watch computed property keys,2017-07-17T06:19:54Z,2017-07-18T06:38:40Z,2017-07-18T06:38:41Z,3,,24.31277777777778,2,334,Merged
+code.angularjs.org / Docs App updates,2017-07-18T14:11:48Z,2017-07-31T13:58:12Z,2017-07-31T13:58:12Z,4,,311.7733333333333,14,945,Merged
+fix($parse): do not pass scope/locals to interceptors of one-time bindings,2017-07-20T05:44:06Z,2017-07-22T03:56:15Z,2017-07-22T03:56:15Z,1,,46.2025,2,149,Merged
+feat($compile): added new method strictComponentBindingsEnabled,2017-07-25T10:55:37Z,,2017-07-28T09:53:25Z,5,,70.96333333333334,3,944,Closed
+perf(jqLite): avoid repeated add/removeAttribute in jqLiteRemoveClass,2017-07-26T05:08:13Z,2017-09-17T20:29:00Z,2017-09-17T20:29:00Z,8,,1287.346388888889,2,123,Merged
+fix($http): add check for functions in params,2017-07-27T09:44:28Z,,2017-07-27T13:07:32Z,3,,3.3844444444444446,2,942,Closed
+fix($http): add check for functions in request,2017-07-27T13:10:34Z,,2017-07-31T13:16:10Z,4,,96.09333333333333,2,944,Closed
+docs($http): update YQL currency exchange API example,2017-07-30T16:59:18Z,,2017-08-02T10:34:34Z,3,,65.58777777777777,2,835,Closed
+fix($httpParamSerializerJQLike): call functions as jQuery does,2017-07-31T18:09:34Z,,2017-08-03T18:03:20Z,6,,71.89611111111111,2,915,Closed
+test(*): fix tests involving `submit` on Chrome 60,2017-08-02T11:46:43Z,,2017-08-04T09:11:01Z,8,,45.405,3,903,Closed
+test(ngOptions): fix flaky test on Firefox 54+ and Safari 9,2017-08-06T00:08:36Z,,2017-08-12T09:02:16Z,1,,152.89444444444445,1,809,Closed
+ugly solution for unexpected request fail on verify no outstanding request,2017-08-06T19:05:11Z,,2017-09-18T20:07:18Z,7,,1033.0352777777778,3,742,Closed
+docs($compileProvider): more information on debugInfoEnabled,2017-08-08T16:29:43Z,,2017-08-23T19:12:03Z,3,,362.7055555555556,1,435,Closed
+docs(guide/Running in Production): more Information on debugInfoEnabled(false),2017-08-08T16:31:13Z,,2017-08-23T15:59:27Z,1,,359.47055555555556,1,440,Closed
+fix($rootScope): fix potential memory leak when removing scope listeners ,2017-08-10T03:36:33Z,2017-10-28T03:51:35Z,2017-10-28T03:51:35Z,9,,1896.2505555555556,2,793,Merged
+docs($compile): update preAssignBindingsEnabled description,2017-08-10T11:37:54Z,,2017-08-11T13:27:06Z,1,,25.82,2,904,Closed
+chore(*): Rename Angular to AngularJS,2017-08-10T12:01:17Z,,2017-08-11T13:55:02Z,1,,25.895833333333332,4,720,Closed
+Chore travis yarn,2017-08-11T07:35:13Z,2017-08-11T13:29:22Z,2017-08-11T13:29:22Z,1,,5.9025,1,654,Merged
+chore(karma): use dots reporter by default,2017-08-11T14:35:50Z,2017-08-11T20:56:03Z,2017-08-11T20:56:03Z,5,,6.336944444444445,1,816,Merged
+chore(code.angular): correctly remove old zip files from snapshot,2017-08-11T14:36:13Z,2017-08-11T20:54:52Z,2017-08-11T20:54:52Z,1,,6.310833333333333,1,790,Merged
+"chore: update 1.6 with recent Travis, FB, docs app changes",2017-08-11T18:12:41Z,2017-08-15T08:59:20Z,2017-08-15T08:59:20Z,1,,86.7775,14,788,Merged
+Comment AngularJS,2017-08-16T21:19:32Z,,2017-08-17T06:21:06Z,1,,9.026111111111112,1,654,Closed
+Chore fix docs examples,2017-08-21T13:49:41Z,2017-08-24T09:02:18Z,2017-08-24T09:02:18Z,5,,67.21027777777778,14,853,Merged
+docs(*): replace master/slave with leader/follower,2017-08-27T08:48:25Z,2017-08-28T09:10:55Z,2017-08-28T09:10:55Z,1,,24.375,3,1096,Merged
+fix(http): do not allow encoded callback params in jsonp requests,2017-08-28T21:13:42Z,2017-09-23T22:14:06Z,2017-09-23T22:14:06Z,3,,625.0066666666667,2,704,Merged
+docs: add calrification for RegExp in ngPattern,2017-08-30T10:31:49Z,,2017-09-05T12:37:32Z,1,,146.09527777777777,1,884,Closed
+fix(ngAnimate): don't close animations when child transitions close,2017-09-05T09:37:04Z,2017-09-06T14:16:57Z,2017-09-06T14:16:57Z,1,,28.664722222222224,3,603,Merged
+docs(input[checkbox]): Incorrect @param,2017-09-07T01:36:10Z,,2017-09-07T12:48:39Z,2,,11.208055555555555,1,722,Closed
+[ImgBot] optimizes images,2017-09-12T04:43:11Z,,2017-09-21T12:49:03Z,1,,224.09777777777776,73,4756,Closed
+feat($injector): ability to load new modules after bootstrapping,2017-09-13T20:08:50Z,2017-09-21T12:52:47Z,2017-09-21T12:52:48Z,12,,184.7325,2,1056,Merged
+docs(*): don't hide results for middle-clicks,2017-09-20T13:03:54Z,2017-09-21T12:32:59Z,2017-09-21T12:32:59Z,1,,23.48472222222222,2,928,Merged
+wip: feat(ngModel): run formatters / setModelValue,2017-09-21T13:29:54Z,2017-09-29T11:12:19Z,2017-09-29T11:12:19Z,12,,189.70694444444445,2,2092,Merged
+chore(doc-gen): fix script paths in plnkr for examples with deps,2017-09-21T21:46:07Z,,2017-09-22T20:26:04Z,1,,22.66583333333333,1,1123,Closed
+docs fix,2017-09-23T20:23:26Z,,2017-09-23T21:48:29Z,1,,1.4175,1,390,Closed
+chore(docs-app): add table of contents to individual pages ,2017-10-02T11:12:46Z,2017-10-04T13:48:34Z,2017-10-04T13:48:34Z,5,,50.596666666666664,38,2516,Merged
+feat(ngMocks): add $httpBackend.whenOverride method,2017-10-02T21:12:21Z,,2018-05-21T13:01:02Z,4,,5535.811388888889,2,1317,Closed
+chore(*): add a Git .mailmap with my new name,2017-10-04T10:46:27Z,2017-10-04T21:24:47Z,2017-10-04T21:24:47Z,2,,10.63888888888889,1,2030,Merged
+feat($parse): enable optional access to the underlying AST,2017-10-06T08:39:21Z,,2017-11-30T14:14:43Z,7,,1325.5894444444446,2,1035,Closed
+fix($http): correct xhrStatus of different `timeout` values,2017-10-09T09:04:56Z,2018-03-07T09:40:03Z,2018-03-07T09:40:03Z,6,,3576.5852777777777,6,2954,Merged
+More Docs corrections,2017-10-09T10:23:36Z,2017-10-11T12:36:06Z,2017-10-11T12:36:06Z,1,,50.208333333333336,21,742,Merged
+Fix docs usage section for directives with void attributes,2017-10-11T11:33:34Z,2017-10-18T11:29:51Z,2017-10-18T11:29:51Z,6,,167.93805555555556,2,682,Merged
+"docs: change ""Google Inc."" to ""Google LLC""",2017-10-11T21:29:12Z,,2018-04-04T18:19:29Z,1,,4196.838055555556,6,215,Closed
+fix(input[text]): composing function dosen't works properly in IE,2017-10-13T06:47:49Z,2018-02-08T22:50:08Z,2018-02-08T22:50:08Z,6,,2848.038611111111,3,2553,Merged
+docs(*): remove usage of global grunt-cli,2017-10-13T20:21:32Z,2017-11-11T13:10:54Z,2017-11-11T13:10:54Z,8,,688.8227777777778,2,907,Merged
+fix($rootScope): deallocate $$listeners array when empty,2017-10-15T01:45:36Z,,2017-11-22T06:39:57Z,3,,916.9058333333334,2,381,Closed
+"chore(doc-gen, docs-app): generate version for stable snapshot",2017-10-16T17:00:00Z,2017-10-20T11:17:21Z,2017-10-20T11:17:21Z,11,,90.28916666666667,8,292,Merged
+chore(travis): remove unnessecary addons,2017-10-18T11:59:23Z,2017-10-19T09:51:31Z,2017-10-19T09:51:31Z,1,,21.86888888888889,1,654,Merged
+Chore travis split unit,2017-10-20T14:22:08Z,2017-10-23T10:53:37Z,2017-10-23T10:53:37Z,1,,68.52472222222222,3,654,Merged
+fix($rootScope): fix potential memory leak when removing scope listeners (v2),2017-10-21T21:36:43Z,2017-11-01T04:36:59Z,2017-11-01T04:36:59Z,24,,247.00444444444443,3,356,Merged
+docs(tutorial/14 - Animations): replace broken web platform docs link,2017-10-22T07:36:50Z,,2017-10-23T08:49:23Z,1,,25.20916666666667,1,1476,Closed
+chore(travis): fix deploy conditions,2017-10-24T10:12:52Z,2017-10-25T08:44:56Z,2017-10-25T08:44:56Z,5,,22.534444444444443,2,654,Merged
+"docs(CONTRIBUTING): centralize, update, improve",2017-10-24T17:11:53Z,2017-11-03T11:41:54Z,2017-11-03T11:41:55Z,14,,234.50027777777777,7,1051,Merged
+feat($rootScope): allow suspending and resuming watchers on scope,2017-10-31T11:48:55Z,2017-12-11T19:48:04Z,2017-12-11T19:48:04Z,40,,991.9858333333333,2,264,Merged
+fix(sanitizeUri): sanitize URIs that contain IDEOGRAPHIC SPACE chars,2017-10-31T21:44:09Z,2017-11-03T10:14:00Z,2017-11-03T10:14:00Z,2,,60.4975,2,846,Merged
+fix($compile): sanitize special chars in directive name,2017-11-01T13:31:37Z,2017-11-17T10:55:19Z,2017-11-17T10:55:19Z,6,,381.395,2,966,Merged
+fix($location): do not decode forward slashes in the path in HTML5 mode,2017-11-02T13:13:24Z,2017-11-03T11:03:20Z,2017-11-03T11:03:20Z,2,,21.83222222222222,2,793,Merged
+fix(input[number]): validate min/max against viewValue,2017-11-10T21:13:31Z,2017-11-17T11:28:04Z,2017-11-17T11:28:04Z,5,,158.2425,2,1394,Merged
+feat($sanitize): support enhancing white-list,2017-11-11T13:29:23Z,,2018-02-06T14:10:12Z,32,,2088.680277777778,2,867,Closed
+"docs(linky): mark ""target"" param as optional in linky filter",2017-11-15T12:36:01Z,2017-11-17T10:47:18Z,2017-11-17T10:47:18Z,1,,46.18805555555556,1,1176,Merged
+Updating track by $index usage,2017-11-20T14:37:11Z,,2018-01-17T11:01:55Z,6,,1388.4122222222222,1,817,Closed
+"feat(ngModelOptions): allow to debounce 'default' only, and add catch…",2017-11-21T10:14:58Z,2017-11-21T12:50:26Z,2017-11-21T12:50:26Z,10,,2.591111111111111,3,1598,Merged
+fix(input): allow overriding timezone for date input types,2017-11-21T10:18:54Z,2018-04-06T14:40:15Z,2018-04-06T14:40:16Z,10,,3268.3558333333335,5,855,Merged
+docs(ngNonBindable): Document effect on attributes,2017-11-21T18:30:43Z,2017-11-27T12:11:50Z,2017-11-27T12:11:50Z,5,,137.68527777777777,1,1166,Merged
+refactor($rootScope): simplify $emit stopPropagation handling,2017-11-22T07:34:01Z,2017-11-24T08:25:34Z,2017-11-24T08:25:34Z,1,,48.85916666666667,1,95,Merged
+chore(*): normalize Vojta's email in .mailmap correctly,2017-11-22T10:52:24Z,2017-11-22T12:24:56Z,2017-11-22T12:24:56Z,1,,1.5422222222222222,1,624,Merged
+refactor($rootScope): consistently use noop as the default $watch listener,2017-11-24T02:59:06Z,2017-12-05T21:26:20Z,2017-12-05T21:26:20Z,2,,282.4538888888889,5,139,Merged
+chore(travis: fix deployment condition to include tagged commits,2017-11-27T11:16:09Z,2017-11-29T14:46:00Z,2017-11-29T14:46:00Z,1,,51.4975,1,709,Merged
+"fix(ngModel, input): improve handling of built-in named parsers",2017-11-27T14:38:33Z,2017-12-04T10:17:33Z,2017-12-04T10:17:33Z,1,,163.65,4,2401,Merged
+fix($location): decode non-component special chars in Hashbang URLS,2017-11-28T14:32:37Z,2017-11-30T13:22:40Z,2017-11-30T13:22:40Z,1,,46.83416666666667,2,79,Merged
+fix(ngModelController): allow $overrideModelOptions to set updateOn,2017-11-29T14:40:38Z,2017-12-05T19:07:46Z,2017-12-05T19:07:46Z,5,,148.45222222222222,3,807,Merged
+revert + fix($rootScope): fix potential memory leak when removing scope listeners,2017-12-05T09:16:18Z,2017-12-13T10:45:32Z,2017-12-13T10:45:32Z,4,,193.48722222222221,3,287,Merged
+"docs(ng-model-options): remove extra quotes in example, incorrect syntax",2017-12-06T22:04:54Z,,2017-12-11T08:58:17Z,1,,106.88972222222222,1,800,Closed
+"fix(ngAria): do not set aria attributes on input[type=""hidden""]",2017-12-08T12:48:51Z,2017-12-11T18:27:48Z,2017-12-11T18:27:48Z,1,,77.64916666666667,2,1323,Merged
+fix(ngAnimate): let $animate.cancel() reject the runner promise,2017-12-13T18:11:13Z,2018-02-02T09:02:07Z,2018-02-02T09:02:07Z,2,,1214.8483333333334,2,1080,Merged
+feat(orderBy): Add `null` and `undefined` at the end of the sorted list,2017-12-17T21:07:39Z,,2018-01-25T11:26:58Z,7,,926.3219444444444,2,698,Closed
+docs(PULL_REQUEST_TEMPLATE.md): fix broken links in PR template,2017-12-19T10:01:54Z,2017-12-19T17:29:53Z,2017-12-19T17:29:53Z,6,,7.466388888888889,1,31,Merged
+feat($sce): handle URLs through the $sce service,2017-12-19T15:05:32Z,2018-01-31T13:12:31Z,2018-01-31T13:12:31Z,51,,1030.1163888888889,15,2713,Merged
+docs(ngModel.NgModelController): correct description for `$viewChangeListeners`,2017-12-25T00:10:14Z,2017-12-29T13:30:32Z,2017-12-29T13:30:32Z,1,,109.33833333333334,1,18,Merged
+chore(*): get rid of Bower in favor of Yarn aliases & checked-in packages,2017-12-27T18:20:29Z,,2018-01-08T11:51:32Z,8,,281.5175,27,1615,Closed
+Update DEVELOPERS.md,2018-01-03T11:03:23Z,2018-01-03T17:19:06Z,2018-01-03T17:19:06Z,1,,6.2619444444444445,1,815,Merged
+test($sanitize): skip clobber test on Edge,2018-01-03T14:42:29Z,2018-01-08T09:41:08Z,2018-01-08T09:41:08Z,5,,114.9775,5,815,Merged
+fix(input): Take timezone into account when validating minimum and ma…,2018-01-05T00:15:12Z,2018-04-06T09:53:33Z,2018-04-06T09:53:33Z,3,,2193.639166666667,2,1011,Merged
+fix($sanitize): sanitize `xml:base` attributes,2018-01-06T18:24:31Z,2018-01-11T13:34:08Z,2018-01-11T13:34:08Z,4,,115.16027777777778,2,124,Merged
+docs(*): clarify module API and dependency injection rules,2018-01-08T14:39:28Z,2018-01-17T11:00:10Z,2018-01-17T11:00:11Z,3,,212.345,4,832,Merged
+docs(ngRepeat): improve info about tracking,2018-01-09T17:56:54Z,2018-01-17T11:01:55Z,2018-01-17T11:01:55Z,2,,185.0836111111111,1,1269,Merged
+Test on latest 2 Safari versions,2018-01-10T14:40:31Z,2018-01-11T12:29:20Z,2018-01-11T12:29:20Z,1,,21.81361111111111,4,815,Merged
+ngMessages leak,2018-01-12T14:36:44Z,2018-01-17T13:57:33Z,2018-01-17T13:57:33Z,4,,119.34694444444445,2,76,Merged
+docs($location): fix typo,2018-01-13T03:11:07Z,2018-01-15T12:08:25Z,2018-01-15T12:08:25Z,1,,56.955,1,815,Merged
+fix(ngTransclude): remove terminal: true,2018-01-15T16:24:25Z,2018-01-17T11:03:06Z,2018-01-17T11:03:06Z,1,,42.64472222222222,2,970,Merged
+feat(input): added drop event support,2018-01-26T07:37:13Z,2018-01-28T11:24:01Z,2018-01-28T11:24:01Z,4,,51.78,2,871,Merged
+Fix deprecate ngtouch,2018-01-31T17:00:33Z,2018-02-01T09:31:33Z,2018-02-01T09:31:33Z,3,,16.516666666666666,3,815,Merged
+fix($templateRequest): always return the template that is stored in the cache,2018-02-04T09:22:38Z,2018-02-05T11:21:29Z,2018-02-05T11:21:29Z,1,,25.980833333333333,2,1173,Merged
+Hosting: fix robots issues,2018-02-05T12:10:48Z,2018-02-05T16:52:35Z,2018-02-05T16:52:35Z,5,,4.6963888888888885,5,815,Merged
+Chore sitemap deploy,2018-02-08T18:32:40Z,2018-02-08T22:43:00Z,2018-02-08T22:43:00Z,2,,4.1722222222222225,1,815,Merged
+fix($resource): fix interceptors and success/error callbacks,2018-02-10T21:47:21Z,,2018-02-20T14:00:42Z,16,,232.2225,2,3497,Closed
+fix(docs): fix `@media` breakpoints for small/extra small devices,2018-02-11T16:24:07Z,,2018-02-11T19:25:07Z,1,,3.0166666666666666,1,472,Closed
+Chore docs crawl,2018-02-12T10:33:05Z,2018-02-12T13:34:07Z,2018-02-12T13:34:07Z,16,,3.0172222222222222,13,815,Merged
+docs(*): Add CODE_OF_CONDUCT.md,2018-02-14T11:57:12Z,2018-02-15T13:28:48Z,2018-02-15T13:28:48Z,1,,25.526666666666667,1,917,Merged
+chore(docs.angularjs.org): allow robots in partials/ but prevent inde…,2018-02-14T20:45:08Z,2018-02-15T10:54:14Z,2018-02-15T10:54:14Z,2,,14.151666666666667,2,824,Merged
+docs(misc): add version-support-status page,2018-02-19T17:12:52Z,2018-02-21T08:33:28Z,2018-02-21T08:33:29Z,5,,39.343333333333334,4,28,Merged
+Minerr test fixes,2018-02-20T11:16:44Z,2018-02-20T13:04:27Z,2018-02-20T13:04:27Z,1,,1.7952777777777778,5,13,Merged
+refactor($compile): avoid catastrophic backtracking when parsing bindings,2018-02-20T17:33:50Z,,2018-02-21T09:51:33Z,1,,16.295277777777777,1,423,Closed
+fix($cookies): remove the deprecated $cookieStore factory,2018-02-21T12:16:37Z,2018-03-13T08:31:16Z,2018-03-13T08:31:16Z,3,,476.2441666666667,4,1645,Merged
+Chore docs site improvements,2018-02-23T16:26:17Z,2018-03-01T11:52:13Z,2018-03-01T11:52:13Z,9,,139.4322222222222,10,84,Merged
+fix($q): allow third-party promises,2018-02-26T08:49:02Z,,2018-11-15T15:40:10Z,4,,6294.852222222222,1,982,Closed
+fix($timeout/$interval): throw when trying to cancel non-$timeout/$interval promise,2018-03-05T18:55:10Z,,2018-03-13T19:23:56Z,4,,192.47944444444445,6,1141,Closed
+test($parse): add tests for watching one-time array/object literals,2018-03-06T06:09:08Z,2018-04-03T19:34:32Z,2018-04-03T19:34:32Z,7,,685.4233333333333,1,430,Merged
+docs(input[radio]): explain what happens with same name on multiple inputs,2018-03-06T13:34:38Z,,2018-03-12T14:33:07Z,2,,144.97472222222223,1,582,Closed
+feat($resource): add $composeResourceUrl service,2018-03-07T18:22:14Z,,2018-07-04T09:37:59Z,12,,2847.2625,3,226,Closed
+docs(ngShow/ngHide): add note about flicker when toggling elements,2018-03-13T20:59:46Z,2018-03-14T21:35:35Z,2018-03-14T21:35:35Z,1,,24.596944444444443,1,880,Merged
+minErr: link to actual url and remove url from message params,2018-03-14T21:36:21Z,2018-03-19T16:57:45Z,2018-03-19T16:57:45Z,5,,115.35666666666667,2,815,Merged
+fix($compile): throw error in $onChanges immediately,2018-03-16T07:22:07Z,2018-03-22T09:37:16Z,2018-03-22T09:37:16Z,1,,146.2525,2,946,Merged
+chore(travis): update iOs test browsers,2018-03-16T12:30:07Z,2018-03-16T15:48:13Z,2018-03-16T15:48:13Z,1,,3.3016666666666667,3,815,Merged
+test($rootScope): add tests clarifying $watchGroup oldValues behavior,2018-03-18T09:51:24Z,2018-04-03T19:25:53Z,2018-04-03T19:25:53Z,2,,393.57472222222225,1,270,Merged
+WIP!! feat($location): basic matrix parameter support,2018-03-22T10:40:16Z,,2018-09-26T18:35:07Z,1,,4519.9141666666665,3,306,Closed
+"Feat: ngRef directive to publish controllers, or elements into current scope ",2018-03-26T15:57:17Z,2018-06-05T13:00:13Z,2018-06-05T13:00:13Z,16,,1701.048888888889,7,1270,Merged
+fix(jqLite): make removeData() not remove event handlers,2018-03-26T22:54:26Z,2018-04-03T19:49:53Z,2018-04-03T19:49:53Z,6,,188.92416666666668,3,1109,Merged
+docs(jqLite): document append doesn't work well with a multi-node object,2018-03-28T19:34:28Z,2018-04-03T19:10:12Z,2018-04-03T19:10:12Z,10,,143.59555555555556,1,1060,Merged
+fix(jqLite): use XHTML-compliant HTML as input for jqLite,2018-03-28T20:24:34Z,2018-04-03T18:58:01Z,2018-04-03T18:58:02Z,3,,142.5575,2,980,Merged
+fix($compile): correctly handle `null`/`undefined` href `attrs.$set()`,2018-04-05T13:18:29Z,2018-04-09T08:23:24Z,2018-04-09T08:23:24Z,4,,91.08194444444445,1,273,Merged
+docs($compile): add known issues with replace:true,2018-04-06T16:40:00Z,2018-04-09T08:20:51Z,2018-04-09T08:20:51Z,1,,63.68083333333333,1,248,Merged
+test(input): fix date type tests with max + timezone,2018-04-10T13:45:05Z,2018-04-10T21:04:31Z,2018-04-10T21:04:31Z,1,,7.323888888888889,1,826,Merged
+update changelog with 1.6.10 and 1.7.0-rc.0,2018-04-11T16:31:43Z,2018-04-19T08:07:42Z,2018-04-19T08:07:42Z,6,,183.59972222222223,2,815,Merged
+fix(input[date]): correctly parse 2-digit years,2018-04-24T23:27:01Z,,2018-04-27T15:55:34Z,4,,64.47583333333333,2,1045,Closed
+feat(ngCookies): support sameSite option,2018-05-01T15:00:24Z,2018-05-17T17:02:05Z,2018-05-17T17:02:05Z,3,,386.02805555555557,3,921,Merged
+perf($compile): remove use of deepEquals and $stateful interceptor from bidi bindings,2018-05-04T00:27:36Z,,2018-05-09T18:48:54Z,3,,138.355,2,1396,Closed
+feat($compile): add one-way collection bindings,2018-05-04T04:02:42Z,2018-05-17T13:30:40Z,2018-05-17T13:30:40Z,3,,321.4661111111111,2,17,Merged
+refactor($compile): remove workaround for chrome bug fixed in v50,2018-05-04T04:28:41Z,2018-05-09T19:29:11Z,2018-05-09T19:29:11Z,1,,135.00833333333333,1,55,Merged
+test($sanitize): exclude elclob test in Edge 17,2018-05-04T18:28:01Z,2018-05-06T17:34:53Z,2018-05-06T17:34:53Z,1,,47.114444444444445,1,906,Merged
+"feat(ngMock, ngMockE2E): add option to match latest definition for $h…",2018-05-09T14:38:27Z,,2018-05-21T13:01:03Z,3,,286.37666666666667,2,1432,Closed
+refactor(ngAnimateSwap): remove unused dependency and add tests,2018-05-15T14:20:15Z,,2018-05-16T20:06:20Z,6,,29.768055555555556,2,542,Closed
+docs(input[number]): note issue with large number and step validation,2018-05-22T09:48:15Z,2018-05-22T11:10:43Z,2018-05-22T11:10:44Z,2,,1.3744444444444444,1,832,Merged
+refactor(ngModelOptions): fix `ng-closure-runner` warning,2018-05-23T19:10:22Z,,2018-05-24T10:01:41Z,1,,14.855277777777777,1,163,Closed
+docs(ngMockE2E): add docs for $httpBackend.matchLatestDefinitionEnabl…,2018-05-24T10:26:53Z,2018-05-26T14:05:52Z,2018-05-26T14:05:52Z,2,,51.64972222222222,1,824,Merged
+refactor($compile): remove preAssignBindingsEnabled leftovers,2018-05-26T11:16:45Z,,2018-05-30T20:05:33Z,7,,104.81333333333333,5,145,Closed
+Fixes for animate docs,2018-05-27T22:46:12Z,,2018-06-02T08:50:14Z,3,,130.06722222222223,2,987,Closed
+docs(ngAnimate): add `animating any scope's variable change` section,2018-05-27T23:49:47Z,,2018-06-05T20:25:01Z,17,,212.5872222222222,1,1058,Closed
+Feat input timeformat,2018-05-30T19:23:13Z,2018-06-12T21:45:18Z,2018-06-12T21:45:18Z,5,,314.36805555555554,3,1178,Merged
+fix(ngModel): do not throw if view value changes on destroyed scope,2018-05-30T20:13:33Z,,2018-05-31T09:32:12Z,1,,13.310833333333333,2,1191,Closed
+feat(ngMessages): add support for default message,2018-06-01T11:58:29Z,2018-06-06T15:40:56Z,2018-06-06T15:40:56Z,6,,123.7075,2,920,Merged
+docs($httpBackend): `headers` param of `expect*` can be function,2018-06-03T21:23:29Z,,2018-06-04T12:19:28Z,3,,14.933055555555555,1,0,Closed
+"fix(ngMock/$httpBackend): correctly ignore query params in {expect,when}Route",2018-06-03T22:45:53Z,,2018-06-18T16:49:14Z,17,,354.05583333333334,5,731,Closed
+feat(errorHandlingConfig): add option to exclude error params from url,2018-06-06T09:40:55Z,2018-06-06T13:03:09Z,2018-06-06T13:03:12Z,1,,3.3705555555555557,2,1827,Merged
+revert: refactor($compile): remove preAssignBindingsEnabled leftovers,2018-06-11T12:15:10Z,,2018-06-11T14:10:22Z,2,,1.92,5,212,Closed
+docs/chore: fix unmatched links (and turn warning into errors),2018-06-12T08:30:34Z,,2018-06-12T11:45:53Z,1,,3.2552777777777777,6,134,Closed
+feat(form.FormController): add $getControls(),2018-06-15T15:36:10Z,2018-06-18T14:02:19Z,2018-06-18T14:02:21Z,2,,70.43583333333333,2,1196,Merged
+feat(*): implement more granular pending task tracking,2018-06-16T08:11:57Z,,2018-07-13T10:35:41Z,29,,650.3955555555556,19,1832,Closed
+fix(ngAria): do not scroll when pressing spacebar on custom buttons,2018-06-16T10:13:27Z,,2018-06-18T15:47:22Z,1,,53.56527777777778,2,1428,Closed
+fix($browser): normalize inputted URLs,2018-06-20T19:53:39Z,2018-11-21T23:08:44Z,2018-11-21T23:08:44Z,17,,3699.251388888889,2,818,Merged
+fix($location): fix infinite recursion/digest on URLs with special characters,2018-06-24T04:09:47Z,,2018-07-10T03:00:09Z,1,,382.83944444444444,2,1630,Closed
+perf(ngAnimate): avoid repeated calls to addClass/removeClass when an…,2018-06-25T16:15:07Z,,2018-07-05T17:46:06Z,3,,241.51638888888888,12,1170,Closed
+feat($compile): add support for arbitrary property and event bindings,2018-06-26T07:55:50Z,2018-08-02T02:06:00Z,2018-08-02T02:06:00Z,159,,882.1694444444445,8,2762,Merged
+fix($compile): work around Firefox `DocumentFragment` bug,2018-06-26T10:47:22Z,,2018-07-09T18:27:12Z,2,,319.6638888888889,1,1596,Closed
+refactor($location): move repeated path normalization code into helper method,2018-06-28T06:27:25Z,2018-07-21T09:39:38Z,2018-07-21T09:39:38Z,3,,555.2036111111111,1,270,Merged
+docs(guide/Components): format,2018-06-29T06:35:04Z,,2018-06-29T08:11:22Z,1,,1.605,1,60,Closed
+Add event info to animation event callbacks,2018-07-03T19:32:11Z,2018-07-09T15:10:05Z,2018-07-09T15:10:05Z,10,,139.63166666666666,4,881,Merged
+"docs(changelog, guide/Migration): add info about $sce BC in 1.7",2018-07-03T19:34:41Z,2018-07-04T12:49:40Z,2018-07-04T12:49:41Z,1,,17.24972222222222,2,832,Merged
+Docs: update $location guide info; fix some headlines,2018-07-03T19:35:50Z,2018-07-04T12:46:28Z,2018-07-04T12:46:28Z,1,,17.177222222222223,2,815,Merged
+"docs(ngProp, ngOn)",2018-07-12T11:59:15Z,2018-08-03T10:17:04Z,2018-08-03T10:17:04Z,15,,526.2969444444444,2,815,Merged
+fix(ngEventDirs): check for $rootScope.$$phase in event handler and don't $apply if already in $digest,2018-07-13T10:47:32Z,2018-07-25T10:43:15Z,2018-07-25T10:43:15Z,25,,287.92861111111114,2,815,Merged
+fix($location): avoid unnecessary `$locationChange*` events due to empty hash,2018-07-19T16:30:18Z,,2018-07-30T20:39:33Z,19,,268.15416666666664,5,775,Closed
+docs(ngMocks): fix type for `$flushPendingTasks`/`$verifyPendingsTasks`,2018-07-20T18:12:09Z,,2018-07-21T07:47:22Z,1,,13.586944444444445,1,0,Closed
+"chore: upgrade `sauce-connect`, karma and related dependencies to latest versions",2018-07-21T07:43:41Z,,2018-07-21T10:38:51Z,1,,2.9194444444444443,3,0,Closed
+docs(ngMock/$interval.flush): fix param type (not optional),2018-07-21T17:26:39Z,,2018-07-22T14:33:59Z,2,,21.122222222222224,1,0,Closed
+fix(angular.element): do not break on `cleanData()` if `_data()` returns undefined,2018-07-22T19:19:36Z,,2018-07-23T11:22:53Z,2,,16.05472222222222,2,321,Closed
+fix(ngMock): pass failed HTTP expectations to $errorHandler,2018-07-24T16:50:04Z,,2018-07-31T11:37:25Z,7,,162.78916666666666,2,1006,Closed
+fix($compile): use correct parent element when requiring on html element,2018-07-26T08:53:21Z,2018-07-27T15:10:25Z,2018-07-27T15:10:26Z,6,,30.284444444444443,4,815,Merged
+"fix($animate): avoid memory leak with `$animate.enabled(element, enabled)`",2018-07-27T14:34:55Z,,2018-07-27T17:48:49Z,2,,3.2316666666666665,4,1258,Closed
+fix(ngHref): allow numbers as input,2018-08-01T07:53:21Z,2018-08-20T18:04:29Z,2018-08-20T18:04:29Z,7,,466.18555555555554,2,815,Merged
+fix(select): allow to select first option with value `undefined`,2018-08-03T10:31:37Z,2018-08-06T10:47:44Z,2018-08-06T10:47:44Z,1,,72.26861111111111,2,1042,Merged
+<docs>: Add breaking change warning,2018-08-17T08:59:10Z,,2018-09-06T14:01:38Z,1,,485.0411111111111,1,935,Closed
+fix(ngRoute): extract path params containing hashes and/or question marks correctly,2018-08-20T07:23:00Z,,2018-08-25T22:54:13Z,2,,135.52027777777778,3,1223,Closed
+fix($route): correctly extract path params if path contains question mark or hash,2018-08-21T12:35:01Z,,2018-08-25T20:43:37Z,12,,104.14333333333333,5,1434,Closed
+fix(ngAnimate): remove event prepare class when skipping animation,2018-08-28T22:42:40Z,,2018-09-06T07:47:13Z,7,,201.07583333333332,1,1162,Closed
+fix(ngAria.ngClick): restrict preventDefault on space / enter to non-…,2018-09-01T09:16:57Z,2018-09-06T13:53:34Z,2018-09-06T13:53:34Z,6,,124.61027777777778,2,856,Merged
+fix(ngAnimate): remove prepare classes with multiple structural anima…,2018-09-03T15:35:47Z,2018-09-06T07:47:13Z,2018-09-06T07:47:13Z,4,,64.19055555555556,2,842,Merged
+docs(guide): grammar correction in security guide,2018-09-05T07:50:05Z,2018-09-05T17:34:58Z,2018-09-05T17:34:59Z,1,,9.748055555555556,1,815,Merged
+"docs(version-support-status): remove outdated info, resolve inconsistencies",2018-09-05T14:15:52Z,2018-09-06T08:11:34Z,2018-09-06T08:11:34Z,2,,17.928333333333335,1,1022,Merged
+Update LTS information in README and landing page,2018-09-10T08:38:37Z,,2018-09-10T18:00:53Z,4,,9.37111111111111,2,699,Closed
+fix(ngClass): do not break on invalid values,2018-09-19T08:14:48Z,,2018-09-20T09:21:48Z,1,,25.116666666666667,2,1047,Closed
+docs(tutorial/Tutorial): describe your change...,2018-09-28T07:51:09Z,,2018-09-28T08:53:34Z,1,,1.0402777777777779,1,914,Closed
+fix(ngStyle): skip setting empty value when new style has the property,2018-10-02T10:30:22Z,2018-10-04T14:46:42Z,2018-10-04T14:46:42Z,11,,52.272222222222226,2,1773,Merged
+chore: properly isolate module tests,2018-10-05T19:43:29Z,2018-10-15T13:10:11Z,2018-10-15T13:10:11Z,9,,233.445,8,1384,Merged
+fix(ngMock): make matchLatestDefinitionEnabled work,2018-10-05T19:46:25Z,2018-10-15T11:14:38Z,2018-10-15T11:14:38Z,1,,231.47027777777777,1,831,Merged
+"chore(*): update minimum Yarn version, do some Yarn-related cleanups",2018-10-11T09:24:58Z,2018-10-11T14:35:58Z,2018-10-11T14:35:58Z,7,,5.183333333333334,9,1857,Merged
+fix(urlUtils): make IPv6 URL's hostname wrapped in square brackets in IE/Edge,2018-10-11T14:54:01Z,2018-10-18T09:45:10Z,2018-10-18T09:45:10Z,6,,162.8525,2,1299,Merged
+fix(ngAnimateSwap): make it compatible with `ngIf` on the same element,2018-10-11T16:35:15Z,,2018-10-15T20:24:18Z,2,,99.8175,2,1065,Closed
+chore(*): update Sauce Connect from 4.4.12 to 4.5.1,2018-10-11T19:06:47Z,2018-10-15T09:05:14Z,2018-10-15T09:05:14Z,1,,85.97416666666666,1,1363,Merged
+fix(input): prevent browsers from autofilling hidden inputs,2018-10-17T18:57:20Z,2018-10-31T18:19:56Z,2018-10-31T18:19:56Z,5,,335.37666666666667,7,17,Merged
+fix(compile): do not create directives for constant media URL attributes,2018-10-18T14:04:34Z,2018-11-20T14:10:19Z,2018-11-20T14:10:19Z,6,,792.0958333333333,4,688,Merged
+refactor(production): remove duplicate expression,2018-10-19T02:50:37Z,,2018-11-15T13:23:01Z,1,,658.54,1,1514,Closed
+Update karma so we can remove Safari workaround,2018-10-25T10:27:00Z,2018-11-23T13:06:31Z,2018-11-23T13:06:31Z,7,,698.6586111111111,6,815,Merged
+docs(tutorial): bring up-to-date with latest `angular-phonecat`/`angular-seed`,2018-11-02T15:09:30Z,,2018-11-15T14:49:00Z,9,,311.65833333333336,10,355,Closed
+"docs(changelog, guide/migration): fix typos, change 'ctrk' to 'ctrl'",2018-11-02T16:24:16Z,,2018-11-02T17:36:10Z,1,,1.1983333333333333,2,869,Closed
+Several minor fixes,2018-11-08T10:58:47Z,,2018-11-12T11:19:34Z,1,,96.3463888888889,8,0,Closed
+perf(input): prevent multiple validations on compilation,2018-11-15T18:26:31Z,2018-12-05T13:06:44Z,2018-12-05T13:06:44Z,20,,474.67027777777776,7,2042,Merged
+fix(ngAria): check if element is contenteditable before blocking spac…,2018-11-16T13:16:38Z,,2018-12-02T11:19:38Z,4,,382.05,2,1003,Closed
+Update step_03.ngdoc to clarify ,2018-11-23T18:58:54Z,,2018-12-05T16:59:32Z,15,,286.0105555555556,1,1208,Closed
+docs(tutorial/9 - Routing,2018-11-27T20:03:15Z,,2019-01-04T15:53:27Z,1,,907.8366666666667,1,935,Closed
+docs:(attrs) extended @element ngDisabled,2018-11-28T14:29:34Z,,2019-01-21T11:56:51Z,3,,1293.4547222222222,1,1076,Closed
+fix(ngRepeat): fix trackBy function being invoked with incorrect scope,2018-11-29T09:14:32Z,2018-12-06T03:40:02Z,2018-12-06T03:40:03Z,11,,162.425,2,629,Merged
+fix(compile): properly handle false value for boolean attrs with jQuery,2018-12-01T16:45:29Z,2018-12-06T09:07:55Z,2018-12-06T09:07:56Z,7,,112.37388888888889,2,1287,Merged
+docs(tutorial/6 - Two-way Data Binding): fix exp. documentation,2018-12-03T23:37:12Z,,2018-12-05T15:25:10Z,5,,39.79944444444445,1,1649,Closed
+"test(ngSanitize): disable a failing Edge test in all versions, including 18",2018-12-06T09:19:08Z,2018-12-09T02:23:09Z,2018-12-09T02:23:09Z,7,,65.06694444444445,1,981,Merged
+Isolated module tests,2018-12-10T16:46:54Z,2018-12-12T08:08:42Z,2018-12-12T08:08:42Z,10,,39.36333333333334,13,477,Merged
+chore: update karma-sauce-launcher,2018-12-17T16:59:01Z,,2019-01-04T15:53:08Z,1,,430.90194444444444,2,815,Closed
+fix($compile): fix ng-prop-* with undefined values,2018-12-22T04:21:05Z,2019-01-11T02:37:22Z,2019-01-11T02:37:22Z,23,,478.2713888888889,2,12,Merged
+Update ISSUE_TEMPLATE.md,2018-12-29T09:15:31Z,,2018-12-29T10:47:27Z,1,,1.5322222222222222,1,815,Closed
+chore: fix tests and CI flakiness,2019-01-03T15:28:29Z,,2019-01-10T19:42:16Z,6,,172.22972222222222,7,763,Closed
+docs(guide/Conceptual Overview): use exchangeratesapi.io,2019-01-04T13:35:29Z,,2019-01-07T11:14:21Z,1,,69.64777777777778,1,1421,Closed
+Docs known issues,2019-01-14T16:04:01Z,2019-01-21T14:40:23Z,2019-01-21T14:40:23Z,4,,166.60611111111112,3,921,Merged
+fix(ngRequired): set error correctly when inside ngRepeat and false b…,2019-01-21T11:30:52Z,2019-01-26T10:31:25Z,2019-01-26T10:31:26Z,3,,119.00916666666667,2,1414,Merged
+docs(guide/di): clarify example description,2019-02-16T13:59:44Z,,2019-03-05T20:01:12Z,7,,414.02444444444444,1,864,Closed
+fix(required): correctly validate when required on non-input element …,2019-02-20T21:07:39Z,2019-03-06T17:08:05Z,2019-03-06T17:08:06Z,5,,332.0072222222222,2,1007,Merged
+fix(required): correctly validate when required on non-input element,2019-03-04T07:06:15Z,,2019-03-04T11:28:31Z,1,,4.371111111111111,161,1117,Closed
+chore(*): update copyright year,2019-03-13T12:53:37Z,2019-03-22T07:27:47Z,2019-03-22T07:27:47Z,2,,210.56944444444446,1,0,Merged
+docs(DEVELOPERS): remove git revert misleading information,2019-03-26T09:30:59Z,,2019-03-26T11:38:35Z,1,,2.1266666666666665,1,235,Closed
+chore(*): make yarn.lock & GitHub templates identical between master & v1.7.x,2019-04-11T12:53:16Z,2019-04-12T09:27:06Z,2019-04-12T09:27:06Z,1,,20.56388888888889,3,0,Merged
+chore(*): update jQuery from 3.2.1 to 3.4.0,2019-04-11T12:57:03Z,2019-04-12T09:27:25Z,2019-04-12T09:27:25Z,1,,20.50611111111111,2,76,Merged
+fix(ngStyle): correctly remove old style when new style value is invalid,2019-04-27T14:20:41Z,,2019-05-09T18:28:36Z,2,,292.13194444444446,2,620,Closed
+docs(guide/Migrating from Previous Versions): Typo Miscellaneous,2019-05-24T17:41:08Z,,2019-05-28T18:17:37Z,1,,96.60805555555555,1,1151,Closed
+chore: make CI green again,2019-07-23T12:44:18Z,,2019-07-24T12:55:46Z,2,,24.191111111111113,2,270,Closed
+2019,2019-08-07T13:25:02Z,,2020-01-20T15:40:56Z,1,,3986.265,4,0,Closed
+fix(angular.merge): do not merge __proto__ property,2019-11-07T10:22:29Z,2019-11-07T15:39:23Z,2019-11-07T15:39:23Z,2,,5.281666666666666,2,1227,Merged
+"chore(*): update Node.js from 8 to 12, update some dependencies",2019-11-15T15:43:32Z,2020-05-23T13:21:06Z,2020-05-23T13:21:06Z,19,,4557.626111111111,47,1454,Merged
+chore(*): update copyright year,2020-01-01T02:31:06Z,,2020-01-14T10:25:18Z,2,,319.9033333333333,5,15,Closed
+New Year,2020-01-02T08:12:04Z,,2020-01-20T15:41:21Z,1,,439.48805555555555,1,47,Closed
+docs(angular.copy): Fixed getter/setter formatting,2020-01-07T07:42:26Z,,2020-01-14T10:25:19Z,1,,170.71472222222224,1,1194,Closed
+docs(angular.errorHandlingConfig): Spelling,2020-01-07T07:52:51Z,,2020-01-14T10:25:19Z,1,,170.54111111111112,1,1190,Closed
+docs(*): fix spelling errors,2020-01-28T01:52:08Z,,2020-02-02T09:38:38Z,1,,127.775,3,2,Closed
+chore(*): fix serving of URI-encoded files on code.angularjs.org,2020-02-01T20:44:14Z,,2020-02-02T09:21:21Z,1,,12.618611111111111,5,1041,Closed
+docs($aria): get the docs working for the service,2020-02-07T00:23:55Z,,2020-02-07T14:24:21Z,1,,14.007222222222222,1,1433,Closed
+docs(misc/Version Support Status): minor typo,2020-04-12T18:06:01Z,,2020-04-13T12:52:18Z,1,,18.77138888888889,1,1117,Closed
+fix($sanitize): do not trigger CSP alert/report in Firefox and Chrome,2020-04-14T18:07:50Z,,2020-06-11T10:43:31Z,1,,1384.5947222222221,1,2578,Closed
+fix(grunt-utils): insert the core CSS styles without using innerHTML,2020-04-16T12:14:25Z,,2020-05-25T08:20:53Z,1,,932.1077777777778,2,2042,Closed
+chore: Update jQuery to v3.5.0,2020-04-29T22:11:43Z,,2020-04-30T15:16:22Z,1,,17.0775,2,1042,Closed
+docs(security): add SECURITY.md,2020-05-06T17:13:11Z,2020-09-30T18:34:46Z,2020-09-30T18:34:46Z,5,,3529.3597222222224,1,1141,Merged
+chore(*): update jQuery from 3.4.0 to 3.5.1,2020-05-19T11:15:35Z,2020-05-20T04:17:06Z,2020-05-20T04:17:06Z,2,,17.025277777777777,2,1256,Merged
+chore(*): prep for 1.8.0,2020-05-20T07:19:08Z,,2020-06-04T15:11:50Z,20,,367.87833333333333,8,0,Closed
+fix(jqLite): prevent possible XSS due to regex-based HTML replacement,2020-05-20T09:25:33Z,2020-05-27T06:50:01Z,2020-05-27T06:50:01Z,36,,165.40777777777777,5,1732,Merged
+chore(ci): fix code deployment ,2020-05-24T08:33:57Z,2020-05-24T20:13:35Z,2020-05-24T20:13:36Z,18,,11.660555555555556,5,1117,Merged
+chore(*): clean up `package.json` and CircleCI config,2020-05-24T19:38:23Z,2020-05-26T14:39:52Z,2020-05-26T14:39:52Z,2,,43.02472222222222,7,125,Merged
+chore(docs-app): remove `document.write()` from docs `index.html`,2020-05-24T19:52:33Z,2020-05-25T15:41:55Z,2020-05-25T15:41:56Z,1,,19.822777777777777,1,874,Merged
+chore(ci): add engines to docs firebase deployment,2020-06-01T09:52:21Z,2020-09-30T18:41:07Z,2020-09-30T18:41:07Z,2,,2912.8127777777777,1,1529,Merged
+docs(ngRepeat): missing closing backtick,2020-06-02T09:40:26Z,2020-06-02T11:52:52Z,2020-06-02T11:52:52Z,6,,2.207222222222222,1,1121,Merged
+docs(misc/Version Support Status): adding LTS extension support,2020-07-28T07:15:12Z,2020-07-30T09:20:29Z,2020-07-30T09:20:29Z,5,,50.088055555555556,1,1428,Merged
+chore(ci): correctly deploy code and docs on version branches and tags,2020-08-02T18:42:16Z,,2020-08-13T12:05:13Z,3,,257.3825,3,1254,Closed
+chore: update Copyrights to Google LLC,2020-08-08T00:51:03Z,,2020-09-30T21:59:44Z,2,,1293.1447222222223,7,1314,Closed
+chore(ci): fix code/docs deployment,2020-08-20T10:28:59Z,,2020-08-21T14:34:42Z,1,,28.095277777777778,1,454,Closed
+chore(ci): really fix code/docs deployment,2020-08-22T07:38:34Z,,2020-08-22T15:53:44Z,6,,8.252777777777778,2,278,Closed
+refactor(misc): remove usages of whitelist and blacklist,2020-09-23T17:03:11Z,,2020-09-30T17:55:15Z,10,,168.86777777777777,25,107,Closed
+docs(version-support-status): Added link to extended long term support,2020-09-23T20:49:39Z,2020-10-08T18:16:58Z,2020-10-08T18:16:58Z,1,,357.4552777777778,1,962,Merged
+Updated ReadMe,2020-09-30T16:11:21Z,,2020-10-01T22:06:05Z,1,,29.912222222222223,1,1117,Closed
+fix + docs: fix `$sceDelegateProvider.resourceUrlWhitelist()` and fix docs on recently deprecated properties/methods,2020-10-13T14:56:09Z,,2020-10-14T12:45:49Z,5,,21.82777777777778,5,248,Closed
+docs(changelog): fix typos in 1.8.1/1.8.2 notes,2020-10-24T20:17:44Z,,2020-10-25T09:43:45Z,1,,13.43361111111111,1,134,Closed
+chore(ci): several fixes/improvements to Firebase deployments,2021-02-05T21:20:52Z,,2021-02-06T09:52:55Z,1,,12.534166666666666,15,207,Closed
+chore(deps): bump elliptic from 6.5.3 to 6.5.4,2021-03-09T02:31:38Z,,2021-03-09T11:27:02Z,1,,8.923333333333334,1,3556,Closed
+docs($parse): fix typo in lval.ngdoc,2021-03-09T02:58:06Z,,2021-03-09T11:30:10Z,1,,8.534444444444444,1,25,Closed
+docs($parse): fix typo in parse.js,2021-04-20T11:10:22Z,2021-04-22T08:49:07Z,2021-04-22T08:49:08Z,1,,45.645833333333336,1,24,Merged
+docs(misc/Version Support Status): update URL for XLTS.dev,2021-06-01T09:40:01Z,,2021-06-01T14:21:28Z,1,,4.690833333333333,1,1121,Closed
+chore(build): support NodeJS LTS v14. fix audit issues,2021-06-05T16:47:35Z,,2021-06-05T17:48:57Z,1,,1.0227777777777778,4,1687,Closed
+chore(functions): support NodeJS LTS v14. fix audit issues,2021-06-05T20:35:11Z,,2021-06-07T17:11:45Z,1,,44.60944444444444,4,1332,Closed
+chore(dgeni): update to latest dgeni and dgeni-packages,2021-06-05T21:04:18Z,,2021-11-18T21:27:28Z,2,,3984.386111111111,2,2517,Closed
+chore(e2e): run tests against Firefox 85 on macOS Catalina,2021-06-08T21:14:16Z,,2021-06-12T12:28:11Z,1,,87.23194444444445,1,1258,Closed
+chore(e2e): run tests against Chrome 91 on macOS Catalina,2021-06-08T21:15:51Z,,2021-06-12T12:28:11Z,1,,87.20555555555555,1,1256,Closed
+docs(eol): Add EOL options text and link to template header banner,2021-12-06T16:49:57Z,,2021-12-09T23:03:17Z,2,,78.22222222222223,1,594,Closed
+Fix failing unit tests,2021-12-09T15:28:17Z,,2021-12-09T20:24:55Z,1,,4.943888888888889,2,1039,Closed
+docs: update end-of-life messages,2022-01-31T22:10:08Z,2022-03-18T19:04:56Z,2022-03-18T19:04:56Z,11,,1100.9133333333334,7,326,Merged
