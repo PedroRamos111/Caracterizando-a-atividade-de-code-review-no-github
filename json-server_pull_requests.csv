@@ -1,0 +1,10 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+Describe configuring the static folder in code,2017-03-21T13:57:58Z,,2022-03-18T21:02:26Z,1,,43759.07444444444,1,182,Closed
+Allow query params on all custom routes,2017-06-06T21:45:42Z,,2017-07-08T18:11:03Z,1,,764.4225,2,0,Closed
+#415 Missing body for POST request in middleware,2017-07-01T13:57:28Z,2017-07-14T00:41:55Z,2017-07-14T00:41:56Z,2,,298.74083333333334,4,435,Merged
+b,2018-03-22T09:23:24Z,,2018-05-08T21:29:21Z,1,,1140.0991666666666,5,0,Closed
+Create Walmart,2019-10-24T22:12:08Z,,2019-11-12T04:15:45Z,1,,438.0602777777778,1,0,Closed
+Create bookList,2020-04-24T18:21:08Z,,2020-11-15T22:59:54Z,1,,4924.646111111111,1,0,Closed
+Support custom id for _embed queries,2020-04-25T20:03:29Z,,2021-12-29T23:01:29Z,2,,14714.966666666667,0,10,Closed
+Add some useful options.,2022-05-27T12:46:08Z,,2023-04-17T01:28:42Z,4,,7788.709444444445,14,0,Closed
+Update package.json: Add repository url field,2024-01-31T07:15:06Z,2024-01-31T12:38:08Z,2024-01-31T12:38:08Z,7,,5.3838888888888885,1,104,Merged

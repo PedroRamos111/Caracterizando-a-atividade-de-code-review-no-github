@@ -1,0 +1,592 @@
+title,createdAt,mergedAt,closedAt,reviewsCount,reviewDecision,reviewTimeHours,filesChanged,description,result
+small grammar fix,2017-05-12T18:27:51Z,,2017-05-13T09:52:13Z,1,,15.40611111111111,1,0,Closed
+fix(package): Set typescript version as ~2.3.4 instead of ^2.2.1 and …,2017-07-12T17:57:23Z,,2017-09-12T11:18:22Z,2,,1481.3497222222222,1,33,Closed
+Release v4,2017-07-23T09:37:31Z,2017-09-12T11:12:53Z,2017-09-12T11:12:53Z,2,,1225.5894444444446,285,176,Merged
+Bug/Fixing a typo in error messages,2017-07-26T15:12:28Z,,2017-09-12T11:16:54Z,1,,1148.0738888888889,1,60,Closed
+Update Readme.md,2017-08-20T12:51:22Z,,2017-09-12T11:16:11Z,1,,550.4136111111111,1,17,Closed
+Add Lerna functionality,2017-10-23T03:56:58Z,,2017-10-31T12:06:53Z,1,,200.1652777777778,16,351,Closed
+Fixed typo in Readme,2017-10-25T18:26:15Z,2017-10-30T19:54:20Z,2017-10-30T19:54:20Z,1,,121.46805555555555,1,63,Merged
+"Bugfixes 18X, lerna, remove codependencies, update express",2017-11-02T19:11:25Z,2017-11-03T14:33:06Z,2017-11-03T14:33:06Z,1,,19.36138888888889,48,0,Merged
+Use route custom param decorators,2017-11-11T19:28:11Z,2017-11-22T19:19:19Z,2017-11-22T19:19:19Z,1,,263.8522222222222,0,718,Merged
+Create ISSUE_TEMPLATE to quickly sort out issues,2017-11-14T22:29:36Z,2017-11-19T19:01:26Z,2017-11-19T19:01:26Z,8,,116.53055555555555,1,0,Merged
+Add contribution guidelines v1,2017-11-17T01:52:01Z,2017-12-15T21:55:35Z,2017-12-15T21:55:35Z,10,,692.0594444444445,3,70,Merged
+ci(): add format checker,2017-11-17T02:04:19Z,,2017-12-21T19:15:47Z,9,,833.1911111111111,897,361,Closed
+"fix(@nestjs/core) application context, support symbol",2017-11-30T05:56:38Z,2017-12-15T13:30:56Z,2017-12-15T13:30:56Z,2,,367.57166666666666,1,153,Merged
+fix(microservices-example): Remove unused imports,2017-12-07T16:03:11Z,2017-12-10T20:04:19Z,2017-12-10T20:04:19Z,2,,76.0188888888889,1,53,Merged
+Fix: ECONNREFUSED killing TCP microservice,2017-12-11T02:35:58Z,,2017-12-15T21:41:00Z,1,,115.0838888888889,1,327,Closed
+[SEMVER-MAJOR] chore(): deprecate modules property,2017-12-23T19:41:42Z,2018-02-16T00:13:12Z,2018-02-16T00:13:12Z,1,,1300.525,3,147,Merged
+Update dependency in mockgoose example,2018-01-02T21:07:28Z,2018-01-04T14:43:59Z,2018-01-04T14:44:00Z,1,,41.60861111111111,2,58,Merged
+Improvement: Unused constant schema,2018-01-23T14:37:19Z,2018-02-04T08:39:33Z,2018-02-04T08:39:33Z,1,,282.0372222222222,1,0,Merged
+Remove unused import,2018-01-24T00:33:49Z,2018-02-04T08:38:53Z,2018-02-04T08:38:53Z,1,,272.08444444444444,1,0,Merged
+feat(@nestjs/common) improve the ValidationPipe,2018-01-29T14:09:07Z,2018-02-11T11:27:18Z,2018-02-11T11:27:18Z,10,,309.30305555555555,4,2459,Merged
+Parse int pipe improvement,2018-01-30T08:36:48Z,2018-02-05T15:16:15Z,2018-02-05T15:16:15Z,2,,150.6575,2,716,Merged
+allow to use symbols for get injected dependencies,2018-02-16T15:08:58Z,,2018-02-18T21:59:00Z,2,,54.833888888888886,1,8,Closed
+fix(common): expose http module and service,2018-03-03T23:09:17Z,,2018-03-08T10:42:13Z,1,,107.54888888888888,1,86,Closed
+chore: cache node_modules,2018-05-06T14:32:38Z,2018-07-25T17:54:43Z,2018-07-25T17:54:43Z,1,,1923.3680555555557,1,53,Merged
+chore: add Node.js 10,2018-05-06T14:33:48Z,2018-07-25T17:57:10Z,2018-07-25T17:57:10Z,3,,1923.3894444444445,3,75,Merged
+Added option for the logging in Fixes #709,2018-05-21T07:23:12Z,,2018-05-25T11:38:20Z,2,,100.25222222222222,3,1107,Closed
+feat(sample): create example for using dynamodb data mapper annotations,2018-05-31T20:32:24Z,,2020-01-24T12:54:53Z,10,,14464.374722222223,16,1442,Closed
+Feature/grpc cancellation,2018-06-08T14:15:51Z,2018-06-21T19:53:55Z,2018-06-21T19:53:55Z,1,,317.63444444444445,5,1652,Merged
+feature(@nestjs/core) display known dependency names in unknown dependency exception,2018-06-26T08:03:29Z,2018-07-25T17:43:22Z,2018-07-25T17:43:22Z,6,,705.6647222222222,9,1031,Merged
+refactor(@nestjs/websocket) ws support for connection req,2018-06-28T02:37:07Z,,2018-08-31T12:38:22Z,2,,1546.0208333333333,4,1192,Closed
+refactor(): reduce complexity of NestFactory.create signature,2018-07-15T16:35:22Z,2018-07-25T17:49:51Z,2018-07-25T17:49:51Z,1,,241.24138888888888,1,1277,Merged
+feature(@nestjs/microservices) RabbitMQ support,2018-07-17T16:27:48Z,,2018-10-05T20:49:06Z,5,,1924.355,20,1662,Closed
+[WIP] 5.2.0 minor release,2018-07-25T18:21:40Z,2018-08-22T13:47:54Z,2018-08-22T13:47:54Z,1,,667.4372222222222,228,1105,Merged
+[wip] use yarn workspace to build packages,2018-08-08T17:46:58Z,,2018-09-06T10:35:18Z,3,,688.8055555555555,48,1283,Closed
+refactor: use some method,2018-08-09T06:28:57Z,2018-08-16T12:08:36Z,2018-08-16T12:08:36Z,2,,173.66083333333333,5,1105,Merged
+refactor clean as any,2018-10-03T12:04:56Z,2018-10-05T13:01:38Z,2018-10-05T13:01:38Z,1,,48.945,20,1105,Merged
+"refactor(microservices) refactor, improvements, use es6 map",2018-10-03T20:16:23Z,2018-12-10T21:38:50Z,2018-12-10T21:38:50Z,11,,1633.3741666666667,61,1194,Merged
+feature(core) property based injection (composition),2018-10-06T10:47:02Z,2018-10-19T11:54:18Z,2018-10-19T11:54:18Z,1,APPROVED,313.12111111111113,24,1109,Merged
+"build: refactor packages structure, remove bundle",2018-10-06T14:19:19Z,2018-10-17T19:31:32Z,2018-10-17T19:31:32Z,3,,269.2036111111111,826,1516,Merged
+build: hide package lock during a PR,2018-10-08T09:09:45Z,2018-10-09T07:57:47Z,2018-10-09T07:57:47Z,1,APPROVED,22.800555555555555,1,1184,Merged
+websockets(bug) send message to client only in open state,2018-10-10T13:31:06Z,2018-10-17T19:43:03Z,2018-10-17T19:43:03Z,1,,174.19916666666666,1,1186,Merged
+refactor: simplified if,2018-10-18T11:53:21Z,2018-11-30T12:31:28Z,2018-11-30T12:31:28Z,1,,1032.6352777777777,12,1105,Merged
+refactor(common): refactor validation pipe,2018-10-19T18:59:35Z,,2018-11-05T17:23:05Z,2,,406.39166666666665,1,1105,Closed
+" refactor: general refactor (explicit types, generics, components)",2018-11-24T16:29:18Z,2018-11-30T12:43:52Z,2018-11-30T12:43:52Z,3,,140.24277777777777,170,1105,Merged
+feature() extract platforms (express/fastify/socket.io/ws),2018-11-30T15:49:16Z,2018-12-29T09:46:47Z,2018-12-29T09:46:47Z,3,,689.9586111111112,125,1153,Merged
+feature(core): allow Array in request mapping decorator,2018-12-19T15:22:53Z,2019-02-05T13:07:48Z,2019-02-05T13:07:48Z,3,,1149.7486111111111,7,1387,Merged
+implement server grpc max received & send message length option,2018-12-20T10:40:40Z,2019-01-14T23:30:03Z,2019-01-14T23:30:03Z,6,,612.8230555555556,7,1471,Merged
+[next] refactor/lifecycle hooks,2019-01-02T11:55:37Z,2019-01-30T22:08:52Z,2019-01-30T22:08:52Z,6,,682.2208333333333,21,1615,Merged
+refactor(microservices): grpc server streaming error handling,2019-01-24T15:04:31Z,,2019-04-16T23:51:14Z,1,,1976.778611111111,2,1167,Closed
+refactor(sample/11) change sample to reflect real world usage + typed…,2019-01-29T15:04:12Z,2019-07-01T12:41:40Z,2019-07-01T12:41:40Z,6,,3669.6244444444446,4,1212,Merged
+feature(core): Add multi option for custom providers,2019-02-02T22:02:44Z,,2019-06-26T21:17:59Z,2,,3455.2541666666666,11,1725,Closed
+feature(sample/19) minimal google social media login example with jwt…,2019-02-07T13:49:18Z,,2020-01-24T12:54:39Z,2,,8423.089166666667,6,1116,Closed
+Add socketOptions to RMQ connection for client and server,2019-02-12T11:38:22Z,2019-04-10T11:00:10Z,2019-04-10T11:00:10Z,5,,1367.3633333333332,7,1164,Merged
+build(sinon) update sinon and related dependencies,2019-02-14T15:11:13Z,2019-02-18T13:10:15Z,2019-02-18T13:10:15Z,2,,93.98388888888888,15,420,Merged
+ci(node) Fix compatibility with Node 11 and execute tests on it in CI,2019-02-14T15:16:51Z,2019-02-18T13:07:24Z,2019-02-18T13:07:24Z,2,,93.8425,3,499,Merged
+bugfix(common) allow classes as data parameter in createParamDecorato…,2019-02-15T11:46:54Z,2019-05-30T14:45:30Z,2019-05-30T14:45:30Z,3,,2498.9766666666665,2,970,Merged
+fix(@nestjs/core): Display Symbol in UnknownDependencyException,2019-02-16T14:20:29Z,2019-02-21T10:10:26Z,2019-02-21T10:10:26Z,2,,115.8325,4,1711,Merged
+feat(GRPC): Stream decorator and stream handler pass-through for Controllers to support GRPC Duplex streams defined with Protobuf,2019-02-18T07:11:16Z,2019-05-30T09:46:05Z,2019-05-30T09:46:05Z,1,,2426.5802777777776,7,2570,Merged
+build(test/linting) update test/linting dependencies,2019-02-18T13:51:14Z,2019-02-28T13:26:42Z,2019-02-28T13:26:43Z,1,,239.5911111111111,2,367,Merged
+[6.0.0-next] fix(@nestjs/core) process memory leak on application shutdown in e2e tests,2019-03-01T18:45:23Z,2019-03-05T11:43:32Z,2019-03-05T11:43:32Z,15,,88.96916666666667,8,1481,Merged
+fix dispatchEvent,2019-03-25T18:36:45Z,2019-03-26T10:29:50Z,2019-03-26T10:29:50Z,4,,15.884722222222223,1,1154,Merged
+(wip): GRPC exception and mapping,2019-04-08T16:54:45Z,,2021-01-13T11:54:19Z,12,,15498.992777777778,16,1557,Closed
+feat(microservices) @Client definition parameters to be passed as a Promise container,2019-04-26T01:53:08Z,,2019-05-15T04:28:04Z,6,,458.58222222222224,1,1463,Closed
+feature(microservices): Return correct client type in ClientProxyFactory,2019-05-20T17:51:29Z,2019-05-30T13:39:35Z,2019-05-30T13:39:35Z,1,,235.80166666666668,1,2210,Merged
+fix(sample): Update sample to avoid deprecated secretOrPrivateKey,2019-05-21T13:04:05Z,2019-05-22T11:35:34Z,2019-05-22T11:35:34Z,1,,22.524722222222223,1,1261,Merged
+Improve auth example by using customized guard,2019-06-01T02:00:54Z,,2019-06-28T11:05:11Z,1,,657.0713888888889,1,862,Closed
+feat(@nestjs/core): support transient-scope provider and request-scop…,2019-06-13T02:45:25Z,,2019-07-31T09:38:49Z,8,,1158.89,8,2108,Closed
+feat(@nestjs/core): execute middleware of dependent modules first. #1451,2019-06-17T02:23:06Z,2019-08-26T12:32:31Z,2019-08-26T12:32:31Z,2,,1690.1569444444444,4,1106,Merged
+Microservices: Order of pattern fields,2019-06-21T11:11:31Z,2019-06-28T11:58:18Z,2019-06-28T11:58:18Z,24,,168.77972222222223,9,1344,Merged
+fix(core) add a replacer to handle functions/classes when creating mo…,2019-06-26T15:56:28Z,2019-06-28T09:56:20Z,2019-06-28T09:56:20Z,2,CHANGES_REQUESTED,41.99777777777778,2,1204,Merged
+feat(core): Add multi provider option,2019-06-26T21:17:22Z,,2023-02-01T13:07:19Z,5,,31575.8325,13,1965,Closed
+"feature(core): add ExecutionContext, ArgumentsHost type check #1581",2019-07-02T12:59:11Z,2019-09-16T08:10:58Z,2019-09-16T08:10:58Z,4,,1819.1963888888888,13,1107,Merged
+Bugfix: Make errors serializable by default,2019-07-04T01:15:19Z,2019-07-09T13:13:55Z,2019-07-09T13:13:56Z,3,,131.97666666666666,6,1269,Merged
+ci(): Build samples in Pipeline,2019-07-08T19:59:41Z,2019-07-10T16:56:52Z,2019-07-10T16:56:52Z,4,,44.95305555555556,16,1174,Merged
+feat(core): Add beforeApplicationShutdown hook,2019-07-12T19:21:49Z,2019-08-24T15:19:21Z,2019-08-24T15:19:21Z,7,,1027.9588888888889,13,1822,Merged
+bugfix(commons): Fixing HttpError stack property serialization,2019-07-14T19:40:57Z,,2019-07-23T06:06:35Z,4,,202.4272222222222,2,1163,Closed
+feature(redirect decorator) add redirect decorator,2019-07-23T00:48:45Z,2019-08-26T08:42:29Z,2019-08-26T08:42:29Z,5,,823.8955555555556,12,1762,Merged
+feat(core): add resolve method to load scoped classes,2019-07-31T09:38:21Z,2019-08-26T10:38:41Z,2019-08-26T10:38:42Z,1,,625.0055555555556,16,1201,Merged
+Add API documentation,2019-07-31T23:17:49Z,2019-08-26T20:45:42Z,2019-08-26T20:45:42Z,7,,621.4647222222222,83,703,Merged
+bugfix(microservices): update isTerminated during close,2019-08-06T09:41:03Z,2019-08-24T09:16:14Z,2019-08-24T09:16:14Z,1,APPROVED,431.5863888888889,1,1152,Merged
+refactor(core): more descriptive unknown element exception,2019-08-08T22:41:42Z,2019-08-24T15:15:05Z,2019-08-24T15:15:05Z,4,APPROVED,376.5563888888889,2,1190,Merged
+feat(microservice) Kafka Support #2361,2019-08-12T22:32:56Z,2019-09-04T11:13:00Z,2019-09-04T11:13:00Z,10,,540.6677777777778,55,1052,Merged
+chore(samples): fix docker compose duplicate key,2019-08-14T09:17:56Z,2019-08-15T11:29:46Z,2019-08-15T11:29:46Z,1,APPROVED,26.197222222222223,1,1116,Merged
+feat(core) allow the NestModule.configure() method to be async,2019-08-18T18:14:42Z,2019-08-26T08:18:56Z,2019-08-26T08:18:56Z,2,,182.07055555555556,19,1203,Merged
+Added seconds to logger timestamp,2019-08-19T07:08:59Z,2019-08-24T17:37:13Z,2019-08-24T17:37:13Z,2,APPROVED,130.47055555555556,1,1400,Merged
+fix(core): Do not call onModuleInit if is null,2019-08-22T06:51:39Z,2019-08-24T09:15:49Z,2019-08-24T09:15:49Z,1,APPROVED,50.40277777777778,7,1163,Merged
+feature(common) move createResponseBody to HttpException,2019-08-22T13:51:58Z,2019-08-24T15:18:47Z,2019-08-24T15:18:47Z,2,APPROVED,49.44694444444445,22,1308,Merged
+[WIP] CI benchmarks,2019-09-05T08:59:01Z,,2019-09-07T11:03:19Z,1,,50.071666666666665,9,1105,Closed
+feature(common) Add CacheTTL decorator. Cache decorators priority over global defaults.,2019-09-12T22:21:55Z,2019-10-31T12:25:35Z,2019-10-31T12:25:35Z,5,,1166.0611111111111,6,1981,Merged
+feat(microservices) add matchMqttPattern to server mqtt,2019-09-14T04:18:41Z,2020-02-20T12:37:41Z,2020-02-20T12:37:42Z,5,,3824.3166666666666,4,1171,Merged
+feat() add host matching support to controllers,2019-09-18T11:12:46Z,2020-01-24T13:19:31Z,2020-01-24T13:19:31Z,1,,3074.1125,33,1817,Merged
+feat(nestjs/core): run `onApplicationListen` hook after listen server…,2019-09-18T15:03:06Z,,2021-02-01T12:07:49Z,1,,12045.078611111112,9,1118,Closed
+feat(errors): update error messaging to provide solutions,2019-09-21T17:45:13Z,2019-09-30T08:32:17Z,2019-09-30T08:32:17Z,1,,206.78444444444443,6,326,Merged
+feat(core): middleware should run once for one request. (#1628),2019-09-24T03:11:54Z,,2019-10-03T08:27:54Z,1,,221.26666666666668,2,1247,Closed
+refactor() remove optional package,2019-09-26T11:20:52Z,2019-09-30T08:22:22Z,2019-09-30T08:22:22Z,2,,93.025,5,1105,Merged
+feat(common): move axios to peer dependencies,2019-09-26T13:57:35Z,,2021-02-01T12:13:46Z,19,,11854.269722222221,5,1107,Closed
+fix(common): class-validator interface v0.10.1,2019-09-28T13:05:12Z,2019-09-30T08:31:02Z,2019-09-30T08:31:02Z,1,,43.43055555555556,1,1105,Merged
+feat(microservices) make packets more lightweight,2019-09-30T09:45:43Z,2020-02-20T13:32:46Z,2020-02-20T13:32:46Z,1,,3435.784166666667,6,1103,Merged
+Feature/grpc multipackage,2019-10-03T17:40:32Z,,2019-11-16T18:25:53Z,12,,1056.7558333333334,11,2126,Closed
+feat(apply-decorators),2019-10-06T09:29:08Z,2019-10-31T12:28:17Z,2019-10-31T12:28:18Z,3,,602.9858333333333,3,1570,Merged
+feat(core): add getUrl method to nest-applicaiton,2019-10-10T03:43:08Z,2019-10-31T12:34:48Z,2019-10-31T12:34:49Z,5,APPROVED,512.8611111111111,14,2246,Merged
+ci(): Lint commit messages,2019-10-10T18:19:41Z,2019-10-11T07:09:37Z,2019-10-11T07:09:37Z,1,,12.832222222222223,4,1912,Merged
+Add unit/e2e tests for mongo-typeorm sample,2019-10-12T22:05:36Z,,2021-01-13T11:59:27Z,3,CHANGES_REQUESTED,11005.8975,9,1064,Closed
+fix(core): fix hooks being called when registered as alias,2019-10-19T09:37:30Z,2019-12-27T12:12:36Z,2019-12-27T12:12:36Z,2,,1658.585,8,1218,Merged
+feat(): add ip route param,2019-10-24T09:55:29Z,2019-11-03T20:02:33Z,2019-11-03T20:02:33Z,1,APPROVED,250.11777777777777,4,998,Merged
+fix(common): Single `stdout.write()` call per logging in default `Logger`,2019-11-07T09:55:24Z,2019-11-15T12:12:01Z,2019-11-15T12:12:02Z,2,APPROVED,194.27694444444444,1,1873,Merged
+feat(core): change listen to reject on server bind failures,2019-11-08T07:43:37Z,2021-01-27T11:57:33Z,2021-01-27T11:57:33Z,10,,10708.232222222223,14,1588,Merged
+feat(@nestjs/core): Add RouterModule to the core,2019-11-28T15:05:19Z,,2020-12-28T12:14:37Z,3,,9501.155,9,1672,Closed
+fix(core): correct redirect decorator metadata interface,2019-12-09T15:01:21Z,2020-02-06T09:53:24Z,2020-02-06T09:53:24Z,1,APPROVED,1410.8675,2,1147,Merged
+fix(core): update normalize path logic to support global prefix,2019-12-16T01:12:40Z,,2020-03-10T10:02:36Z,1,,2048.8322222222223,1,1585,Closed
+Fix unknown dependency exception,2019-12-16T18:12:35Z,2019-12-27T11:58:22Z,2019-12-27T11:58:22Z,3,,257.7630555555556,5,1312,Merged
+feat(fastify): added description of the listen method,2020-01-11T15:22:49Z,2020-01-24T12:18:04Z,2020-01-24T12:18:04Z,2,,308.92083333333335,1,1107,Merged
+feat(common): ParseIntPipe has an optional exceptionfactory,2020-01-27T08:19:14Z,2020-02-20T13:27:12Z,2020-02-20T13:27:12Z,2,,581.1327777777777,2,1191,Merged
+refactor(common): fix exceptions doc/var names,2020-02-11T22:51:26Z,2020-03-11T21:34:34Z,2020-03-11T21:34:34Z,1,,694.7188888888888,20,1439,Merged
+added default logger and typings generate script,2020-03-12T10:04:49Z,,2020-03-14T12:05:52Z,2,,50.0175,2,1105,Closed
+Feat/iterate over everything,2020-03-17T10:19:20Z,2020-03-26T16:01:48Z,2020-03-26T16:01:48Z,9,,221.70777777777778,24,9590,Merged
+feat(common): add nested validation errors parse,2020-03-20T13:43:29Z,2020-03-26T16:53:12Z,2020-03-26T16:53:12Z,4,,147.16194444444446,1,4589,Merged
+feat(microservice): hybrid microservice can inherit config,2020-03-23T10:41:46Z,2020-05-24T11:51:01Z,2020-05-24T11:51:01Z,2,,1489.1541666666667,6,1333,Merged
+feat(common): add exception code option in validation pipe,2020-03-24T11:35:14Z,2020-03-26T13:22:37Z,2020-03-26T13:22:37Z,7,,49.789722222222224,6,1419,Merged
+fix(microservices): RMQ json [de]serialization,2020-03-30T21:20:40Z,,2021-02-08T10:27:23Z,1,,7549.111944444445,9,1403,Closed
+feat(): add an ascii cat to every log message,2020-04-01T15:05:28Z,,2020-04-04T10:37:49Z,5,APPROVED,67.53916666666667,3,1395,Closed
+fix(common): change cache ttl decorator to set 0 value ttl,2020-04-03T20:38:24Z,2020-04-10T11:36:36Z,2020-04-10T11:36:37Z,3,,158.97,1,1517,Merged
+feat(core): add code excerpt in unknown dependency message,2020-04-13T00:36:00Z,,2020-07-21T21:49:30Z,4,,2397.225,6,1522,Closed
+fix(core): improve error message when imported module is nil,2020-04-13T21:51:04Z,2020-05-12T12:00:05Z,2020-05-12T12:00:05Z,7,,686.1502777777778,8,1087,Merged
+GRPC: Fix credentials and introduce arguments,2020-04-16T00:01:38Z,,2020-05-24T11:54:47Z,1,,923.8858333333334,3,1190,Closed
+feat(common): add a default-value pipe,2020-04-18T22:37:11Z,2020-05-12T10:06:28Z,2020-05-12T10:06:28Z,6,,563.4880555555555,3,1139,Merged
+feature(microservice): decorator MessagePattern get new attribute 'transport',2020-05-09T22:54:05Z,2020-05-24T11:19:46Z,2020-05-24T11:19:46Z,9,,348.42805555555555,27,1372,Merged
+feat(core): add support to default  serializer options,2020-05-17T00:46:23Z,2020-06-18T14:05:18Z,2020-06-18T14:05:18Z,1,,781.3152777777777,1,1426,Merged
+sample(12): Example of how to use @ResolveField,2020-05-23T21:28:48Z,2021-02-01T12:44:58Z,2021-02-01T12:44:58Z,2,,6087.269444444444,7,2312,Merged
+feat(sse): Implement Server-Sent Events,2020-05-25T10:40:03Z,2020-10-30T13:57:40Z,2020-10-30T13:57:40Z,16,,3795.293611111111,29,856,Merged
+refactor(microservices): rmq connection errors are now being logged,2020-06-15T11:24:01Z,2020-06-18T11:33:27Z,2020-06-18T11:33:27Z,1,,72.15722222222222,1,1319,Merged
+feat(microservices): ClientsModule.registerAsync,2020-06-15T14:03:06Z,2020-07-01T12:41:23Z,2020-07-01T12:41:23Z,7,,382.6380555555556,8,1113,Merged
+feat(platform): add multer support for fastify platform,2020-06-18T04:40:01Z,,2024-05-21T20:14:19Z,2,,34407.57166666666,24,1224,Closed
+Add X-Powered-By: NestJS header information,2020-07-21T22:51:26Z,,2020-08-19T10:59:40Z,5,,684.1372222222222,10,1262,Closed
+fix(microservice): handle promise return by 'registerModules' properly,2020-07-23T14:21:24Z,2020-07-29T09:01:12Z,2020-07-29T09:01:12Z,2,,138.66333333333333,1,1268,Merged
+feat(microservices): Add grpc metadata to server responce,2020-07-24T08:03:13Z,2020-10-30T13:05:36Z,2020-10-30T13:05:36Z,6,,2357.0397222222223,6,1648,Merged
+fix(common): support info level type,2020-07-30T08:06:36Z,,2020-08-14T00:33:45Z,1,,352.4525,1,1329,Closed
+"Use .toString() as functions' representation,  fix #5140",2020-08-01T09:50:58Z,2020-11-02T09:40:44Z,2020-11-02T09:40:44Z,6,,2231.8294444444446,1,1157,Merged
+feat(packages): Add a wrapper setLocals function around native express.locals property,2020-08-03T23:00:15Z,,2020-08-12T12:32:11Z,1,,205.53222222222223,3,937,Closed
+feat(core): add support to controller path alias,2020-08-04T12:35:35Z,2020-12-08T10:35:37Z,2020-12-08T10:35:37Z,4,,3022.0005555555554,11,2024,Merged
+feat(core): add file send capability,2020-08-15T23:57:25Z,2021-02-01T13:35:07Z,2021-02-01T13:35:07Z,2,,4069.6283333333336,12,1547,Merged
+feat(core): exclude route from global prefix,2020-08-19T21:44:19Z,2021-02-02T12:28:45Z,2021-02-02T12:28:45Z,4,,3998.7405555555556,12,2090,Merged
+feat(core): Add abortOnError option in NestApplicationContextOptions,2020-08-25T12:32:02Z,2020-10-29T13:22:34Z,2020-10-29T13:22:34Z,2,,1560.8422222222223,2,1351,Merged
+Ignore Buffer metatypes in validation pipe,2020-09-02T08:31:42Z,2020-09-07T11:07:11Z,2020-09-07T11:07:11Z,1,APPROVED,122.59138888888889,1,1421,Merged
+fix(core): add missing optional dependencies,2020-09-25T15:26:11Z,2020-12-09T13:37:46Z,2020-12-09T13:37:47Z,2,,1798.1930555555555,5,1885,Merged
+test(jwt-sample): adds tests to the jwt to show e2e flow works,2020-10-03T18:38:03Z,2020-11-02T09:47:26Z,2020-11-02T09:47:27Z,6,,711.1563888888888,4,1177,Merged
+test(file-upload): creates an example and test for file uploading,2020-10-03T21:27:10Z,2020-11-02T09:48:25Z,2020-11-02T09:48:25Z,10,,708.3541666666666,15,1221,Merged
+bugfix(microservices/nats): check replyTo channel existence,2020-10-05T14:11:45Z,2020-10-29T12:50:33Z,2020-10-29T12:50:33Z,1,,574.6466666666666,2,1023,Merged
+catch errors into error variable to avoid crashes,2020-10-14T21:02:54Z,,2020-10-29T09:28:24Z,1,,348.425,6,1353,Closed
+test: fix guard decorator test names,2020-10-19T05:38:08Z,2020-10-27T11:32:07Z,2020-10-27T11:32:07Z,2,,197.8997222222222,1,1112,Merged
+fix(common): expectedType get overriden by metatype,2020-10-25T16:58:26Z,2020-10-30T13:10:50Z,2020-10-30T13:10:50Z,3,,116.20666666666666,2,1120,Merged
+feature(microservices): update acceptable types in RabbitMq urls,2020-10-26T10:42:11Z,2020-11-02T08:58:57Z,2020-11-02T08:58:57Z,9,,166.27944444444444,4,1107,Merged
+fix(): use class reference as injection token,2020-10-28T22:38:59Z,,2021-01-13T10:28:23Z,2,,1835.8233333333333,4,1316,Closed
+fix(platform-fastify): adds missing chaining API types for LightMyRequest inject(),2020-10-30T08:34:58Z,2020-11-02T09:09:19Z,2020-11-02T09:09:19Z,2,,72.5725,3,1744,Merged
+fix(core): patch CVE-2020-15168,2020-11-04T18:02:07Z,,2020-12-08T09:00:17Z,3,APPROVED,806.9694444444444,3,1272,Closed
+feat: timestemp inside LoggerSerivce can be overridden ,2020-11-10T10:01:09Z,2020-12-08T10:17:05Z,2020-12-08T10:17:05Z,1,,672.2655555555556,1,1524,Merged
+refactor(common): change names of createBody arguments,2020-11-11T18:15:14Z,2020-11-17T07:46:14Z,2020-11-17T07:46:14Z,1,APPROVED,133.51666666666668,1,1823,Merged
+Feat/microservice deserialize error,2020-11-17T17:07:05Z,2021-02-01T13:26:45Z,2021-02-01T13:26:45Z,2,,1820.3277777777778,7,1951,Merged
+fix: Ack never called when no data sent,2020-11-17T20:42:04Z,2020-11-18T13:05:34Z,2020-11-18T13:05:34Z,1,APPROVED,16.391666666666666,2,1080,Merged
+feat(common): await for exception factory in validation pipe,2020-11-19T16:17:29Z,2020-11-23T08:49:52Z,2020-11-23T08:49:52Z,2,APPROVED,88.53972222222222,1,1018,Merged
+Fix to RMQ socketoptions being incorrectly passed to ampq-connection-manager,2020-11-25T20:01:43Z,2020-12-09T12:59:25Z,2020-12-09T12:59:25Z,2,CHANGES_REQUESTED,328.96166666666664,3,1375,Merged
+feat(microservices): log event name w/o handler,2020-11-28T00:58:42Z,2020-12-08T09:02:11Z,2020-12-08T09:02:11Z,3,APPROVED,248.05805555555557,1,1264,Merged
+docs(core): edit contribution guide,2020-11-28T01:11:19Z,2020-11-28T11:17:32Z,2020-11-28T11:17:32Z,1,APPROVED,10.10361111111111,1,1160,Merged
+Fix for #5816,2020-11-28T14:52:00Z,2020-12-08T12:07:27Z,2020-12-08T12:07:27Z,5,,237.2575,1,1067,Merged
+feat(core): expose app.locals to express adapter,2020-11-28T19:59:47Z,2020-12-08T09:44:43Z,2020-12-08T09:44:44Z,2,APPROVED,229.7488888888889,6,1146,Merged
+"refactor: jsdoc fixes for INestApplication, INestMicroservice, MiddlewareConsumer and MiddlewareConfigProxy",2020-11-28T23:38:28Z,2020-11-30T07:52:44Z,2020-11-30T07:52:45Z,1,APPROVED,32.23777777777778,4,1603,Merged
+fix(microservices): listen method is void return type,2020-11-28T23:45:48Z,2020-11-30T07:46:26Z,2020-11-30T07:46:26Z,2,APPROVED,32.010555555555555,1,1236,Merged
+feat(common): change error log to use stderr,2020-12-17T07:22:52Z,,2020-12-21T01:11:59Z,2,,89.81861111111111,1,1153,Closed
+fix(core): Change BaseExceptionFilter to only handle REST calls,2020-12-17T17:47:02Z,,2021-01-13T10:33:39Z,7,,640.7769444444444,1,1120,Closed
+feat(websockets): messagebody param extract,2020-12-17T22:45:33Z,2021-02-01T15:11:50Z,2021-02-01T15:11:50Z,1,APPROVED,1096.4380555555556,5,1741,Merged
+feat(): accept array of host filters,2020-12-18T00:41:36Z,2021-02-02T09:35:57Z,2021-02-02T09:35:57Z,1,APPROVED,1112.9058333333332,13,1824,Merged
+chore: Run linter without --fix on CI,2020-12-21T18:37:01Z,2021-01-13T10:48:22Z,2021-01-13T10:48:22Z,1,,544.1891666666667,1,947,Merged
+"feat(core): add RouterModule (e.g., for versioning)",2020-12-28T12:13:26Z,2021-01-27T11:14:31Z,2021-01-27T11:14:31Z,2,,719.0180555555555,52,1105,Merged
+chore(microservice): updated nats options,2021-01-01T17:32:03Z,2021-01-13T10:30:59Z,2021-01-13T10:30:59Z,1,APPROVED,280.9822222222222,1,1142,Merged
+feat(testing): adds builder method for optional custom logger,2021-01-04T22:03:24Z,2021-01-13T11:48:57Z,2021-01-13T11:48:57Z,1,,205.75916666666666,1,2679,Merged
+test: 💍 add test,2021-01-08T09:29:06Z,,2021-02-03T09:29:59Z,3,APPROVED,624.0147222222222,129,1105,Closed
+feat: allow to config cors async,2021-01-13T14:45:14Z,2021-01-26T07:26:08Z,2021-01-26T07:26:08Z,2,APPROVED,304.6816666666667,21,1271,Merged
+"feat(common): built-in, console logger refactor",2021-01-22T14:05:59Z,2021-01-27T11:18:23Z,2021-01-27T11:18:23Z,1,,117.20666666666666,19,1602,Merged
+feat(common): add parse float and enum pipes,2021-01-25T08:11:46Z,2021-02-02T09:22:35Z,2021-02-02T09:22:35Z,3,,193.18027777777777,5,1143,Merged
+feat(testing): add auto-mocking capabilities,2021-01-29T21:54:03Z,2021-11-22T09:37:06Z,2021-11-22T09:37:07Z,18,,7115.7175,11,2476,Merged
+feat(common/core): api versioning,2021-01-29T22:31:24Z,2021-02-24T12:15:32Z,2021-02-24T12:15:32Z,9,,613.7355555555556,138,1654,Merged
+test: 💍 add test,2021-02-03T02:03:27Z,2021-02-03T09:14:10Z,2021-02-03T09:14:10Z,2,,7.1786111111111115,1,1105,Merged
+chore(): v8 major release [WIP],2021-02-08T12:04:36Z,2021-06-25T12:51:56Z,2021-06-25T12:51:57Z,2,,3288.788888888889,350,4503,Merged
+feat(cache): allow for cache interceptor to be more easily extended,2021-02-17T00:42:51Z,2021-03-16T07:16:38Z,2021-03-16T07:16:38Z,8,,654.5630555555556,1,1559,Merged
+fix: update CORS origin type,2021-03-08T13:28:11Z,2021-03-12T11:27:04Z,2021-03-12T11:27:04Z,1,,93.98138888888889,1,1474,Merged
+refactor(common): Removed circular dependencies in pipes,2021-03-09T08:39:54Z,2021-03-12T11:26:42Z,2021-03-12T11:26:42Z,2,,74.78,6,1204,Merged
+fix(common): change cache ttl decorator to apply non expiring ttl,2021-03-10T16:29:03Z,2021-03-12T11:25:27Z,2021-03-12T11:25:27Z,2,,42.94,1,1457,Merged
+fix(nats): propagate client request error,2021-03-18T14:09:24Z,,2021-07-27T08:48:55Z,4,APPROVED,3138.658611111111,2,1280,Closed
+Adapted NatsOptions to original ClientOpts,2021-03-22T18:28:05Z,,2021-07-27T08:48:47Z,1,,3038.345,1,419,Closed
+fix(deps): added dependecy @nestjs/platform-express in sample 04-grpc,2021-03-26T17:34:41Z,2021-03-29T07:29:03Z,2021-03-29T07:29:03Z,1,,61.90611111111111,2,1585,Merged
+fix: reorder kafka config assignment to pass down a custom log creator,2021-03-30T15:46:28Z,2021-06-28T08:31:44Z,2021-06-28T08:31:44Z,2,,2152.7544444444443,2,1410,Merged
+unnecessary referencing parent directory in import,2021-04-07T00:15:57Z,2021-04-07T05:59:22Z,2021-04-07T05:59:22Z,1,APPROVED,5.723611111111111,1,832,Merged
+fix(core): remove transfer-encoding header in sse response,2021-04-13T19:57:24Z,2021-06-28T07:50:35Z,2021-06-28T07:50:35Z,4,APPROVED,1811.8863888888889,1,1325,Merged
+sample(): added sample oauth2-client,2021-05-19T15:25:51Z,,2022-05-13T10:50:45Z,5,,8611.415,21,1250,Closed
+fix(common): LoggerService JSON.stringify() doesnt know how to serial…,2021-05-27T16:46:11Z,2021-06-28T09:42:08Z,2021-06-28T09:42:08Z,1,,760.9325,1,1127,Merged
+Fix get url,2021-06-21T19:16:58Z,,2021-07-27T08:48:16Z,2,APPROVED,853.5216666666666,4,1500,Closed
+Transform,2021-06-23T17:30:42Z,,2021-06-24T06:41:25Z,1,CHANGES_REQUESTED,13.178611111111111,3,1347,Closed
+fix(microservices): fixed bug that socketOptions object not passed to…,2021-06-29T15:32:23Z,2021-06-30T07:15:50Z,2021-06-30T07:15:50Z,1,APPROVED,15.724166666666667,1,1308,Merged
+feat(microservice): add TLS over TCP support,2021-07-11T12:10:15Z,,2023-02-01T12:04:34Z,6,,13679.905277777778,15,1578,Closed
+"fix: FastifyAdapter Middleware no run, ExpressAdapter createMiddlewareFactory",2021-07-14T04:31:38Z,2021-07-27T10:45:15Z,2021-07-27T10:45:15Z,2,,318.2269444444444,11,1322,Merged
+fix(platform-express): only set Content-Type if not done for StramableFiles,2021-07-16T11:49:48Z,2021-07-27T08:35:15Z,2021-07-27T08:35:15Z,8,APPROVED,260.7575,1,1106,Merged
+docs(common): add type for name argument in Header decorator,2021-07-18T14:36:06Z,,2021-07-27T08:44:20Z,2,,210.13722222222222,2,1428,Closed
+feat(common): add `resetContext()` to `ConsoleLogger`,2021-07-20T14:34:15Z,2021-07-27T08:35:01Z,2021-07-27T08:35:01Z,1,,162.01277777777779,2,1376,Merged
+fix(microservices): cleanup subscription in client-side streaming gRPC calls,2021-07-30T21:10:16Z,2021-08-04T06:42:13Z,2021-08-04T06:42:13Z,2,,105.5325,2,2209,Merged
+downgrade mongodb to v3,2021-08-09T17:43:00Z,2021-08-10T07:07:58Z,2021-08-10T07:07:58Z,1,,13.41611111111111,3,898,Merged
+chore(sample): add test for event emitter,2021-08-12T13:42:04Z,,2021-09-24T10:42:01Z,8,,1028.9991666666667,1,1123,Closed
+chore: minor improvements,2021-08-16T10:48:15Z,,2022-04-21T21:56:30Z,1,,5963.1375,3,1337,Closed
+fix(platform-fastify): fix versioning (media type and header),2021-08-17T09:35:36Z,2021-08-25T08:49:29Z,2021-08-25T08:49:29Z,1,,191.2313888888889,9,1105,Merged
+feat(core): add new logger for injector logging,2021-08-21T20:26:28Z,2021-10-13T12:33:14Z,2021-10-13T12:33:14Z,20,,1264.1127777777779,2,1866,Merged
+fix(core): fix middleware wouldn't run if setGlobalPrefix with exclude,2021-09-03T06:29:49Z,,2021-10-18T09:10:40Z,2,,1082.6808333333333,4,1258,Closed
+fix(common): catch number encoding in ParseIntPipe,2021-09-03T07:55:19Z,2021-09-28T06:36:42Z,2021-09-28T06:36:42Z,1,APPROVED,598.6897222222223,2,1129,Merged
+fix(deps): update dependency axios to v0.21.4,2021-09-04T12:20:32Z,2021-09-24T10:44:52Z,2021-09-24T10:44:52Z,2,,478.40555555555557,3,8199,Merged
+test(sample-05): added unit tests,2021-09-04T19:33:26Z,2021-10-21T11:55:59Z,2021-10-21T11:55:59Z,26,APPROVED,1120.3758333333333,5,1202,Merged
+ test(sample-06): added unit tests,2021-09-05T19:44:22Z,2021-10-18T10:24:47Z,2021-10-18T10:24:47Z,16,APPROVED,1022.6736111111111,5,1198,Merged
+tests(sample-13): added unit tests,2021-09-05T20:44:42Z,2021-10-07T07:01:09Z,2021-10-07T07:01:09Z,2,APPROVED,754.2741666666667,4,1206,Merged
+fix: middleware with globalPrefixOptions exclude,2021-09-06T17:02:53Z,2021-10-13T12:35:29Z,2021-10-13T12:35:29Z,3,APPROVED,883.5433333333333,8,1105,Merged
+test(sample-07): added unit tests,2021-09-07T10:29:20Z,2021-10-21T12:30:47Z,2021-10-21T12:30:47Z,29,APPROVED,1058.0241666666666,8,1201,Merged
+feat(microservices): add static headers,2021-09-07T11:12:25Z,2021-09-28T09:42:49Z,2021-09-28T09:42:49Z,2,,502.50666666666666,8,1568,Merged
+Consistent naming,2021-09-09T18:50:02Z,,2021-09-23T12:30:57Z,1,,329.68194444444447,1,171,Closed
+test(sample-3): add e2e test case,2021-09-18T08:56:39Z,,2022-05-13T10:47:58Z,1,,5689.855277777778,4,1134,Closed
+Create SECURITY.md,2021-09-20T12:59:04Z,2021-09-24T10:05:32Z,2021-09-24T10:05:32Z,1,,93.10777777777778,1,83,Merged
+feat(cache): Add cache option isGlobal,2021-09-26T09:39:10Z,2021-09-28T09:11:38Z,2021-09-28T09:11:38Z,7,APPROVED,47.541111111111114,11,1103,Merged
+fix(deps): update dependency axios to v0.22.0,2021-10-01T09:30:14Z,2021-10-05T07:41:20Z,2021-10-05T07:41:20Z,5,,94.185,3,2812,Merged
+refactor(websockets): add logging on gateway method to events/messages mount,2021-10-02T16:35:32Z,2021-10-13T12:23:32Z,2021-10-13T12:23:32Z,9,APPROVED,259.8,2,896,Merged
+feat(common): expose the `validate` method as an option in `ValidationPipe`,2021-10-03T02:14:23Z,2021-10-13T12:34:47Z,2021-10-13T12:34:47Z,1,,250.34,1,1105,Merged
+feature(microservices): expose interceptors option for grpc,2021-10-05T18:14:31Z,2021-10-13T11:59:24Z,2021-10-13T11:59:24Z,6,,185.74805555555557,1,804,Merged
+fix(microservices): use root package when packageName is not defined,2021-10-07T07:04:46Z,2021-10-13T11:59:47Z,2021-10-13T11:59:47Z,5,,148.91694444444445,2,902,Merged
+fix: flush logs on package resolution failure,2021-10-09T23:56:27Z,2021-10-11T07:04:28Z,2021-10-11T07:04:28Z,4,,31.13361111111111,1,1250,Merged
+feat(common): add too many requests exception,2021-10-17T16:33:52Z,,2021-10-17T23:01:09Z,1,,6.454722222222222,3,953,Closed
+Fix grpc channel options,2021-10-18T21:46:38Z,2021-11-08T08:28:16Z,2021-11-08T08:28:16Z,5,,490.69388888888886,5,1321,Merged
+refactor(core): avoid running useless instance wrapper's checks,2021-10-20T04:29:58Z,2021-10-20T06:41:23Z,2021-10-20T06:41:23Z,1,,2.1902777777777778,1,2423,Merged
+test(sample-14): added unit test and other improvements,2021-10-21T19:32:47Z,2021-10-29T06:29:20Z,2021-10-29T06:29:20Z,18,,178.9425,7,1269,Merged
+feat(microservices): implement preRequest message/event handler,2021-10-27T10:47:25Z,,2022-05-13T10:48:07Z,1,,4752.011666666666,8,1055,Closed
+fix(common): ParseUUIDPipe - throw exceptions with exceptionFactory only,2021-10-27T23:28:14Z,2022-05-17T11:09:16Z,2022-05-17T11:09:16Z,17,APPROVED,4835.683888888889,4,1343,Merged
+feat(microservices): adds packageDefinition option to ClientGrpc,2021-10-28T15:52:47Z,2021-11-08T08:27:49Z,2021-11-08T08:27:49Z,3,,256.5838888888889,2,1151,Merged
+feat(core/errors): adds potential solution to circular dependency for UNKNOWN_DEPENDENCIES_MESSAGE,2021-11-02T15:56:27Z,,2021-11-03T07:32:09Z,2,,15.595,2,1511,Closed
+Fix typo in ImATeapotException doc :D,2021-11-03T16:00:39Z,2021-11-04T07:10:39Z,2021-11-04T07:10:39Z,1,APPROVED,15.166666666666666,1,1121,Merged
+fix(core): use `toString()` as a fallback for dependent's name,2021-11-11T01:58:26Z,2021-11-18T08:16:42Z,2021-11-18T08:16:42Z,7,APPROVED,174.30444444444444,1,1944,Merged
+feat(common): Add custom versioning support.,2021-11-16T02:52:36Z,2022-03-01T12:51:55Z,2022-03-01T12:51:55Z,7,,2529.988611111111,8,1649,Merged
+feat(microservices): support ncc when using grpc,2021-11-17T08:04:09Z,2021-11-17T11:49:58Z,2021-11-17T11:49:58Z,2,,3.763611111111111,2,1952,Merged
+Patch 1,2021-11-20T16:25:31Z,2021-11-23T08:52:14Z,2021-11-23T08:52:14Z,2,,64.44527777777778,1,1513,Merged
+build(common): fix husky scripts,2021-11-28T11:58:43Z,2021-11-29T08:12:30Z,2021-11-29T08:12:30Z,1,APPROVED,20.22972222222222,3,1316,Merged
+fix(core): apply existing headers to sse responses,2021-11-30T04:22:34Z,2021-12-06T11:40:15Z,2021-12-06T11:40:15Z,1,APPROVED,151.29472222222222,5,1575,Merged
+"fix(common,core): auto flush logs after `useLogger` call",2021-12-04T04:41:24Z,2021-12-16T13:11:22Z,2021-12-16T13:11:22Z,8,CHANGES_REQUESTED,296.49944444444446,3,1978,Merged
+feat(core): handle errors in observable streams,2021-12-04T20:04:02Z,2021-12-17T08:58:33Z,2021-12-17T08:58:33Z,14,,300.9086111111111,3,1402,Merged
+feat(testing): support override modules in test module builder,2021-12-12T22:49:45Z,2023-04-17T12:06:21Z,2023-04-17T12:06:21Z,8,,11773.276666666667,11,1097,Merged
+"feat(core,common): raise warnings when an injectable/controller/filter is imported as a module",2021-12-14T22:13:39Z,2021-12-16T13:09:48Z,2021-12-16T13:09:48Z,14,APPROVED,38.935833333333335,11,8244,Merged
+feat(microservices): allow kafka serializer to be async and await result,2021-12-16T06:49:48Z,2022-02-14T10:59:49Z,2022-02-14T10:59:50Z,21,,1444.1669444444444,6,1723,Merged
+"refactor(common,core): use shared utils whenever possible",2021-12-16T06:50:27Z,2021-12-16T13:05:02Z,2021-12-16T13:05:02Z,3,,6.243055555555555,17,2153,Merged
+refactor(): remove duplicate function `getClassScope`,2021-12-17T04:29:01Z,2022-02-14T10:23:51Z,2022-02-14T10:23:51Z,4,,1421.9138888888888,1,1103,Merged
+fix: only send exception responses if header is not already sent,2021-12-17T08:40:50Z,2022-06-20T13:00:38Z,2022-06-20T13:00:38Z,5,,4444.33,6,1328,Merged
+sample(05-sql-typeorm): update dependecie for mysql 8.x and some improvements,2021-12-22T10:51:48Z,2021-12-23T08:44:51Z,2021-12-23T08:44:51Z,2,,21.884166666666665,2,1547,Merged
+Use `isObervable` from `rxjs` instead of our own implementation. Drop few deprecated APIs from 3rd-party libs. And other minor refactorings,2021-12-24T02:29:59Z,2021-12-27T09:44:16Z,2021-12-27T09:44:16Z,1,APPROVED,79.23805555555556,30,2966,Merged
+"Minor improvements on issue templates, and add tests to cover few missing cases",2021-12-30T21:53:23Z,2022-01-03T09:09:26Z,2022-01-03T09:09:26Z,1,,83.2675,9,1056,Merged
+sample(05-sql-typeorm): added test e2e,2022-01-02T10:59:43Z,2022-05-13T10:45:55Z,2022-05-13T10:45:55Z,7,,3143.77,5,1202,Merged
+sample(06-mongoose): removed duplicate dependencie  and not useds,2022-01-02T15:56:23Z,2022-01-03T08:54:30Z,2022-01-03T08:54:30Z,1,APPROVED,16.968611111111112,2,1407,Merged
+chore(license),2022-01-06T21:03:04Z,2022-01-07T09:40:05Z,2022-01-07T09:40:05Z,2,APPROVED,12.616944444444444,1,1144,Merged
+samples(): removed unused dependencies,2022-01-09T10:55:28Z,2022-01-14T11:05:44Z,2022-01-14T11:05:44Z,4,,120.17111111111112,4,1604,Merged
+fix(core): convert URIError thrown by the HTTP platform to BadRequestException,2022-01-14T06:50:25Z,2022-02-14T10:39:07Z,2022-02-14T10:39:07Z,2,,747.8116666666666,2,1762,Merged
+feat(microservices): add new `extras` param to `MessagePattern` and `EventPattern` decorators,2022-01-16T20:39:52Z,2022-02-14T10:45:18Z,2022-02-14T10:45:18Z,4,,686.0905555555555,11,1280,Merged
+feat(common): Added min and max options to float and int parse pipes,2022-01-18T02:09:19Z,,2022-01-18T11:27:05Z,2,,9.296111111111111,5,1297,Closed
+chore: fix Readme.md translation,2022-01-18T15:05:55Z,2022-07-28T13:50:46Z,2022-07-28T13:50:46Z,1,,4582.7475,3,1184,Merged
+chore(): update version axios,2022-01-18T20:37:53Z,,2022-01-21T12:26:31Z,5,,63.81055555555555,3,1280,Closed
+fix(pipes): add parse-file pipe,2022-01-19T19:41:19Z,,2022-06-01T09:59:23Z,1,,3182.301111111111,2,1105,Closed
+Add new Feature for Crud Application in Mongoose,2022-01-21T13:29:20Z,2022-01-28T10:19:26Z,2022-01-28T10:19:26Z,7,CHANGES_REQUESTED,164.835,2,1398,Merged
+fix: fix factory provider definition,2022-01-25T04:09:43Z,2022-05-17T11:13:22Z,2022-05-17T11:13:22Z,1,,2695.0608333333334,1,1294,Merged
+fix(microservices): handle creating error header from typical object,2022-02-04T01:32:57Z,,2022-05-13T10:43:23Z,2,,2361.173888888889,2,1512,Closed
+sample(sample/22): Update graphql-prisma sample to prisma v3,2022-02-07T19:19:06Z,,2022-07-11T06:58:01Z,9,,3683.648611111111,29,1718,Closed
+fix(common): Truncate float numbers on ParseIntPipe,2022-02-09T22:10:28Z,,2022-04-21T00:00:15Z,6,,1681.8297222222222,2,1408,Closed
+WIP: feat(instance-loader): Add disableInstanceLoaderLogs option to app,2022-02-10T18:13:13Z,,2022-02-21T07:50:13Z,1,,253.61666666666667,3,1163,Closed
+sample(33-graphql-mercurius): update dependecies,2022-02-13T21:17:01Z,2022-02-14T08:13:20Z,2022-02-14T08:13:20Z,1,,10.938611111111111,3,1773,Merged
+sample(02-gateways): Fix Redis adapter,2022-02-15T11:42:01Z,2022-02-17T12:33:39Z,2022-02-17T12:33:39Z,6,,48.86055555555556,2,3213,Merged
+feat(core): support optional dependencies in factory providers,2022-02-18T16:13:11Z,2022-03-01T12:00:40Z,2022-03-01T12:00:40Z,1,,259.7913888888889,11,1485,Merged
+feat(microservices): add support for multiple message pattern decorator,2022-02-19T21:18:34Z,2022-05-17T11:17:07Z,2022-05-17T11:17:07Z,10,,2077.9758333333334,9,1210,Merged
+feat(common): extend streamable-file header support,2022-02-21T17:00:41Z,2022-03-01T12:00:27Z,2022-03-01T12:00:27Z,10,APPROVED,186.9961111111111,8,1696,Merged
+docs(websockets): update GatewayMetadata pingTimeout default value to 20000 ms,2022-02-21T21:17:44Z,2022-02-22T08:16:02Z,2022-02-22T08:16:02Z,2,,10.971666666666666,1,1565,Merged
+fix(gateways): add the socket.io types dependency,2022-02-24T09:53:21Z,2022-03-03T08:22:01Z,2022-03-03T08:22:02Z,2,,166.4777777777778,1,1103,Merged
+fix(core): use class refs as keys (container),2022-02-28T16:49:03Z,2022-03-01T12:01:38Z,2022-03-01T12:01:38Z,1,APPROVED,19.209722222222222,4,2202,Merged
+feat(common): do not use colors in CLI if not supported,2022-03-01T20:00:19Z,2022-03-14T12:58:38Z,2022-03-14T12:58:38Z,3,,304.97194444444443,1,1526,Merged
+fix(microservices): fix event pattern behavior,2022-03-03T15:09:29Z,2022-03-14T12:58:20Z,2022-03-14T12:58:21Z,2,,261.81416666666667,2,1729,Merged
+feat(microservices): errors thrown during eachMessage execution should be passed to kafkajs,2022-03-04T00:26:51Z,,2022-05-17T11:25:22Z,5,,1786.9752777777778,161,1503,Closed
+chore: add .devcontainer to gitignore,2022-03-05T23:20:03Z,2022-03-07T08:17:53Z,2022-03-07T08:17:53Z,2,,32.96388888888889,1,1251,Merged
+fix(microservices): tcp client parallel connections issue,2022-03-07T12:53:46Z,2022-03-14T12:57:25Z,2022-03-14T12:57:25Z,1,,168.06083333333333,1,1105,Merged
+Refactoring(core): Change ReflectMetadata Params Order,2022-03-09T09:08:32Z,2022-05-17T15:04:26Z,2022-05-17T15:04:26Z,2,,1661.9316666666666,1,1410,Merged
+Minor: Update Http Enums to include 426,2022-03-09T15:10:52Z,,2022-03-10T07:32:54Z,1,,16.36722222222222,1,1130,Closed
+feat: allow custom log msg formatters,2022-03-09T15:58:09Z,2022-03-14T12:57:10Z,2022-03-14T12:57:10Z,19,APPROVED,116.98361111111112,2,1074,Merged
+fix(core): use context module for nested transient providers,2022-03-11T14:18:41Z,2022-03-14T12:56:45Z,2022-03-14T12:56:45Z,1,,70.63444444444444,1,1105,Merged
+feat(platform): add option to register raw body to request,2022-03-16T19:56:50Z,2022-05-17T11:46:06Z,2022-05-17T11:46:06Z,7,APPROVED,1479.8211111111111,15,1616,Merged
+feat(microservices): allow to set custom transport to decorators,2022-03-17T01:21:34Z,2022-03-21T08:44:40Z,2022-03-21T08:44:40Z,1,,103.385,4,1334,Merged
+feat(common): disallow usage of `inject` on class and value providers at type level,2022-03-25T14:19:14Z,2022-05-17T11:13:56Z,2022-05-17T11:13:57Z,2,APPROVED,1268.9116666666666,1,1615,Merged
+Update photo.service.ts,2022-03-25T14:52:11Z,2022-03-28T07:35:42Z,2022-03-28T07:35:42Z,2,APPROVED,64.72527777777778,1,1178,Merged
+docs(common): update hyperlinks on `@see` tag comments,2022-03-25T20:58:14Z,2022-03-28T07:36:00Z,2022-03-28T07:36:00Z,2,APPROVED,58.629444444444445,24,141,Merged
+fix(platform-fastify): fix typo,2022-03-26T18:32:12Z,2022-03-28T07:21:15Z,2022-03-28T07:21:15Z,5,APPROVED,36.8175,9,223,Merged
+fix(microservices): multiple rmq client urls issue #9364,2022-04-01T14:52:31Z,2022-04-07T11:32:17Z,2022-04-07T11:32:17Z,2,,140.6627777777778,3,1142,Merged
+feat(common): set default StreamableFile length automatically when possible,2022-04-04T19:38:05Z,2022-04-07T11:32:29Z,2022-04-07T11:32:29Z,1,,63.906666666666666,1,1011,Merged
+feat(common): change `private` modifer on built-in pipes to `protected`,2022-04-06T02:50:59Z,2022-04-07T11:33:11Z,2022-04-07T11:33:11Z,2,APPROVED,32.70333333333333,2,1549,Merged
+feat(microservices): Introduce producerOnlyMode to ClientKafka,2022-04-11T11:48:02Z,2022-05-17T11:42:38Z,2022-05-17T11:42:38Z,1,,863.91,3,1645,Merged
+chore(deps-dev): bump sinon from 13.0.1 to 13.0.2,2022-04-15T00:04:43Z,2022-05-04T11:00:59Z,2022-05-04T11:00:59Z,1,,466.9377777777778,2,4040,Merged
+fix: prevent handle leak in default e2e test,2022-04-21T17:30:12Z,2022-04-22T06:59:58Z,2022-04-22T06:59:58Z,4,,13.49611111111111,1,1394,Merged
+"feat(core,websockets): use rxjs to check if values are observables",2022-04-23T00:04:18Z,2022-05-17T11:14:05Z,2022-05-17T11:14:05Z,2,APPROVED,587.1630555555555,4,3999,Merged
+feat(common): improve extensibility on few built-in pipes,2022-04-24T22:05:29Z,2022-05-13T12:10:08Z,2022-05-13T12:10:08Z,1,,446.0775,3,2251,Merged
+feat(core): enhance circular dependency error message,2022-04-29T16:10:36Z,2022-05-13T12:09:59Z,2022-05-13T12:09:59Z,3,APPROVED,331.9897222222222,1,1438,Merged
+chore: update fastify deps,2022-04-29T23:01:16Z,2022-05-17T11:24:11Z,2022-05-17T11:24:11Z,7,,420.38194444444446,9,1365,Merged
+"feat(core): add configurable module builder, module utils",2022-05-06T16:49:44Z,2022-05-17T11:14:31Z,2022-05-17T11:14:31Z,3,APPROVED,258.41305555555556,24,1103,Merged
+fix: when version is an array with neutral version,2022-05-17T02:12:26Z,2022-05-17T11:07:59Z,2022-05-17T11:07:59Z,5,APPROVED,8.925833333333333,4,1196,Merged
+chore(): v9.0.0 release ,2022-05-17T11:51:10Z,2022-07-07T07:26:27Z,2022-07-07T07:26:27Z,1,,1219.5880555555555,171,2183,Merged
+"feat(common,core): make `HttpServer#applyVersionFilter` mandatory",2022-05-17T14:43:38Z,2022-05-18T07:29:41Z,2022-05-18T07:29:41Z,1,,16.7675,7,756,Merged
+fix(sample): id param is string type,2022-05-18T09:49:25Z,2022-05-31T09:05:27Z,2022-05-31T09:05:27Z,1,,311.26722222222224,1,439,Merged
+fix(testing): disable logs when `logger` is `false` on `TestingModule`,2022-05-22T03:50:12Z,2022-05-23T07:13:24Z,2022-05-23T07:13:24Z,1,,27.386666666666667,1,2086,Merged
+refactor(express): improve `applyVersioning` handler selector code,2022-05-22T04:32:05Z,2022-05-25T08:17:24Z,2022-05-25T08:17:24Z,4,,75.75527777777778,1,1435,Merged
+feat(testing): allow omitting `httpAdapter` arg on `createNestApplication`,2022-05-23T03:39:00Z,,2022-05-23T10:56:59Z,1,,7.299722222222222,18,1953,Closed
+feat(testing): allow omitting `httpAdapter` arg on `createNestApplication`,2022-05-23T11:11:22Z,2022-06-24T08:19:40Z,2022-06-24T08:19:40Z,1,,765.1383333333333,6,1757,Merged
+fix(testing): raw body spec not using fastify adapter,2022-05-24T08:21:42Z,2022-05-24T09:30:22Z,2022-05-24T09:30:22Z,1,,1.1444444444444444,1,1182,Merged
+fix(microservices): Fixed typings for MessageHandler,2022-05-26T18:00:09Z,2022-06-15T09:42:57Z,2022-06-15T09:42:57Z,1,,471.7133333333333,1,1580,Merged
+fix(microservices): allow `postfixId` on `KafkaOptions` to be an empty string,2022-05-28T03:51:08Z,2022-06-15T09:43:28Z,2022-06-15T09:43:28Z,2,,437.8722222222222,3,1136,Merged
+Fix typo in docs,2022-05-28T10:24:56Z,2022-05-30T06:22:23Z,2022-05-30T06:22:23Z,2,,43.9575,1,1103,Merged
+feat(core): read–eval–print loop feature,2022-05-29T14:10:26Z,2022-06-15T09:41:05Z,2022-06-15T09:41:05Z,5,,403.5108333333333,35,1270,Merged
+"chore(express): bump multer 1.4.4 to 1.4.4-lts.1 to fix ""CVE-2022-24434""",2022-05-29T20:30:22Z,2022-06-14T06:48:54Z,2022-06-14T06:48:54Z,3,,370.3088888888889,1,1162,Merged
+"feat(core,common): add helpers messages to REPL built-in functions",2022-05-30T20:42:13Z,,2022-05-31T10:24:00Z,3,,13.696388888888889,6,2660,Closed
+"feat(core,common): add help messages to REPL built-in functions",2022-05-31T06:20:01Z,2022-06-01T10:33:38Z,2022-06-01T10:33:38Z,15,,28.226944444444445,21,2553,Merged
+Feature/4752 file validator pipe,2022-05-31T20:29:56Z,,2022-06-01T16:56:02Z,11,,20.435,14,1454,Closed
+feat(common): Add error chaining support to http exception,2022-06-01T13:53:22Z,2022-06-15T09:49:31Z,2022-06-15T09:49:31Z,2,,331.93583333333333,2,1775,Merged
+fix(core): prompt respects `NO_COLOR` config,2022-06-02T02:07:09Z,2022-06-02T07:35:23Z,2022-06-02T07:35:23Z,1,,5.470555555555555,2,1134,Merged
+Feature/4752 file validators pipe,2022-06-02T17:52:12Z,2022-06-20T12:59:48Z,2022-06-20T12:59:48Z,2,,427.12666666666667,14,1454,Merged
+feat(microservices): exposes base context on the main package,2022-06-02T20:58:53Z,2022-06-14T06:49:14Z,2022-06-14T06:49:14Z,4,APPROVED,273.83916666666664,1,1180,Merged
+fix(core): prevent renaming global providers and modules in the repl,2022-06-02T22:55:11Z,2022-06-15T07:12:42Z,2022-06-15T07:12:42Z,8,,296.2919444444444,12,1529,Merged
+"Improve stripProtoKeys performance, especially for TypedArray",2022-06-07T11:08:31Z,2022-06-13T12:49:26Z,2022-06-13T12:49:26Z,6,,145.68194444444444,1,1101,Merged
+chore(): upgrade version fastify 4.x,2022-06-08T20:49:43Z,,2022-06-13T19:29:17Z,2,CHANGES_REQUESTED,118.65944444444445,20,1198,Closed
+fix(microservices): adds feedback message when RabbitMQ server connection hangs,2022-06-10T20:25:23Z,2022-06-14T06:48:24Z,2022-06-14T06:48:24Z,2,,82.38361111111111,3,1552,Merged
+sample(sample/5): sample(sample/5): change types for id param in findone,2022-06-12T14:48:16Z,2022-06-13T12:50:48Z,2022-06-13T12:50:48Z,1,,22.04222222222222,4,1191,Merged
+perf(core): use find instead of filter,2022-06-17T09:46:26Z,2022-06-20T06:38:45Z,2022-06-20T06:38:45Z,1,,68.87194444444444,1,1103,Merged
+feat(microservices): add noAssert option for RMQ connection,2022-06-18T03:00:02Z,2022-07-20T08:40:27Z,2022-07-20T08:40:27Z,2,APPROVED,773.6736111111111,4,1219,Merged
+chore: typo fix,2022-06-19T15:41:04Z,2022-06-20T06:49:48Z,2022-06-20T06:49:49Z,2,,15.145555555555555,16,1154,Merged
+feat(core): middleware runs once for matching route,2022-06-20T04:17:24Z,2023-06-12T07:47:03Z,2023-06-12T07:47:03Z,7,,8571.494166666667,2,1375,Merged
+fix(platform-fastify): deprecated package names,2022-06-20T12:06:27Z,,2022-06-21T07:31:43Z,1,,19.42111111111111,8,986,Closed
+fix: use pipeline over stream.pipe,2022-06-21T23:20:21Z,2022-07-20T08:39:36Z,2022-07-20T08:39:36Z,13,,681.3208333333333,5,1481,Merged
+chore(): fix test script,2022-06-24T19:30:28Z,2022-06-27T06:47:13Z,2022-06-27T06:47:13Z,2,,59.27916666666667,1,1158,Merged
+feat(common): file type validator,2022-06-24T21:29:44Z,2022-06-27T12:57:45Z,2022-06-27T12:57:45Z,5,,63.466944444444444,2,1224,Merged
+feat(core): add option to disable logs on `LazyModuleLoader#load`,2022-06-26T18:02:03Z,2022-07-28T09:08:54Z,2022-07-28T09:08:54Z,5,,759.1141666666666,4,1431,Merged
+chore(deps-dev): bump kafkajs from 2.0.2 to 2.1.0,2022-06-29T00:04:28Z,2022-07-07T09:22:12Z,2022-07-07T09:22:12Z,1,,201.29555555555555,2,6945,Merged
+chore(deps): bump fast-json-stringify from 5.0.1 to 5.0.5,2022-06-30T00:05:26Z,,2022-07-06T00:06:40Z,1,,144.02055555555555,2,7852,Closed
+chore(deps-dev): bump mongoose from 6.4.0 to 6.4.2,2022-07-04T00:16:58Z,,2022-07-06T00:08:26Z,1,,47.85777777777778,2,11930,Closed
+fix(microservices): Update LogEntry in external kafka interface,2022-07-06T15:04:10Z,2022-07-07T08:58:58Z,2022-07-07T08:58:58Z,1,,17.913333333333334,1,1653,Merged
+docs(websockets): update GatewayMetadata maxHttpBufferSize default value to 1 MB,2022-07-07T18:53:37Z,2022-07-08T06:21:10Z,2022-07-08T06:21:10Z,1,,11.459166666666667,1,1507,Merged
+chore(samples): updated dependencies for NestJS v9 in all samples,2022-07-09T12:48:59Z,2022-07-11T06:57:33Z,2022-07-11T06:57:33Z,2,,42.14277777777778,112,2690,Merged
+refactor(core): replace our own 1-level flatten by the native one,2022-07-09T23:23:17Z,2022-07-11T06:56:11Z,2022-07-11T06:56:11Z,2,,31.548333333333332,1,1720,Merged
+fix(common): Fix CacheModule registerAsync,2022-07-10T18:58:18Z,2022-07-11T06:55:46Z,2022-07-11T06:55:46Z,2,,11.957777777777778,13,1168,Merged
+refactor(core): extract instance wrapper merge logic,2022-07-11T20:19:28Z,2022-07-13T06:39:23Z,2022-07-13T06:39:23Z,8,,34.331944444444446,4,1336,Merged
+"fix(express,fastify): raw body for urlencoded requests",2022-07-13T16:48:13Z,2022-07-20T08:39:18Z,2022-07-20T08:39:19Z,1,,159.8513888888889,5,1905,Merged
+feat(microservices): add Kafka heartbeat callback to KafkaContext,2022-07-19T08:56:49Z,2022-07-20T08:34:37Z,2022-07-20T08:34:37Z,1,,23.63,6,1136,Merged
+fix(microservices): prevent kafka parser from modifying received message,2022-07-21T05:50:41Z,2022-07-28T09:12:26Z,2022-07-28T09:12:26Z,1,,171.3625,3,1246,Merged
+feat(): add `@CacheExclude()`,2022-07-21T23:22:37Z,,2022-07-28T09:12:29Z,3,APPROVED,153.8311111111111,5,1215,Closed
+fix(core): allow importing providers from global modules in lazy modules,2022-07-23T10:50:57Z,,2023-07-17T08:15:13Z,6,,8613.404444444444,8,1282,Closed
+chore(common): remove unused import statement,2022-07-24T13:48:20Z,2022-07-26T09:03:19Z,2022-07-26T09:03:19Z,2,APPROVED,43.249722222222225,13,1103,Merged
+chore(express-adapter): remove unused declarations,2022-07-25T21:22:32Z,2022-07-26T09:14:20Z,2022-07-26T09:14:20Z,2,APPROVED,11.863333333333333,1,1895,Merged
+fix(microservices): pass options to rmq deserialize,2022-07-26T07:50:37Z,2022-07-28T09:13:26Z,2022-07-28T09:13:26Z,4,,49.38027777777778,2,1294,Merged
+Fix/10017 parse file pipe builder,2022-07-26T19:28:52Z,2022-07-28T09:14:08Z,2022-07-28T09:14:08Z,8,,37.754444444444445,5,1630,Merged
+chore: improve typings of `.createBody(…)`,2022-07-27T12:37:36Z,2023-05-19T10:34:04Z,2023-05-19T10:34:04Z,2,,7101.941111111111,3,2243,Merged
+chore(tools-gulp-task): remove unused declarations ,2022-07-28T21:04:46Z,2022-07-29T07:03:02Z,2022-07-29T07:03:02Z,1,,9.971111111111112,1,1295,Merged
+refactor(repl): use INestApplicationContext instead of full INestApplication,2022-08-01T12:02:32Z,2022-08-03T07:23:21Z,2022-08-03T07:23:21Z,5,,43.346944444444446,2,1299,Merged
+fix(core): when debug-repl has duplicated providers,2022-08-06T14:57:42Z,2022-08-11T13:11:39Z,2022-08-11T13:11:39Z,1,,118.2325,3,1808,Merged
+fix: add a check if the res is destroyed before sending response,2022-08-12T20:44:37Z,2022-08-16T08:26:56Z,2022-08-16T08:26:57Z,11,,83.70527777777778,5,1654,Merged
+chore(): fix typo in docs,2022-08-13T09:12:00Z,2022-08-16T08:08:42Z,2022-08-16T08:08:42Z,2,,70.945,1,1103,Merged
+perf(core): optimize reflector,2022-08-14T19:07:05Z,2022-09-19T12:39:35Z,2022-09-19T12:39:36Z,4,,857.5416666666666,1,1103,Merged
+feat(microservices): added rabbitmq queue consumer options,2022-08-17T02:38:12Z,,2023-07-17T08:34:47Z,4,,8021.9430555555555,4,1811,Closed
+test(core): fix unresolved import,2022-08-18T18:07:46Z,2022-08-19T08:14:00Z,2022-08-19T08:14:00Z,2,APPROVED,14.10388888888889,1,1103,Merged
+refactor(): refactor exception handlers,2022-08-18T18:44:33Z,2023-04-05T11:14:53Z,2023-04-05T11:14:53Z,2,,5512.5055555555555,6,1103,Merged
+fix: export cache module options token under easy name,2022-08-18T19:52:39Z,2022-09-19T12:37:46Z,2022-09-19T12:37:46Z,2,,760.7519444444445,1,1238,Merged
+style: fix formatting,2022-08-21T18:26:22Z,2022-08-23T12:05:56Z,2022-08-23T12:05:56Z,1,,41.659444444444446,13,1033,Merged
+Make metadata optional,2022-08-22T03:35:16Z,,2023-01-05T06:56:53Z,1,,3267.360277777778,1,1280,Closed
+chore(microservice): update import in mqtt record serializer,2022-08-27T10:39:22Z,2022-08-29T08:25:50Z,2022-08-29T08:25:50Z,1,,45.77444444444444,1,1142,Merged
+chore(express): added serve static options interface on index file,2022-08-30T21:17:02Z,,2022-08-31T06:41:25Z,1,,9.40638888888889,1,1153,Closed
+fix(microservices): multiple scoped event handlers issue #10184,2022-08-31T07:56:09Z,2022-09-19T12:37:31Z,2022-09-19T12:37:31Z,1,,460.68944444444446,1,1120,Merged
+GitHub Workflows security hardening,2022-09-01T15:16:15Z,2022-09-05T07:56:35Z,2022-09-05T07:56:35Z,1,,88.67222222222222,1,1101,Merged
+draft: fix(common): change configurable module class type to support promise,2022-09-03T21:08:41Z,,2024-03-18T08:41:09Z,1,,13475.541111111112,1,1116,Closed
+feat(common): wrap cacheManager.set in try..catch blocks,2022-09-06T04:28:10Z,2022-09-19T13:08:47Z,2022-09-19T13:08:47Z,1,,320.6769444444444,1,1841,Merged
+feat(microservices): Add producer reference to KafkaContext,2022-09-12T08:24:04Z,2022-09-19T12:36:59Z,2022-09-19T12:36:59Z,1,,172.21527777777777,3,1359,Merged
+fix(common): stringify arrays on printing with console-logger,2022-09-17T18:13:22Z,2022-09-19T12:34:00Z,2022-09-19T12:34:00Z,5,APPROVED,42.34388888888889,2,1159,Merged
+refactor(common): remove .eslintrc typescript-eslint/eslint-recommended,2022-09-25T15:39:35Z,2022-09-26T07:52:37Z,2022-09-26T07:52:37Z,2,APPROVED,16.217222222222222,1,1791,Merged
+ci(codeql-analysis): upgrade actions/checkout to v3,2022-10-01T17:39:20Z,2022-10-03T07:14:20Z,2022-10-03T07:14:20Z,3,,37.583333333333336,1,1103,Merged
+chore(common): only allow cache-manager version <=4,2022-10-03T02:29:14Z,2022-10-03T08:13:40Z,2022-10-03T08:13:40Z,1,APPROVED,5.740555555555556,1,1676,Merged
+Support multiple file upload validation,2022-10-03T14:19:47Z,,2023-02-01T12:19:35Z,4,,2901.9966666666664,1,1416,Closed
+fix(platform): shutdown hooks not firing caused by open http connections,2022-10-03T17:07:47Z,2022-11-07T10:02:21Z,2022-11-07T10:02:21Z,9,,832.9094444444445,8,1920,Merged
+fix: support cache manager v4 and v5,2022-10-03T20:55:21Z,2022-10-04T07:33:20Z,2022-10-04T07:33:20Z,6,,10.633055555555556,2,1545,Merged
+feat(microservices): enable wildcards in redis microservice patterns,2022-10-04T11:52:54Z,2023-04-17T11:12:29Z,2023-04-17T11:12:29Z,7,,4679.326388888889,3,1433,Merged
+fix: update factory to account for old v4 syntax for cache stores,2022-10-04T17:18:32Z,2022-10-05T06:26:26Z,2022-10-05T06:26:26Z,1,,13.131666666666666,1,2336,Merged
+feat(common): ConsoleLogger: extract protected formatContext method,2022-10-05T11:48:19Z,2022-10-24T08:55:34Z,2022-10-24T08:55:34Z,1,,453.12083333333334,1,1365,Merged
+feat(common): ConsoleLogger: extract protected formatTimestampDiff,2022-10-05T12:05:45Z,2022-10-24T08:55:25Z,2022-10-24T08:55:25Z,1,,452.8277777777778,1,1424,Merged
+"Revert ""Revert ""fix: update factory to account for old v4 syntax for cache stores""""",2022-10-05T17:00:06Z,2022-10-24T08:37:40Z,2022-10-24T08:37:40Z,9,,447.62611111111113,3,2518,Merged
+fix(microservices): fixes invalid JSON messages handling for RabbitMQ,2022-10-06T21:06:25Z,2022-10-21T14:58:28Z,2022-10-21T14:58:28Z,3,,353.8675,2,416,Merged
+chore(deps): bump body-parser from 1.20.0 to 1.20.1,2022-10-07T00:05:55Z,2022-10-21T15:53:12Z,2022-10-21T15:53:12Z,1,,351.78805555555556,3,3981,Merged
+chore(deps-dev): bump @types/node from 18.8.2 to 18.8.3,2022-10-07T00:09:51Z,,2022-10-11T00:16:55Z,1,,96.11777777777777,2,2132,Closed
+Fix rpc exception kafka,2022-10-07T10:21:58Z,,2023-02-01T13:31:52Z,7,,2811.165,1,1212,Closed
+fix(core): let the middleware can  get the params in the global prefix,2022-10-10T15:12:59Z,2023-02-03T09:24:47Z,2023-02-03T09:24:47Z,17,,2778.1966666666667,20,1113,Merged
+chore(deps): bump fastify from 4.7.0 to 4.8.1,2022-10-11T00:13:24Z,,2022-10-18T00:05:52Z,2,,167.87444444444444,3,6080,Closed
+Update get-benchmarks.ts,2022-10-13T12:09:52Z,2022-10-21T15:53:52Z,2022-10-21T15:53:52Z,2,,195.73333333333332,1,1103,Merged
+refactor(core): early return on rejection on `getUrl`,2022-10-16T18:34:30Z,2022-10-21T15:37:14Z,2022-10-21T15:37:14Z,2,APPROVED,117.04555555555555,1,1531,Merged
+chore(deps): bump fastify from 4.7.0 to 4.9.2,2022-10-19T00:06:23Z,2022-10-21T15:35:20Z,2022-10-21T15:35:20Z,1,,63.4825,3,10480,Merged
+chore(core): updated imports,2022-10-21T21:25:45Z,2022-10-24T08:13:22Z,2022-10-24T08:13:22Z,2,APPROVED,58.79361111111111,4,1305,Merged
+feat(common): add error options object,2022-10-25T21:15:17Z,2022-11-07T09:44:22Z,2022-11-07T09:44:22Z,16,,300.4847222222222,23,1644,Merged
+Fix Content-Type for unexpected errors in Fastify,2022-10-28T11:41:57Z,2023-02-02T12:34:49Z,2023-02-02T12:34:49Z,14,,2328.8811111111113,4,1713,Merged
+feat(core): display class's name on request mapping exceptions,2022-10-29T19:01:42Z,2022-11-07T09:52:39Z,2022-11-07T09:52:39Z,3,,206.84916666666666,7,1788,Merged
+Feature/8844 api version in route info,2022-10-31T20:04:32Z,2022-11-07T09:41:02Z,2022-11-07T09:41:02Z,1,,157.60833333333332,8,1514,Merged
+fix(core): change `repl()` function param type to `Type | DynamicModule`,2022-11-01T12:14:25Z,2022-11-07T09:40:37Z,2022-11-07T09:40:37Z,2,,141.43666666666667,1,1167,Merged
+"chore(common,core,express): update imports",2022-11-01T15:42:34Z,2022-11-04T07:25:36Z,2022-11-04T07:25:36Z,9,,63.71722222222222,7,2175,Merged
+feat(common): Allow adding custom validators to ParseFilePipeBuilder,2022-11-03T14:58:44Z,2022-11-07T09:40:23Z,2022-11-07T09:40:23Z,2,,90.69416666666666,2,1280,Merged
+feat(core/common): Add @Search decorator to the available HTTP route handlers,2022-11-07T22:47:33Z,2023-04-17T11:14:09Z,2023-04-17T11:14:09Z,2,,3852.443333333333,5,1309,Merged
+feat: create method on client to get websocket pattern,2022-11-09T00:18:01Z,2023-06-12T11:29:24Z,2023-06-12T11:29:24Z,8,,5171.189722222222,8,1572,Merged
+feat(core): add hint to unknown dependency error msg,2022-11-12T23:14:50Z,2022-11-18T10:21:41Z,2022-11-18T10:21:41Z,5,,131.11416666666668,4,1926,Merged
+fix(cache): use passed store object,2022-11-23T15:29:20Z,2022-11-29T08:54:08Z,2022-11-29T08:54:08Z,8,,137.41333333333333,2,1144,Merged
+fix: fastify-adapter register func sign #10604,2022-11-26T15:17:41Z,2022-11-29T08:52:29Z,2022-11-29T08:52:29Z,13,,65.58,1,1106,Merged
+build: remove deprecated type deps,2022-11-27T09:35:25Z,2022-11-29T08:52:47Z,2022-11-29T08:52:47Z,1,,47.28944444444444,1,1269,Merged
+feat(core): enhance repl '.help' command with nestjs functions,2022-11-28T04:12:35Z,2023-02-01T10:33:22Z,2023-02-01T10:33:22Z,1,,1566.346388888889,4,1614,Merged
+feat: allow for repl history,2022-11-30T15:58:27Z,,2022-12-05T08:20:02Z,14,,112.35972222222222,1,1103,Closed
+fix(core): fix reflectConstructorParams mutating constructor metadata,2022-12-01T20:04:58Z,2023-02-01T10:44:07Z,2023-02-01T10:44:07Z,9,,1478.6525,2,1301,Merged
+Adapt fastify adapter to comply with fastify.listen(FastifyListenOptions) - and make it compatible with Microsoft IIS,2022-12-02T18:02:38Z,2023-02-01T12:09:31Z,2023-02-01T12:09:31Z,3,,1458.1147222222223,1,1773,Merged
+feat(microservice): TCP microservice over TLS,2022-12-02T22:18:21Z,2023-04-05T08:46:48Z,2023-04-05T08:46:48Z,3,,2962.474166666667,11,1618,Merged
+"[Feature] Allow registering body parsers, while respecting application's `rawBody` option",2022-12-05T17:06:44Z,2023-02-01T12:03:46Z,2023-02-01T12:03:47Z,7,,1386.9505555555556,15,1445,Merged
+chore(deps): remove old cache-manager typings,2022-12-10T20:00:13Z,2023-02-01T10:38:44Z,2023-02-01T10:38:44Z,1,,1262.6419444444443,2,1370,Merged
+fix(common): validation pipe to validate check,2022-12-12T13:23:14Z,,2023-02-01T10:26:46Z,10,,1221.058888888889,1,1371,Closed
+fix(core): Making Request scope non durable win over scope durable,2022-12-12T14:12:57Z,2023-02-01T10:36:25Z,2023-02-01T10:36:25Z,1,,1220.391111111111,2,1263,Merged
+Update .commitlintrc.json,2022-12-12T14:42:17Z,,2022-12-13T09:10:09Z,1,,18.464444444444446,1,1103,Closed
+Parse file pipe fix (multiple files validation),2022-12-18T07:12:09Z,2023-02-01T12:20:06Z,2023-02-01T12:20:06Z,1,,1085.1325,1,1447,Merged
+switch error to warning,2022-12-19T18:22:22Z,,2023-02-01T10:23:35Z,1,,1048.0202777777777,1,1028,Closed
+fix: check if methods isHeaderSent and end exists,2022-12-20T10:28:24Z,,2023-01-08T14:00:42Z,10,,459.53833333333336,1,1741,Closed
+feat(core): pass signal when manually invoking close,2022-12-28T21:05:41Z,2023-02-01T10:32:23Z,2023-02-01T10:32:23Z,1,,829.445,1,1769,Merged
+fix(platform-express) Add support to BigInt.toJSON() for response JSON parser,2022-12-29T19:11:58Z,,2023-01-03T01:47:25Z,4,,102.59083333333334,2,2121,Closed
+refactor(microservices): disable ping timer message in nats by flag,2023-01-03T06:46:33Z,2023-02-01T10:35:27Z,2023-02-01T10:35:28Z,3,,699.815,1,1135,Merged
+fix(core): fix global prefix not working,2023-01-03T15:51:44Z,2023-02-01T12:00:16Z,2023-02-01T12:00:17Z,1,,692.1422222222222,6,2513,Merged
+"fix(core,microservices): inject the context when the tree is not durable",2023-01-05T21:51:34Z,2023-02-01T11:56:47Z,2023-02-01T11:56:47Z,1,,638.0869444444445,3,2284,Merged
+perf(common): faster logs by caching intl.datetimeformat,2023-01-07T15:12:50Z,2023-02-01T10:18:04Z,2023-02-01T10:18:04Z,4,,595.0872222222222,2,10333,Merged
+perf(common): faster random string generator,2023-01-08T00:51:49Z,2023-02-01T11:33:00Z,2023-02-01T11:33:01Z,6,,586.6863888888889,4,6932,Merged
+[platform-fastify]fix: :bug: Fix context prop,2023-01-09T09:40:46Z,2023-02-01T10:27:24Z,2023-02-01T10:27:24Z,2,,552.7772222222222,1,1257,Merged
+fix(core): middleware does not apply to a controller that has versioning,2023-01-09T10:07:28Z,,2023-06-14T10:10:11Z,2,,3744.0452777777778,9,1411,Closed
+chore(common): refactor improvements interfaces for file-stream and fix for headers already sent case ,2023-01-13T17:52:40Z,2023-02-01T11:28:57Z,2023-02-01T11:28:57Z,2,APPROVED,449.6047222222222,4,1535,Merged
+perf(core): fix cold start performance for big projects,2023-01-15T23:53:47Z,,2023-01-18T21:42:31Z,5,,69.81222222222222,3,1271,Closed
+fix(fastify): return the response on exception,2023-01-16T20:30:57Z,2023-02-01T09:50:40Z,2023-02-01T09:50:41Z,2,,373.3286111111111,1,2492,Merged
+fix(common): streamable file for headers already sent case,2023-01-20T00:35:47Z,,2023-01-29T16:21:18Z,2,APPROVED,231.75861111111112,1,1017,Closed
+Updated License Year,2023-01-20T12:44:07Z,2023-01-23T07:42:14Z,2023-01-23T07:42:14Z,1,,66.96861111111112,1,1104,Merged
+docs: Create translate to readme by Brazilian-Portuguese,2023-01-26T12:33:07Z,,2023-01-26T16:19:08Z,1,,3.7669444444444444,2,1164,Closed
+docs: Create translate to readme by Brazilian-Portuguese,2023-01-26T16:24:17Z,,2023-01-27T07:21:27Z,1,,14.952777777777778,2,1164,Closed
+fix(common): inject decorator should allow key to be undefined,2023-01-27T07:34:19Z,2023-02-01T10:30:03Z,2023-02-01T10:30:03Z,1,,122.92888888888889,2,1103,Merged
+docs(common): add `@publicApi` to all user-facing APIs,2023-01-29T00:08:32Z,2023-02-01T10:30:50Z,2023-02-01T10:30:51Z,2,APPROVED,82.37166666666667,34,4338,Merged
+fix: kafka rpc exception not resolved,2023-02-01T02:12:04Z,2023-02-01T13:31:44Z,2023-02-01T13:31:44Z,2,,11.327777777777778,1,359,Merged
+perf: metadata scanner,2023-02-02T23:14:12Z,2023-02-06T09:22:07Z,2023-02-06T09:22:07Z,28,,82.13194444444444,9,9991,Merged
+perf: module token factory fast path,2023-02-03T00:12:12Z,2023-02-06T09:12:42Z,2023-02-06T09:12:42Z,4,,81.00833333333334,5,5875,Merged
+"chore(testing, websockets): mark facing apis public",2023-02-03T11:31:24Z,2023-02-06T08:54:37Z,2023-02-06T08:54:37Z,1,,69.38694444444444,21,1607,Merged
+refactor(common): update log level,2023-02-03T14:54:26Z,2023-06-12T10:30:33Z,2023-06-12T10:30:33Z,3,,3091.6019444444446,1,1252,Merged
+feat(common): define type for file input,2023-02-03T20:09:02Z,2023-04-05T11:07:20Z,2023-04-05T11:07:20Z,3,,1454.9716666666666,8,1103,Merged
+fix(core): :ambulance: Fix for calculating durability of a provider,2023-02-03T22:23:48Z,2023-02-06T08:59:53Z,2023-02-06T08:59:53Z,2,,58.60138888888889,2,1268,Merged
+fix(core): add global prefix to exclude paths for middleware,2023-02-04T04:18:28Z,,2023-02-06T09:20:16Z,3,APPROVED,53.03,7,1106,Closed
+refactor(common): satisfy function quality in parse-file.pipe.ts,2023-02-04T10:38:13Z,2023-03-10T13:35:37Z,2023-03-10T13:35:37Z,14,,818.9566666666667,1,1103,Merged
+"Revert ""fix(core): :ambulance: Fix for calculating durability of a provider""",2023-02-06T12:16:17Z,,2023-02-06T13:35:37Z,1,,1.3222222222222222,2,25,Closed
+fix: skip caching the response if it is a streamable file instance,2023-02-07T04:54:05Z,2023-02-07T12:32:50Z,2023-02-07T12:32:50Z,1,,7.645833333333333,1,1465,Merged
+fix(core): removed xxhash to fix #11071,2023-02-07T19:01:21Z,2023-02-08T08:08:32Z,2023-02-08T08:08:32Z,3,,13.119722222222222,5,1662,Merged
+fix(common): account for when stack is undefined in logger,2023-02-08T00:36:12Z,2023-02-08T08:07:25Z,2023-02-08T08:07:25Z,2,,7.520277777777777,2,1465,Merged
+feat(common): make all exceptions generic class,2023-02-11T16:50:33Z,,2023-02-12T17:21:31Z,2,,24.516111111111112,23,1103,Closed
+"feat(common,express,fastify): enhance the type of `httpServer`",2023-02-15T07:21:41Z,2023-04-05T11:10:48Z,2023-04-05T11:10:48Z,2,APPROVED,1179.818611111111,5,1381,Merged
+feat: add graphql to context type,2023-02-15T16:58:13Z,,2023-02-16T07:52:05Z,1,,14.897777777777778,1,2637,Closed
+feat(core): add factory-provider circular dependency check,2023-02-16T22:31:20Z,,2023-04-05T08:48:20Z,2,CHANGES_REQUESTED,1138.2833333333333,7,1291,Closed
+fix(core): false-positive value provider not registered error when the value is `undefined`,2023-02-17T02:53:53Z,2023-03-22T07:57:46Z,2023-03-22T07:57:47Z,2,,797.0647222222223,2,2429,Merged
+fix(common): fix cache ttl not beeing respected,2023-02-17T16:18:56Z,2023-03-15T13:15:55Z,2023-03-15T13:15:55Z,13,,620.9497222222222,5,1620,Merged
+fix(core): execute middleware in topological order of module imports,2023-02-18T10:06:28Z,,2023-02-20T07:35:44Z,1,,45.48777777777778,2,1573,Closed
+Add test case for ParseArrayPipe that doesn't work as expected,2023-02-27T13:11:14Z,2023-03-10T13:17:03Z,2023-03-10T13:17:03Z,3,APPROVED,264.09694444444443,2,1193,Merged
+"perf(common): In case of an expensive log, allow to pass a function",2023-03-14T18:52:46Z,2023-03-22T07:57:13Z,2023-03-22T07:57:13Z,1,APPROVED,181.07416666666666,3,1717,Merged
+fix(express): remove body-parser types and ship these types our own,2023-03-23T11:11:41Z,2023-04-05T08:47:37Z,2023-04-05T08:47:37Z,1,,309.5988888888889,6,1505,Merged
+feat: add custom printer to built-in logger,2023-03-25T09:09:48Z,,2023-03-26T04:15:24Z,1,,19.093333333333334,4,1550,Closed
+feat: change updateAndGetTimestampDiff from private to protected,2023-03-26T04:47:16Z,2023-03-27T06:31:50Z,2023-03-27T06:31:51Z,1,APPROVED,25.74277777777778,4,1311,Merged
+test(integration): fix wrong class import on typeorm integration test,2023-04-05T13:15:24Z,2023-04-06T07:03:51Z,2023-04-06T07:03:51Z,1,,17.8075,1,202,Merged
+chore: laying the grounds for 10.0.0,2023-04-17T12:07:02Z,2023-06-12T10:25:50Z,2023-06-12T10:25:50Z,3,,1342.3133333333333,189,2703,Merged
+feat(validation.pipe): implicit parse query,2023-04-20T05:27:15Z,,2023-05-15T08:26:22Z,2,,602.9852777777778,2,1511,Closed
+chore: update repo references in package.json files,2023-04-20T08:22:51Z,2023-04-21T07:31:25Z,2023-04-21T07:31:25Z,1,,23.142777777777777,10,1034,Merged
+fix(microservices): when postfixId is an empty string on kafka,2023-04-21T03:46:25Z,,2023-04-27T07:56:06Z,1,,148.1613888888889,3,1447,Closed
+feat(microservices): Add isGlobal option to the ClientsModule,2023-04-21T11:38:41Z,2023-05-16T07:15:25Z,2023-05-16T07:15:25Z,3,,595.6122222222223,2,2034,Merged
+refactor(common): Add generic to InjectionToken type,2023-04-24T12:29:33Z,2023-04-25T06:28:10Z,2023-04-25T06:28:11Z,1,,17.976944444444445,81,1594,Merged
+fix(common): `ConsoleLogger` doesn't log stacktrace,2023-04-27T12:35:53Z,2023-05-16T07:04:56Z,2023-05-16T07:04:56Z,7,APPROVED,450.4841666666667,3,1424,Merged
+chore(deps): remove caret sign from @fastify/cors,2023-04-29T14:20:40Z,2023-05-15T08:42:05Z,2023-05-15T08:42:05Z,2,,378.3569444444444,1,1319,Merged
+refactor(): deprecated rxjs method in client-rmq,2023-05-05T13:49:23Z,,2023-05-15T08:23:36Z,1,,234.5702777777778,1,1376,Closed
+fix(core): Only update module distance if greater,2023-05-05T16:06:06Z,2023-05-16T07:28:15Z,2023-05-16T07:28:15Z,1,,255.36916666666667,1,1072,Merged
+refactor(common): import from decorators module instead of common's barrel file,2023-05-06T20:41:55Z,2023-05-15T08:11:19Z,2023-05-15T08:11:19Z,2,,203.49,1,1139,Merged
+fix(microservices): to nack when there is no matching handler,2023-05-19T13:08:07Z,2023-05-23T08:40:35Z,2023-05-23T08:40:35Z,1,,91.5411111111111,3,1409,Merged
+fix(core): fix flaky durable providers,2023-05-25T15:00:02Z,,2023-11-24T07:48:58Z,3,,4384.815555555556,5,1106,Closed
+feat(express): add support for multer.none,2023-05-25T16:46:03Z,2023-06-12T11:30:45Z,2023-06-12T11:30:45Z,2,,426.745,3,2252,Merged
+fix(common): loosen http exception cause type,2023-05-26T12:48:39Z,2023-06-12T10:31:48Z,2023-06-12T10:31:48Z,3,APPROVED,405.7191666666667,1,1110,Merged
+fix(core): revisit dependencies w/ possibly higher distance,2023-05-26T12:51:10Z,,2023-06-05T07:08:16Z,4,,234.285,1,1253,Closed
+fix: decorator issues resolved.,2023-06-04T19:44:50Z,,2023-06-05T00:15:18Z,1,,4.507777777777778,1,1103,Closed
+fix(express): Extend MulterOptions dest to match Multer's engine,2023-06-11T18:17:08Z,,2023-08-18T12:54:05Z,5,APPROVED,1626.6158333333333,3,1402,Closed
+fix: kafka subscribe bad type - v10 regression,2023-06-16T19:02:14Z,2023-06-17T09:10:47Z,2023-06-17T09:10:47Z,1,,14.1425,1,1045,Merged
+fix(common): type errors in file validator implementations,2023-06-16T20:04:34Z,2023-06-17T09:11:58Z,2023-06-17T09:11:58Z,3,,13.123333333333333,4,1158,Merged
+Fix middleware global prefix exclude,2023-06-17T19:50:06Z,2024-03-18T09:22:13Z,2024-03-18T09:22:13Z,2,,6589.535277777778,5,806,Merged
+Update nest-fastify.js,2023-06-19T13:53:16Z,,2023-06-20T07:04:38Z,1,,17.189444444444444,1,1164,Closed
+feat: Add optional support to pipes,2023-06-22T19:47:44Z,2023-06-26T09:12:19Z,2023-06-26T09:12:19Z,7,,85.40972222222223,10,1141,Merged
+feat(core): check providers and controllers,2023-06-24T21:00:44Z,,2023-07-14T06:33:58Z,14,,465.5538888888889,4,1395,Closed
+chore(): mark api public in multer module inside platform-express,2023-06-25T13:57:01Z,2023-06-26T07:19:11Z,2023-06-26T07:19:11Z,1,,17.369444444444444,8,1172,Merged
+fix(nest): Support RxJS retries and Async Context tracking,2023-06-28T21:23:29Z,2023-06-29T08:27:45Z,2023-06-29T08:27:45Z,3,,11.071111111111112,2,13,Merged
+docs(sample/31): fix wrong port number in README,2023-07-01T12:14:31Z,2023-07-03T06:50:03Z,2023-07-03T06:50:03Z,1,,42.59222222222222,1,1188,Merged
+feat(fastify): supporting fastify route config,2023-07-07T20:07:19Z,2023-08-18T12:01:40Z,2023-08-18T12:01:40Z,6,,999.9058333333334,8,1235,Merged
+refactor(fastify): updated static options,2023-07-08T05:59:52Z,2023-07-17T07:07:20Z,2023-07-17T07:07:21Z,3,,217.12444444444444,1,1401,Merged
+fix(core): throw on circular factories and custom providers,2023-07-13T10:58:50Z,2023-07-17T07:10:20Z,2023-07-17T07:10:20Z,2,APPROVED,92.19166666666666,5,1106,Merged
+fix(microservices): support client cancel grpc request in unary stream,2023-07-14T02:02:10Z,2023-07-17T07:10:12Z,2023-07-17T07:10:12Z,4,,77.13388888888889,2,1154,Merged
+perf: Reduce chain calls of platform-express,2023-07-21T07:52:38Z,,2023-08-16T10:46:25Z,5,,626.8963888888889,8,1152,Closed
+fix(common): fix custom multi file validator,2023-07-22T11:38:44Z,2023-08-18T12:02:02Z,2023-08-18T12:02:03Z,8,,648.3883333333333,1,1103,Merged
+"feat(core): discover by decorator, explorer pattern",2023-07-24T09:34:56Z,2023-08-18T12:06:21Z,2023-08-18T12:06:21Z,5,,602.5236111111111,13,1639,Merged
+test: remove redundant await,2023-07-28T03:21:04Z,2023-07-31T07:02:11Z,2023-07-31T07:02:11Z,2,,75.68527777777778,1,1103,Merged
+"feat(common): added ""fatal"" as a log level (issue #11945)",2023-07-29T03:58:30Z,2023-08-18T12:03:09Z,2023-08-18T12:03:09Z,1,,488.0775,4,1602,Merged
+fix(core): create completed field on settlement for better tracking,2023-07-29T23:21:18Z,2023-07-31T08:10:42Z,2023-07-31T08:10:42Z,2,,32.82333333333333,1,1155,Merged
+fix(core): root path middleware not applied when setting the global prefix,2023-08-01T13:34:36Z,,2024-03-18T10:39:34Z,3,,5517.082777777778,6,1107,Closed
+Update .commitlintrc.json,2023-08-02T12:37:00Z,,2023-08-03T06:36:00Z,2,,17.983333333333334,1,1103,Closed
+fix(socket.io): prevent multiple listeners for same socket on disconn…,2023-08-03T12:01:18Z,,2023-09-11T07:55:11Z,1,,931.8980555555555,1,1439,Closed
+ci: add NodeJS 20 to CI matrix,2023-08-11T09:08:17Z,2023-08-18T12:05:16Z,2023-08-18T12:05:16Z,3,,170.94972222222222,1,1131,Merged
+feat(core): add strongly-typed decorators factory (reflector),2023-08-16T11:49:15Z,2023-08-18T12:08:04Z,2023-08-18T12:08:04Z,5,APPROVED,48.31361111111111,5,1103,Merged
+feat(core): add generic type for transformed value in decorators factory,2023-08-24T03:37:17Z,2023-08-28T08:46:15Z,2023-08-28T08:46:15Z,3,,101.14944444444444,2,1680,Merged
+fix(ws): fix incorrect host pattern on messages,2023-08-31T00:25:58Z,2023-09-01T10:10:26Z,2023-09-01T10:10:26Z,2,APPROVED,33.74111111111111,1,2222,Merged
+feat: implement http redirect response interface,2023-09-05T14:17:35Z,2023-09-11T07:49:20Z,2023-09-11T07:49:20Z,2,,137.52916666666667,3,992,Merged
+fix: allow for filters to be aware of the pattern for websockets,2023-09-12T18:03:05Z,2023-09-22T07:47:30Z,2023-09-22T07:47:30Z,4,,229.74027777777778,5,2301,Merged
+fix(platform-ws): URL parsing error handled,2023-09-13T09:12:00Z,2023-10-05T06:24:45Z,2023-10-05T06:24:45Z,5,APPROVED,525.2125,1,1243,Merged
+chore(platform-fastify): marked the api public in route config decorator,2023-09-17T10:07:16Z,2023-09-18T08:06:18Z,2023-09-18T08:06:18Z,1,,21.983888888888888,1,1187,Merged
+"docs: update readme, use X instead of twitter",2023-09-17T16:29:57Z,2023-09-18T08:06:38Z,2023-09-18T08:06:38Z,1,,15.61138888888889,1,1103,Merged
+test(common): added a test for the @param decorator metadata,2023-09-19T12:21:58Z,2023-09-20T06:19:30Z,2023-09-20T06:19:30Z,1,,17.95888888888889,1,1347,Merged
+utils: simplify map + flat in injections providers,2023-09-20T07:49:27Z,2023-09-22T07:44:13Z,2023-09-22T07:44:13Z,2,,47.91277777777778,2,1183,Merged
+feat: allow for custom logger with streamable files,2023-10-11T17:39:35Z,2023-10-23T09:26:38Z,2023-10-23T09:26:38Z,2,,279.7841666666667,2,1407,Merged
+fix(common): when passing class functions to logger methods,2023-10-13T00:52:07Z,2023-10-23T07:53:01Z,2023-10-23T07:53:01Z,1,,247.015,5,2319,Merged
+chore(redis): handle error while connecting to redis client,2023-10-13T17:54:41Z,,2023-10-23T08:27:11Z,1,,230.54166666666666,1,1103,Closed
+feat(fastify): add fastify route constraints,2023-10-14T15:13:00Z,2023-12-18T08:04:49Z,2023-12-18T08:04:49Z,8,,1552.8636111111111,5,1344,Merged
+feature: http status message enum,2023-10-15T09:06:58Z,,2023-10-23T07:56:09Z,5,,190.81972222222223,1,1982,Closed
+docs: more translate readme ja,2023-10-20T13:08:37Z,2023-10-23T08:16:15Z,2023-10-23T08:16:16Z,1,,67.12722222222222,1,1142,Merged
+chore(deps): bump fastify from 4.23.2 to 4.24.3,2023-10-26T00:30:34Z,2023-11-02T10:53:31Z,2023-11-02T10:53:31Z,1,,178.3825,3,11517,Merged
+Fix typo in Bug_report.yml,2023-10-31T16:16:41Z,2023-11-02T10:40:06Z,2023-11-02T10:40:06Z,2,,42.390277777777776,1,1112,Merged
+feat(core): emit warning when serialization of module is slow,2023-11-14T19:50:32Z,2023-11-17T12:11:30Z,2023-11-17T12:11:30Z,24,APPROVED,64.34944444444444,1,1137,Merged
+chore(deps-dev): bump @typescript-eslint/eslint-plugin from 6.10.0 to 6.11.0,2023-11-15T00:20:02Z,2023-11-17T11:56:44Z,2023-11-17T11:56:44Z,1,,59.611666666666665,2,11941,Merged
+fix(grpc): ensure all buffered values drain,2023-11-15T18:49:18Z,2023-11-17T12:08:32Z,2023-11-17T12:08:32Z,2,APPROVED,41.32055555555556,2,1956,Merged
+perf: prefer use factory instead of use value when possible,2023-11-15T21:58:26Z,2023-12-18T07:49:11Z,2023-12-18T07:49:11Z,6,,777.8458333333333,10,1372,Merged
+Add consumerTag param on rmq microservice config,2023-11-16T06:58:32Z,2023-11-17T12:01:59Z,2023-11-17T12:01:59Z,2,,29.0575,2,1191,Merged
+chore: add notice about closing unreproducible issues to bug report issue template,2023-11-19T17:11:05Z,2023-11-20T07:53:57Z,2023-11-20T07:53:57Z,1,APPROVED,14.714444444444444,1,549,Merged
+feat(core): added unique dynamic module factory,2023-12-07T01:49:29Z,,2024-03-18T09:14:20Z,4,,2455.4141666666665,4,2860,Closed
+feat(microservices): add support for grpc reflection api,2023-12-07T04:09:46Z,2024-03-18T09:16:57Z,2024-03-18T09:16:57Z,2,,2453.119722222222,5,1860,Merged
+feat(core): display module's name on `.select(module)` errors,2023-12-10T17:56:11Z,2023-12-18T07:46:31Z,2023-12-18T07:46:31Z,3,,181.8388888888889,7,1778,Merged
+refactor(microservices): modify rmq options interface,2023-12-12T16:44:56Z,2023-12-18T07:48:21Z,2023-12-18T07:48:21Z,2,,135.05694444444444,2,1368,Merged
+feat(core): add options parameter to repl,2023-12-15T07:54:37Z,2023-12-18T07:47:43Z,2023-12-18T07:47:43Z,3,,71.885,1,1712,Merged
+"feat(core,common): add webdav http methods support",2023-12-15T15:58:31Z,,2024-02-06T17:52:48Z,1,,1273.9047222222223,8,1338,Closed
+feat: Implement getHeader and appendHeader methods in adapters,2023-12-20T21:44:29Z,2024-02-07T08:54:48Z,2024-02-07T08:54:48Z,5,APPROVED,1163.1719444444445,4,1511,Merged
+fix(microservices): grpc client closing,2023-12-22T14:57:56Z,2024-01-23T12:18:41Z,2024-01-23T12:18:41Z,4,,765.3458333333333,2,2599,Merged
+fix(microservices): send rmq nack without matching message handler,2023-12-29T06:18:08Z,2024-02-07T08:54:01Z,2024-02-07T08:54:01Z,1,,962.5980555555556,3,1381,Merged
+"fix(core,common): 🐛 missing registration handling of `SEARCH` http verb",2024-01-03T01:01:50Z,2024-02-07T08:53:31Z,2024-02-07T08:53:31Z,17,,847.8613888888889,3,1229,Merged
+refactor(changelog): update simplified imports,2024-01-07T17:58:10Z,,2024-01-08T08:09:53Z,3,,14.195277777777777,5,1397,Closed
+chore(core): allow dynamic value for header value,2024-01-08T15:28:36Z,2024-01-23T12:16:20Z,2024-01-23T12:16:20Z,4,,356.79555555555555,2,1119,Merged
+chore(license): update year to 2024,2024-01-11T17:54:56Z,2024-01-12T07:58:28Z,2024-01-12T07:58:28Z,2,,14.05888888888889,1,1103,Merged
+perf(common): Improve error handling for undefined tokens,2024-01-16T04:52:26Z,2024-01-23T12:15:48Z,2024-01-23T12:15:48Z,4,,175.38944444444445,2,1364,Merged
+fix: #13077 KafkaJs typing consistency,2024-01-23T17:11:22Z,2024-02-07T08:52:26Z,2024-02-07T08:52:26Z,1,,351.68444444444447,1,1289,Merged
+feat(microservices): add type for rmq connection options,2024-01-27T17:11:54Z,2024-02-07T08:51:09Z,2024-02-07T08:51:09Z,4,,255.65416666666667,3,1538,Merged
+chore(deps): update mysql docker tag to v8.3.0,2024-01-30T01:40:26Z,2024-02-02T08:51:05Z,2024-02-02T08:51:06Z,1,,79.1775,1,1010,Merged
+fix: allow @fastify/static v7,2024-02-01T19:49:35Z,2024-02-07T08:21:42Z,2024-02-07T08:21:42Z,1,,132.53527777777776,1,1274,Merged
+"feat(core, common): add webdav http methods support",2024-02-05T16:29:55Z,,2024-02-29T10:43:12Z,8,,570.2213888888889,8,1014,Closed
+docs(common): remove incorrect constructor signature of HttpException,2024-02-17T15:40:36Z,2024-02-19T07:27:06Z,2024-02-19T07:27:06Z,1,,39.775,1,1380,Merged
+"feat(core,common): Add `@RawBody()` decorator",2024-02-18T16:56:03Z,2024-03-18T08:52:52Z,2024-03-18T08:52:52Z,1,,687.9469444444444,6,1136,Merged
+Update Readme.md,2024-02-18T22:42:17Z,2024-02-20T07:35:40Z,2024-02-20T07:35:40Z,1,APPROVED,32.889722222222225,1,17,Merged
+Adding eclipse IDE files to gitignore,2024-02-24T04:02:02Z,2024-02-25T11:20:38Z,2024-02-25T11:20:38Z,1,,31.31,1,1108,Merged
+test(core): Update instance creation in injector test,2024-02-25T10:00:03Z,2024-02-26T08:06:01Z,2024-02-26T08:06:01Z,2,,22.099444444444444,1,1344,Merged
+fix(microservices): fix rabbitmq no-assert not being applied correctly,2024-03-02T22:38:47Z,2024-03-17T18:17:40Z,2024-03-17T18:17:40Z,2,,355.6480555555556,4,2564,Merged
+fix(microservices): fix usage noassert flag in rabbitmq,2024-03-13T00:10:48Z,,2024-03-17T18:17:26Z,1,,114.11055555555555,4,1051,Closed
+fix(common): fix stacktrace regex,2024-03-13T14:12:46Z,2024-03-17T18:16:44Z,2024-03-17T18:16:44Z,1,,100.06611111111111,2,1464,Merged
+fix: Validation fails in RPC context for MqttContext #13350,2024-03-21T21:06:08Z,2024-03-22T08:29:31Z,2024-03-22T08:29:31Z,3,,11.389722222222222,3,1106,Merged
+feat(common): specify Error as default type parameter of ExceptionFilter,2024-03-25T09:14:02Z,,2024-03-26T02:12:49Z,1,,16.97972222222222,1,1179,Closed
+refactor(microservices): prevent grpc write promise from throwing,2024-03-27T20:12:36Z,2024-06-03T11:04:40Z,2024-06-03T11:04:40Z,1,,1622.8677777777777,5,2385,Merged
+perf(ws): optimize message handler lookup,2024-03-31T09:31:08Z,2024-08-12T08:38:21Z,2024-08-12T08:38:21Z,8,,3215.1202777777776,1,1379,Merged
+feat: Add missed HTTP statuses & grouped visually by codes,2024-04-02T16:29:20Z,,2024-06-22T12:15:01Z,1,,1939.7613888888889,1,1067,Closed
+refactor(microservices): improve speed of grpc server initialization,2024-04-03T14:01:10Z,2024-06-03T11:04:24Z,2024-06-03T11:04:24Z,1,,1461.0538888888889,1,1804,Merged
+feat(common): support empty `@Inject()` on constructor-based injection,2024-04-13T12:28:13Z,2024-06-03T10:39:15Z,2024-06-03T10:39:15Z,2,,1222.183888888889,2,1087,Merged
+fix(microservices): pass rmq connection options correctly to amqp-con…,2024-04-13T14:33:07Z,2024-04-19T07:15:43Z,2024-04-19T07:15:43Z,1,,136.71,2,1609,Merged
+fix(core): possible memory leak when using server side events,2024-04-16T09:06:48Z,2024-06-03T11:50:08Z,2024-06-03T11:50:08Z,3,,1154.7222222222222,3,1126,Merged
+chore(deps): remove unused dev dependencies,2024-04-16T13:24:28Z,2024-04-18T07:42:24Z,2024-04-18T07:42:24Z,1,,42.29888888888889,3,2776,Merged
+fix(core): merge request context with tenant context payload in the request singleton,2024-04-23T13:24:13Z,,2024-08-28T10:38:59Z,1,,3045.246111111111,9,3703,Closed
+refactor(platform-fastify): use the route method to inject routes,2024-04-24T23:15:40Z,2024-06-03T11:50:26Z,2024-06-03T11:50:26Z,1,,948.5794444444444,1,1168,Merged
+fix(ws): close existing connections,2024-05-03T16:03:50Z,2024-06-03T11:07:43Z,2024-06-03T11:07:43Z,2,,739.0647222222223,1,2199,Merged
+feat(fastify): Do not crash if enableVersioning is not used,2024-05-05T07:25:25Z,2024-06-03T10:34:08Z,2024-06-03T10:34:08Z,3,,699.1452777777778,2,1106,Merged
+fix(core): prevent exclude method from overwriting previous calls,2024-05-25T14:41:14Z,2024-06-03T10:37:05Z,2024-06-03T10:37:05Z,2,,211.93083333333334,2,2613,Merged
+sample(34-request-scope-datasource): request-scoped datasource,2024-05-28T09:19:14Z,,2024-06-03T10:35:48Z,1,,145.2761111111111,18,1782,Closed
+feat(common): Added uuid v7 validation regex to ParseUUIDPipe,2024-06-03T18:30:32Z,2024-08-12T08:39:01Z,2024-08-12T08:39:01Z,2,,1670.141388888889,1,1149,Merged
+"refactor(common,core): support read-only arrays on module metadata",2024-06-06T23:50:05Z,,2024-08-12T08:36:34Z,1,,1592.7747222222222,3,1444,Closed
+Update recipe.model.ts,2024-06-07T03:43:44Z,2024-06-10T08:10:00Z,2024-06-10T08:10:00Z,2,,76.43777777777778,1,900,Merged
+Update package.json,2024-06-14T01:12:04Z,2024-07-01T09:24:55Z,2024-07-01T09:24:55Z,1,,416.21416666666664,2,1209,Merged
+fix(platform-fastify): search method not declared,2024-07-21T23:07:53Z,2024-08-12T08:15:44Z,2024-08-12T08:15:44Z,1,,513.1308333333334,1,1397,Merged
+chore(deps-dev): bump husky from 9.1.3 to 9.1.4,2024-07-30T00:07:50Z,2024-07-31T06:28:17Z,2024-07-31T06:28:17Z,1,,30.340833333333332,2,2719,Merged
+chore(deps-dev): bump mqtt from 5.6.0 to 5.10.0,2024-08-15T00:43:50Z,,2024-08-29T00:45:57Z,1,,336.03527777777776,2,12905,Closed
+chore: fix some comments,2024-08-27T11:08:52Z,2024-08-28T10:30:07Z,2024-08-28T10:30:07Z,1,,23.354166666666668,3,1103,Merged
+chore(deps-dev): bump @typescript-eslint/eslint-plugin from 7.18.0 to 8.4.0,2024-09-03T00:26:06Z,,2024-09-10T00:43:42Z,1,,168.29333333333332,2,10806,Closed
+docs(): fix CircleCI badge url typo,2024-09-11T00:43:14Z,2024-09-16T10:19:20Z,2024-09-16T10:19:20Z,1,,129.60166666666666,1,1112,Merged
+"chore(core,express,fastify): fix hard dependencies with security issues",2024-09-13T15:26:20Z,2024-09-16T08:16:32Z,2024-09-16T08:16:32Z,6,,64.83666666666667,4,315,Merged
+chore(fastify): upgrade `@fastify/middie` to address security vulnerability,2024-09-16T12:43:40Z,2024-09-17T10:02:24Z,2024-09-17T10:02:24Z,2,,21.31222222222222,1,57,Merged
+fix(fastify): uppercase http method names,2024-09-20T12:04:55Z,2024-09-23T06:45:19Z,2024-09-23T06:45:19Z,1,,66.67333333333333,1,1254,Merged
+test: add coverage for Fastify HEAD regression,2024-09-23T08:14:13Z,2024-09-24T06:51:14Z,2024-09-24T06:51:14Z,1,,22.616944444444446,3,779,Merged
